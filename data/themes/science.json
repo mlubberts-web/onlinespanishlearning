@@ -1,0 +1,26 @@
+{"title": "🔬 Science", "kind": "topic", "lists": [
+ {"name": "Research", "level": "B2", "items": [
+  ["la ciencia", "science"], ["el científico / la científica", "scientist"], ["el investigador / la investigadora", "researcher"], ["el estudio", "study"],
+  ["el experimento", "experiment"], ["la hipótesis", "hypothesis"], ["la teoría", "theory"], ["el resultado", "result"],
+  ["el hallazgo", "finding, discovery"], ["el avance", "breakthrough, advance"], ["el descubrimiento", "discovery"], ["la muestra", "sample"],
+  ["los datos", "data"], ["la encuesta", "survey"], ["el porcentaje", "percentage"], ["la media", "average"],
+  ["la revista científica", "scientific journal"], ["el laboratorio", "laboratory"], ["demostrar", "to prove, to show"], ["comprobar", "to check, to verify"],
+  ["analizar", "to analyse"], ["descubrir", "to discover"], ["fiable", "reliable"]
+ ]},
+ {"name": "Medicine and the body", "level": "C1", "items": [
+  ["el gen", "gene"], ["el ADN", "DNA"], ["la célula", "cell"], ["la bacteria", "bacterium"],
+  ["el virus", "virus"], ["la vacunación", "vaccination"], ["el ensayo clínico", "clinical trial"], ["el efecto secundario", "side effect"],
+  ["la esperanza de vida", "life expectancy"], ["la enfermedad infecciosa", "infectious disease"], ["la pandemia", "pandemic"], ["el contagio", "infection, contagion"],
+  ["el trasplante", "transplant"], ["el donante / la donante", "donor"], ["el cerebro", "brain"], ["el sistema inmunitario", "immune system"],
+  ["la salud mental", "mental health"], ["la investigación médica", "medical research"], ["contagiar", "to infect"], ["prevenir", "to prevent"],
+  ["curar", "to cure"]
+ ]},
+ {"name": "Space and the earth", "level": "B2", "items": [
+  ["el universo", "universe"], ["el planeta", "planet"], ["la estrella", "star"], ["la galaxia", "galaxy"],
+  ["el sistema solar", "solar system"], ["la luna", "moon"], ["el satélite", "satellite"], ["la nave espacial", "spaceship"],
+  ["el astronauta / la astronauta", "astronaut"], ["la órbita", "orbit"], ["el telescopio", "telescope"], ["la gravedad", "gravity"],
+  ["el terremoto", "earthquake"], ["el volcán", "volcano"], ["la erupción", "eruption"], ["el maremoto", "tsunami"],
+  ["la atmósfera", "atmosphere"], ["la capa de ozono", "ozone layer"], ["el clima", "climate"], ["el glaciar", "glacier"],
+  ["el eclipse", "eclipse"], ["el meteorito", "meteorite"]
+ ]}
+]}

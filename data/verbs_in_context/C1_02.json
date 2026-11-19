@@ -1,0 +1,97 @@
+{
+ "pdf": "C1_02",
+ "items": [
+  [
+   "Ana dice que ella [viene] a las ocho.",
+   "venir",
+   "Decir as information: indicative."
+  ],
+  [
+   "Tu madre dice que tú [vengas] a cenar ya.",
+   "venir",
+   "Decir as an order: subjunctive."
+  ],
+  [
+   "Siento que tú no [puedas] venir.",
+   "poder",
+   "Sentir as regret: subjunctive."
+  ],
+  [
+   "Siento que algo [va] a pasar.",
+   "ir",
+   "Sentir as perceive: indicative."
+  ],
+  [
+   "Busco un camarero que [hable] inglés.",
+   "hablar"
+  ],
+  [
+   "Busco al camarero que [habla] inglés.",
+   "hablar"
+  ],
+  [
+   "Aunque el piso [es] caro, ya lo he visto y lo compraremos.",
+   "ser",
+   "Aunque with a known fact: indicative."
+  ],
+  [
+   "No sé cuánto cuesta, pero aunque [sea] caro, lo compraremos.",
+   "ser",
+   "Aunque with something unknown: subjunctive."
+  ],
+  [
+   "Comprendo que tú [estés] enfadado.",
+   "estar"
+  ],
+  [
+   "Ahora comprendo que tú [tenías] razón.",
+   "tener",
+   "Comprender as realising a fact: indicative."
+  ],
+  [
+   "El hecho de que no [llamara / llamase] me preocupó.",
+   "llamar",
+   "El hecho de que: usually subjunctive."
+  ],
+  [
+   "No niego que el plan [tenga / tiene] ventajas.",
+   "tener"
+  ],
+  [
+   "Cuando [seas] mayor, lo entenderás.",
+   "ser"
+  ],
+  [
+   "Cuando yo [era] joven, vivía en París.",
+   "ser"
+  ],
+  [
+   "No es que [esté] cansado; es que no quiero.",
+   "estar"
+  ],
+  [
+   "Me extraña que no [haya llegado] todavía.",
+   "llegar"
+  ],
+  [
+   "Es obvio que [tiene] razón.",
+   "tener"
+  ],
+  [
+   "No es obvio que [tenga] razón.",
+   "tener"
+  ],
+  [
+   "Por lo que [dice] Pedro, la reunión se ha cancelado.",
+   "decir"
+  ],
+  [
+   "Me pregunto si ella [sabe] algo.",
+   "saber"
+  ],
+  [
+   "Lo que tú [digas] estará bien.",
+   "decir"
+  ]
+ ]
+}

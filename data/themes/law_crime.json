@@ -1,0 +1,27 @@
+{"title": "🚔 Law and crime", "kind": "topic", "lists": [
+ {"name": "Crime", "level": "B2", "items": [
+  ["el delito", "crime, offence"], ["el delincuente / la delincuente", "criminal"], ["el robo", "robbery, theft"], ["el ladrón / la ladrona", "thief"],
+  ["el carterista / la carterista", "pickpocket"], ["el atraco", "hold-up, mugging"], ["la estafa", "fraud"], ["el asesinato", "murder"],
+  ["el secuestro", "kidnapping"], ["el narcotráfico", "drug trafficking"], ["el vandalismo", "vandalism"], ["la agresión", "assault"],
+  ["la víctima", "victim"], ["el testigo / la testigo", "witness"], ["la pista", "clue"], ["la huella dactilar", "fingerprint"],
+  ["robar", "to steal, to rob"], ["atracar", "to mug"], ["estafar", "to swindle"], ["denunciar", "to report (to the police)"],
+  ["detener", "to arrest"], ["investigar un caso", "to investigate a case"]
+ ]},
+ {"name": "Police and courts", "level": "B2", "items": [
+  ["la comisaría", "police station"], ["la Guardia Civil", "the Civil Guard"], ["la policía local", "local police"], ["la denuncia", "police report, complaint"],
+  ["el juicio", "trial"], ["el juzgado", "court"], ["el tribunal", "court, tribunal"], ["el juez / la jueza", "judge"],
+  ["el abogado / la abogada", "lawyer"], ["el fiscal / la fiscal", "public prosecutor"], ["el acusado / la acusada", "the accused"], ["el jurado", "jury"],
+  ["la sentencia", "sentence, ruling"], ["la condena", "conviction, sentence"], ["la cárcel", "prison"], ["la libertad condicional", "parole"],
+  ["la prueba", "evidence, proof"], ["la fianza", "bail"], ["declarar", "to testify"], ["juzgar", "to try, to judge"],
+  ["condenar", "to sentence"], ["absolver", "to acquit"], ["recurrir", "to appeal"], ["culpable", "guilty"],
+  ["inocente", "innocent"]
+ ]},
+ {"name": "Rights and rules", "level": "C1", "items": [
+  ["el derecho", "right, law (as a subject)"], ["el deber", "duty"], ["la Constitución", "the Constitution"], ["el reglamento", "regulations"],
+  ["la normativa", "rules, legislation"], ["la sanción", "penalty"], ["la infracción", "infringement"], ["el incumplimiento", "breach"],
+  ["el contrato", "contract"], ["la demanda", "lawsuit"], ["el demandante / la demandante", "plaintiff"], ["la indemnización", "compensation"],
+  ["la propiedad intelectual", "intellectual property"], ["la protección de datos", "data protection"], ["la legalidad", "legality"], ["la presunción de inocencia", "presumption of innocence"],
+  ["demandar", "to sue"], ["cumplir la ley", "to obey the law"], ["infringir", "to break (a rule)"], ["prohibir", "to prohibit"],
+  ["legal", "legal"], ["ilegal", "illegal"]
+ ]}
+]}

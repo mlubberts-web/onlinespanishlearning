@@ -1,0 +1,26 @@
+{"title": "💭 Feelings and personality", "kind": "topic", "lists": [
+ {"name": "Feelings", "level": "B1", "items": [
+  ["la alegría", "joy"], ["la tristeza", "sadness"], ["el miedo", "fear"], ["la rabia", "rage, anger"],
+  ["la ilusión", "excitement, hope"], ["la nostalgia", "nostalgia"], ["la soledad", "loneliness"], ["la vergüenza", "embarrassment, shame"],
+  ["el orgullo", "pride"], ["los nervios", "nerves"], ["el agobio", "feeling overwhelmed"], ["la tranquilidad", "calm"],
+  ["la sorpresa", "surprise"], ["la decepción", "disappointment"], ["la esperanza", "hope"], ["la angustia", "anguish, distress"],
+  ["alegrarse", "to be glad"], ["enfadarse", "to get angry"], ["preocuparse", "to worry"], ["agobiarse", "to get stressed"],
+  ["emocionarse", "to be moved"], ["echar de menos", "to miss"], ["estar de buen humor", "to be in a good mood"]
+ ]},
+ {"name": "Personality", "level": "B1", "items": [
+  ["simpático / simpática", "nice, friendly"], ["antipático / antipática", "unfriendly"], ["tímido / tímida", "shy"], ["extrovertido / extrovertida", "outgoing"],
+  ["trabajador / trabajadora", "hard-working"], ["vago / vaga", "lazy"], ["generoso / generosa", "generous"], ["tacaño / tacaña", "stingy"],
+  ["educado / educada", "polite"], ["maleducado / maleducada", "rude"], ["sincero / sincera", "honest"], ["mentiroso / mentirosa", "dishonest, lying"],
+  ["terco / terca", "stubborn"], ["paciente", "patient"], ["impaciente", "impatient"], ["responsable", "responsible"],
+  ["despistado / despistada", "absent-minded"], ["creído / creída", "conceited"], ["optimista", "optimistic"], ["pesimista", "pessimistic"],
+  ["sensato / sensata", "sensible"], ["cariñoso / cariñosa", "affectionate"]
+ ]},
+ {"name": "Describing people in depth", "level": "C1", "items": [
+  ["el carácter", "character, temperament"], ["el temperamento", "temperament"], ["la autoestima", "self-esteem"], ["la empatía", "empathy"],
+  ["la madurez", "maturity"], ["la inseguridad", "insecurity"], ["el sentido del humor", "sense of humour"], ["la sensibilidad", "sensitivity"],
+  ["ambicioso / ambiciosa", "ambitious"], ["comprensivo / comprensiva", "understanding"], ["exigente", "demanding"], ["rencoroso / rencorosa", "resentful"],
+  ["envidioso / envidiosa", "envious"], ["susceptible", "touchy"], ["egoísta", "selfish"], ["humilde", "humble"],
+  ["perfeccionista", "perfectionist"], ["cabezota", "pig-headed"], ["tener don de gentes", "to be good with people"], ["tener mal genio", "to be bad-tempered"],
+  ["ser un trozo de pan", "to be a sweetheart, very kind"], ["tener los pies en el suelo", "to have your feet on the ground"]
+ ]}
+]}

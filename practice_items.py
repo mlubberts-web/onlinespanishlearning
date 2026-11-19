@@ -18,19 +18,22 @@ Every question, of every type, is one dict with the same keys:
 MATLAB note: a dict is like a struct, except that you write item["prompt"] instead of
 item.prompt. A list is like a cell array, and its first element is number 0, not 1.
 """
-import re, unicodedata
+import json, re, unicodedata
+from pathlib import Path
 
-# The exercise types, in the order they appear on the screen: (mode, title, description).
+# The exercise types: (mode, title, description). This is also the order you practise them in:
+# first recognising words, then producing them, then from controlled exercises to free ones.
+# After a session, the app continues with the next type in this list.
 MODES = [
-    ("fill", "📝 Grammar exercises", "The exercises from the PDF. Type the missing part."),
-    ("words", "🔤 Words", "See the English, type the Spanish."),
     ("reverse", "🔄 Words, Spanish to English", "See the Spanish, type the English."),
     ("gender", "⚖️ el or la?", "See a noun, choose its article."),
-    ("verbs", "🔁 Verb forms", "Type the right form for the tense and person."),
-    ("listen", "🎧 Listening", "Hear a sentence, type what you hear."),
+    ("words", "🔤 Words, English to Spanish", "See the English, type the Spanish."),
+    ("verbs", "🔁 Verb forms", "Type the right form for the person and tense."),
+    ("fill", "📝 Grammar exercises", "The exercises from the PDF, plus verbs in context. Type the missing part."),
     ("build", "🧩 Build the sentence", "Click the words in the right order."),
-    ("translate", "💬 Translate sentences", "Type the whole sentence in Spanish."),
+    ("listen", "🎧 Listening", "Hear a sentence, type what you hear."),
     ("fix", "🔍 Fix the mistake", "Type the sentence the way it should be."),
+    ("translate", "💬 Translate sentences", "Type the whole sentence in Spanish."),
 ]
 
 PERSONS = ["yo", "tú", "él / ella / usted", "nosotros", "vosotros", "ellos / ellas / ustedes"]
@@ -112,12 +115,23 @@ def optional_versions(text):
     return [kept, left_out]
 
 
+# Grammar markers such as 'estar + gerundio' or 'tener que + inf.' tell you what follows. You
+# never have to type them: 'estar' and 'tener que' are right, and with the marker is right too.
+MARKER = re.compile(r"\s*\(?\+\s*(?:inf|infinitivo|infinitive|gerundio|gerund|participio|participle|"
+                    r"subj|subjuntivo|subjunctive|indicativo|noun|sustantivo)\.?\)?", re.IGNORECASE)
+# A pair with a gap, like 'tener … años', is not a word you can type, so it gives no questions.
+GAP_MARK = re.compile(r"…|\.\.\.")
+
+
 def word_answers(text):
     """'el primo / la prima' gives both forms. '(ue)' only reminds you of the stem change."""
     text = re.sub(r"\s*\((?:ie|ue|i|u|zc)\)", "", text)
     answers = []
     for part in text.split(" / "):
         answers += optional_versions(part)  # += adds a list to a list, like [a, b] in MATLAB
+        short = MARKER.sub("", part).strip()
+        if short and short != part.strip():
+            answers += optional_versions(short)
     return answers
 
 
@@ -178,6 +192,8 @@ def english_answers(english, spanish):
 
 def add_word(items, pdf_id, english, spanish, group, show=None):
     """One word pair gives three questions: to Spanish, to English, and its article."""
+    if GAP_MARK.search(english) or GAP_MARK.search(spanish):
+        return  # 'to be … years old': you would have to type the dots, so it is left out
     add_item(items, pdf_id, "words", english, word_answers(spanish), show=show, group=group)
     add_item(items, pdf_id, "reverse", spanish, english_answers(english, spanish), show=english, group=group)
     match = re.fullmatch(r"(el|la) ([^/()]+)", spanish.strip(), flags=re.IGNORECASE)
@@ -223,8 +239,10 @@ def add_verb_forms(items, pdf_id, verb, meaning, tense, forms, persons):
     for person, form in zip(persons, forms):
         form = form.replace("*", "")  # the stars only mark the irregular part in the PDF
         # In verbs the accent changes the meaning: hablo is "I speak", habló is "he spoke".
-        add_item(items, pdf_id, "verbs", f"{verb} · {tense} · {person}", [form], hint=meaning,
-                 must_match=["accent"])
+        # You see verb · person · tense. 'unique' keeps the id of the older order (verb · tense ·
+        # person), so the results you already have for these questions stay.
+        add_item(items, pdf_id, "verbs", f"{verb} · {person} · {tense}", [form], hint=meaning,
+                 must_match=["accent"], unique=f"{verb} · {tense} · {person}|{meaning}")
 
 
 def add_sentence(items, pdf_id, english, spanish):
@@ -295,4 +313,64 @@ def build_items(pdf_id, document):
                 add_verb_forms(items, pdf_id, verb["inf"], verb.get("meaning", ""),
                                block.get("tense", "present"), verb["forms"],
                                block.get("persons", PERSONS))
+    add_verbs_in_context(items, pdf_id)
+    return list(items.values())
+
+
+# ---------- verbs in context ----------
+# A file in data/verbs_in_context, named after the PDF (A2_01.json), holds sentences in which the
+# context tells you the form of the verb; the only hint is the infinitive:
+#   {"pdf": "A2_01", "items": [["Ayer yo [hablé] con mi jefe.", "hablar", "optional note"], ...]}
+# Several correct forms go inside the brackets with ' / ' between them: [tuviera / tuviese].
+CONTEXT_FOLDER = Path(__file__).parent / "data" / "verbs_in_context"
+CONTEXT_GROUP = "Verbs in context"
+
+
+def add_verbs_in_context(items, pdf_id):
+    path = CONTEXT_FOLDER / f"{pdf_id[:5]}.json"  # [:5] is the start of the id: A2_01
+    if not path.exists():
+        return
+    for entry in json.loads(path.read_text(encoding="utf-8"))["items"]:
+        sentence, verb = entry[0], entry[1]
+        why = entry[2] if len(entry) > 2 else ""
+        prompt, answer, _ = gap_sentence(sentence)
+        forms = answer.split(" / ")
+        sentences = [prompt.replace(GAP, form) for form in forms]  # the whole sentence counts too
+        show = sentences[0] + (f"  (also: {', '.join(forms[1:])})" if len(forms) > 1 else "")
+        add_item(items, pdf_id, "fill", prompt, forms + sentences, hint=verb, show=show, why=why,
+                 group=CONTEXT_GROUP, must_match=["accent"])
+
+
+# ---------- the themed word lists ----------
+# A theme file in data/themes looks like this:
+#   {"title": "🍽️ Food and cooking", "kind": "topic",
+#    "lists": [{"name": "At the restaurant", "level": "B1", "items": [["la cuenta", "bill"], ...]}]}
+# "kind" is "topic" (things people talk about) or "language" (connectors, idioms and so on).
+# An item can have a third part, an example sentence with the Spanish between [square brackets],
+# and a fourth part, a short note. That gives a fill-in question:
+#   ["sin embargo", "however", "Llovía mucho; [sin embargo], salimos a correr.", "Note"]
+GAP = "______"
+
+
+def gap_sentence(sentence):
+    """'Llovía; [sin embargo], salimos.' gives ('Llovía; ______, salimos.', 'sin embargo', 'Llovía; sin embargo, salimos.')."""
+    match = re.search(r"\[(.+?)\]", sentence)
+    prompt = sentence[:match.start()] + GAP + sentence[match.end():]
+    return prompt, match.group(1), sentence.replace("[", "").replace("]", "")
+
+
+def build_theme_items(name, theme):
+    """Returns the questions of one theme file. Each list in it becomes a group, like the topics
+    of a PDF, so you can practise one list at a time."""
+    items = {}
+    theme_id = f"THEME_{name}"
+    for part in theme["lists"]:
+        pairs = [entry[:2] for entry in part["items"]]  # [:2] keeps the Spanish and the English
+        add_word_pairs(items, theme_id, {"title": part["name"], "items": pairs})
+        for entry in part["items"]:
+            if len(entry) > 2:
+                prompt, answer, full = gap_sentence(entry[2])
+                why = entry[3] if len(entry) > 3 else ""
+                add_item(items, theme_id, "fill", prompt, [answer, full], hint=entry[1], show=full,
+                         why=why, group=part["name"])
     return list(items.values())

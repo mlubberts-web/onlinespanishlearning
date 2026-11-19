@@ -1,0 +1,88 @@
+{
+ "pdf": "B2_01",
+ "items": [
+  [
+   "Quiero que tú me [ayudes].",
+   "ayudar",
+   "Present main verb: present subjunctive."
+  ],
+  [
+   "Quería que tú me [ayudaras / ayudases].",
+   "ayudar",
+   "Past main verb: imperfect subjunctive."
+  ],
+  [
+   "El jefe nos pidió que [cerráramos / cerrásemos] la oficina.",
+   "cerrar"
+  ],
+  [
+   "Es importante que vosotros [lleguéis] a tiempo.",
+   "llegar"
+  ],
+  [
+   "Era importante que vosotros [llegarais / llegaseis] a tiempo.",
+   "llegar"
+  ],
+  [
+   "Me alegra que tú [estés] aquí.",
+   "estar"
+  ],
+  [
+   "Me alegró que tú [estuvieras / estuvieses] en la fiesta.",
+   "estar"
+  ],
+  [
+   "No creía que ellos [pudieran / pudiesen] hacerlo.",
+   "poder"
+  ],
+  [
+   "Te lo dije para que lo [supieras / supieses].",
+   "saber"
+  ],
+  [
+   "Te lo digo para que lo [sepas].",
+   "saber"
+  ],
+  [
+   "Dudo que ella [haya terminado] ya.",
+   "terminar"
+  ],
+  [
+   "Dudaba que ella [hubiera terminado / hubiese terminado].",
+   "terminar"
+  ],
+  [
+   "Buscaban a alguien que [hablara / hablase] ruso.",
+   "hablar"
+  ],
+  [
+   "Le prohibieron que [fumara / fumase] en casa.",
+   "fumar"
+  ],
+  [
+   "Mis padres me aconsejaron que [estudiara / estudiase] Derecho.",
+   "estudiar"
+  ],
+  [
+   "Les ruego que [tengan] paciencia.",
+   "tener"
+  ],
+  [
+   "Me sorprendió que tú no [hubieras llamado / hubieses llamado].",
+   "llamar"
+  ],
+  [
+   "Será mejor que tú [vengas] mañana.",
+   "venir"
+  ],
+  [
+   "Nos gustaría que vosotros [vinierais / vinieseis] a la boda.",
+   "venir",
+   "Me gustaría que takes the imperfect subjunctive."
+  ],
+  [
+   "Antes de que [llegaran / llegasen] los invitados, ya lo habíamos preparado todo.",
+   "llegar"
+  ]
+ ]
+}

@@ -1,0 +1,26 @@
+{"title": "🛍️ Shopping and money", "kind": "topic", "lists": [
+ {"name": "In the shop", "level": "B1", "items": [
+  ["el probador", "fitting room"], ["la talla", "size (clothes)"], ["el número", "size (shoes)"], ["el escaparate", "shop window"],
+  ["el dependiente / la dependienta", "shop assistant"], ["la caja", "till, checkout"], ["el ticket", "receipt"], ["las rebajas", "the sales"],
+  ["la oferta", "special offer"], ["el descuento", "discount"], ["el carrito", "trolley"], ["la cesta", "basket"],
+  ["la bolsa", "bag"], ["el centro comercial", "shopping centre"], ["el mercadillo", "street market"], ["la tienda de comestibles", "grocer's"],
+  ["probarse", "to try on"], ["quedar bien", "to suit, to fit well"], ["devolver", "to return (an item)"], ["cambiar", "to exchange"],
+  ["ir de compras", "to go shopping"], ["estar agotado / estar agotada", "to be sold out"], ["hacer cola", "to queue"]
+ ]},
+ {"name": "Paying", "level": "B1", "items": [
+  ["el dinero en efectivo", "cash"], ["la tarjeta de crédito", "credit card"], ["la tarjeta de débito", "debit card"], ["el cambio", "change"],
+  ["la vuelta", "change (given back)"], ["el monedero", "purse"], ["la cartera", "wallet"], ["el billete de veinte", "twenty-euro note"],
+  ["la moneda", "coin"], ["el precio", "price"], ["el IVA", "VAT"], ["la factura", "invoice"],
+  ["pagar en efectivo", "to pay in cash"], ["pagar con tarjeta", "to pay by card"], ["pagar a medias", "to go halves"], ["costar", "to cost"],
+  ["valer", "to be worth, to cost"], ["ahorrar", "to save"], ["gastar", "to spend"], ["caro / cara", "expensive"],
+  ["barato / barata", "cheap"], ["gratis", "free (of charge)"], ["el bizum", "mobile payment (Spain)"]
+ ]},
+ {"name": "Banks and personal finance", "level": "B2", "items": [
+  ["la cuenta corriente", "current account"], ["la cuenta de ahorro", "savings account"], ["el cajero automático", "cash machine"], ["la transferencia", "bank transfer"],
+  ["la domiciliación", "direct debit"], ["el préstamo", "loan"], ["el interés", "interest"], ["la deuda", "debt"],
+  ["el saldo", "balance"], ["el extracto", "bank statement"], ["la comisión", "fee, commission"], ["el número de cuenta", "account number"],
+  ["el sueldo", "salary"], ["los ahorros", "savings"], ["el presupuesto familiar", "household budget"], ["sacar dinero", "to withdraw money"],
+  ["ingresar dinero", "to pay in money"], ["pedir un préstamo", "to take out a loan"], ["endeudarse", "to get into debt"], ["llegar a fin de mes", "to make ends meet"],
+  ["estar sin blanca", "to be broke"], ["derrochar", "to squander"], ["la estafa", "scam, fraud"]
+ ]}
+]}

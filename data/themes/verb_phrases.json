@@ -1,0 +1,50 @@
+{"title": "🔁 Verb phrases", "kind": "language", "lists": [
+ {"name": "Starting, stopping and repeating", "level": "B2", "items": [
+  ["ponerse a", "to start (suddenly)", "Al oír la noticia, [se puso a] llorar."],
+  ["echarse a", "to burst out", "Cuando lo vio, [se echó a] reír.", "Mostly with reír, llorar, correr and temblar."],
+  ["romper a", "to burst into", "El niño [rompió a] llorar.", "Literary; mostly with llorar and reír."],
+  ["empezar a", "to begin to", "[He empezado a] estudiar chino."],
+  ["comenzar a", "to commence, to begin to", "La ceremonia [comenzó a] las doce."],
+  ["dejar de", "to stop", "[Deja de] gritar, por favor."],
+  ["acabar de", "to have just", "[Acabamos de] cenar."],
+  ["volver a", "to do again", "Mañana [vuelvo a] intentarlo."],
+  ["terminar de", "to finish doing", "Cuando [termines de] comer, recoge la mesa."],
+  ["estar a punto de", "to be about to", "[Estaba a punto de] salir cuando sonó el teléfono."],
+  ["estar por", "to be inclined to", "[Estoy por] llamarla y decírselo todo."],
+  ["ir a", "to be going to", "Este verano [vamos a] viajar a Galicia."],
+  ["pasar a", "to move on to", "Ahora [pasamos a] la segunda parte de la reunión."],
+  ["no parar de", "to keep on, not to stop", "Mi vecino [no para de] hacer ruido."],
+  ["llegar a", "to get to the point of", "[Llegó a] ganar más que su jefe."],
+  ["acabar por", "to end up", "[Acabó por] aceptar la oferta."]
+ ]},
+ {"name": "With the gerund and the participle", "level": "C1", "items": [
+  ["llevar + gerundio", "to have been doing", "[Llevo] tres años viviendo en Madrid.", "Llevo tres años estudiando = I have been studying for three years."],
+  ["seguir + gerundio", "to still be doing, to keep doing", "¿[Sigues] trabajando en el banco?"],
+  ["continuar + gerundio", "to carry on doing", "[Continuó] hablando como si nada."],
+  ["ir + gerundio", "to be gradually doing", "Poco a poco [voy] entendiendo el subjuntivo."],
+  ["venir + gerundio", "to have been doing (over time)", "[Vengo] diciéndolo desde hace meses."],
+  ["andar + gerundio", "to go around doing", "[Anda] diciendo mentiras por todo el barrio.", "Often a little negative."],
+  ["acabar + gerundio", "to end up doing", "[Acabé] pidiendo una pizza."],
+  ["quedarse + gerundio", "to stay doing", "[Nos quedamos] charlando hasta las tres."],
+  ["llevar + participio", "to have done (so far)", "[Llevo] leídas cien páginas.", "The participle agrees with the noun: leídas páginas."],
+  ["tener + participio", "to have done (and finished)", "[Tengo] escritos dos capítulos del libro."],
+  ["dejar + participio", "to leave done", "[Dejé] preparada la cena."],
+  ["dar por + participio", "to consider as", "[Doy por] terminada la reunión."],
+  ["estar + gerundio", "to be doing", "Ahora mismo [estoy] cocinando."],
+  ["salir + gerundio", "to come out doing", "[Salió] corriendo de la clase."]
+ ]},
+ {"name": "Obligation and probability", "level": "B2", "items": [
+  ["tener que", "to have to", "[Tengo que] renovar el pasaporte."],
+  ["hay que", "one has to, you have to", "[Hay que] reservar mesa con antelación.", "Impersonal: no subject."],
+  ["deber", "must, should", "[Debes] descansar más."],
+  ["deber de", "must (probably)", "[Debe de] ser muy tarde; ya no hay nadie.", "deber de expresses a guess, deber an obligation."],
+  ["haber de", "to be to, must", "[Has de] saber que no será fácil.", "Formal or literary."],
+  ["poder", "can, may", "¿[Puedo] abrir la ventana?"],
+  ["venir a", "to amount to, to come to", "El arreglo [viene a] costar unos cien euros."],
+  ["estar obligado a", "to be obliged to", "Las empresas [están obligadas a] informar a sus clientes."],
+  ["no hacer falta", "not to be necessary", "[No hace falta] que vengas.", "With que it takes the subjunctive."],
+  ["más vale", "it is better to", "[Más vale] prevenir que curar."],
+  ["ser capaz de", "to be capable of", "No [soy capaz de] decirle que no."],
+  ["tener ganas de", "to feel like", "[Tengo ganas de] ir a la playa."]
+ ]}
+]}

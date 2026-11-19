@@ -5,15 +5,20 @@ Screens: home (all levels) -> level (the PDFs in one level) -> reader (one PDF).
 The practice screens are in practice_screen.py.
 To add a screen, write a function for it and add it to SCREENS at the bottom."""
 import base64, json, os
-from datetime import datetime
 from pathlib import Path
 
 import pymupdf
 import streamlit as st
 
+import clock
 import extra_screens as extra
+import login
 import practice_screen as practice
-from ui import go_home, go_level, go_view, hero
+import practice_store as store
+import progress_screen as progress
+import schedule_screen as schedule
+import storage
+from ui import go_home, go_level, go_view, hero, log_activity, log_data, save_log
 
 HERE = Path(__file__).parent
 PDF_DIR = HERE / "static" / "pdfs"
@@ -44,6 +49,8 @@ STYLE = """
 
 st.set_page_config(page_title="Spanish Learning Program", page_icon="📘", layout="wide")
 st.html(STYLE)
+# Online, this asks who you are first; on your own computer it does nothing and USER is None.
+USER = login.start()
 
 
 # ---------- data ----------
@@ -73,18 +80,12 @@ by_id = {i["id"]: i for i in catalog}
 
 # ---------- progress ----------
 def load_progress():
-    if PROGRESS.exists():
-        try:
-            return json.loads(PROGRESS.read_text(encoding="utf-8"))
-        except (json.JSONDecodeError, OSError):
-            return {}
-    return {}
+    # storage.py reads the file, or the online database when the app runs on the internet.
+    return storage.load(PROGRESS, {})
 
 
 def save_progress():
-    tmp = PROGRESS.with_suffix(".tmp")
-    tmp.write_text(json.dumps(st.session_state.progress, indent=1), encoding="utf-8")
-    os.replace(tmp, PROGRESS)
+    storage.save(PROGRESS, st.session_state.progress)
 
 
 def entry(pid):
@@ -93,7 +94,7 @@ def entry(pid):
 
 
 def touch(pid):
-    entry(pid)["updated"] = datetime.now().isoformat(timespec="seconds")
+    entry(pid)["updated"] = clock.now().isoformat(timespec="seconds")
 
 
 def seen_count(item):
@@ -142,8 +143,18 @@ def open_in_pdf_app(item):
 
 
 # ---------- state ----------
-if "progress" not in st.session_state:
-    st.session_state.progress = load_progress()
+# Your results are read once per visit and then kept in the session. Online they come from the
+# database; when it can't be reached the page stops here, so it never starts with empty results
+# that would overwrite your real ones at the next save.
+try:
+    if "progress" not in st.session_state:
+        st.session_state.progress = load_progress()
+    practice.practice_data()
+    log_data()
+except storage.StorageError:
+    st.error("The online database can't be reached right now, so your results can't be loaded. "
+             "Reload the page in a minute.")
+    st.stop()
 st.session_state.setdefault("view", "home")
 st.session_state.setdefault("level", None)
 st.session_state.setdefault("current", None)
@@ -213,6 +224,10 @@ def sidebar():
         st.title("📘 Spanish")
         st.button("🏠 Home", key="nav_home", on_click=go_home, width="stretch",
                   type="primary" if st.session_state.view == "home" else "secondary")
+        st.button("🗓️ Schedule", key="nav_schedule", on_click=go_view, args=("schedule",), width="stretch",
+                  type="primary" if st.session_state.view == "schedule" else "secondary")
+        st.button("📊 Progress", key="nav_progress", on_click=go_view, args=("progress",), width="stretch",
+                  type="primary" if st.session_state.view == "progress" else "secondary")
         st.button("📚 Themed words", key="nav_themes", on_click=go_view, args=("themes",), width="stretch",
                   type="primary" if st.session_state.view == "themes" else "secondary")
         st.button("⏱️ Mock exam", key="nav_mock", on_click=go_view, args=("mock",), width="stretch",
@@ -226,7 +241,74 @@ def sidebar():
                       on_click=go_level, args=(level,), width="stretch",
                       type="primary" if st.session_state.level == level else "secondary")
         st.divider()
-        st.caption("Progress is saved in progress.json next to app.py.")
+        if USER:
+            login.sidebar_part(USER)
+        else:
+            st.caption("Progress is saved in progress.json, practice.json and study_log.json next to app.py.")
+        your_data()
+
+
+# ---------- your data: a backup to download, and putting one back ----------
+PARTS = {"progress": PROGRESS.name, "practice": practice.PRACTICE_FILE.name, "study_log": "study_log.json"}
+
+
+def backup_text():
+    """All your results in one file: {"progress": {...}, "practice": {...}, "study_log": {...}}."""
+    every = {"progress": st.session_state.progress, "practice": practice.practice_data(),
+             "study_log": log_data()}
+    return json.dumps(every, ensure_ascii=False, indent=1)
+
+
+def read_uploads(files):
+    """The parts in the uploaded files: a backup from the button above, or the separate files
+    progress.json, practice.json and study_log.json from the app on your own computer."""
+    found = {}
+    for file in files:
+        try:
+            data = json.loads(file.getvalue().decode("utf-8"))
+        except (ValueError, UnicodeDecodeError):
+            continue  # not a JSON file
+        part = next((p for p, file_name in PARTS.items() if file.name == file_name), None)
+        if part:
+            found[part] = data
+        elif isinstance(data, dict) and set(data) & set(PARTS):  # & keeps what both sets have
+            found.update({p: data[p] for p in PARTS if p in data})
+    return found
+
+
+def put_back(found):
+    """Replaces your results with the uploaded ones and saves them."""
+    if "progress" in found:
+        st.session_state.progress = found["progress"]
+        save_progress()
+    if "practice" in found:
+        st.session_state.practice = found["practice"]
+        store.save(practice.PRACTICE_FILE, found["practice"])
+    if "study_log" in found:
+        st.session_state.study_log = found["study_log"]
+        save_log()
+    st.session_state.restored = ", ".join(PARTS[p] for p in found)
+
+
+def your_data():
+    with st.expander("💾 Your data"):
+        st.download_button("Download a backup", backup_text(), width="stretch",
+                           file_name=f"spanish-backup-{clock.today().isoformat()}.json",
+                           mime="application/json", key="backup_download")
+        if st.session_state.get("restored"):
+            st.success(f"Put back: {st.session_state.pop('restored')}.")
+        files = st.file_uploader("Put back a backup", type="json", accept_multiple_files=True,
+                                 key="backup_upload",
+                                 help="A backup from the button above, or progress.json, practice.json "
+                                      "and study_log.json from the app on your own computer.")
+        found = read_uploads(files or [])
+        if files and not found:
+            st.warning("These files don't hold any results.")
+        if found:
+            st.caption("This replaces your current results with the ones in: "
+                       + ", ".join(PARTS[p] for p in found) + ".")
+            st.button("Replace my results", key="backup_put_back", type="primary", width="stretch",
+                      on_click=put_back, args=(found,))
 
 
 # ---------- home: progress across all levels ----------
@@ -239,6 +321,7 @@ def home():
          f"{mastered} of {questions} practice questions mastered",
          done / len(catalog))
     st.write("")
+    schedule.home_row()  # today's plan, with a button to the Schedule screen
 
     due = practice.due_items()
     c = st.columns([4, 1.5], vertical_alignment="center")
@@ -268,6 +351,8 @@ def home():
         c[0].markdown(f"**Weak questions:** {len(weak)} across all levels")
         c[1].button("💪 Practise 20", key="home_weak", on_click=practice.start_drill, width="stretch",
                     args=(weak, "All levels · Weak questions", ("home",), None, None, 20))
+
+    practice.weak_subjects_section(None, ("home",), "home_subject")
 
     st.subheader("Levels")
     cols = st.columns(3)
@@ -305,6 +390,7 @@ def level_screen():
         if weak:
             st.button(f"💪 Weak questions ({len(weak)})", key="level_weak", on_click=practice.start_drill,
                       args=(weak, f"{level} · Weak questions", ("level", level), None, None, 20))
+    practice.weak_subjects_section(level, ("level", level), f"level_subject_{level}")
 
     next_up = next((i["id"] for i in items if status(i) != "done"), None)
     for item in items:
@@ -327,7 +413,8 @@ def level_screen():
             with c[5].popover("More", width="stretch"):
                 last_page = entry(item["id"])["last_page"] if stt == "reading" else 0
                 st.link_button("Open in browser tab", browser_url(item, last_page), width="stretch")
-                if st.button("Open in PDF app", key=f"app_{item['id']}", width="stretch"):
+                # Online the PDF app would open on the server, not on your computer, so it's left out.
+                if not USER and st.button("Open in PDF app", key=f"app_{item['id']}", width="stretch"):
                     open_in_pdf_app(item)
                 st.button("Mark as not done" if stt == "done" else "Mark as done",
                           key=f"done_{item['id']}", on_click=toggle_done, args=(item["id"],),
@@ -345,6 +432,10 @@ def reader():
     e["last_page"] = page
     touch(item["id"])
     save_progress()
+    # Count the time you read, but only once per page: the screen also reruns when you change the size.
+    if st.session_state.get("logged_page") != (item["id"], page):
+        st.session_state.logged_page = (item["id"], page)
+        log_activity("page")
 
     top = st.columns([1, 1.7, 5, 2.2], vertical_alignment="center")
     top[0].button("🏠 Home", key="reader_home", on_click=go_home, width="stretch")
@@ -362,7 +453,7 @@ def reader():
                         label_visibility="collapsed")
     bar[3].markdown(f"**of {total}**  ·  read {len(e['seen'])}/{total}")
     bar[4].link_button("Open in browser tab", browser_url(item, page), width="stretch")
-    if bar[5].button("Open in PDF app", width="stretch"):
+    if not USER and bar[5].button("Open in PDF app", width="stretch"):
         open_in_pdf_app(item)
     size = bar[6].selectbox("Size", list(PAGE_WIDTHS), index=1, label_visibility="collapsed")
 
@@ -387,7 +478,12 @@ def reader():
 SCREENS = {"home": home, "level": level_screen, "reader": reader,
            "practice": practice.practice_screen, "drill": practice.drill_screen,
            "themes": extra.themes_screen, "mock": extra.mock_screen,
-           "mock_run": extra.mock_run_screen, "mock_result": extra.mock_result_screen}
+           "mock_run": extra.mock_run_screen, "mock_result": extra.mock_result_screen,
+           "schedule": schedule.schedule_screen, "progress": progress.progress_screen}
+# The Schedule screen needs to open the reader and know how much of a PDF you read; both live in this file.
+schedule.connect(open_reader, lambda pid: fraction(by_id[pid]),
+                 lambda pid: st.session_state.progress.get(pid, {}).get("updated"))
+practice.ACTIONS["open_reader"] = open_reader  # for the "Next PDF" button after a practice session
 SCREENS[st.session_state.view]()
 sidebar()  # after the screen, so its counts include the page just opened
 scroll_to_top_after_moving()

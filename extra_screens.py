@@ -1,6 +1,6 @@
 """The themed word lists and the mock exam. The drills themselves are in practice_screen.py."""
 import html, time
-from datetime import date
+import clock
 
 import streamlit as st
 
@@ -8,38 +8,68 @@ import practice_logic as logic
 import practice_screen as practice
 import practice_store as store
 from practice_items import MODES
-from ui import go_view, hero
+from ui import go_view, hero, log_activity, log_overrule
 
 LEVELS = ["A1", "A2", "B1", "B2", "C1", "C2", "All levels"]
 # Number of questions and the minutes you get for them: (questions, minutes).
 LENGTHS = {"20 questions, 15 minutes": (20, 15), "40 questions, 30 minutes": (40, 30),
            "60 questions, 45 minutes": (60, 45)}
-THEME_MODES = [("words", "🔤 To Spanish"), ("reverse", "🔄 To English"), ("gender", "⚖️ el or la?")]
+# The buttons on a theme card, in the order the exercise types follow each other.
+THEME_MODES = [("reverse", "🔄 To English"), ("gender", "⚖️ el or la?"), ("words", "🔤 To Spanish"),
+               ("fill", "✏️ In a sentence")]
+THEME_KINDS = [("topic", "Topics", "Words for what people talk about."),
+               ("language", "Useful language", "The words that hold a text together: connectors, "
+                                               "set phrases, idioms. These count in the DELE writing and speaking.")]
+ALL_LISTS = "All lists"
 
 
 # ---------- themed word lists ----------
+def theme_card(name, theme, size):
+    with st.container(border=True, key=f"theme_{name}"):
+        st.markdown(f"#### {theme['title']}")
+        theme_done, theme_total = practice.mastery(theme["items"])
+        st.progress(theme_done / theme_total, text=f"{theme_done} of {theme_total} questions mastered")
+        # Each list in the file is a choice, with its level and number of words.
+        labels = {ALL_LISTS: None}
+        for part in theme["lists"]:
+            words = sum(i["group"] == part["name"] and i["mode"] == "reverse" for i in theme["items"])
+            labels[f"{part['name']} · {part['level']} · {words} words"] = part["name"]
+        choice = st.selectbox("List", list(labels), key=f"theme_list_{name}")
+        group = labels[choice]
+        pool = [i for i in theme["items"] if group is None or i["group"] == group]
+        source = theme["title"] if group is None else f"{theme['title']} · {group}"
+        label = "Mark all lists as done" if group is None else "Mark this list as done"
+        practice.done_checkbox(pool, label, f"done_{name}_{group}")
+        modes =[(mode, label) for mode, label in THEME_MODES if any(i["mode"] == mode for i in pool)]
+        # A horizontal container sizes each button to its text and wraps to a new line when needed.
+        with st.container(horizontal=True):
+            for mode, label in modes:
+                st.button(label, key=f"theme_{name}_{mode}", on_click=practice.start_mode,
+                          args=(pool, source, ("view", "themes"), f"THEME_{name}", mode, size))
+
+
 def themes_screen():
     themes = practice.load_themes()
     done, total = practice.mastery(practice.theme_items())
     hero("Word lists", "Themed vocabulary", f"{done} of {total} questions mastered",
          done / total if total else 0)
     st.write("")
-    choice = st.radio("Questions per session (the difficult ones are chosen more often)",
-                      list(practice.SIZES), index=1, horizontal=True, key="themes_size")
-    size = practice.SIZES[choice]
+    size = practice.size_buttons("themes_size")
+    practice.skip_switch("themes_skip")
+    st.caption("Choose a list, then start with any exercise type; the next types follow by themselves.")
+    practice.show_notice()
 
-    columns = st.columns(2)
-    for n, (name, theme) in enumerate(themes.items()):
-        with columns[n % 2].container(border=True, key=f"theme_{name}"):
-            st.markdown(f"#### {theme['title']}")
-            theme_done, theme_total = practice.mastery(theme["items"])
-            st.progress(theme_done / theme_total, text=f"{theme_done} of {theme_total} questions mastered")
-            buttons = st.columns(3)
-            for column, (mode, label) in zip(buttons, THEME_MODES):
-                items = [i for i in theme["items"] if i["mode"] == mode]
-                column.button(label, key=f"theme_{name}_{mode}", width="stretch", on_click=practice.start_drill,
-                              args=(items, f"{theme['title']} · {label}", ("view", "themes"),
-                                    f"THEME_{name}", mode, size))
+    for kind, heading, text in THEME_KINDS:
+        of_kind = [(name, theme) for name, theme in themes.items() if theme["kind"] == kind]
+        if not of_kind:
+            continue
+        st.subheader(heading)
+        st.caption(text)
+        columns = st.columns(2)
+        for n, (name, theme) in enumerate(of_kind):
+            with columns[n % 2]:
+                theme_card(name, theme, size)
+    practice.accepted_section(practice.theme_items(), "accepted_themes")
 
 
 # ---------- mock exam: setting it up ----------
@@ -56,8 +86,9 @@ def mock_screen():
     hero("Mock exam", "Test yourself under time pressure",
          "A mix of all exercise types, one attempt each, with no feedback until the end.", 0)
     st.write("")
-    level = st.radio("Level", LEVELS, index=5, horizontal=True, key="mock_level")
-    length = st.radio("Length", list(LENGTHS), index=1, horizontal=True, key="mock_length")
+    level = st.segmented_control("Level", LEVELS, default="C2", required=True, key="mock_level")
+    length = st.segmented_control("Length", list(LENGTHS), default="40 questions, 30 minutes",
+                                  required=True, key="mock_length")
     st.button("Start the mock exam", key="mock_start", type="primary", on_click=start_mock, args=(level, length))
     st.caption("This trains exam conditions with the questions of this program. "
                "It does not follow the format of the official DELE exam.")
@@ -84,7 +115,7 @@ def finish_mock():
 def mock_result(mock):
     right = sum(answer["result"] != "wrong" for answer in mock["answers"])
     total = len(mock["items"])
-    return {"date": date.today().isoformat(), "level": mock["level"], "right": right, "total": total,
+    return {"date": clock.today().isoformat(), "level": mock["level"], "right": right, "total": total,
             "percent": round(100 * right / total)}
 
 
@@ -92,9 +123,10 @@ def submit_mock(key):
     mock = st.session_state.mock
     item = mock["items"][mock["position"]]
     typed = st.session_state.get(key, "")
-    result, _ = logic.check_answer(item, typed)
+    result, _ = logic.check_answer(item, typed, practice.accepted_for(item))
     store.record(practice.practice_data(), item["id"], result != "wrong")
     store.save(practice.PRACTICE_FILE, practice.practice_data())
+    log_activity("answer", result != "wrong")  # each mock question is a first try
     mock["answers"].append({"item": item, "typed": typed, "result": result})
     mock["position"] += 1
     if mock["position"] >= len(mock["items"]):
@@ -138,6 +170,8 @@ def overrule_mock(index):
     answer["result"] = "overruled"
     data = practice.practice_data()
     store.change_to_correct(data, answer["item"]["id"])
+    store.accept(data, logic.answer_key(answer["item"]), answer["typed"])  # right from now on
+    log_overrule()
     data["mocks"][-1] = mock_result(mock)  # the mock just finished is the last in the list
     store.save(practice.PRACTICE_FILE, data)
 

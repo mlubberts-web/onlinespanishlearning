@@ -1,0 +1,26 @@
+{"title": "📰 Media and news", "kind": "topic", "lists": [
+ {"name": "Newspapers and TV", "level": "B1", "items": [
+  ["el periódico", "newspaper"], ["la prensa", "the press"], ["la revista", "magazine"], ["el titular", "headline"],
+  ["la portada", "front page"], ["el artículo", "article"], ["la noticia", "piece of news"], ["el telediario", "TV news"],
+  ["la cadena", "TV channel"], ["el programa", "programme"], ["la serie", "series"], ["el anuncio", "advert"],
+  ["la emisora", "radio station"], ["el oyente / la oyente", "listener"], ["el espectador / la espectadora", "viewer"], ["el presentador / la presentadora", "presenter"],
+  ["el periodista / la periodista", "journalist"], ["el reportaje", "report, feature"], ["la entrevista", "interview"], ["la audiencia", "audience, ratings"],
+  ["en directo", "live"], ["la sección de deportes", "sports section"]
+ ]},
+ {"name": "Reporting the news", "level": "B2", "items": [
+  ["el corresponsal / la corresponsal", "correspondent"], ["el enviado especial / la enviada especial", "special correspondent"], ["la rueda de prensa", "press conference"], ["el comunicado", "statement"],
+  ["la fuente", "source"], ["la exclusiva", "exclusive"], ["la primicia", "scoop"], ["la crónica", "report, chronicle"],
+  ["el editorial", "editorial"], ["la columna de opinión", "opinion column"], ["el suceso", "incident (crime news)"], ["la última hora", "breaking news"],
+  ["la censura", "censorship"], ["la libertad de prensa", "freedom of the press"], ["el bulo", "hoax"], ["la prensa del corazón", "celebrity gossip press"],
+  ["informar", "to report"], ["emitir", "to broadcast"], ["publicar", "to publish"], ["desmentir", "to deny"],
+  ["filtrar", "to leak"], ["según fuentes oficiales", "according to official sources"], ["imparcial", "impartial"], ["sensacionalista", "sensationalist"]
+ ]},
+ {"name": "Advertising and influence", "level": "C1", "items": [
+  ["la publicidad", "advertising"], ["la campaña publicitaria", "advertising campaign"], ["el eslogan", "slogan"], ["la marca", "brand"],
+  ["el patrocinador / la patrocinadora", "sponsor"], ["el consumidor / la consumidora", "consumer"], ["el público objetivo", "target audience"], ["la opinión pública", "public opinion"],
+  ["el creador de contenido / la creadora de contenido", "content creator"], ["el influencer / la influencer", "influencer"], ["la manipulación", "manipulation"], ["el sesgo", "bias"],
+  ["la desinformación", "disinformation"], ["el amarillismo", "tabloid journalism"], ["la polémica", "controversy"], ["el escándalo", "scandal"],
+  ["patrocinar", "to sponsor"], ["influir", "to influence"], ["manipular", "to manipulate"], ["persuadir", "to persuade"],
+  ["contrastar la información", "to check the facts"], ["engañoso / engañosa", "misleading"]
+ ]}
+]}

@@ -1,0 +1,26 @@
+{"title": "🌍 Nature, weather and environment", "kind": "topic", "lists": [
+ {"name": "Weather", "level": "B1", "items": [
+  ["el tiempo", "weather"], ["el pronóstico", "forecast"], ["la lluvia", "rain"], ["la llovizna", "drizzle"],
+  ["el chaparrón", "downpour"], ["la tormenta", "storm"], ["el trueno", "thunder"], ["el relámpago", "lightning"],
+  ["la niebla", "fog"], ["la nieve", "snow"], ["el granizo", "hail"], ["la helada", "frost"],
+  ["la ola de calor", "heatwave"], ["la humedad", "humidity"], ["el viento", "wind"], ["nublado / nublada", "cloudy"],
+  ["despejado / despejada", "clear"], ["soleado / soleada", "sunny"], ["llover a cántaros", "to pour with rain"], ["hace un frío que pela", "it's freezing cold"],
+  ["hace bochorno", "it's muggy"], ["la temperatura", "temperature"]
+ ]},
+ {"name": "Landscape", "level": "B1", "items": [
+  ["la montaña", "mountain"], ["la sierra", "mountain range"], ["el valle", "valley"], ["la colina", "hill"],
+  ["el río", "river"], ["el lago", "lake"], ["el embalse", "reservoir"], ["la costa", "coast"],
+  ["el acantilado", "cliff"], ["la cueva", "cave"], ["el bosque", "forest"], ["la selva", "jungle"],
+  ["el desierto", "desert"], ["la isla", "island"], ["la península", "peninsula"], ["la llanura", "plain"],
+  ["la meseta", "plateau"], ["la orilla", "shore, bank"], ["la ola", "wave"], ["la cumbre", "summit"],
+  ["el paisaje", "landscape"], ["el parque natural", "nature reserve"]
+ ]},
+ {"name": "The environment", "level": "B2", "items": [
+  ["el medio ambiente", "environment"], ["el cambio climático", "climate change"], ["el calentamiento global", "global warming"], ["la sequía", "drought"],
+  ["la inundación", "flood"], ["el incendio forestal", "forest fire"], ["la deforestación", "deforestation"], ["la especie en peligro de extinción", "endangered species"],
+  ["los residuos", "waste"], ["el reciclaje", "recycling"], ["el contenedor", "recycling bin, container"], ["la energía renovable", "renewable energy"],
+  ["la energía solar", "solar energy"], ["el parque eólico", "wind farm"], ["la huella de carbono", "carbon footprint"], ["las emisiones", "emissions"],
+  ["los combustibles fósiles", "fossil fuels"], ["la biodiversidad", "biodiversity"], ["reciclar", "to recycle"], ["contaminar", "to pollute"],
+  ["ahorrar energía", "to save energy"], ["sostenible", "sustainable"], ["desechable", "disposable"], ["el plástico de un solo uso", "single-use plastic"]
+ ]}
+]}

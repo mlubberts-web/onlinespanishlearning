@@ -1,0 +1,26 @@
+{"title": "🎨 Culture and the arts", "kind": "topic", "lists": [
+ {"name": "Film, theatre and music", "level": "B1", "items": [
+  ["la película", "film"], ["el estreno", "premiere, release"], ["la taquilla", "box office"], ["la butaca", "seat (in a theatre)"],
+  ["el escenario", "stage"], ["la obra de teatro", "play"], ["el actor / la actriz", "actor or actress"], ["el director de cine / la directora de cine", "film director"],
+  ["el guion", "script"], ["los subtítulos", "subtitles"], ["la versión original", "original version"], ["la banda sonora", "soundtrack"],
+  ["el concierto", "concert"], ["la gira", "tour"], ["el cantante / la cantante", "singer"], ["la canción", "song"],
+  ["el grupo de música", "band"], ["el público", "audience"], ["el aplauso", "applause"], ["la entrada", "ticket"],
+  ["agotar las entradas", "to sell out"], ["rodar una película", "to shoot a film"]
+ ]},
+ {"name": "Art and literature", "level": "B2", "items": [
+  ["el cuadro", "painting"], ["el pintor / la pintora", "painter"], ["la escultura", "sculpture"], ["el museo", "museum"],
+  ["la exposición", "exhibition"], ["la galería de arte", "art gallery"], ["la obra maestra", "masterpiece"], ["el retrato", "portrait"],
+  ["el paisaje", "landscape painting"], ["el autorretrato", "self-portrait"], ["la novela", "novel"], ["la poesía", "poetry"],
+  ["el poema", "poem"], ["el ensayo", "essay"], ["el escritor / la escritora", "writer"], ["la editorial", "publishing house"],
+  ["el capítulo", "chapter"], ["la obra", "work (of art)"], ["la crítica", "review, criticism"], ["el premio literario", "literary prize"],
+  ["exponer", "to exhibit"], ["inspirarse en", "to be inspired by"]
+ ]},
+ {"name": "Traditions in Spain", "level": "B2", "items": [
+  ["la fiesta mayor", "town's main festival"], ["la romería", "pilgrimage festival"], ["la procesión", "procession"], ["la Semana Santa", "Holy Week"],
+  ["las Fallas", "Valencia's spring festival"], ["los Sanfermines", "the Pamplona bull-running festival"], ["la verbena", "open-air dance party"], ["los fuegos artificiales", "fireworks"],
+  ["el flamenco", "flamenco"], ["el tablao", "flamenco venue"], ["la feria", "fair"], ["el patrimonio cultural", "cultural heritage"],
+  ["las uvas de la suerte", "the twelve lucky grapes"], ["los Reyes Magos", "the Three Kings"], ["la cabalgata", "parade"], ["el roscón de Reyes", "Kings' cake"],
+  ["el día del santo", "name day"], ["el puente", "long weekend"], ["la siesta", "nap"], ["el tapeo", "going for tapas"],
+  ["celebrar", "to celebrate"], ["disfrazarse", "to dress up"]
+ ]}
+]}

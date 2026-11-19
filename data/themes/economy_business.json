@@ -1,0 +1,26 @@
+{"title": "📈 Economy and business", "kind": "topic", "lists": [
+ {"name": "The economy", "level": "B2", "items": [
+  ["la economía", "economy"], ["la crisis económica", "economic crisis"], ["la recesión", "recession"], ["el crecimiento", "growth"],
+  ["la inflación", "inflation"], ["el producto interior bruto", "gross domestic product"], ["la tasa de paro", "unemployment rate"], ["el poder adquisitivo", "purchasing power"],
+  ["el coste de la vida", "cost of living"], ["la subida de precios", "price rise"], ["la bajada", "fall, drop"], ["el mercado laboral", "labour market"],
+  ["la exportación", "export"], ["la importación", "import"], ["el turismo", "tourism"], ["el sector servicios", "service sector"],
+  ["la bolsa", "stock market"], ["la acción", "share"], ["el inversor / la inversora", "investor"], ["la inversión", "investment"],
+  ["invertir", "to invest"], ["crecer", "to grow"], ["aumentar", "to increase"], ["disminuir", "to decrease"]
+ ]},
+ {"name": "Running a business", "level": "B2", "items": [
+  ["la empresa", "company"], ["el empresario / la empresaria", "business owner"], ["el emprendedor / la emprendedora", "entrepreneur"], ["la empresa emergente", "start-up"],
+  ["el cliente / la clienta", "customer"], ["el producto", "product"], ["el servicio", "service"], ["los ingresos", "income, revenue"],
+  ["los gastos", "expenses"], ["las ganancias", "earnings"], ["el balance", "balance sheet"], ["el plan de negocio", "business plan"],
+  ["el mercado", "market"], ["la cuota de mercado", "market share"], ["la estrategia", "strategy"], ["la marca registrada", "trademark"],
+  ["la quiebra", "bankruptcy"], ["la fusión", "merger"], ["fundar", "to found"], ["quebrar", "to go bankrupt"],
+  ["lanzar un producto", "to launch a product"], ["rentable", "profitable"]
+ ]},
+ {"name": "Meetings and negotiation", "level": "C1", "items": [
+  ["la reunión", "meeting"], ["la propuesta", "proposal"], ["la oferta", "offer"], ["la contraoferta", "counter-offer"],
+  ["las condiciones", "terms, conditions"], ["el acuerdo", "agreement, deal"], ["el plazo de entrega", "delivery time"], ["el pedido", "order"],
+  ["el presupuesto", "quote, estimate"], ["la rebaja", "reduction"], ["el margen", "margin"], ["la cláusula", "clause"],
+  ["el punto de vista", "point of view"], ["la prioridad", "priority"], ["la ventaja competitiva", "competitive advantage"], ["el riesgo", "risk"],
+  ["cerrar un trato", "to close a deal"], ["llegar a un compromiso", "to reach a compromise"], ["ceder", "to give way"], ["plantear", "to raise, to put forward"],
+  ["someter a votación", "to put to a vote"], ["el visto bueno", "approval, go-ahead"]
+ ]}
+]}

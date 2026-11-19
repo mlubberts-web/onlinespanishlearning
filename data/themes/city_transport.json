@@ -1,0 +1,26 @@
+{"title": "🚇 City and transport", "kind": "topic", "lists": [
+ {"name": "In the city", "level": "B1", "items": [
+  ["el barrio", "neighbourhood"], ["las afueras", "outskirts"], ["el centro histórico", "historic centre"], ["la plaza mayor", "main square"],
+  ["la acera", "pavement"], ["el paso de peatones", "zebra crossing"], ["el semáforo", "traffic lights"], ["la esquina", "corner"],
+  ["la manzana", "block (of buildings)"], ["la rotonda", "roundabout"], ["el cruce", "crossroads"], ["el ayuntamiento", "town hall"],
+  ["el polígono industrial", "industrial estate"], ["la zona peatonal", "pedestrian area"], ["el carril bici", "cycle lane"], ["el parque infantil", "playground"],
+  ["el vecino / la vecina", "neighbour"], ["el peatón / la peatona", "pedestrian"], ["el ruido", "noise"], ["la contaminación", "pollution"],
+  ["el tráfico", "traffic"], ["el aparcamiento", "car park"]
+ ]},
+ {"name": "Public transport", "level": "B1", "items": [
+  ["el autobús urbano", "city bus"], ["la parada", "stop"], ["la línea", "line, route"], ["el metro", "underground"],
+  ["la estación de cercanías", "commuter train station"], ["el tranvía", "tram"], ["el abono transporte", "travel pass"], ["el bonobús", "bus pass (for several trips)"],
+  ["la tarjeta de transporte", "transport card"], ["el revisor / la revisora", "ticket inspector"], ["el conductor / la conductora", "driver"], ["la hora punta", "rush hour"],
+  ["el horario", "timetable"], ["la frecuencia", "frequency"], ["el transbordo", "change, transfer"], ["el taxi", "taxi"],
+  ["coger el autobús", "to take the bus"], ["bajarse", "to get off"], ["subirse", "to get on"], ["validar el billete", "to validate your ticket"],
+  ["ir lleno / ir llena", "to be packed"], ["perder el autobús", "to miss the bus"]
+ ]},
+ {"name": "Driving", "level": "B2", "items": [
+  ["el carné de conducir", "driving licence"], ["la autoescuela", "driving school"], ["el volante", "steering wheel"], ["el freno", "brake"],
+  ["el maletero", "boot"], ["el capó", "bonnet"], ["el neumático", "tyre"], ["el pinchazo", "puncture"],
+  ["el intermitente", "indicator"], ["el cinturón", "seat belt"], ["la multa", "fine"], ["el radar", "speed camera"],
+  ["el límite de velocidad", "speed limit"], ["la grúa", "tow truck"], ["la ITV", "MOT test"], ["el seguro del coche", "car insurance"],
+  ["aparcar", "to park"], ["adelantar", "to overtake"], ["frenar", "to brake"], ["arrancar", "to start (the engine)"],
+  ["saltarse un semáforo", "to jump a red light"], ["dar marcha atrás", "to reverse"], ["chocar", "to crash"], ["el atropello", "being run over"]
+ ]}
+]}

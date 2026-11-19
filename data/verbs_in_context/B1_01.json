@@ -1,0 +1,90 @@
+{
+ "pdf": "B1_01",
+ "items": [
+  [
+   "El año que viene yo [terminaré / voy a terminar] la carrera.",
+   "terminar"
+  ],
+  [
+   "Yo en tu lugar [hablaría] con el jefe.",
+   "hablar",
+   "Giving advice: conditional."
+  ],
+  [
+   "¿Tú [podrías] cerrar la ventana, por favor?",
+   "poder",
+   "A polite request: conditional."
+  ],
+  [
+   "En el futuro los coches [serán] eléctricos.",
+   "ser"
+  ],
+  [
+   "Si tuviera tiempo, yo [aprendería] chino.",
+   "aprender"
+  ],
+  [
+   "Mañana yo te lo [diré]; ahora no tengo tiempo.",
+   "decir"
+  ],
+  [
+   "Me [gustaría] visitar Japón algún día.",
+   "gustar"
+  ],
+  [
+   "Ana dijo que [vendría] a la cena.",
+   "venir",
+   "The future seen from the past: conditional."
+  ],
+  [
+   "¿Dónde [estará] Juan a estas horas?",
+   "estar",
+   "Guessing about now: future of probability."
+  ],
+  [
+   "Mañana nosotros [saldremos / vamos a salir] a las ocho.",
+   "salir"
+  ],
+  [
+   "Con más dinero, vosotros [viviríais] mejor.",
+   "vivir"
+  ],
+  [
+   "Pronto [habrá] más trabajo en la ciudad.",
+   "haber"
+  ],
+  [
+   "Yo no [haría] eso nunca.",
+   "hacer"
+  ],
+  [
+   "Dentro de diez años, tú [tendrás] tu propia empresa.",
+   "tener"
+  ],
+  [
+   "Ellos me prometieron que [llamarían].",
+   "llamar"
+  ],
+  [
+   "Si ganara la lotería, yo [pondría] un restaurante.",
+   "poner"
+  ],
+  [
+   "El próximo verano nosotros [iremos / vamos a ir] a Asturias.",
+   "ir"
+  ],
+  [
+   "Tú [deberías] dormir más.",
+   "deber"
+  ],
+  [
+   "Mañana nosotros ya [sabremos] los resultados.",
+   "saber"
+  ],
+  [
+   "—¿Qué hora es? —No sé, [serán] las cinco.",
+   "ser",
+   "Guessing the time: future of probability."
+  ]
+ ]
+}

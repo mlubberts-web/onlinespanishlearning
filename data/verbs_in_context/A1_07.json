@@ -1,0 +1,86 @@
+{
+ "pdf": "A1_07",
+ "items": [
+  [
+   "Yo [me levanto] a las siete.",
+   "levantarse"
+  ],
+  [
+   "Mi hermano [se ducha] por la noche.",
+   "ducharse"
+  ],
+  [
+   "¿Cómo [se llama] tu profesora de inglés?",
+   "llamarse"
+  ],
+  [
+   "Nosotros [nos acostamos] tarde los viernes.",
+   "acostarse"
+  ],
+  [
+   "A mí [me gusta] el chocolate.",
+   "gustar"
+  ],
+  [
+   "A mis padres [les gustan] los perros.",
+   "gustar",
+   "Gustan: the subject is los perros, which is plural."
+  ],
+  [
+   "¿A ti [te gusta] bailar?",
+   "gustar"
+  ],
+  [
+   "Vosotros [os vestís] muy rápido.",
+   "vestirse"
+  ],
+  [
+   "A nosotros [nos encanta] la playa.",
+   "encantar"
+  ],
+  [
+   "Ella [se maquilla] antes de salir.",
+   "maquillarse"
+  ],
+  [
+   "Yo [me despierto] con el despertador.",
+   "despertarse"
+  ],
+  [
+   "A Juan no [le gustan] las verduras.",
+   "gustar"
+  ],
+  [
+   "Los niños [se lavan] los dientes.",
+   "lavarse"
+  ],
+  [
+   "Tú [te afeitas] cada mañana.",
+   "afeitarse"
+  ],
+  [
+   "A mí [me duele] la cabeza.",
+   "doler"
+  ],
+  [
+   "¿A vosotros [os interesa] la política?",
+   "interesar"
+  ],
+  [
+   "Yo [me siento] aquí, al lado de la ventana.",
+   "sentarse"
+  ],
+  [
+   "Mi abuela [se llama] Carmen.",
+   "llamarse"
+  ],
+  [
+   "A ella le [encantan] los libros de historia.",
+   "encantar"
+  ],
+  [
+   "Nosotros [nos divertimos] mucho en las fiestas.",
+   "divertirse"
+  ]
+ ]
+}

@@ -1,0 +1,26 @@
+{"title": "🩺 Health and the body", "kind": "topic", "lists": [
+ {"name": "The body", "level": "B1", "items": [
+  ["la cabeza", "head"], ["el cuello", "neck"], ["el hombro", "shoulder"], ["el codo", "elbow"],
+  ["la muñeca", "wrist"], ["el dedo", "finger"], ["la uña", "nail"], ["el pecho", "chest"],
+  ["la espalda", "back"], ["la cintura", "waist"], ["la cadera", "hip"], ["la rodilla", "knee"],
+  ["el tobillo", "ankle"], ["el talón", "heel"], ["la garganta", "throat"], ["el estómago", "stomach"],
+  ["el pulmón", "lung"], ["el corazón", "heart"], ["el hígado", "liver"], ["el riñón", "kidney"],
+  ["el hueso", "bone"], ["el músculo", "muscle"], ["la piel", "skin"], ["la sangre", "blood"]
+ ]},
+ {"name": "Symptoms and illness", "level": "B1", "items": [
+  ["el resfriado", "cold"], ["la gripe", "flu"], ["la fiebre", "fever, temperature"], ["la tos", "cough"],
+  ["el dolor de cabeza", "headache"], ["el dolor de muelas", "toothache"], ["el mareo", "dizziness"], ["las náuseas", "nausea"],
+  ["la alergia", "allergy"], ["la diarrea", "diarrhoea"], ["la herida", "wound"], ["la quemadura", "burn"],
+  ["la picadura", "insect bite, sting"], ["el moratón", "bruise"], ["la fractura", "fracture"], ["la enfermedad crónica", "chronic illness"],
+  ["tener fiebre", "to have a temperature"], ["toser", "to cough"], ["estornudar", "to sneeze"], ["marearse", "to feel dizzy"],
+  ["vomitar", "to vomit"], ["romperse una pierna", "to break a leg"], ["torcerse el tobillo", "to sprain your ankle"], ["doler", "to hurt"]
+ ]},
+ {"name": "At the doctor's", "level": "B2", "items": [
+  ["el centro de salud", "health centre"], ["el médico de cabecera / la médica de cabecera", "GP"], ["la consulta", "surgery, consultation"], ["la cita previa", "appointment"],
+  ["urgencias", "A&E, emergency department"], ["la receta", "prescription"], ["la farmacia de guardia", "duty chemist"], ["el análisis de sangre", "blood test"],
+  ["la radiografía", "X-ray"], ["la vacuna", "vaccine"], ["la tarjeta sanitaria", "health card"], ["el especialista / la especialista", "specialist"],
+  ["la baja médica", "sick note"], ["el tratamiento", "treatment"], ["la pastilla", "pill"], ["el jarabe", "syrup"],
+  ["la pomada", "ointment"], ["la tirita", "plaster"], ["la venda", "bandage"], ["recetar", "to prescribe"],
+  ["operar", "to operate"], ["ingresar en el hospital", "to be admitted to hospital"], ["recuperarse", "to recover"], ["la sanidad pública", "public health service"]
+ ]}
+]}

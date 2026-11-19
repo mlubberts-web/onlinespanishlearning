@@ -1,0 +1,26 @@
+{"title": "🏠 Home and housing", "kind": "topic", "lists": [
+ {"name": "Rooms and furniture", "level": "B1", "items": [
+  ["el salón", "living room"], ["el dormitorio", "bedroom"], ["el cuarto de baño", "bathroom"], ["el aseo", "toilet, small bathroom"],
+  ["el pasillo", "corridor, hallway"], ["el trastero", "storage room"], ["la terraza", "terrace"], ["el balcón", "balcony"],
+  ["el ático", "penthouse, top-floor flat"], ["el sótano", "basement"], ["el armario empotrado", "built-in wardrobe"], ["la estantería", "bookcase, shelves"],
+  ["la cómoda", "chest of drawers"], ["la mesilla de noche", "bedside table"], ["el sofá cama", "sofa bed"], ["la lámpara", "lamp"],
+  ["la persiana", "roller blind"], ["la cortina", "curtain"], ["la alfombra", "rug"], ["el radiador", "radiator"],
+  ["el enchufe", "socket, plug"], ["el grifo", "tap"]
+ ]},
+ {"name": "Renting and buying", "level": "B2", "items": [
+  ["el alquiler", "rent"], ["el inquilino / la inquilina", "tenant"], ["el casero / la casera", "landlord or landlady"], ["la fianza", "deposit"],
+  ["el contrato de alquiler", "tenancy agreement"], ["la hipoteca", "mortgage"], ["la inmobiliaria", "estate agency"], ["la comunidad de vecinos", "residents' association"],
+  ["los gastos de comunidad", "service charges"], ["el piso compartido", "shared flat"], ["el piso amueblado", "furnished flat"], ["la vivienda de protección oficial", "subsidised housing"],
+  ["el portero automático", "entry phone"], ["el ascensor", "lift"], ["la escritura", "title deed"], ["el recibo de la luz", "electricity bill"],
+  ["el desahucio", "eviction"], ["alquilar", "to rent"], ["mudarse de casa", "to move house"], ["pagar a plazos", "to pay in instalments"],
+  ["compartir piso", "to share a flat"], ["luminoso / luminosa", "bright, full of light"], ["exterior", "facing the street"], ["interior", "facing the inner courtyard"]
+ ]},
+ {"name": "Housework and repairs", "level": "B2", "items": [
+  ["las tareas domésticas", "housework"], ["fregar los platos", "to do the washing-up"], ["el lavavajillas", "dishwasher"], ["la lavadora", "washing machine"],
+  ["tender la ropa", "to hang out the washing"], ["planchar", "to iron"], ["barrer", "to sweep"], ["pasar la aspiradora", "to vacuum"],
+  ["fregar el suelo", "to mop the floor"], ["quitar el polvo", "to dust"], ["hacer la cama", "to make the bed"], ["sacar la basura", "to take out the rubbish"],
+  ["la fregona", "mop"], ["la escoba", "broom"], ["el fontanero / la fontanera", "plumber"], ["el electricista / la electricista", "electrician"],
+  ["la gotera", "leak (from the ceiling)"], ["la humedad", "damp"], ["el atasco en el desagüe", "blocked drain"], ["la avería", "breakdown, fault"],
+  ["arreglar", "to fix"], ["pintar las paredes", "to paint the walls"], ["la reforma", "renovation"]
+ ]}
+]}

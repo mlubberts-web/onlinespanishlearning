@@ -1,0 +1,91 @@
+{
+ "pdf": "B1_07",
+ "items": [
+  [
+   "Si [llueve] mañana, nos quedaremos en casa.",
+   "llover",
+   "A real possibility: si + present."
+  ],
+  [
+   "Si yo [tuviera / tuviese] dinero, viajaría por el mundo.",
+   "tener",
+   "Unlikely or unreal now: si + imperfect subjunctive."
+  ],
+  [
+   "Si [hubieras estudiado / hubieses estudiado], habrías aprobado.",
+   "estudiar",
+   "Unreal past: si + pluperfect subjunctive."
+  ],
+  [
+   "Si estudias, [aprobarás] el examen.",
+   "aprobar"
+  ],
+  [
+   "Si yo fuera tú, [hablaría] con ella.",
+   "hablar"
+  ],
+  [
+   "Si me hubieras llamado, yo [habría ido / hubiera ido] contigo.",
+   "ir"
+  ],
+  [
+   "Si tienes tiempo, [llámame].",
+   "llamar"
+  ],
+  [
+   "Si nosotros [viviéramos / viviésemos] en la costa, iríamos a la playa cada día.",
+   "vivir"
+  ],
+  [
+   "Ana dijo: «Estoy cansada». Es decir, Ana dijo que [estaba] cansada.",
+   "estar",
+   "Reported: the present becomes imperfect."
+  ],
+  [
+   "Juan dijo: «Iré mañana». Es decir, Juan dijo que [iría] al día siguiente.",
+   "ir",
+   "Reported: the future becomes conditional."
+  ],
+  [
+   "Me dijeron: «Hemos terminado». Es decir, me dijeron que [habían terminado].",
+   "terminar"
+  ],
+  [
+   "María me pidió: «Ven pronto». Es decir, María me pidió que [viniera / viniese] pronto.",
+   "venir",
+   "A reported request: que + imperfect subjunctive."
+  ],
+  [
+   "Pedro dijo: «Compré un coche». Es decir, Pedro dijo que [había comprado / compró] un coche.",
+   "comprar"
+  ],
+  [
+   "Si yo [ganara / ganase] la lotería, dejaría de trabajar.",
+   "ganar"
+  ],
+  [
+   "Si [hace] buen tiempo, iremos de excursión.",
+   "hacer"
+  ],
+  [
+   "Si vosotros [hubierais venido / hubieseis venido], os habríais divertido.",
+   "venir"
+  ],
+  [
+   "Mi madre me preguntó si yo [tenía] hambre.",
+   "tener"
+  ],
+  [
+   "Le dije que yo no [sabía] nada.",
+   "saber"
+  ],
+  [
+   "Si yo [pudiera / pudiese], te ayudaría.",
+   "poder"
+  ],
+  [
+   "El profesor nos dijo que [estudiáramos / estudiásemos] el capítulo tres.",
+   "estudiar"
+  ]
+ ]
+}

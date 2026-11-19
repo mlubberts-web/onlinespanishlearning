@@ -1,0 +1,26 @@
+{"title": "💻 Technology and the internet", "kind": "topic", "lists": [
+ {"name": "Devices", "level": "B1", "items": [
+  ["el ordenador portátil", "laptop"], ["el ordenador de sobremesa", "desktop computer"], ["la tableta", "tablet"], ["el teclado", "keyboard"],
+  ["el ratón", "mouse"], ["la pantalla", "screen"], ["el cargador", "charger"], ["la batería", "battery"],
+  ["los auriculares", "headphones"], ["el altavoz", "speaker"], ["la impresora", "printer"], ["el disco duro", "hard drive"],
+  ["el pendrive", "USB stick"], ["el mando a distancia", "remote control"], ["el router", "router"], ["el cable", "cable"],
+  ["encender", "to switch on"], ["apagar", "to switch off"], ["cargar el móvil", "to charge your phone"], ["reiniciar", "to restart"],
+  ["quedarse sin batería", "to run out of battery"], ["la aplicación", "app"]
+ ]},
+ {"name": "Online", "level": "B1", "items": [
+  ["la red social", "social network"], ["la contraseña", "password"], ["el nombre de usuario", "username"], ["la cuenta", "account"],
+  ["el correo electrónico", "email"], ["el archivo adjunto", "attachment"], ["la página web", "website"], ["el enlace", "link"],
+  ["el buscador", "search engine"], ["la descarga", "download"], ["la nube", "the cloud"], ["la conexión", "connection"],
+  ["la red wifi", "wifi network"], ["el seguidor / la seguidora", "follower"], ["la publicación", "post"], ["el comentario", "comment"],
+  ["descargar", "to download"], ["subir una foto", "to upload a photo"], ["compartir", "to share"], ["navegar por internet", "to browse the internet"],
+  ["iniciar sesión", "to log in"], ["cerrar sesión", "to log out"], ["darse de alta", "to sign up"]
+ ]},
+ {"name": "Technology and society", "level": "C1", "items": [
+  ["la inteligencia artificial", "artificial intelligence"], ["la brecha digital", "digital divide"], ["la ciberseguridad", "cybersecurity"], ["el pirata informático", "hacker"],
+  ["el virus", "virus"], ["la privacidad", "privacy"], ["los datos personales", "personal data"], ["las noticias falsas", "fake news"],
+  ["el algoritmo", "algorithm"], ["la adicción a las pantallas", "screen addiction"], ["el comercio electrónico", "e-commerce"], ["la realidad virtual", "virtual reality"],
+  ["la copia de seguridad", "backup"], ["el ciberacoso", "cyberbullying"], ["la desconexión digital", "digital detox"], ["el teletrabajo", "remote working"],
+  ["la actualización", "update"], ["el software", "software"], ["hackear", "to hack"], ["actualizar", "to update"],
+  ["estar enganchado al móvil", "to be hooked on your phone"], ["hacerse viral", "to go viral"]
+ ]}
+]}

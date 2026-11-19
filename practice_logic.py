@@ -1,15 +1,24 @@
 """The rules of practising: checking an answer, the rounds, and choosing the questions.
 No screens in this file, which is what makes it possible to test it automatically."""
-import random
+import random, re
 
-from practice_items import clean_text, differences
+from practice_items import MODES, clean_text, differences
 
 ARTICLES = ("el ", "la ", "los ", "las ", "un ", "una ")
+# Spanish usually leaves out the subject pronoun (hablo instead of yo hablo). Adding it or leaving
+# it out never counts as a mistake in these exercise types. Not in listening, where you type what
+# you hear, and not in "Fix the mistake", where the pronoun can be the mistake itself.
+PRONOUN_MODES = ("verbs", "fill", "translate")
+PRONOUNS = {"yo", "tú", "él", "ella", "usted", "nosotros", "nosotras", "vosotros", "vosotras",
+            "ellos", "ellas", "ustedes"}
+TYPED_PRONOUNS = PRONOUNS | {"tu", "el"}  # in what you type, also tú and él without the accent
 MOCK_MODES = ("fill", "verbs", "words", "translate", "fix", "listen")
+CHAIN = [mode for mode, _, _ in MODES]  # the order in which the exercise types follow each other
 
-# How each small difference is described in the yellow warning.
-WARNINGS = {"accent": "the accent", "ñ": "the ñ", "capital": "capital letters",
-            "first capital": "the capital letter", "question mark": "the ¿ ? ¡ !"}
+# How each small difference is described in the yellow warning. Capital letters are not in
+# here, so they never give a warning. Only "Fix the mistake" checks them, through must_match,
+# when the capital is the mistake itself.
+WARNINGS = {"accent": "the accent", "ñ": "the ñ", "question mark": "the ¿ ? ¡ !"}
 
 
 # ---------- checking one answer ----------
@@ -26,17 +35,50 @@ def warning_text(warnings):
     return "Correct, but mind " + " and ".join(WARNINGS[kind] for kind in warnings) + "."
 
 
-def check_answer(item, typed):
+def answer_key(item):
+    """The name under which your accepted answers to a question are saved. The PDF is left out on
+    purpose, so the same question in another PDF or a themed list accepts your answer as well."""
+    if item["speak"]:
+        question = item["speak"]  # all listening questions have the same prompt text
+    elif item["mode"] == "build":
+        question = " ".join(item["tiles"])
+    else:
+        question = item["prompt"]
+    return f"{item['mode']}|{question}|{item['hint']}"
+
+
+def drop_pronoun(text, pronouns):
+    """Returns the text without the subject pronoun at the start, or None when it has none.
+    A ¿ or ¡ in front stays: '¿Tú hablas inglés?' becomes '¿hablas inglés?'."""
+    match = re.match(r"([¿¡]*)\s*(\w+)\s+(.+)", text)  # \w+ is one word; the ( ) parts are kept
+    if match and match.group(2).lower() in pronouns:
+        return match.group(1) + match.group(3)
+    return None
+
+
+def compare_without_pronoun(item, typed, answer):
+    """Compares once more with the pronoun left out, when exactly one of the two has a pronoun.
+    When both have one, they must be the same, so 'él come' stays wrong for 'ella come'."""
+    typed_short = drop_pronoun(typed, TYPED_PRONOUNS)
+    answer_short = drop_pronoun(answer, PRONOUNS)
+    if (typed_short is None) == (answer_short is None):  # both or neither have a pronoun
+        return None
+    return compare(item, typed_short or typed, answer_short or answer)
+
+
+def check_answer(item, typed, accepted=()):
     """Returns (result, note). The result is 'right', 'near' or 'wrong'.
-    'near' means yellow: it counts as correct, but something small was off."""
+    'near' means yellow: it counts as correct, but something small was off.
+    'accepted' are extra answers you said were right with the 'I was actually right' button."""
     typed = " ".join(typed.split())
+    answers = item["answers"] + list(accepted)  # + joins two lists, like [a, b] in MATLAB
 
     if item["mode"] == "build":  # the tiles have no capitals or punctuation, so only the order counts
         words = clean_text(typed)
-        return ("right", "") if any(words == clean_text(a) for a in item["answers"]) else ("wrong", "")
+        return ("right", "") if any(words == clean_text(a) for a in answers) else ("wrong", "")
 
     best = None
-    for answer in item["answers"]:
+    for answer in answers:
         warnings = compare(item, typed, answer)
         if warnings == []:  # the list is empty: nothing to warn about
             return "right", ""
@@ -46,7 +88,7 @@ def check_answer(item, typed):
         return "near", warning_text(best)
 
     if item["mode"] == "words":  # vocabulary: the word is right, but el / la was left out
-        for answer in item["answers"]:
+        for answer in answers:
             lower = answer.lower()
             if lower.startswith(ARTICLES):
                 article, word = answer.split(" ", 1)
@@ -55,15 +97,61 @@ def check_answer(item, typed):
                     note = f"Correct, but learn the word with its article: {article.lower()} {word}."
                     return "near", note
 
+    if item["mode"] in PRONOUN_MODES:  # yo, tú, ella ... added or left out
+        for answer in answers:
+            warnings = compare_without_pronoun(item, typed, answer)
+            if warnings == []:
+                return "right", ""
+            if warnings:
+                return "near", warning_text(warnings)
+
     return "wrong", ""
 
 
+def done_key(item):
+    """The name under which 'Mark as done' is saved for the exercise this question belongs to.
+    For a PDF that is the PDF and exercise type, like 'A1_09|words'. For a themed list it is the
+    list, like 'THEME_food|list:Fruit', because a list's card marks all its types at once."""
+    source = item["id"].split("|")[0]  # the id starts with the PDF id or THEME_name
+    if source.startswith("THEME_"):
+        return f"{source}|list:{item['group']}"
+    return f"{source}|{item['mode']}"
+
+
 # ---------- choosing the questions ----------
+KNOWN_FACTOR = 10  # a question you got right on the first try last time is chosen 10x less often
+MIN_PRACTISED = 10  # a subject is only judged once you have practised this many of its questions
+WEAK_BELOW = 0.70   # a subject is weak when less than 70% was right on the first try
+
+
 def weight(stats):
-    """How likely a question is to be chosen. Often wrong means high, often right means low."""
+    """How likely a question is to be chosen. Often wrong means high, often right means low,
+    and right on the first try last time divides it by 10."""
     if stats is None:
         return 3  # never practised
-    return max(1, 3 + 3 * stats["wrong"] - stats["right"])
+    usual = max(1, 3 + 3 * stats["wrong"] - stats["right"])
+    return usual / KNOWN_FACTOR if stats["last_ok"] else usual
+
+
+def first_try_score(items, stats_by_id):
+    """Returns (share right on the first try last time, number practised) for a group of questions.
+    The share is None while fewer than MIN_PRACTISED of them were practised."""
+    practised = [item for item in items if item["id"] in stats_by_id]
+    if len(practised) < MIN_PRACTISED:
+        return None, len(practised)
+    right = sum(stats_by_id[item["id"]]["last_ok"] for item in practised)  # True counts as 1
+    return right / len(practised), len(practised)
+
+
+def weak_subjects(subjects, stats_by_id):
+    """'subjects' is a list of (name, items). Returns the weak ones as (score, practised, name, items),
+    the weakest first."""
+    weak = []
+    for name, items in subjects:
+        score, practised = first_try_score(items, stats_by_id)
+        if score is not None and score < WEAK_BELOW:
+            weak.append((score, practised, name, items))
+    return sorted(weak, key=lambda subject: subject[0])  # sorted by the score, lowest first
 
 
 def choose_items(items, stats_by_id, size):
@@ -147,6 +235,18 @@ def go_to_next(drill):
         return
     drill["position"] = 0
     drill["wrong_now"] = []
+
+
+def next_step(modes, current, has_weak):
+    """What comes after a finished session of type 'current'. 'modes' are the exercise types this
+    PDF or list has. Returns the next type, 'weak' for your weak questions at the end, or None
+    when this PDF is done. The mixed test and the weak questions are never followed by a type."""
+    if current not in CHAIN:
+        return None
+    later = [mode for mode in CHAIN[CHAIN.index(current) + 1:] if mode in modes]
+    if later:
+        return later[0]
+    return "weak" if has_weak else None
 
 
 def score_percent(drill):

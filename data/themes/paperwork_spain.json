@@ -1,0 +1,26 @@
+{"title": "📋 Paperwork in Spain", "kind": "topic", "lists": [
+ {"name": "Documents", "level": "B1", "items": [
+  ["el DNI", "Spanish ID card"], ["el NIE", "foreigner's identity number"], ["el pasaporte", "passport"], ["el certificado de empadronamiento", "proof of address certificate"],
+  ["el padrón", "local register of residents"], ["la tarjeta de residencia", "residence card"], ["el permiso de trabajo", "work permit"], ["el número de la seguridad social", "social security number"],
+  ["el formulario", "form"], ["la solicitud", "application"], ["el impreso", "printed form"], ["la fotocopia", "photocopy"],
+  ["la firma", "signature"], ["el sello", "stamp"], ["la fecha de caducidad", "expiry date"], ["el justificante", "proof, receipt"],
+  ["la tasa", "fee"], ["el original", "original document"], ["el certificado digital", "digital certificate"], ["el requisito", "requirement"],
+  ["caducar", "to expire"], ["firmar", "to sign"]
+ ]},
+ {"name": "At the office", "level": "B2", "items": [
+  ["la cita previa", "appointment (booked in advance)"], ["la ventanilla", "service window, counter"], ["el funcionario / la funcionaria", "civil servant"], ["el trámite", "procedure, formality"],
+  ["la gestoría", "agency that handles paperwork"], ["el gestor / la gestora", "paperwork agent"], ["la oficina de extranjería", "immigration office"], ["Hacienda", "the Spanish tax office"],
+  ["la declaración de la renta", "income tax return"], ["el número de turno", "queue number"], ["la sede electrónica", "online government office"], ["el plazo", "deadline, time limit"],
+  ["empadronarse", "to register as a resident"], ["pedir cita", "to make an appointment"], ["rellenar un formulario", "to fill in a form"], ["presentar la solicitud", "to submit the application"],
+  ["tramitar", "to process"], ["renovar", "to renew"], ["compulsar", "to certify a copy"], ["hacer cola", "to wait in line"],
+  ["estar en trámite", "to be in progress"], ["la burocracia", "bureaucracy"]
+ ]},
+ {"name": "Bills and services", "level": "B2", "items": [
+  ["el recibo", "bill, receipt"], ["la factura de la luz", "electricity bill"], ["el gas", "gas"], ["la compañía eléctrica", "electricity company"],
+  ["el contrato de suministro", "utility contract"], ["el contador", "meter"], ["la lectura del contador", "meter reading"], ["la tarifa", "tariff, rate"],
+  ["la permanencia", "minimum contract period"], ["dar de alta la luz", "to set up the electricity"], ["darse de baja", "to cancel (a service)"], ["la atención al cliente", "customer service"],
+  ["la reclamación", "complaint"], ["la hoja de reclamaciones", "official complaints form"], ["el seguro de hogar", "home insurance"], ["el impuesto de basuras", "rubbish collection tax"],
+  ["el IBI", "council property tax"], ["domiciliar un recibo", "to pay a bill by direct debit"], ["el cargo", "charge"], ["el reembolso", "refund"],
+  ["la portabilidad", "number transfer (phone)"], ["la fibra óptica", "fibre-optic broadband"]
+ ]}
+]}

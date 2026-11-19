@@ -1,0 +1,26 @@
+{"title": "🏛️ Politics and society", "kind": "topic", "lists": [
+ {"name": "Government and elections", "level": "B2", "items": [
+  ["el gobierno", "government"], ["el presidente del Gobierno / la presidenta del Gobierno", "prime minister (of Spain)"], ["el ministro / la ministra", "minister"], ["el Congreso de los Diputados", "the Spanish lower house"],
+  ["el diputado / la diputada", "member of parliament"], ["el senado", "senate"], ["el partido político", "political party"], ["la oposición", "the opposition"],
+  ["las elecciones generales", "general election"], ["la campaña electoral", "election campaign"], ["el candidato / la candidata", "candidate"], ["el voto", "vote"],
+  ["la urna", "ballot box"], ["el escaño", "seat (in parliament)"], ["la mayoría absoluta", "absolute majority"], ["la coalición", "coalition"],
+  ["el alcalde / la alcaldesa", "mayor"], ["la comunidad autónoma", "autonomous region"], ["la ley", "law"], ["el referéndum", "referendum"],
+  ["votar", "to vote"], ["gobernar", "to govern"], ["dimitir", "to resign"], ["aprobar una ley", "to pass a law"]
+ ]},
+ {"name": "Social issues", "level": "B2", "items": [
+  ["la desigualdad", "inequality"], ["la pobreza", "poverty"], ["el desempleo", "unemployment"], ["la inmigración", "immigration"],
+  ["el inmigrante / la inmigrante", "immigrant"], ["el refugiado / la refugiada", "refugee"], ["la integración", "integration"], ["el racismo", "racism"],
+  ["la discriminación", "discrimination"], ["la igualdad de género", "gender equality"], ["la violencia de género", "gender-based violence"], ["el envejecimiento de la población", "ageing population"],
+  ["la natalidad", "birth rate"], ["la despoblación", "depopulation"], ["la España vaciada", "rural, depopulated Spain"], ["el acceso a la vivienda", "access to housing"],
+  ["la exclusión social", "social exclusion"], ["la solidaridad", "solidarity"], ["la ONG", "NGO"], ["el voluntariado", "volunteering"],
+  ["la manifestación", "demonstration"], ["manifestarse", "to demonstrate"], ["reivindicar", "to demand, to campaign for"]
+ ]},
+ {"name": "Debating politics", "level": "C1", "items": [
+  ["la medida", "measure"], ["la reforma", "reform"], ["el recorte", "cut"], ["la subvención", "subsidy"],
+  ["los impuestos", "taxes"], ["el gasto público", "public spending"], ["el estado del bienestar", "welfare state"], ["la corrupción", "corruption"],
+  ["el escándalo político", "political scandal"], ["la transparencia", "transparency"], ["la libertad de expresión", "freedom of speech"], ["los derechos humanos", "human rights"],
+  ["la polarización", "polarisation"], ["el populismo", "populism"], ["la izquierda", "the left"], ["la derecha", "the right"],
+  ["el pacto", "agreement, pact"], ["la moción de censura", "motion of no confidence"], ["promulgar", "to enact"], ["derogar", "to repeal"],
+  ["comprometerse a", "to commit to"], ["llegar a un acuerdo", "to reach an agreement"]
+ ]}
+]}

@@ -1,0 +1,98 @@
+{
+ "pdf": "B1_03",
+ "items": [
+  [
+   "Creo que Juan [tiene] razón.",
+   "tener",
+   "Creo que: indicative."
+  ],
+  [
+   "No creo que Juan [tenga] razón.",
+   "tener",
+   "No creo que: subjunctive."
+  ],
+  [
+   "Yo quiero [ir] al cine.",
+   "ir",
+   "The same subject: infinitive."
+  ],
+  [
+   "Quiero que tú [vayas] al cine conmigo.",
+   "ir",
+   "Another subject: que + subjunctive."
+  ],
+  [
+   "Cuando [tengo] tiempo, leo.",
+   "tener",
+   "Something you usually do: indicative."
+  ],
+  [
+   "Cuando [tenga] tiempo, leeré ese libro.",
+   "tener",
+   "Cuando about the future: subjunctive."
+  ],
+  [
+   "Es evidente que el plan [funciona].",
+   "funcionar"
+  ],
+  [
+   "Es posible que el plan no [funcione].",
+   "funcionar"
+  ],
+  [
+   "Me alegro de que tú [estés] aquí.",
+   "estar"
+  ],
+  [
+   "Sé que tú [estás] cansado.",
+   "estar"
+  ],
+  [
+   "Aunque [llueva] mañana, iremos a la playa.",
+   "llover",
+   "Aunque about something not yet known: subjunctive."
+  ],
+  [
+   "Busco a la chica que [trabaja] aquí; la conozco.",
+   "trabajar",
+   "A person who exists and is known: indicative."
+  ],
+  [
+   "Busco a alguien que [hable] alemán.",
+   "hablar",
+   "Anyone at all: subjunctive."
+  ],
+  [
+   "Te llamo para que me [ayudes].",
+   "ayudar"
+  ],
+  [
+   "Me parece que [va] a llover.",
+   "ir"
+  ],
+  [
+   "No me parece que [sea] buena idea.",
+   "ser"
+  ],
+  [
+   "Es una pena que vosotros no [podáis] venir.",
+   "poder"
+  ],
+  [
+   "Está claro que ellos [saben] la verdad.",
+   "saber"
+  ],
+  [
+   "Tan pronto como vosotros [lleguéis], cenaremos.",
+   "llegar"
+  ],
+  [
+   "Siempre que [voy] a Madrid, visito el Prado.",
+   "ir"
+  ],
+  [
+   "Adiós, Marta, que [tengas] un buen día.",
+   "tener"
+  ]
+ ]
+}
