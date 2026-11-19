@@ -1,0 +1,642 @@
+{
+  "meta": {
+    "level": "C1",
+    "section": "Grammar",
+    "number": 6,
+    "total_in_level": 10,
+    "title": "Register, Hedging and Academic Style",
+    "subtitle": "colloquial to academic register, reporting and citing, hedging and certainty, politeness, colloquial Spain",
+    "footer": "Spanish Learning Program · C1 · Grammar · Register and academic style",
+    "next": "Next: C1 · PDF 7 — Idiomatic verbs and fixed expressions"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "match vocabulary and grammar to the register (colloquial, neutral, formal, academic)",
+        "report other people's ideas with the right verbs and citation phrases",
+        "hedge claims and mark certainty (podría, tiende a, en cierta medida)",
+        "be polite and indirect in formal requests, refusals and complaints"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "1. Registers compared"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        3.4,
+        4.4,
+        4.4,
+        4.8
+      ],
+      "head": [
+        "Idea",
+        "Colloquial",
+        "Neutral",
+        "Formal / academic"
+      ],
+      "rows": [
+        [
+          "to start",
+          "empezar",
+          "comenzar",
+          "iniciar"
+        ],
+        [
+          "to say",
+          "decir",
+          "comentar",
+          "afirmar, señalar"
+        ],
+        [
+          "to get / obtain",
+          "conseguir",
+          "obtener",
+          "adquirir, lograr"
+        ],
+        [
+          "to show",
+          "enseñar",
+          "mostrar",
+          "poner de manifiesto"
+        ],
+        [
+          "to think",
+          "creer",
+          "pensar",
+          "considerar, estimar"
+        ],
+        [
+          "a lot of",
+          "un montón de",
+          "mucho(s)",
+          "numeroso(s), gran cantidad de"
+        ],
+        [
+          "to try",
+          "intentar",
+          "tratar de",
+          "procurar, pretender"
+        ],
+        [
+          "but",
+          "pero",
+          "sin embargo",
+          "no obstante"
+        ],
+        [
+          "so",
+          "así que",
+          "por eso",
+          "por consiguiente"
+        ],
+        [
+          "to need",
+          "necesitar",
+          "hacer falta",
+          "precisar, requerir"
+        ]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<b>Colloquial</b>: contractions of speech, interjections, short sentences, <i>tío, guay, mola, vale, currar, pasta, flipar</i>.",
+        "<b>Neutral</b>: standard vocabulary, clear sentences, tú or usted by context.",
+        "<b>Formal / academic</b>: usted, impersonal se, passive, nominalisation, long sentences with connectors, hedging, no slang."
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "2. Reporting and citing"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.0,
+        6.2,
+        5.8
+      ],
+      "head": [
+        "Phrase",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "según + author",
+          "Según García (2020), ...",
+          "According to García (2020), ..."
+        ],
+        [
+          "de acuerdo con",
+          "De acuerdo con los datos, ...",
+          "In accordance with the data, ..."
+        ],
+        [
+          "como señala / indica / apunta",
+          "Como señala López, el mercado cambia.",
+          "As López points out, the market changes."
+        ],
+        [
+          "en palabras de",
+          "En palabras de Ortega, ...",
+          "In Ortega's words, ..."
+        ],
+        [
+          "a juicio de / a mi juicio",
+          "A juicio del autor, es inevitable.",
+          "In the author's judgement, it is inevitable."
+        ],
+        [
+          "tal y como afirma",
+          "Tal y como afirma el informe, ...",
+          "As the report states, ..."
+        ],
+        [
+          "según se desprende de",
+          "Según se desprende del estudio, ...",
+          "As emerges from the study, ..."
+        ],
+        [
+          "cabe citar / mencionar",
+          "Cabe citar el caso de Francia.",
+          "The case of France is worth citing."
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Reporting verbs"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        3.4,
+        3.4,
+        3.4,
+        3.4,
+        3.4
+      ],
+      "head": [
+        "Neutral",
+        "Strong claim",
+        "Suggestion",
+        "Doubt / criticism",
+        "Conclusion"
+      ],
+      "rows": [
+        [
+          "decir",
+          "afirmar",
+          "sugerir",
+          "cuestionar",
+          "concluir"
+        ],
+        [
+          "comentar",
+          "sostener",
+          "plantear",
+          "negar",
+          "demostrar"
+        ],
+        [
+          "explicar",
+          "defender",
+          "proponer",
+          "poner en duda",
+          "constatar"
+        ],
+        [
+          "señalar",
+          "insistir en",
+          "apuntar",
+          "refutar",
+          "deducir"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "warn",
+      "title": "Tense and mood",
+      "text": "<b>Afirmar / sostener / concluir + que + indicative</b>. <b>Negar / dudar / cuestionar que + subjunctive</b>: <i>El autor niega que sea posible.</i> With <b>no negar que + indicative</b>: <i>No niego que es difícil.</i>"
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "3. Hedging and certainty"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.0,
+        6.2,
+        5.8
+      ],
+      "head": [
+        "Function",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "Probability (modal)",
+          "Podría tratarse de un error.",
+          "It could be a mistake."
+        ],
+        [
+          "Tendency",
+          "Tiende a aumentar con la edad.",
+          "It tends to increase with age."
+        ],
+        [
+          "Partly",
+          "En cierta medida, es cierto.",
+          "To some extent, it is true."
+        ],
+        [
+          "Limited scope",
+          "Hasta cierto punto, tiene razón.",
+          "To a certain extent, he is right."
+        ],
+        [
+          "Mostly",
+          "En gran parte, depende del clima.",
+          "To a large extent, it depends on the climate."
+        ],
+        [
+          "General",
+          "Por lo general, hay poco ruido.",
+          "As a rule, there is little noise."
+        ],
+        [
+          "Appearance",
+          "Parece que / Al parecer / Según parece ...",
+          "It seems that / Apparently ..."
+        ],
+        [
+          "Suppose",
+          "Se supone que llega mañana.",
+          "He is supposed to arrive tomorrow."
+        ],
+        [
+          "Strong certainty",
+          "Sin lugar a dudas, / Es evidente que ...",
+          "Without a doubt, / It is evident that ..."
+        ],
+        [
+          "Evidence",
+          "Los datos indican que ...",
+          "The data indicate that ..."
+        ],
+        [
+          "Possibility",
+          "Es posible que + subj. / Cabe la posibilidad de que + subj.",
+          "It is possible that ..."
+        ],
+        [
+          "Rumour (cond.)",
+          "El ministro habría aceptado.",
+          "The minister has reportedly accepted."
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "4. Politeness and indirectness"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.6,
+        5.8,
+        5.6
+      ],
+      "head": [
+        "Direct",
+        "Polite",
+        "Very formal"
+      ],
+      "rows": [
+        [
+          "Dame el informe.",
+          "¿Me das el informe, por favor?",
+          "¿Sería tan amable de entregarme el informe?"
+        ],
+        [
+          "No puedo ir.",
+          "Lo siento, no puedo ir.",
+          "Lamento comunicarle que no podré asistir."
+        ],
+        [
+          "Tienes que firmar aquí.",
+          "Tienes que firmar aquí, por favor.",
+          "Le ruego que firme aquí."
+        ],
+        [
+          "Eso está mal.",
+          "Creo que eso no es del todo correcto.",
+          "Me permito señalar que esa afirmación es discutible."
+        ],
+        [
+          "Quiero una reunión.",
+          "Me gustaría reunirme.",
+          "Quisiera solicitar una reunión."
+        ],
+        [
+          "No estoy de acuerdo.",
+          "Entiendo, pero no estoy del todo de acuerdo.",
+          "Respetando su opinión, discrepo."
+        ],
+        [
+          "Estoy enfadado.",
+          "Estoy un poco molesto.",
+          "Expreso mi disconformidad."
+        ]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<b>Conditional and imperfect</b> soften requests: <i>Querría pedirle ...  ¿Podría usted ...?  Me preguntaba si ...</i>",
+        "<b>Formulas:</b> <i>Le agradecería que + imperf. subj., Le ruego que + pres. subj., Me permito + inf., Tengo el placer de + inf.</i>",
+        "<b>Softeners:</b> <i>un poco, algo, quizá, tal vez, a lo mejor, ¿no cree?</i>"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "5. Colloquial Spain: what to recognise"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.0,
+        6.2,
+        5.8
+      ],
+      "head": [
+        "Word / phrase",
+        "Meaning",
+        "Example"
+      ],
+      "rows": [
+        [
+          "tío / tía",
+          "guy / girl, mate",
+          "Oye, tío, ¿vienes?"
+        ],
+        [
+          "guay / mola",
+          "cool / is cool",
+          "¡Qué guay! Me mola."
+        ],
+        [
+          "currar / el curro",
+          "to work / job",
+          "Mañana curro."
+        ],
+        [
+          "la pasta / la pela",
+          "money",
+          "No tengo pasta."
+        ],
+        [
+          "flipar",
+          "to be amazed",
+          "Flipé con el concierto."
+        ],
+        [
+          "chaval / chavala",
+          "kid, youngster",
+          "Es un buen chaval."
+        ],
+        [
+          "vale",
+          "OK",
+          "Vale, quedamos."
+        ],
+        [
+          "pasar de",
+          "to not care about",
+          "Paso de ir."
+        ],
+        [
+          "quedar",
+          "to arrange to meet",
+          "Quedamos a las ocho."
+        ],
+        [
+          "estar hecho polvo",
+          "to be exhausted",
+          "Estoy hecho polvo."
+        ],
+        [
+          "ni de coña",
+          "no way (informal)",
+          "¡Ni de coña!"
+        ],
+        [
+          "menudo + noun",
+          "what a ...",
+          "¡Menudo lío!"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "spain",
+      "title": "Recognise, do not overuse",
+      "text": "Colloquial words are essential for <b>understanding</b> Spaniards. In exams, formal emails and academic writing, use the neutral or formal equivalent. Among friends in Spain, <b>tío</b> and <b>vale</b> are part of normal speech."
+    },
+    {
+      "type": "h1",
+      "text": "6. Common mistakes"
+    },
+    {
+      "type": "mistakes",
+      "rows": [
+        [
+          "Estimado señor, te escribo para ...",
+          "Estimado señor: Le escribo para ...",
+          "usted throughout."
+        ],
+        [
+          "El autor dice que es guay.",
+          "El autor sostiene que es notable.",
+          "avoid slang in academic text."
+        ],
+        [
+          "Los datos demuestran que podría ser.",
+          "Los datos sugieren que podría ser.",
+          "do not mix strong verb + hedge."
+        ],
+        [
+          "El autor niega que es posible.",
+          "El autor niega que sea posible.",
+          "negar que + subjunctive."
+        ],
+        [
+          "Según García dice, ...",
+          "Según García, ...",
+          "según + name, no verb."
+        ],
+        [
+          "Pienso que es un error, pero no sé.",
+          "Considero que podría ser un error.",
+          "hedge, then formal verb."
+        ],
+        [
+          "Dame el informe ya.",
+          "¿Podría entregarme el informe?",
+          "too direct for formal."
+        ],
+        [
+          "Es muy muy importante.",
+          "Resulta fundamental.",
+          "avoid repetition in formal text."
+        ],
+        [
+          "Y entonces vale, o sea, que sí.",
+          "En consecuencia, se acepta.",
+          "no fillers in writing."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "7. Self-check"
+    },
+    {
+      "type": "p",
+      "text": "Fill in the missing formal word. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Hint"
+      ],
+      "items": [
+        {
+          "q": "______ García (2020), el mercado cambia.",
+          "hint": "according to",
+          "a": "Según",
+          "full": "Según García (2020), el mercado cambia."
+        },
+        {
+          "q": "Como ______ el informe, la tasa baja.",
+          "hint": "señalar: él, present",
+          "a": "señala",
+          "full": "Como señala el informe, la tasa baja."
+        },
+        {
+          "q": "El autor niega que ______ posible.",
+          "hint": "ser: subjunctive",
+          "a": "sea",
+          "full": "El autor niega que sea posible."
+        },
+        {
+          "q": "El precio ______ a subir en invierno.",
+          "hint": "tends to",
+          "a": "tiende",
+          "full": "El precio tiende a subir en invierno."
+        },
+        {
+          "q": "En cierta ______, tiene razón.",
+          "hint": "to some extent",
+          "a": "medida",
+          "full": "En cierta medida, tiene razón."
+        },
+        {
+          "q": "Le ______ que firme aquí.",
+          "hint": "rogar: yo, present",
+          "a": "ruego",
+          "full": "Le ruego que firme aquí."
+        },
+        {
+          "q": "Le ______ que me enviara la factura.",
+          "hint": "agradecer: conditional",
+          "a": "agradecería",
+          "full": "Le agradecería que me enviara la factura."
+        },
+        {
+          "q": "Se ______ que llega mañana.",
+          "hint": "suponer: present",
+          "a": "supone",
+          "full": "Se supone que llega mañana."
+        },
+        {
+          "q": "Los datos ______ que el consumo crece.",
+          "hint": "indicar: present, plural",
+          "a": "indican",
+          "full": "Los datos indican que el consumo crece."
+        },
+        {
+          "q": "Quisiera ______ una reunión.",
+          "hint": "to request (formal)",
+          "a": "solicitar",
+          "full": "Quisiera solicitar una reunión."
+        },
+        {
+          "q": "______ ser un error.",
+          "hint": "poder: could: conditional, impersonal",
+          "a": "Podría",
+          "full": "Podría ser un error."
+        },
+        {
+          "q": "Hasta cierto ______, es verdad.",
+          "hint": "extent",
+          "a": "punto",
+          "full": "Hasta cierto punto, es verdad."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish:</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "According to the report, prices tend to rise.",
+          "a": "Según el informe, los precios tienden a subir."
+        },
+        {
+          "q": "I would be grateful if you could send me the invoice.",
+          "a": "Le agradecería que me enviara la factura."
+        },
+        {
+          "q": "To some extent, it is true.",
+          "a": "En cierta medida, es cierto."
+        },
+        {
+          "q": "The data suggest that it could be a mistake.",
+          "a": "Los datos sugieren que podría tratarse de un error."
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

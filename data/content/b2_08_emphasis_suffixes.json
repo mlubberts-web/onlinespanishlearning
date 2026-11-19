@@ -1,0 +1,598 @@
+{
+  "meta": {
+    "level": "B2",
+    "section": "Grammar",
+    "number": 8,
+    "total_in_level": 10,
+    "title": "Emphasis, Word Order and Suffixes",
+    "subtitle": "clefts, focus and repeated pronouns, exclamations, diminutives, augmentatives and -ísimo",
+    "footer": "Spanish Learning Program · B2 · Grammar · Emphasis, word order, suffixes",
+    "next": "Next: B2 · PDF 9 — Word formation and register"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "emphasise one part of a sentence (Fue Ana quien llamó, Lo que quiero es ...)",
+        "use word order for focus and repeated pronouns (El libro lo compré ayer)",
+        "use intensifiers and exclamations (qué ... más, ni siquiera, vaya)",
+        "use diminutives, augmentatives and -ísimo correctly"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "1. Cleft sentences (focus)"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.0,
+        6.2,
+        5.8
+      ],
+      "head": [
+        "Structure",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "ser + focus + que",
+          "Fue ayer cuando lo vi.",
+          "It was yesterday that I saw him."
+        ],
+        [
+          "ser + person + quien / el que",
+          "Fue Ana quien llamó.",
+          "It was Ana who called."
+        ],
+        [
+          "ser + place + donde",
+          "Es en Madrid donde vivo.",
+          "It is in Madrid where I live."
+        ],
+        [
+          "ser + manner + como",
+          "Así es como se hace.",
+          "This is how it is done."
+        ],
+        [
+          "lo que + verb + ser + focus",
+          "Lo que quiero es descansar.",
+          "What I want is to rest."
+        ],
+        [
+          "lo que pasa es que",
+          "Lo que pasa es que no tengo tiempo.",
+          "The thing is that I have no time."
+        ],
+        [
+          "es que (excuse)",
+          "¿Por qué no vienes? Es que estoy cansado.",
+          "Why do you not come? It is that I am tired."
+        ],
+        [
+          "el que / la que + verb + ser",
+          "La que llamó fue tu madre.",
+          "The one who called was your mother."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "warn",
+      "title": "Agreement in clefts",
+      "text": "The relative agrees with the focus: <i>Fueron mis padres quienes pagaron.</i> <i>Somos nosotros los que decidimos.</i> The verb ser agrees with the focus too: <i>Son ellas las que mandan.</i>"
+    },
+    {
+      "type": "h1",
+      "text": "2. Word order and repeated pronouns"
+    },
+    {
+      "type": "p",
+      "text": "Spanish word order is flexible. The most important (new) information often goes <b>last</b>; known information goes first."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        6.0,
+        6.0,
+        5.0
+      ],
+      "head": [
+        "Neutral",
+        "Marked (focus)",
+        "Effect"
+      ],
+      "rows": [
+        [
+          "Compré el libro ayer.",
+          "El libro lo compré ayer.",
+          "El libro: topic, repeated by lo"
+        ],
+        [
+          "Vi a Ana ayer.",
+          "A Ana la vi ayer.",
+          "topic fronted"
+        ],
+        [
+          "Llegó un paquete.",
+          "Un paquete llegó. / Llegó un paquete.",
+          "new info goes last"
+        ],
+        [
+          "Ana habla español.",
+          "Español habla Ana.",
+          "contrast: Spanish, not French"
+        ],
+        [
+          "Me gusta esto.",
+          "Esto sí que me gusta.",
+          "emphasis with sí que"
+        ],
+        [
+          "No me gusta nada.",
+          "Nada me gusta.",
+          "negative fronted"
+        ]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "When the <b>object comes first</b>, repeat it with a pronoun: <i>A Pedro lo conozco. Los libros los dejé en casa.</i>",
+        "<b>Subject after the verb</b> is normal for new information: <i>Ha llamado tu madre. Vino mucha gente.</i>",
+        "After a question word the subject normally follows the verb: <i>¿Qué dijo Ana?</i> (not <i>¿Qué Ana dijo?</i>)."
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "3. Intensifiers and exclamations"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.0,
+        6.2,
+        5.8
+      ],
+      "head": [
+        "Structure",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "¡Qué + adj. / noun!",
+          "¡Qué bonito! ¡Qué suerte!",
+          "How beautiful! What luck!"
+        ],
+        [
+          "¡Qué + noun + más / tan + adj.!",
+          "¡Qué día más / tan bonito!",
+          "What a beautiful day!"
+        ],
+        [
+          "¡Cuánto / cuántos!",
+          "¡Cuánto has crecido!",
+          "How you have grown!"
+        ],
+        [
+          "¡Vaya + noun!",
+          "¡Vaya sorpresa!",
+          "What a surprise!"
+        ],
+        [
+          "¡Mira que + verb!",
+          "¡Mira que eres tonto!",
+          "You really are silly!"
+        ],
+        [
+          "ni siquiera",
+          "Ni siquiera me llamó.",
+          "He did not even call me."
+        ],
+        [
+          "ni ... ni ...",
+          "No tengo ni tiempo ni dinero.",
+          "I have neither time nor money."
+        ],
+        [
+          "sí que / no ... sino",
+          "No es caro, sino barato.",
+          "It is not expensive but cheap."
+        ],
+        [
+          "tan ... que",
+          "Es tan alto que no cabe.",
+          "He is so tall that he does not fit."
+        ],
+        [
+          "tanto ... que",
+          "Llovió tanto que se inundó.",
+          "It rained so much that it flooded."
+        ],
+        [
+          "apenas, recién",
+          "Apenas lo conozco.",
+          "I hardly know him."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "spain",
+      "title": "Vaya, hombre, mira, anda",
+      "text": "Spain loves colloquial interjections: <b>¡Vaya! ¡Anda! ¡Venga! ¡Hombre! ¡Mira!</b> are used constantly: <i>¡Venga, vámonos! ¡Anda ya! (No way!) ¡Hombre, qué sorpresa!</i>"
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "4. Diminutives"
+    },
+    {
+      "type": "p",
+      "text": "Diminutives show small size, affection, politeness or sometimes irony. In Spain <b>-ito / -ita</b> and <b>-illo / -illa</b> dominate."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.4,
+        4.4,
+        4.2,
+        4.0
+      ],
+      "head": [
+        "Ending",
+        "Rule",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "-ito / -ita",
+          "default",
+          "casa: casita; perro: perrito",
+          "little house; puppy"
+        ],
+        [
+          "-cito / -cita",
+          "after -n, -r, -e",
+          "pan: pancito; café: cafecito",
+          "bread roll; small coffee"
+        ],
+        [
+          "-ecito / -ecita",
+          "after one-syllable words",
+          "flor: florecita; luz: lucecita",
+          "little flower; small light"
+        ],
+        [
+          "-illo / -illa",
+          "default (Spain)",
+          "ventana: ventanilla; chico: chiquillo",
+          "small window; kid"
+        ],
+        [
+          "-ico / -ica",
+          "Aragón, Murcia",
+          "gato: gatico",
+          "little cat"
+        ],
+        [
+          "c to qu / g to gu",
+          "spelling",
+          "poco: poquito; amigo: amiguito",
+          "a little; little friend"
+        ]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<b>Adverbs and adjectives:</b> <i>cerquita, despacito, rapidito, chiquitito, poquito</i>.",
+        "<b>Politeness:</b> <i>Un momentito, por favor. ¿Me da un cafetito?</i> softens a request.",
+        "<b>Irony:</b> <i>¡Menudo problemita!</i> (what a \"little\" problem) can mean a big problem."
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "5. Augmentatives and pejoratives"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        3.4,
+        6.2,
+        7.4
+      ],
+      "head": [
+        "Ending",
+        "Example",
+        "Meaning"
+      ],
+      "rows": [
+        [
+          "-ón / -ona",
+          "grande: grandote; hombre: hombretón",
+          "bigger, stronger or ugly"
+        ],
+        [
+          "-azo / -aza",
+          "coche: cochazo; golpe: golpazo; manos: manazas",
+          "big, great or a blow"
+        ],
+        [
+          "-ote / -ota",
+          "grande: grandote; palabra: palabrota",
+          "big, rude"
+        ],
+        [
+          "-ucho / -ucha",
+          "casa: casucha; flaco: flacucho",
+          "poor, ugly (pejorative)"
+        ],
+        [
+          "-aco / -aca",
+          "pájaro: pajarraco; libro: libraco",
+          "pejorative"
+        ],
+        [
+          "-ísimo / -ísima",
+          "bueno: buenísimo; rico: riquísimo",
+          "very (superlative)"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "-ísimo (absolute superlative)"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.4,
+        4.4,
+        4.2,
+        4.0
+      ],
+      "head": [
+        "Adjective",
+        "Superlative",
+        "Adjective",
+        "Superlative"
+      ],
+      "rows": [
+        [
+          "bueno",
+          "buenísimo",
+          "difícil",
+          "dificilísimo"
+        ],
+        [
+          "rico",
+          "riquísimo",
+          "fácil",
+          "facilísimo"
+        ],
+        [
+          "largo",
+          "larguísimo",
+          "feliz",
+          "felicísimo"
+        ],
+        [
+          "poco",
+          "poquísimo",
+          "amable",
+          "amabilísimo"
+        ],
+        [
+          "fuerte",
+          "fortísimo",
+          "antiguo",
+          "antiquísimo"
+        ],
+        [
+          "caro",
+          "carísimo",
+          "mucho",
+          "muchísimo"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "Spelling of -ísimo",
+      "text": "Drop the final vowel and add <b>-ísimo</b>. Spelling changes: <b>c to qu</b> (rico: riquísimo), <b>g to gu</b> (largo: larguísimo), <b>z to c</b> (feliz: felicísimo). <i>Muy</i> + adjective is the neutral alternative: <i>muy bueno</i>. Never <i>muy buenísimo</i>."
+    },
+    {
+      "type": "h1",
+      "text": "6. Common mistakes"
+    },
+    {
+      "type": "mistakes",
+      "rows": [
+        [
+          "Fue Ana que llamó.",
+          "Fue Ana quien llamó.",
+          "quien / la que in clefts."
+        ],
+        [
+          "Es en Madrid que vivo.",
+          "Es en Madrid donde vivo.",
+          "donde with place focus."
+        ],
+        [
+          "El libro compré ayer.",
+          "El libro lo compré ayer.",
+          "Repeat fronted object with lo."
+        ],
+        [
+          "¿Qué Ana dijo?",
+          "¿Qué dijo Ana?",
+          "Verb before subject after qu-words."
+        ],
+        [
+          "¡Qué día muy bonito!",
+          "¡Qué día tan / más bonito!",
+          "tan or más, never muy."
+        ],
+        [
+          "Muy buenísimo.",
+          "Buenísimo. / Muy bueno.",
+          "-ísimo already means very."
+        ],
+        [
+          "Es riquísimo, ricísimo.",
+          "Es riquísimo.",
+          "c becomes qu."
+        ],
+        [
+          "No tengo ni tiempo ni de dinero.",
+          "No tengo ni tiempo ni dinero.",
+          "ni ... ni ... without extra words."
+        ],
+        [
+          "¡Cuánto grande es!",
+          "¡Qué grande es!",
+          "qué + adjective."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "7. Self-check"
+    },
+    {
+      "type": "p",
+      "text": "Fill in the missing word or form. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Hint"
+      ],
+      "items": [
+        {
+          "q": "Fue Ana ______ llamó.",
+          "hint": "who",
+          "a": "quien",
+          "full": "Fue Ana quien llamó."
+        },
+        {
+          "q": "Es en Madrid ______ vivo.",
+          "hint": "where",
+          "a": "donde",
+          "full": "Es en Madrid donde vivo."
+        },
+        {
+          "q": "Lo ______ quiero es descansar.",
+          "hint": "what",
+          "a": "que",
+          "full": "Lo que quiero es descansar."
+        },
+        {
+          "q": "El libro ______ compré ayer.",
+          "hint": "pronoun",
+          "a": "lo",
+          "full": "El libro lo compré ayer."
+        },
+        {
+          "q": "¡Qué día ______ bonito!",
+          "hint": "intensifier: más / tan",
+          "a": "tan",
+          "full": "¡Qué día tan bonito!"
+        },
+        {
+          "q": "Ni siquiera me ______.",
+          "hint": "llamar: él, preterite",
+          "a": "llamó",
+          "full": "Ni siquiera me llamó."
+        },
+        {
+          "q": "Esta comida está ______.",
+          "hint": "rico: superlative",
+          "a": "riquísima",
+          "full": "Esta comida está riquísima."
+        },
+        {
+          "q": "Es un libro ______.",
+          "hint": "largo: superlative",
+          "a": "larguísimo",
+          "full": "Es un libro larguísimo."
+        },
+        {
+          "q": "Un ______, por favor.",
+          "hint": "momento: diminutive",
+          "a": "momentito",
+          "full": "Un momentito, por favor."
+        },
+        {
+          "q": "Tiene un ______ nuevo.",
+          "hint": "coche: augmentative, -azo",
+          "a": "cochazo",
+          "full": "Tiene un cochazo nuevo."
+        },
+        {
+          "q": "¡______ sorpresa!",
+          "hint": "colloquial: what a",
+          "a": "Vaya",
+          "full": "¡Vaya sorpresa!"
+        },
+        {
+          "q": "Llovió ______ que se inundó.",
+          "hint": "so much",
+          "a": "tanto",
+          "full": "Llovió tanto que se inundó."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish:</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "What I want is to rest.",
+          "a": "Lo que quiero es descansar."
+        },
+        {
+          "q": "It was Ana who called.",
+          "a": "Fue Ana quien llamó."
+        },
+        {
+          "q": "What a beautiful day!",
+          "a": "¡Qué día tan bonito!"
+        },
+        {
+          "q": "I bought the book yesterday.",
+          "a": "El libro lo compré ayer."
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

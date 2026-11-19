@@ -1,0 +1,487 @@
+{
+  "meta": {
+    "level": "A2",
+    "section": "Verbs",
+    "number": 4,
+    "total_in_level": 10,
+    "title": "Preterite vs Imperfect",
+    "subtitle": "How to choose between the two past tenses, and how to use them together in a story",
+    "footer": "Spanish Learning Program · A2 · Verbs · Preterite vs imperfect",
+    "next": "Next: A2 · PDF 5 — The present perfect"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "choose between the preterite and the imperfect in most everyday situations",
+        "tell a short story with background (imperfect) and events (preterite)",
+        "combine both tenses in one sentence (<i>Cocinaba cuando sonó el teléfono</i>)",
+        "explain why saber, conocer, querer and poder change meaning"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "1. The core idea"
+    },
+    {
+      "type": "p",
+      "text": "Both tenses talk about the past. The difference is how you look at it. The <b>preterite</b> moves the story forward: it says <b>what happened</b>. The <b>imperfect</b> paints the scene: it says <b>what things were like</b> or <b>what used to happen</b>."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        3.6,
+        6.7,
+        6.7
+      ],
+      "head": [
+        "",
+        "Preterite",
+        "Imperfect"
+      ],
+      "rows": [
+        [
+          "Role in a story",
+          "Events, plot, what happened",
+          "Scenery, background, what was going on"
+        ],
+        [
+          "Time",
+          "A finished moment or a finished period",
+          "No beginning or end in view"
+        ],
+        [
+          "Repetition",
+          "Once or a counted number of times",
+          "Habit, \"used to\", every day"
+        ],
+        [
+          "Typical content",
+          "Actions in a row",
+          "Descriptions, age, time, weather, feelings"
+        ],
+        [
+          "Example",
+          "Ayer comí paella.",
+          "Siempre comía paella."
+        ],
+        [
+          "English",
+          "Yesterday I ate paella.",
+          "I always used to eat paella."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "dutch",
+      "title": "Dutch toen can be either",
+      "text": "<i>Toen ik jong was</i> describes a state: <b>Cuando era joven</b>. <i>Toen ik aankwam</i> is a single event: <b>Cuando llegué</b>. Same Dutch word, different Spanish tense. Ask yourself what the verb after <i>toen</i> describes."
+    },
+    {
+      "type": "h1",
+      "text": "2. Time words as clues"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        8.5,
+        8.5
+      ],
+      "head": [
+        "Usually preterite",
+        "Usually imperfect"
+      ],
+      "rows": [
+        [
+          "ayer, anoche, anteayer",
+          "siempre, nunca (habitual)"
+        ],
+        [
+          "el lunes, el 5 de mayo, en 2019",
+          "todos los días, cada verano"
+        ],
+        [
+          "la semana pasada, el año pasado",
+          "a menudo, a veces, normalmente"
+        ],
+        [
+          "hace tres días",
+          "de niño, de joven, antes"
+        ],
+        [
+          "de repente, entonces",
+          "mientras, en aquella época"
+        ],
+        [
+          "una vez, dos veces, muchas veces (counted)",
+          "los domingos (habitually)"
+        ],
+        [
+          "durante dos años (a closed period)",
+          "cuando era niño"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "warn",
+      "title": "Clues help, but meaning decides",
+      "text": "Time words are strong hints, not absolute rules. When a sentence has no time word, or the clue is unclear, ask the questions in section 5."
+    },
+    {
+      "type": "h1",
+      "text": "3. Both tenses in one story"
+    },
+    {
+      "type": "p",
+      "text": "In a story, the imperfect sets the scene and the preterite pushes the action on. Read this example and look at the reason for each tense."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        7.6,
+        3.2,
+        6.2
+      ],
+      "head": [
+        "Sentence",
+        "Tense",
+        "Why"
+      ],
+      "rows": [
+        [
+          "Era sábado y hacía mucho calor.",
+          "imperfect",
+          "day and weather: the scene"
+        ],
+        [
+          "Yo estaba en casa y leía un libro.",
+          "imperfect",
+          "a state and an action in progress"
+        ],
+        [
+          "De repente sonó el teléfono.",
+          "preterite",
+          "a single event: de repente"
+        ],
+        [
+          "Era mi amiga Marta.",
+          "imperfect",
+          "description / identification"
+        ],
+        [
+          "Me dijo que quería ir a la playa.",
+          "preterite + imperfect",
+          "said = event; wanted = state"
+        ],
+        [
+          "Preparé mis cosas y salí.",
+          "preterite",
+          "a chain of events"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<i>It was Saturday and it was very hot. I was at home reading a book. Suddenly the phone rang. It was my friend Marta. She told me she wanted to go to the beach. I got my things ready and left.</i>"
+    },
+    {
+      "type": "h1",
+      "text": "4. An action interrupted, or two actions at once"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.6,
+        7.4,
+        5.0
+      ],
+      "head": [
+        "Pattern",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "imperfect + cuando + preterite",
+          "Cocinaba cuando sonó el teléfono.",
+          "I was cooking when the phone rang."
+        ],
+        [
+          "cuando + preterite, imperfect",
+          "Cuando llegué, mi madre cocinaba.",
+          "When I arrived, my mother was cooking."
+        ],
+        [
+          "mientras + imperfect, imperfect",
+          "Mientras yo comía, ella veía la tele.",
+          "While I was eating, she was watching TV."
+        ],
+        [
+          "preterite + preterite (in a row)",
+          "Llegué, comí y me acosté.",
+          "I arrived, ate and went to bed."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "The rule of thumb",
+      "text": "The <b>long, ongoing</b> action takes the <b>imperfect</b>. The <b>short interrupting</b> action takes the <b>preterite</b>."
+    },
+    {
+      "type": "h1",
+      "text": "5. Quick decision questions"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Did it happen <b>once and finish</b> (or a counted number of times)? <b>Preterite.</b>",
+        "Did it happen <b>again and again</b>, or can you say <i>used to</i>? <b>Imperfect.</b>",
+        "Is it a <b>description</b>: age, time, weather, feelings, how someone looked? <b>Imperfect.</b>",
+        "Is it a <b>list of actions in order</b> (first this, then that)? <b>Preterite.</b>",
+        "Is it <b>in progress when something else happened</b>? <b>Imperfect</b> for the background, <b>preterite</b> for the interruption."
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "6. Verbs that change meaning"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        2.4,
+        7.3,
+        7.3
+      ],
+      "head": [
+        "Verb",
+        "Imperfect (state)",
+        "Preterite (event)"
+      ],
+      "rows": [
+        [
+          "saber",
+          "Sabía la respuesta. (I knew it.)",
+          "Supe la respuesta. (I found it out.)"
+        ],
+        [
+          "conocer",
+          "Conocía a Pedro. (I knew Pedro.)",
+          "Conocí a Pedro. (I met Pedro.)"
+        ],
+        [
+          "querer",
+          "Quería irme. (I wanted to leave.)",
+          "Quise irme. (I tried / decided to leave.)"
+        ],
+        [
+          "poder",
+          "No podía abrir la puerta. (I could not open it.)",
+          "No pude abrir la puerta. (I tried and failed.)"
+        ],
+        [
+          "estar",
+          "Estaba en Madrid. (I was in Madrid.)",
+          "Estuve en Madrid tres días. (I spent three days in Madrid.)"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "The same logic works for description versus summary: <i>La fiesta era genial</i> (it was great while I was there) and <i>La fiesta fue genial</i> (looking back, it was a great party)."
+    },
+    {
+      "type": "callout",
+      "kind": "spain",
+      "title": "Today and this week in Spain",
+      "text": "With <b>hoy</b>, <b>esta mañana</b>, <b>esta semana</b> and <b>este año</b>, Spain normally uses the present perfect (next PDF), not either of these tenses: <i>Hoy he comido tarde.</i> With <b>ayer</b>, <b>anoche</b> or <b>la semana pasada</b>, use the preterite."
+    },
+    {
+      "type": "h1",
+      "text": "7. Common mistakes"
+    },
+    {
+      "type": "mistakes",
+      "rows": [
+        [
+          "Cuando era niño, fui al parque cada día.",
+          "Cuando era niño, iba al parque cada día.",
+          "A habit in the past: imperfect."
+        ],
+        [
+          "Anoche cenaba a las ocho.",
+          "Anoche cené a las ocho.",
+          "A single, finished event: preterite."
+        ],
+        [
+          "Mientras comí, vi la tele.",
+          "Mientras comía, veía la tele.",
+          "Two actions in progress at the same time: both imperfect."
+        ],
+        [
+          "Cuando llegué, mi madre cocinó.",
+          "Cuando llegué, mi madre cocinaba.",
+          "Her cooking was in progress when I arrived: imperfect."
+        ],
+        [
+          "Tuve diez años.",
+          "Tenía diez años.",
+          "Age is a description: imperfect."
+        ],
+        [
+          "El año pasado íbamos a Italia.",
+          "El año pasado fuimos a Italia.",
+          "One finished trip with a time marker: preterite."
+        ],
+        [
+          "Conocía a Marta ayer en la fiesta.",
+          "Conocí a Marta ayer en la fiesta.",
+          "Meeting someone for the first time: preterite."
+        ],
+        [
+          "Eran las ocho cuando él llegaba.",
+          "Eran las ocho cuando él llegó.",
+          "The time is background; the arrival is the event."
+        ],
+        [
+          "De niño, nunca comí verduras.",
+          "De niño, nunca comía verduras.",
+          "A habit in the past: imperfect."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "8. Self-check"
+    },
+    {
+      "type": "p",
+      "text": "Write the verb in the preterite or the imperfect. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Verb"
+      ],
+      "items": [
+        {
+          "q": "Ayer ______ al cine.",
+          "hint": "ir (nosotros)",
+          "a": "fuimos",
+          "full": "Ayer fuimos al cine."
+        },
+        {
+          "q": "Cuando era niño, ______ en la calle.",
+          "hint": "jugar (yo)",
+          "a": "jugaba",
+          "full": "Cuando era niño, jugaba en la calle."
+        },
+        {
+          "q": "Mientras ella ______, yo veía la tele.",
+          "hint": "estudiar (ella)",
+          "a": "estudiaba",
+          "full": "Mientras ella estudiaba, yo veía la tele."
+        },
+        {
+          "q": "Anoche ______ a las nueve.",
+          "hint": "cenar (yo)",
+          "a": "cené",
+          "full": "Anoche cené a las nueve."
+        },
+        {
+          "q": "Eran las ocho cuando ______.",
+          "hint": "llegar (tú)",
+          "a": "llegaste",
+          "full": "Eran las ocho cuando llegaste."
+        },
+        {
+          "q": "Hacía frío y ______.",
+          "hint": "llover",
+          "a": "llovía",
+          "full": "Hacía frío y llovía."
+        },
+        {
+          "q": "Cuando llegamos, mis padres ______.",
+          "hint": "cenar (ellos)",
+          "a": "cenaban",
+          "full": "Cuando llegamos, mis padres cenaban."
+        },
+        {
+          "q": "El año pasado ______ a Japón.",
+          "hint": "viajar (ellos)",
+          "a": "viajaron",
+          "full": "El año pasado viajaron a Japón."
+        },
+        {
+          "q": "De pequeño, siempre ______ en casa de mi abuela.",
+          "hint": "comer (yo)",
+          "a": "comía",
+          "full": "De pequeño, siempre comía en casa de mi abuela."
+        },
+        {
+          "q": "Ayer ______ a tu hermana.",
+          "hint": "conocer (yo)",
+          "a": "conocí",
+          "full": "Ayer conocí a tu hermana."
+        },
+        {
+          "q": "Dormía cuando ______ el teléfono.",
+          "hint": "sonar",
+          "a": "sonó",
+          "full": "Dormía cuando sonó el teléfono."
+        },
+        {
+          "q": "Ella ______ quince años cuando se mudó a Madrid.",
+          "hint": "tener",
+          "a": "tenía",
+          "full": "Ella tenía quince años cuando se mudó a Madrid."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish:</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "When I arrived, it was raining.",
+          "a": "Cuando llegué, llovía."
+        },
+        {
+          "q": "Last summer we went to Cádiz.",
+          "a": "El verano pasado fuimos a Cádiz."
+        },
+        {
+          "q": "While I was cooking, she called me.",
+          "a": "Mientras cocinaba, me llamó."
+        },
+        {
+          "q": "As a child he never ate fish.",
+          "a": "De niño nunca comía pescado."
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

@@ -1,0 +1,729 @@
+{
+  "meta": {
+    "level": "A2",
+    "section": "Verbs",
+    "number": 2,
+    "total_in_level": 10,
+    "title": "Preterite Tense: Irregular Verbs",
+    "subtitle": "Irregular stems (u, i, j), ser and ir, and verbs that change meaning in the preterite",
+    "footer": "Spanish Learning Program · A2 · Verbs · Preterite (irregular)",
+    "next": "Next: A2 · PDF 3 — The imperfect tense"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "conjugate the most common irregular verbs in the preterite (ser, ir, hacer, tener, estar, decir and more)",
+        "spot the three families of irregular stems (u, i and j) and their special endings",
+        "write the forms without accents, as irregular preterites require",
+        "know when a verb changes its meaning in the preterite (saber, conocer, querer, poder)"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "1. How irregular preterites work"
+    },
+    {
+      "type": "p",
+      "text": "Irregular verbs in the preterite change their <b>stem</b> and use their own set of endings. These endings have <b>no written accents</b> and the yo and él forms end in <b>-e</b> and <b>-o</b>, not <i>-é</i> and <i>-ó</i>."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.0,
+        3.0,
+        4.0,
+        5.0
+      ],
+      "head": [
+        "Person",
+        "Ending",
+        "Example: tener",
+        "Example: decir"
+      ],
+      "rows": [
+        [
+          "yo",
+          "-e",
+          "tuve",
+          "dije"
+        ],
+        [
+          "tú",
+          "-iste",
+          "tuviste",
+          "dijiste"
+        ],
+        [
+          "él / ella / usted",
+          "-o",
+          "tuvo",
+          "dijo"
+        ],
+        [
+          "nosotros / nosotras",
+          "-imos",
+          "tuvimos",
+          "dijimos"
+        ],
+        [
+          "vosotros / vosotras",
+          "-isteis",
+          "tuvisteis",
+          "dijisteis"
+        ],
+        [
+          "ellos / ellas / ustedes",
+          "-ieron",
+          "tuvieron",
+          "dijeron (-eron after j)"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "The same endings for every family below",
+      "text": "Learn this one set of endings once. Then you only have to memorise the <b>stem</b> of each verb. Compare with the regular preterite (PDF 1): there yo ends in <b>-é</b> / <b>-í</b> and él in <b>-ó</b> / <b>-ió</b>, with accents."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        2.8,
+        8.4,
+        5.8
+      ],
+      "head": [
+        "Family",
+        "Verbs and stems",
+        "Endings"
+      ],
+      "rows": [
+        [
+          "u-stem",
+          "estar estuv- · tener tuv- · poder pud- · poner pus- · saber sup- · andar anduv- · caber cup-",
+          "-e -iste -o -imos -isteis -ieron"
+        ],
+        [
+          "i-stem",
+          "hacer hic- · querer quis- · venir vin-",
+          "-e -iste -o -imos -isteis -ieron"
+        ],
+        [
+          "j-stem",
+          "decir dij- · traer traj- · conducir conduj- · traducir traduj- · producir produj-",
+          "-e -iste -o -imos -isteis -eron"
+        ],
+        [
+          "Special",
+          "ser / ir fu- · dar d- · ver v-",
+          "see section 2"
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "2. Ser and ir: identical forms"
+    },
+    {
+      "type": "p",
+      "text": "<b>Ser</b> (to be) and <b>ir</b> (to go) have exactly the same forms in the preterite. The context tells you which verb it is: <b>ir</b> is followed by <b>a</b> + a place, <b>ser</b> by a noun or an adjective."
+    },
+    {
+      "type": "conj",
+      "tense": "preterite",
+      "verb": "ser",
+      "meaning": "to be",
+      "label": "irregular verb · same forms as ir",
+      "forms": [
+        "*fu*i",
+        "*fu*iste",
+        "*fu*e",
+        "*fu*imos",
+        "*fu*isteis",
+        "*fu*eron"
+      ],
+      "examples": [
+        [
+          "Fui camarero durante un verano.",
+          "I was a waiter for one summer."
+        ],
+        [
+          "¿Fuiste buen estudiante?",
+          "Were you a good student?"
+        ],
+        [
+          "El concierto fue un éxito.",
+          "The concert was a success."
+        ],
+        [
+          "Fuimos compañeros de piso.",
+          "We were flatmates."
+        ],
+        [
+          "¿Fuisteis amigos de niños?",
+          "Were you (all) friends as children?"
+        ],
+        [
+          "Los exámenes fueron difíciles.",
+          "The exams were difficult."
+        ]
+      ]
+    },
+    {
+      "type": "conj",
+      "tense": "preterite",
+      "verb": "ir",
+      "meaning": "to go",
+      "label": "irregular verb · same forms as ser",
+      "forms": [
+        "*fu*i",
+        "*fu*iste",
+        "*fu*e",
+        "*fu*imos",
+        "*fu*isteis",
+        "*fu*eron"
+      ],
+      "examples": [
+        [
+          "Fui a Barcelona en tren.",
+          "I went to Barcelona by train."
+        ],
+        [
+          "¿Fuiste al gimnasio ayer?",
+          "Did you go to the gym yesterday?"
+        ],
+        [
+          "Ella fue a la farmacia.",
+          "She went to the chemist's."
+        ],
+        [
+          "Fuimos al cine el sábado.",
+          "We went to the cinema on Saturday."
+        ],
+        [
+          "¿Fuisteis a la playa?",
+          "Did you (all) go to the beach?"
+        ],
+        [
+          "Mis amigos fueron a Italia.",
+          "My friends went to Italy."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "warn",
+      "title": "No accent on one-syllable forms",
+      "text": "<b>fui, fue, vi, vio, di, dio</b> have one syllable, so they never take a written accent. Writing <i>fuí</i>, <i>fué</i> or <i>vió</i> is a very common spelling mistake (older texts still use it)."
+    },
+    {
+      "type": "conjgrid",
+      "tense": "preterite",
+      "title": "Dar and ver (regular endings, but no accents)",
+      "verbs": [
+        {
+          "inf": "dar",
+          "meaning": "to give",
+          "forms": [
+            "*di*",
+            "diste",
+            "*dio*",
+            "dimos",
+            "disteis",
+            "dieron"
+          ]
+        },
+        {
+          "inf": "ver",
+          "meaning": "to see",
+          "forms": [
+            "*vi*",
+            "viste",
+            "*vio*",
+            "vimos",
+            "visteis",
+            "vieron"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "3. u-stem verbs"
+    },
+    {
+      "type": "conjgrid",
+      "tense": "preterite",
+      "verbs": [
+        {
+          "inf": "estar",
+          "meaning": "to be (location, state)",
+          "forms": [
+            "*estuv*e",
+            "*estuv*iste",
+            "*estuv*o",
+            "*estuv*imos",
+            "*estuv*isteis",
+            "*estuv*ieron"
+          ]
+        },
+        {
+          "inf": "tener",
+          "meaning": "to have",
+          "forms": [
+            "*tuv*e",
+            "*tuv*iste",
+            "*tuv*o",
+            "*tuv*imos",
+            "*tuv*isteis",
+            "*tuv*ieron"
+          ]
+        },
+        {
+          "inf": "poder",
+          "meaning": "to be able to",
+          "forms": [
+            "*pud*e",
+            "*pud*iste",
+            "*pud*o",
+            "*pud*imos",
+            "*pud*isteis",
+            "*pud*ieron"
+          ]
+        },
+        {
+          "inf": "poner",
+          "meaning": "to put",
+          "forms": [
+            "*pus*e",
+            "*pus*iste",
+            "*pus*o",
+            "*pus*imos",
+            "*pus*isteis",
+            "*pus*ieron"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conjgrid",
+      "tense": "preterite",
+      "verbs": [
+        {
+          "inf": "saber",
+          "meaning": "to know",
+          "forms": [
+            "*sup*e",
+            "*sup*iste",
+            "*sup*o",
+            "*sup*imos",
+            "*sup*isteis",
+            "*sup*ieron"
+          ]
+        },
+        {
+          "inf": "andar",
+          "meaning": "to walk, go about",
+          "forms": [
+            "*anduv*e",
+            "*anduv*iste",
+            "*anduv*o",
+            "*anduv*imos",
+            "*anduv*isteis",
+            "*anduv*ieron"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<i>Estuve en Londres tres semanas.</i> · <i>Tuvimos mucho trabajo.</i> · <i>No pudieron venir.</i>",
+        "<i>Puse las llaves en la mesa.</i> · <i>Supe la noticia ayer.</i> · <i>Anduvimos por el centro toda la tarde.</i>"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "4. i-stem verbs"
+    },
+    {
+      "type": "conjgrid",
+      "tense": "preterite",
+      "verbs": [
+        {
+          "inf": "hacer",
+          "meaning": "to do, make",
+          "forms": [
+            "*hic*e",
+            "*hic*iste",
+            "*hiz*o",
+            "*hic*imos",
+            "*hic*isteis",
+            "*hic*ieron"
+          ]
+        },
+        {
+          "inf": "querer",
+          "meaning": "to want",
+          "forms": [
+            "*quis*e",
+            "*quis*iste",
+            "*quis*o",
+            "*quis*imos",
+            "*quis*isteis",
+            "*quis*ieron"
+          ]
+        },
+        {
+          "inf": "venir",
+          "meaning": "to come",
+          "forms": [
+            "*vin*e",
+            "*vin*iste",
+            "*vin*o",
+            "*vin*imos",
+            "*vin*isteis",
+            "*vin*ieron"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "warn",
+      "title": "hizo is written with z",
+      "text": "The él form of <b>hacer</b> is <b>hizo</b>, not <i>hico</i>. The z keeps the s sound in front of o (c before o would be a k sound)."
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<i>Hice la cena y lavé los platos.</i> · <i>Quisimos ir, pero llovía.</i> · <i>Vinieron en coche.</i>"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "5. j-stem verbs"
+    },
+    {
+      "type": "p",
+      "text": "These verbs have a stem ending in <b>j</b>. Their ellos form ends in <b>-eron</b> (not -ieron), because the i is absorbed by the j: <i>dijeron, trajeron</i>."
+    },
+    {
+      "type": "conjgrid",
+      "tense": "preterite",
+      "verbs": [
+        {
+          "inf": "decir",
+          "meaning": "to say, tell",
+          "forms": [
+            "*dij*e",
+            "*dij*iste",
+            "*dij*o",
+            "*dij*imos",
+            "*dij*isteis",
+            "*dij*eron"
+          ]
+        },
+        {
+          "inf": "traer",
+          "meaning": "to bring",
+          "forms": [
+            "*traj*e",
+            "*traj*iste",
+            "*traj*o",
+            "*traj*imos",
+            "*traj*isteis",
+            "*traj*eron"
+          ]
+        },
+        {
+          "inf": "conducir",
+          "meaning": "to drive",
+          "forms": [
+            "*conduj*e",
+            "*conduj*iste",
+            "*conduj*o",
+            "*conduj*imos",
+            "*conduj*isteis",
+            "*conduj*eron"
+          ]
+        },
+        {
+          "inf": "traducir",
+          "meaning": "to translate",
+          "forms": [
+            "*traduj*e",
+            "*traduj*iste",
+            "*traduj*o",
+            "*traduj*imos",
+            "*traduj*isteis",
+            "*traduj*eron"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<i>Me dijo que no.</i> · <i>Trajeron vino y queso.</i> · <i>Conduje toda la noche.</i> · <i>Tradujeron el texto al inglés.</i>",
+        "All verbs ending in <b>-ducir</b> (producir, reducir, introducir) follow conducir: <i>produje, redujo, introdujeron</i>."
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "6. Verbs that change meaning in the preterite"
+    },
+    {
+      "type": "p",
+      "text": "A few verbs mean something different in the preterite, because it describes a single completed moment. Learn these pairs as chunks."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        2.6,
+        4.2,
+        4.6,
+        5.6
+      ],
+      "head": [
+        "Verb",
+        "Preterite",
+        "Meaning",
+        "Example"
+      ],
+      "rows": [
+        [
+          "saber",
+          "supe",
+          "found out",
+          "Supe la verdad ayer."
+        ],
+        [
+          "conocer",
+          "conocí",
+          "met (for the first time)",
+          "Conocí a Lucía en 2020."
+        ],
+        [
+          "querer",
+          "quise",
+          "tried / wanted to (and did)",
+          "Quise llamarte, pero no pude."
+        ],
+        [
+          "no querer",
+          "no quise",
+          "refused",
+          "No quiso venir a la fiesta."
+        ],
+        [
+          "poder",
+          "pude",
+          "managed to",
+          "Por fin pude abrir la puerta."
+        ],
+        [
+          "no poder",
+          "no pude",
+          "failed to, could not (and did not)",
+          "No pude dormir anoche."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "dutch",
+      "title": "Dutch has the same idea",
+      "text": "Dutch uses <i>kennismaken met</i>, <i>te weten komen</i> and <i>lukken</i> for these. <b>Conocí a Lucía</b> = ik maakte kennis met Lucía; <b>Supe la verdad</b> = ik kwam de waarheid te weten."
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "There was / there were: hubo",
+      "text": "The preterite of <b>hay</b> is <b>hubo</b> (one form for singular and plural): <i>Hubo un accidente. Hubo muchos problemas.</i>"
+    },
+    {
+      "type": "h1",
+      "text": "7. Common mistakes"
+    },
+    {
+      "type": "mistakes",
+      "rows": [
+        [
+          "Ayer tení mucho trabajo.",
+          "Ayer tuve mucho trabajo.",
+          "Tener has the stem tuv- in the preterite."
+        ],
+        [
+          "Hací la cena.",
+          "Hice la cena.",
+          "The stem of hacer is hic-, and the él form is hizo."
+        ],
+        [
+          "Ellos dijieron la verdad.",
+          "Ellos dijeron la verdad.",
+          "j-stem verbs take -eron, not -ieron."
+        ],
+        [
+          "Fué a Madrid.",
+          "Fue a Madrid.",
+          "One-syllable forms (fue, fui, vio, vi, dio, di) have no accent."
+        ],
+        [
+          "Yo anduvé por el parque.",
+          "Yo anduve por el parque.",
+          "Irregular yo forms end in -e without an accent."
+        ],
+        [
+          "Ella querió venir.",
+          "Ella quiso venir.",
+          "Querer has the stem quis- in the preterite."
+        ],
+        [
+          "Trajieron la comida.",
+          "Trajeron la comida.",
+          "traer is a j-stem verb: trajeron."
+        ],
+        [
+          "No puedí abrir la puerta.",
+          "No pude abrir la puerta.",
+          "Poder has the stem pud- in the preterite."
+        ],
+        [
+          "Ayer hice a Madrid.",
+          "Ayer fui a Madrid.",
+          "Hacer is not used for going. Ir + a + place gives fui a Madrid."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "8. Self-check"
+    },
+    {
+      "type": "p",
+      "text": "Fill in the preterite of the verb in brackets. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Verb"
+      ],
+      "items": [
+        {
+          "q": "Ayer yo ______ al médico.",
+          "hint": "ir (yo)",
+          "a": "fui",
+          "full": "Ayer yo fui al médico."
+        },
+        {
+          "q": "El verano pasado ellos ______ en Roma.",
+          "hint": "estar (ellos)",
+          "a": "estuvieron",
+          "full": "El verano pasado ellos estuvieron en Roma."
+        },
+        {
+          "q": "Nosotros ______ una pizza.",
+          "hint": "hacer (nosotros)",
+          "a": "hicimos",
+          "full": "Nosotros hicimos una pizza."
+        },
+        {
+          "q": "Tú ______ muchos amigos en la fiesta.",
+          "hint": "tener (tú)",
+          "a": "tuviste",
+          "full": "Tú tuviste muchos amigos en la fiesta."
+        },
+        {
+          "q": "Ella no ______ venir a la reunión.",
+          "hint": "poder (ella)",
+          "a": "pudo",
+          "full": "Ella no pudo venir a la reunión."
+        },
+        {
+          "q": "Yo ______ la mesa para cuatro.",
+          "hint": "poner (yo)",
+          "a": "puse",
+          "full": "Yo puse la mesa para cuatro."
+        },
+        {
+          "q": "¿Cuándo ______ la noticia (vosotros)?",
+          "hint": "saber (vosotros)",
+          "a": "supisteis",
+          "full": "¿Cuándo supisteis la noticia (vosotros)?"
+        },
+        {
+          "q": "Mi hermano ______ a casa muy tarde.",
+          "hint": "venir (él)",
+          "a": "vino",
+          "full": "Mi hermano vino a casa muy tarde."
+        },
+        {
+          "q": "Ellos me ______ la verdad.",
+          "hint": "decir (ellos)",
+          "a": "dijeron",
+          "full": "Ellos me dijeron la verdad."
+        },
+        {
+          "q": "Yo ______ un regalo a mi madre.",
+          "hint": "dar (yo)",
+          "a": "di",
+          "full": "Yo di un regalo a mi madre."
+        },
+        {
+          "q": "Anoche ______ una película muy buena.",
+          "hint": "ver (nosotros)",
+          "a": "vimos",
+          "full": "Anoche vimos una película muy buena."
+        },
+        {
+          "q": "Los camareros ______ la cuenta.",
+          "hint": "traer (ellos)",
+          "a": "trajeron",
+          "full": "Los camareros trajeron la cuenta."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish:</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "I was at home all day.",
+          "a": "Estuve en casa todo el día."
+        },
+        {
+          "q": "She said no.",
+          "a": "Dijo que no."
+        },
+        {
+          "q": "We went to the beach and saw the sunset.",
+          "a": "Fuimos a la playa y vimos el atardecer."
+        },
+        {
+          "q": "He was a good teacher.",
+          "a": "Fue un buen profesor."
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

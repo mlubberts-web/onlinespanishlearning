@@ -1,0 +1,215 @@
+{
+  "meta": {
+    "level": "A1",
+    "section": "Grammar",
+    "number": 5,
+    "total_in_level": 9,
+    "title": "Nouns, Articles and Adjectives",
+    "subtitle": "Gender, plurals, el / la / un / una, and how adjectives agree with the noun",
+    "footer": "Spanish Learning Program · A1 · Grammar · Nouns, articles, adjectives",
+    "next": "Next: A1 · PDF 6 — Pronouns, possessives and demonstratives"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "guess the gender of most nouns from their ending, and learn the exceptions",
+        "form regular plurals, including the spelling changes",
+        "use el, la, los, las, un, una, unos, unas, al and del",
+        "make adjectives agree with the noun and put them in the right place"
+      ]
+    },
+
+    { "type": "h1", "text": "1. Gender of nouns" },
+    {
+      "type": "p",
+      "text": "Every Spanish noun is <b>masculine</b> or <b>feminine</b>. There is no neuter. Learn each noun <b>together with its article</b>: <i>el libro, la mesa</i>."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [4.6, 6.0, 6.4],
+      "head": ["Ending", "Usually", "Examples"],
+      "rows": [
+        ["-o", "masculine", "el libro, el coche, el vaso"],
+        ["-a", "feminine", "la casa, la mesa, la ventana"],
+        ["-ción, -sión, -dad, -tad, -tud", "feminine", "la canción, la televisión, la ciudad, la libertad"],
+        ["-aje, -or, -án", "masculine", "el viaje, el color, el plan"],
+        ["-ma (Greek words)", "masculine", "el problema, el tema, el sistema, el idioma, el programa"],
+        ["-e or a consonant", "no rule: learn with the article", "el coche, la noche, el lápiz, la luz, el mes"]
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "Exceptions worth memorising",
+      "items": [
+        ["el día", "the day (masculine)"], ["el mapa", "the map (masculine)"], ["la mano", "the hand (feminine)"],
+        ["la foto", "the photo (feminine)"], ["la moto", "the motorbike (feminine)"], ["el planeta", "the planet (masculine)"]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>People:</b> many nouns change the ending: <i>niño / niña, profesor / profesora, vecino / vecina</i>. Nouns in <b>-e</b>, <b>-ista</b> and many others stay the same and only the article shows the gender: <i>el / la estudiante, el / la turista, el / la dentista</i>."
+    },
+    {
+      "type": "callout",
+      "kind": "dutch",
+      "title": "Dutch de / het does not map onto el / la",
+      "text": "Do not guess the gender from the Dutch noun. <i>Het meisje</i> is <b>la</b> chica, <i>de zon</i> is <b>el</b> sol, <i>de maan</i> is <b>la</b> luna. Learn each Spanish noun with its article."
+    },
+
+    { "type": "h1", "text": "2. Plural of nouns" },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [5.4, 3.0, 4.0, 4.6],
+      "head": ["Singular ends in", "Add", "Singular", "Plural"],
+      "rows": [
+        ["an unstressed vowel", "-s", "la casa, el coche", "las casas, los coches"],
+        ["a stressed vowel (á, é, ó)", "-s (or -es)", "el café, el sofá", "los cafés, los sofás"],
+        ["a consonant", "-es", "la ciudad, el papel", "las ciudades, los papeles"],
+        ["-z", "-ces (z becomes c)", "el lápiz, la vez", "los lápices, las veces"],
+        ["-ción, -sión (drop the accent)", "-ones", "la canción", "las canciones"],
+        ["-s after an unstressed syllable", "no change", "el lunes, el paraguas", "los lunes, los paraguas"]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "Watch the accent when the word grows",
+      "text": "<b>canción to canciones</b> loses its accent. <b>examen to exámenes</b> and <b>joven to jóvenes</b> gain one. <b>país to países</b> and <b>autobús to autobuses</b> keep the stress where it was. The rule from PDF 1 (stress and accents) decides each time."
+    },
+
+    { "type": "h1", "text": "3. Articles" },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [4.0, 3.2, 3.2, 3.3, 3.3],
+      "head": ["", "masculine sing.", "feminine sing.", "masculine pl.", "feminine pl."],
+      "rows": [
+        ["definite (the)", "el", "la", "los", "las"],
+        ["indefinite (a, an / some)", "un", "una", "unos", "unas"]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<b>Contractions:</b> a + el = <b>al</b>, de + el = <b>del</b>. <i>Voy al mercado. Es el libro del profesor.</i> (No contraction with la, los, las, or with the name <i>El</i> Salvador.)",
+        "<b>el with a feminine noun:</b> a feminine singular noun that starts with a stressed a- takes <i>el</i>, but stays feminine: <i>el agua fría, el águila</i>. The plural is regular: <i>las aguas</i>.",
+        "<b>Days:</b> <i>el lunes</i> (on Monday), <i>los lunes</i> (on Mondays). <b>Time:</b> <i>la una, las dos</i>.",
+        "<b>No article</b> after ser with a profession: <i>Soy médico.</i> And with a language that you speak: <i>Hablo español.</i> But <i>El español es fácil.</i> (the language is the subject)",
+        "<b>unos / unas</b> mean “some” or “a few”: <i>unos amigos</i>."
+      ]
+    },
+
+    { "type": "h1", "text": "4. Adjectives agree with the noun" },
+    {
+      "type": "p",
+      "text": "An adjective matches its noun in <b>gender</b> and <b>number</b>: <i>un chico alto, una chica alta, unos chicos altos, unas chicas altas</i>. It normally goes <b>after</b> the noun."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [4.2, 3.2, 3.2, 3.2, 3.2],
+      "head": ["Type", "masc. sing.", "fem. sing.", "masc. pl.", "fem. pl."],
+      "rows": [
+        ["-o adjectives", "alto", "alta", "altos", "altas"],
+        ["-e or consonant", "grande, fácil", "grande, fácil", "grandes, fáciles", "grandes, fáciles"],
+        ["nationality in a consonant", "español", "española", "españoles", "españolas"],
+        ["-dor, -ón, -és, -án", "trabajador", "trabajadora", "trabajadores", "trabajadoras"],
+        ["colour: -e or consonant", "verde, azul", "verde, azul", "verdes, azules", "verdes, azules"]
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "Nationalities (masculine / feminine)",
+      "items": [
+        ["español / española", "Spanish"], ["inglés / inglesa", "English"], ["alemán / alemana", "German"], ["francés / francesa", "French"],
+        ["holandés / holandesa", "Dutch"], ["italiano / italiana", "Italian"], ["portugués / portuguesa", "Portuguese"], ["estadounidense", "American (same for both)"]
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "Common adjectives",
+      "items": [
+        ["grande / pequeño", "big / small"], ["alto / bajo", "tall / short"], ["nuevo / viejo", "new / old"], ["bueno / malo", "good / bad"],
+        ["fácil / difícil", "easy / difficult"], ["caro / barato", "expensive / cheap"], ["rápido / lento", "fast / slow"], ["simpático / antipático", "nice / unpleasant"],
+        ["guapo / feo", "good-looking / ugly"], ["joven / mayor", "young / older"], ["rico / pobre", "rich / poor"], ["feliz / triste", "happy / sad"]
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "Colours",
+      "items": [
+        ["rojo", "red"], ["azul", "blue"], ["verde", "green"], ["amarillo", "yellow"],
+        ["negro", "black"], ["blanco", "white"], ["gris", "grey"], ["marrón", "brown"],
+        ["naranja", "orange"], ["rosa", "pink"], ["morado", "purple"], ["dorado", "golden"]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<b>bueno</b> and <b>malo</b> lose the final -o before a masculine singular noun: <i>un buen día, un mal día</i> (but <i>una buena idea</i>).",
+        "<b>Numbers and quantity</b> go before the noun: <i>dos libros, muchos amigos, poco tiempo</i>.",
+        "<b>Colours</b> go after the noun: <i>un coche rojo, una casa blanca</i>."
+      ]
+    },
+
+    { "type": "h1", "text": "5. Common mistakes" },
+    {
+      "type": "mistakes",
+      "rows": [
+        ["la problema", "el problema", "Words in -ma from Greek are masculine."],
+        ["una libro", "un libro", "libro is masculine, so un."],
+        ["las casas blanco", "las casas blancas", "The adjective agrees in gender and number."],
+        ["un coche roja", "un coche rojo", "coche is masculine, so rojo."],
+        ["una chica simpático", "una chica simpática", "Feminine noun, feminine adjective."],
+        ["Hablo el español.", "Hablo español.", "No article after verbs like hablar, estudiar or aprender with a language."],
+        ["un rojo coche", "un coche rojo", "Colours and most adjectives go after the noun."],
+        ["los lápizes", "los lápices", "z becomes c before -es."]
+      ]
+    },
+
+    { "type": "h1", "text": "6. Self-check" },
+    {
+      "type": "p",
+      "text": "Complete each sentence. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": ["Sentence", "Task"],
+      "items": [
+        { "q": "______ problema es difícil.", "hint": "the", "a": "El", "full": "El problema es difícil." },
+        { "q": "Quiero ______ café.", "hint": "a", "a": "un", "full": "Quiero un café." },
+        { "q": "______ casas son grandes.", "hint": "the (plural)", "a": "Las", "full": "Las casas son grandes." },
+        { "q": "Tengo dos ______.", "hint": "libro (plural)", "a": "libros", "full": "Tengo dos libros." },
+        { "q": "Es una casa ______.", "hint": "blanco", "a": "blanca", "full": "Es una casa blanca." },
+        { "q": "Mis amigos son ______.", "hint": "simpático", "a": "simpáticos", "full": "Mis amigos son simpáticos." },
+        { "q": "______ agua está fría.", "hint": "the", "a": "El", "full": "El agua está fría." },
+        { "q": "Voy ______ supermercado.", "hint": "a + el", "a": "al", "full": "Voy al supermercado." },
+        { "q": "Los ______ de la clase están en la mesa.", "hint": "lápiz (plural)", "a": "lápices", "full": "Los lápices de la clase están en la mesa." },
+        { "q": "Hay muchas ______ en el concierto.", "hint": "canción (plural)", "a": "canciones", "full": "Hay muchas canciones en el concierto." },
+        { "q": "Es un ______ día.", "hint": "bueno", "a": "buen", "full": "Es un buen día." },
+        { "q": "Las flores son ______.", "hint": "rojo", "a": "rojas", "full": "Las flores son rojas." }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish:</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        { "q": "The red car is new.", "a": "El coche rojo es nuevo." },
+        { "q": "I have a small house.", "a": "Tengo una casa pequeña." },
+        { "q": "They are good friends.", "a": "Son buenos amigos." },
+        { "q": "She is Spanish.", "a": "Es española." }
+      ]
+    },
+
+    { "type": "pagebreak" },
+    { "type": "answers" }
+  ]
+}

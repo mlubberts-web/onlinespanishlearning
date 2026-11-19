@@ -1,0 +1,465 @@
+{
+  "meta": {
+    "level": "C2",
+    "section": "Style",
+    "number": 5,
+    "total_in_level": 10,
+    "title": "Rhetoric and Figures of Speech",
+    "subtitle": "metaphor and simile, irony, euphemism, rhetorical devices and expressive idioms",
+    "footer": "Spanish Learning Program · C2 · Style · Rhetoric",
+    "next": "Next: C2 · PDF 6 — Formal and administrative writing"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "name and use the main figures of speech",
+        "recognise irony, euphemism and understatement",
+        "use rhetorical devices in arguments and speeches",
+        "use common image-based idioms correctly"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "1. Figures of speech"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        3.6,
+        6.2,
+        3.6,
+        3.6
+      ],
+      "head": [
+        "Figure",
+        "Example",
+        "English",
+        "Type"
+      ],
+      "rows": [
+        [
+          "metáfora",
+          "Sus ojos son dos luceros.",
+          "His eyes are two bright stars.",
+          "image"
+        ],
+        [
+          "símil",
+          "Es fuerte como un toro.",
+          "He is strong as a bull.",
+          "comparison"
+        ],
+        [
+          "metonimia",
+          "Me gusta leer a Cervantes.",
+          "I like reading Cervantes.",
+          "name for work"
+        ],
+        [
+          "sinécdoque",
+          "Cien cabezas de ganado.",
+          "A hundred head of cattle.",
+          "part for whole"
+        ],
+        [
+          "hipérbole",
+          "Te lo he dicho mil veces.",
+          "I have told you a thousand times.",
+          "exaggeration"
+        ],
+        [
+          "ironía",
+          "¡Qué buen tiempo!, dijo bajo la lluvia.",
+          "What nice weather!, he said in the rain.",
+          "opposite meaning"
+        ],
+        [
+          "personificación",
+          "La luna sonreía sobre el mar.",
+          "The moon smiled over the sea.",
+          "human traits"
+        ],
+        [
+          "oxímoron",
+          "Un silencio ensordecedor.",
+          "A deafening silence.",
+          "contradiction"
+        ],
+        [
+          "paradoja",
+          "Solo sé que no sé nada.",
+          "I only know that I know nothing.",
+          "apparent contradiction"
+        ],
+        [
+          "anáfora",
+          "Quiero paz, quiero pan, quiero libertad.",
+          "I want peace, bread, freedom.",
+          "repetition at start"
+        ],
+        [
+          "aliteración",
+          "Tres tristes tigres tragaban trigo.",
+          "Three sad tigers swallowed wheat.",
+          "repeated sounds"
+        ],
+        [
+          "pregunta retórica",
+          "¿Quién no ha soñado con ello?",
+          "Who has not dreamt of it?",
+          "no answer needed"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "Spot the difference",
+      "text": "A <b>metáfora</b> says one thing <i>is</i> another. A <b>símil</b> uses <i>como</i> or <i>parecer</i>: <i>Es como un toro</i>."
+    },
+    {
+      "type": "h1",
+      "text": "2. Euphemism and understatement"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.4,
+        5.8,
+        5.8
+      ],
+      "head": [
+        "Direct",
+        "Euphemism",
+        "Context"
+      ],
+      "rows": [
+        [
+          "morir",
+          "pasar a mejor vida",
+          "funerals, polite speech"
+        ],
+        [
+          "despedir",
+          "prescindir de sus servicios",
+          "business"
+        ],
+        [
+          "viejo",
+          "persona mayor / de edad avanzada",
+          "care, media"
+        ],
+        [
+          "gordo",
+          "de constitución fuerte",
+          "polite description"
+        ],
+        [
+          "mentir",
+          "faltar a la verdad",
+          "politics, press"
+        ],
+        [
+          "subir los precios",
+          "ajustar las tarifas",
+          "companies"
+        ],
+        [
+          "pobre",
+          "de recursos limitados",
+          "official language"
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "3. Rhetoric in argument"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.4,
+        6.0,
+        5.6
+      ],
+      "head": [
+        "Device",
+        "Example",
+        "Effect"
+      ],
+      "rows": [
+        [
+          "concession then rebuttal",
+          "Es cierto que cuesta, pero merece la pena.",
+          "fair, credible"
+        ],
+        [
+          "rhetorical question",
+          "¿Acaso no tenemos derecho a saberlo?",
+          "involves the reader"
+        ],
+        [
+          "triple structure",
+          "Es rápido, barato y fiable.",
+          "rhythm, memorability"
+        ],
+        [
+          "contrast",
+          "No es cuestión de dinero, sino de principios.",
+          "sharpens the point"
+        ],
+        [
+          "gradation",
+          "Primero se queja, luego protesta, al final grita.",
+          "builds intensity"
+        ],
+        [
+          "understatement",
+          "No está mal. (very good)",
+          "irony, modesty"
+        ],
+        [
+          "direct address",
+          "Piénsalo un momento: ¿qué harías tú?",
+          "draws the audience in"
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "4. Expressive idioms with images"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.6,
+        5.6,
+        5.8
+      ],
+      "head": [
+        "Idiom",
+        "Literal image",
+        "Meaning"
+      ],
+      "rows": [
+        [
+          "estar en las nubes",
+          "to be in the clouds",
+          "to daydream"
+        ],
+        [
+          "llover a cántaros",
+          "to rain jugs",
+          "to pour with rain"
+        ],
+        [
+          "más claro que el agua",
+          "clearer than water",
+          "crystal clear"
+        ],
+        [
+          "costar un ojo de la cara",
+          "to cost an eye",
+          "to cost a fortune"
+        ],
+        [
+          "hacérsele a uno la boca agua",
+          "mouth waters",
+          "to look delicious"
+        ],
+        [
+          "ser pan comido",
+          "to be eaten bread",
+          "to be very easy"
+        ],
+        [
+          "dormir como un lirón",
+          "to sleep like a dormouse",
+          "to sleep soundly"
+        ],
+        [
+          "ponerse como un tomate",
+          "to turn like a tomato",
+          "to blush"
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "5. Common mistakes"
+    },
+    {
+      "type": "mistakes",
+      "rows": [
+        [
+          "Es tan fuerte que un toro.",
+          "Es tan fuerte como un toro.",
+          "tan + como for comparison."
+        ],
+        [
+          "Lo vi con mis ojos propios.",
+          "Lo vi con mis propios ojos.",
+          "propio goes before the noun."
+        ],
+        [
+          "Es muy único.",
+          "Es único.",
+          "único does not take muy in careful style."
+        ],
+        [
+          "Subir arriba.",
+          "Subir.",
+          "avoid the redundant arriba."
+        ],
+        [
+          "Salir afuera.",
+          "Salir.",
+          "redundant."
+        ],
+        [
+          "Cuesta un ojo de cara.",
+          "Cuesta un ojo de la cara.",
+          "the fixed form has la."
+        ],
+        [
+          "Llueve a cantaros.",
+          "Llueve a cántaros.",
+          "accent on cántaros."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "6. Self-check"
+    },
+    {
+      "type": "p",
+      "text": "Fill in the blank. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Hint"
+      ],
+      "items": [
+        {
+          "q": "Es fuerte ______ un toro.",
+          "hint": "comparison",
+          "a": "como",
+          "full": "Es fuerte como un toro."
+        },
+        {
+          "q": "Te lo he dicho ______ veces.",
+          "hint": "hyperbole, 1000",
+          "a": "mil",
+          "full": "Te lo he dicho mil veces."
+        },
+        {
+          "q": "Ha pasado a mejor ______.",
+          "hint": "euphemism for death",
+          "a": "vida",
+          "full": "Ha pasado a mejor vida."
+        },
+        {
+          "q": "Lo vi con mis ______ ojos.",
+          "hint": "own",
+          "a": "propios",
+          "full": "Lo vi con mis propios ojos."
+        },
+        {
+          "q": "Llueve a ______.",
+          "hint": "jugs",
+          "a": "cántaros",
+          "full": "Llueve a cántaros."
+        },
+        {
+          "q": "Siempre está en las ______.",
+          "hint": "daydreaming",
+          "a": "nubes",
+          "full": "Siempre está en las nubes."
+        },
+        {
+          "q": "Se me hace la ______ agua.",
+          "hint": "mouth",
+          "a": "boca",
+          "full": "Se me hace la boca agua."
+        },
+        {
+          "q": "Cien ______ de ganado.",
+          "hint": "head (pl.)",
+          "a": "cabezas",
+          "full": "Cien cabezas de ganado."
+        },
+        {
+          "q": "Un silencio ______.",
+          "hint": "deafening",
+          "a": "ensordecedor",
+          "full": "Un silencio ensordecedor."
+        },
+        {
+          "q": "Quiero paz, ______ pan, quiero libertad.",
+          "hint": "anaphora",
+          "a": "quiero",
+          "full": "Quiero paz, quiero pan, quiero libertad."
+        },
+        {
+          "q": "Está más claro que el ______.",
+          "hint": "water",
+          "a": "agua",
+          "full": "Está más claro que el agua."
+        },
+        {
+          "q": "Me costó un ojo de la ______.",
+          "hint": "face",
+          "a": "cara",
+          "full": "Me costó un ojo de la cara."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish (Spain):</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "He is as strong as a bull.",
+          "a": "Es fuerte como un toro."
+        },
+        {
+          "q": "I saw it with my own eyes.",
+          "a": "Lo vi con mis propios ojos."
+        },
+        {
+          "q": "It is crystal clear.",
+          "a": "Está más claro que el agua."
+        },
+        {
+          "q": "She is always daydreaming.",
+          "a": "Siempre está en las nubes."
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

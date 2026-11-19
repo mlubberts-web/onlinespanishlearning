@@ -1,0 +1,545 @@
+{
+  "meta": {
+    "level": "C1",
+    "section": "Grammar",
+    "number": 2,
+    "total_in_level": 10,
+    "title": "Subjunctive vs Indicative: Meaning Contrasts",
+    "subtitle": "mood-dependent verbs, relative clauses, finer adverbial clauses, independent subjunctive and tense choice",
+    "footer": "Spanish Learning Program · C1 · Grammar · Subjunctive vs indicative",
+    "next": "Next: C1 · PDF 3 — Advanced connectors and discourse"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "use mood to change meaning (dice que viene / dice que venga)",
+        "choose mood in relative clauses with superlatives and unique elements (el único que conozca)",
+        "use independent subjunctive for wishes, third-person commands and fixed phrases",
+        "choose among present, perfect, imperfect and pluperfect subjunctive"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "1. Verbs whose meaning depends on the mood"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        3.4,
+        6.4,
+        7.2
+      ],
+      "head": [
+        "Verb",
+        "Indicative (information)",
+        "Subjunctive (influence, emotion)"
+      ],
+      "rows": [
+        [
+          "decir que",
+          "Dice que viene. (He says he is coming.)",
+          "Dice que vengas. (He tells you to come.)"
+        ],
+        [
+          "escribir / avisar que",
+          "Me avisó que llegaba tarde.",
+          "Me avisó que llegara pronto. (asked me to)"
+        ],
+        [
+          "entender / comprender que",
+          "Entiendo que tiene prisa. (I gather)",
+          "Entiendo que tenga prisa. (I can see why)"
+        ],
+        [
+          "sentir que",
+          "Siento que me mira. (I feel that)",
+          "Siento que no puedas venir. (I regret)"
+        ],
+        [
+          "esperar que",
+          "Espero que vengas. (hope: subjunctive)",
+          "Espero que llegue. (always subj. for hope)"
+        ],
+        [
+          "parecer que",
+          "Parece que llueve.",
+          "No parece que llueva."
+        ],
+        [
+          "creer / pensar que",
+          "Creo que viene.",
+          "No creo que venga."
+        ],
+        [
+          "suponer que",
+          "Supongo que viene.",
+          "No supongo que venga."
+        ],
+        [
+          "admitir que",
+          "Admite que se equivocó. (he states)",
+          "No admite que se equivoque. (accept the idea)"
+        ],
+        [
+          "lo que quiero decir es que",
+          "Lo que quiero decir es que llegué tarde.",
+          "—"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "Rule of thumb",
+      "text": "<b>Indicative</b> = a statement of fact or report. <b>Subjunctive</b> = something to bring about (order, wish), a reaction (emotion, evaluation) or a doubt. Many verbs (decir, avisar, escribir, gritar) take both, with a different meaning."
+    },
+    {
+      "type": "h1",
+      "text": "2. Relative clauses: specific vs non-specific"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.6,
+        5.6,
+        5.8
+      ],
+      "head": [
+        "Indicative (known)",
+        "Subjunctive (unknown, hypothetical)",
+        "Meaning"
+      ],
+      "rows": [
+        [
+          "Busco al camarero que me atendió.",
+          "Busco a un camarero que hable inglés.",
+          "specific vs any"
+        ],
+        [
+          "Hay alguien que sabe la respuesta.",
+          "No hay nadie que sepa la respuesta.",
+          "exists vs not"
+        ],
+        [
+          "Compré el único libro que había.",
+          "Dame el único libro que tengas.",
+          "known vs any"
+        ],
+        [
+          "Es el mejor libro que he leído.",
+          "Es el mejor libro que haya leído nunca.",
+          "fact vs evaluation (both used)"
+        ],
+        [
+          "Quien llegó primero ganó.",
+          "Quien llegue primero ganará.",
+          "past vs future/any"
+        ],
+        [
+          "Los que vinieron se divirtieron.",
+          "Los que vengan se divertirán.",
+          "past vs future"
+        ],
+        [
+          "Lo que dijo es verdad.",
+          "Lo que digas, será verdad.",
+          "known vs unknown"
+        ]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<b>Superlatives and uniqueness</b> (el único, el primero, el mejor, lo mejor, lo único) often take the <b>subjunctive</b> when the speaker evaluates or the item is open: <i>Es lo mejor que pueda pasar.</i> The indicative is also correct with facts.",
+        "<b>Negative or interrogative main clause</b> pushes the subjunctive: <i>¿Hay alguien que sepa francés? No conozco a nadie que lo haga.</i>"
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "3. Adverbial clauses: finer points"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.0,
+        6.0,
+        6.0
+      ],
+      "head": [
+        "Conjunction",
+        "Indicative",
+        "Subjunctive"
+      ],
+      "rows": [
+        [
+          "como",
+          "Lo hice como me dijeron. (as)",
+          "Hazlo como quieras. (however you like)"
+        ],
+        [
+          "donde",
+          "Vivo donde nací.",
+          "Vive donde quieras."
+        ],
+        [
+          "según",
+          "Según dices, es fácil.",
+          "Según vayan llegando, entran."
+        ],
+        [
+          "cuando",
+          "Cuando llegó, cenamos.",
+          "Cuando llegue, cenamos."
+        ],
+        [
+          "de modo que / de manera que",
+          "Habló claro, de modo que lo entendieron. (result)",
+          "Habla claro, de modo que lo entiendan. (purpose)"
+        ],
+        [
+          "de ahí que",
+          "—",
+          "Llovió; de ahí que no saliéramos."
+        ],
+        [
+          "a medida que / conforme",
+          "A medida que crece, cambia.",
+          "A medida que vaya creciendo, cambiará."
+        ],
+        [
+          "no vaya a ser que",
+          "—",
+          "Llévate un paraguas, no vaya a ser que llueva."
+        ],
+        [
+          "en caso de que, siempre que",
+          "—",
+          "En caso de que llame, dile que estoy fuera."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "warn",
+      "title": "de ahí que",
+      "text": "<b>De ahí que</b> (hence, that is why) always takes the subjunctive, even though it states a fact: <i>No dormí; de ahí que esté cansado.</i> It is common in academic writing."
+    },
+    {
+      "type": "h1",
+      "text": "4. Independent subjunctive"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.0,
+        6.2,
+        5.8
+      ],
+      "head": [
+        "Use",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "Wish (que)",
+          "¡Que lo pases bien!",
+          "Have a good time!"
+        ],
+        [
+          "Wish (que, 3rd person)",
+          "¡Que descanse en paz!",
+          "May he rest in peace."
+        ],
+        [
+          "Command (3rd person)",
+          "Que pase el siguiente.",
+          "Next, please."
+        ],
+        [
+          "Indirect command",
+          "Que se calle, por favor.",
+          "Tell him to be quiet."
+        ],
+        [
+          "Wish (fixed)",
+          "¡Viva el rey! ¡Dios te bendiga!",
+          "Long live the king! God bless you."
+        ],
+        [
+          "Wish (unlikely)",
+          "¡Tuviera yo tu edad!",
+          "If only I were your age!"
+        ],
+        [
+          "Whatever",
+          "Pase lo que pase. Venga quien venga.",
+          "Whatever happens. Whoever comes."
+        ],
+        [
+          "Probability",
+          "Quizá lo sepa. Tal vez venga.",
+          "Maybe he knows. Maybe he comes."
+        ],
+        [
+          "Fixed phrase",
+          "Así sea. Que yo sepa. Sea como fuere.",
+          "So be it. As far as I know. Be that as it may."
+        ],
+        [
+          "Polite request",
+          "Quisiera pedirle algo.",
+          "I would like to ask you something."
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "5. Choosing the subjunctive tense"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.0,
+        6.2,
+        5.8
+      ],
+      "head": [
+        "Tense",
+        "Example",
+        "Time reference"
+      ],
+      "rows": [
+        [
+          "present",
+          "No creo que llegue mañana.",
+          "now or future"
+        ],
+        [
+          "perfect",
+          "No creo que haya llegado.",
+          "completed before now"
+        ],
+        [
+          "imperfect",
+          "No creía que llegara.",
+          "same time as past verb or later"
+        ],
+        [
+          "pluperfect",
+          "No creía que hubiera llegado.",
+          "before the past verb"
+        ],
+        [
+          "imperfect after present main verb",
+          "No creo que llegara ayer.",
+          "past event, still doubtful now"
+        ],
+        [
+          "pluperfect (unreal)",
+          "Ojalá hubiera llegado.",
+          "contrary to fact"
+        ],
+        [
+          "conditional main + imperfect",
+          "Me gustaría que vinieras.",
+          "polite wish"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "Present main verb + past event",
+      "text": "<b>No creo que haya venido</b> (the result matters now) vs <b>No creo que viniera ayer</b> (the event is dated). With a past time word the imperfect subjunctive is natural: <i>Dudo que lo supiera entonces.</i>"
+    },
+    {
+      "type": "h1",
+      "text": "6. Common mistakes"
+    },
+    {
+      "type": "mistakes",
+      "rows": [
+        [
+          "Dice que vienes. (meaning: he tells you to come)",
+          "Dice que vengas.",
+          "order: subjunctive."
+        ],
+        [
+          "Siento que no puedes venir.",
+          "Siento que no puedas venir.",
+          "regret: subjunctive."
+        ],
+        [
+          "Busco un camarero que habla inglés.",
+          "Busco un camarero que hable inglés.",
+          "any waiter: subjunctive."
+        ],
+        [
+          "No hay nadie que sabe.",
+          "No hay nadie que sepa.",
+          "negative: subjunctive."
+        ],
+        [
+          "Llovió, de ahí que no salimos.",
+          "Llovió; de ahí que no saliéramos.",
+          "de ahí que: subjunctive."
+        ],
+        [
+          "Que pasa el siguiente.",
+          "Que pase el siguiente.",
+          "third-person command: subjunctive."
+        ],
+        [
+          "No creo que ha llegado.",
+          "No creo que haya llegado.",
+          "perfect subjunctive."
+        ],
+        [
+          "Espero que vienes.",
+          "Espero que vengas.",
+          "esperar que: subjunctive."
+        ],
+        [
+          "Hazlo como quieres.",
+          "Hazlo como quieras.",
+          "however you want: subjunctive."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "7. Self-check"
+    },
+    {
+      "type": "p",
+      "text": "Fill in the correct form. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Hint"
+      ],
+      "items": [
+        {
+          "q": "Dice que ______ a las ocho.",
+          "hint": "venir: order to you: tú, subjunctive",
+          "a": "vengas",
+          "full": "Dice que vengas a las ocho."
+        },
+        {
+          "q": "Dice que ______ a las ocho.",
+          "hint": "venir: information: él, indicative",
+          "a": "viene",
+          "full": "Dice que viene a las ocho."
+        },
+        {
+          "q": "Siento que no ______ venir.",
+          "hint": "poder: tú, subjunctive",
+          "a": "puedas",
+          "full": "Siento que no puedas venir."
+        },
+        {
+          "q": "Busco un camarero que ______ inglés.",
+          "hint": "hablar: any waiter",
+          "a": "hable",
+          "full": "Busco un camarero que hable inglés."
+        },
+        {
+          "q": "No hay nadie que ______ la respuesta.",
+          "hint": "saber: subjunctive",
+          "a": "sepa",
+          "full": "No hay nadie que sepa la respuesta."
+        },
+        {
+          "q": "Llovió; de ahí que no ______.",
+          "hint": "salir: nosotros, imperfect subj.",
+          "a": "saliéramos",
+          "full": "Llovió; de ahí que no saliéramos."
+        },
+        {
+          "q": "Que ______ el siguiente.",
+          "hint": "pasar: 3rd person command",
+          "a": "pase",
+          "full": "Que pase el siguiente."
+        },
+        {
+          "q": "¡Que lo ______ bien!",
+          "hint": "pasar: tú, subjunctive",
+          "a": "pases",
+          "full": "¡Que lo pases bien!"
+        },
+        {
+          "q": "No creo que ______ llegado.",
+          "hint": "haber: perfect subj., él",
+          "a": "haya",
+          "full": "No creo que haya llegado."
+        },
+        {
+          "q": "Dudaba que ______ llegado.",
+          "hint": "haber: pluperfect subj., él",
+          "a": "hubiera",
+          "full": "Dudaba que hubiera llegado."
+        },
+        {
+          "q": "Llévate un paraguas, no ______ a ser que llueva.",
+          "hint": "ir: present subj.",
+          "a": "vaya",
+          "full": "Llévate un paraguas, no vaya a ser que llueva."
+        },
+        {
+          "q": "Hazlo como ______.",
+          "hint": "querer: tú, subjunctive",
+          "a": "quieras",
+          "full": "Hazlo como quieras."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish:</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "I regret that you cannot come.",
+          "a": "Siento que no puedas venir."
+        },
+        {
+          "q": "I am looking for a waiter who speaks English.",
+          "a": "Busco un camarero que hable inglés."
+        },
+        {
+          "q": "Have a good time!",
+          "a": "¡Que lo pases bien!"
+        },
+        {
+          "q": "There is nobody who knows the answer.",
+          "a": "No hay nadie que sepa la respuesta."
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

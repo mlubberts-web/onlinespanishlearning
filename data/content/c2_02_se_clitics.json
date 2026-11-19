@@ -1,0 +1,468 @@
+{
+  "meta": {
+    "level": "C2",
+    "section": "Grammar",
+    "number": 2,
+    "total_in_level": 10,
+    "title": "The Many Values of Se and Clitic Pronouns",
+    "subtitle": "accidental se, ethical dative, clitic doubling and position, neuter lo, leísmo and laísmo",
+    "footer": "Spanish Learning Program · C2 · Grammar · Se and clitics",
+    "next": "Next: C2 · PDF 3 — Advanced syntax and word order"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "recognise and produce every common value of se",
+        "use accidental se (se me cayó) and the ethical dative correctly",
+        "place and double clitic pronouns without hesitation",
+        "use neuter lo in all its constructions and know the facts on leísmo"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "1. The values of se"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.2,
+        6.4,
+        6.4
+      ],
+      "head": [
+        "Value",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "reflexive",
+          "Se lava las manos.",
+          "He washes his hands."
+        ],
+        [
+          "reciprocal",
+          "Se quieren mucho.",
+          "They love each other a lot."
+        ],
+        [
+          "pronominal verb",
+          "Se arrepiente de todo.",
+          "He regrets everything."
+        ],
+        [
+          "passive se",
+          "Se venden pisos en este barrio.",
+          "Flats are sold in this area."
+        ],
+        [
+          "impersonal se",
+          "Aquí se vive muy bien.",
+          "One lives very well here."
+        ],
+        [
+          "replaces le before lo",
+          "Se lo di a Ana ayer.",
+          "I gave it to Ana yesterday."
+        ],
+        [
+          "accidental (it happened to me)",
+          "Se me cayó el vaso.",
+          "I dropped the glass (it slipped)."
+        ],
+        [
+          "aspectual, emphatic",
+          "Juan se comió toda la tarta.",
+          "Juan ate the whole cake."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "Accidental se",
+      "text": "Pattern: <b>se + me/te/le... + verb + subject</b>. The verb agrees with the thing, not with the person: <i>Se me olvidaron las llaves.</i> The construction avoids blaming the person."
+    },
+    {
+      "type": "h1",
+      "text": "2. Ethical dative and dative of interest"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.2,
+        6.4,
+        5.4
+      ],
+      "head": [
+        "Pattern",
+        "Example",
+        "Effect"
+      ],
+      "rows": [
+        [
+          "me / te (affected person)",
+          "No me llores más, hombre.",
+          "shows the speaker is affected"
+        ],
+        [
+          "se me + verb",
+          "Se me ha puesto enfermo el niño.",
+          "my child got ill, to my distress"
+        ],
+        [
+          "dative of possession",
+          "Le lavé la cara al niño.",
+          "body part, possessive not needed"
+        ],
+        [
+          "interest",
+          "Me he leído el libro entero.",
+          "emphasises completion, personal involvement"
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "3. Clitic doubling and position"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.0,
+        6.4,
+        5.6
+      ],
+      "head": [
+        "Rule",
+        "Example",
+        "Note"
+      ],
+      "rows": [
+        [
+          "indirect object doubled",
+          "Le di el libro a Ana.",
+          "le is practically obligatory"
+        ],
+        [
+          "a mí / a ti: emphasis",
+          "A mí me gusta el cine.",
+          "usual with gustar-verbs"
+        ],
+        [
+          "direct object, emphatic",
+          "La vi a ella, no a él.",
+          "doubling for contrast"
+        ],
+        [
+          "before conjugated verb",
+          "Te lo explico mañana.",
+          "order: se, te/me/nos/os, lo"
+        ],
+        [
+          "attached to infinitive",
+          "Quiero explicártelo.",
+          "or Te lo quiero explicar"
+        ],
+        [
+          "attached to gerund",
+          "Estoy preparándolo.",
+          "or Lo estoy preparando"
+        ],
+        [
+          "attached to imperative",
+          "Dámelo ahora mismo.",
+          "accent mark added"
+        ],
+        [
+          "negative imperative",
+          "No me lo des.",
+          "pronouns come before the verb"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "spain",
+      "title": "Order of pronouns",
+      "text": "Fixed order: <b>se</b> + <b>2nd person</b> (te, os) + <b>1st person</b> (me, nos) + <b>3rd person</b> (lo, la, le). So <i>Se te ha caído</i>, but never *te se ha caído."
+    },
+    {
+      "type": "h1",
+      "text": "4. Neuter lo"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.4,
+        6.6,
+        6.0
+      ],
+      "head": [
+        "Pattern",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "lo + adjective",
+          "Lo importante es participar.",
+          "The important thing is to take part."
+        ],
+        [
+          "lo + adjective + que",
+          "No sabes lo difícil que es.",
+          "You do not know how hard it is."
+        ],
+        [
+          "lo de + noun",
+          "Lo de ayer fue un error.",
+          "The thing from yesterday was a mistake."
+        ],
+        [
+          "lo que",
+          "Hizo lo que quiso.",
+          "He did what he wanted."
+        ],
+        [
+          "lo mío / lo tuyo",
+          "Lo mío es el deporte.",
+          "My thing is sport."
+        ],
+        [
+          "a lo mejor",
+          "A lo mejor llego tarde.",
+          "Maybe I will be late."
+        ],
+        [
+          "por lo tanto",
+          "Por lo tanto, no iremos.",
+          "Therefore, we will not go."
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "5. Leísmo, laísmo, loísmo"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        3.8,
+        6.4,
+        6.8
+      ],
+      "head": [
+        "Term",
+        "Example",
+        "Status"
+      ],
+      "rows": [
+        [
+          "leísmo (people, masculine)",
+          "A Juan le vi ayer.",
+          "accepted by the RAE in Spain"
+        ],
+        [
+          "leísmo (things)",
+          "El libro le leí.",
+          "not accepted"
+        ],
+        [
+          "laísmo",
+          "A María la dije la verdad.",
+          "not standard, avoid"
+        ],
+        [
+          "loísmo",
+          "A Pedro lo di un libro.",
+          "not standard, avoid"
+        ],
+        [
+          "standard",
+          "A María le dije la verdad.",
+          "indirect object is always le"
+        ]
+      ],
+      "latam_ok": true
+    },
+    {
+      "type": "h1",
+      "text": "6. Common mistakes"
+    },
+    {
+      "type": "mistakes",
+      "rows": [
+        [
+          "Se me cayó los vasos.",
+          "Se me cayeron los vasos.",
+          "the verb agrees with the thing."
+        ],
+        [
+          "Le lo di.",
+          "Se lo di.",
+          "le + lo becomes se lo."
+        ],
+        [
+          "Te se ha caído.",
+          "Se te ha caído.",
+          "se comes first."
+        ],
+        [
+          "A María la dije la verdad.",
+          "A María le dije la verdad.",
+          "no laísmo."
+        ],
+        [
+          "Dame lo.",
+          "Dámelo.",
+          "pronouns attach to the imperative; add the accent."
+        ],
+        [
+          "No lo digas me.",
+          "No me lo digas.",
+          "negative imperative: pronouns before."
+        ],
+        [
+          "Sabes qué difícil es esto.",
+          "Sabes lo difícil que es esto.",
+          "after saber, lo + adjective + que."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "7. Self-check"
+    },
+    {
+      "type": "p",
+      "text": "Fill in the blank. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Hint"
+      ],
+      "items": [
+        {
+          "q": "______ me cayó el vaso.",
+          "hint": "accidental",
+          "a": "Se",
+          "full": "Se me cayó el vaso."
+        },
+        {
+          "q": "Ayer ______ lo di a Ana.",
+          "hint": "le + lo",
+          "a": "se",
+          "full": "Ayer se lo di a Ana."
+        },
+        {
+          "q": "¿Quieres el coche? Te ______ presto.",
+          "hint": "pronoun for el coche",
+          "a": "lo",
+          "full": "¿Quieres el coche? Te lo presto."
+        },
+        {
+          "q": "______ venden pisos en este barrio.",
+          "hint": "passive",
+          "a": "Se",
+          "full": "Se venden pisos en este barrio."
+        },
+        {
+          "q": "No sabes ______ difícil que es.",
+          "hint": "neuter article",
+          "a": "lo",
+          "full": "No sabes lo difícil que es."
+        },
+        {
+          "q": "Juan ______ comió toda la tarta.",
+          "hint": "aspectual",
+          "a": "se",
+          "full": "Juan se comió toda la tarta."
+        },
+        {
+          "q": "A Ana ______ di el libro.",
+          "hint": "indirect object",
+          "a": "le",
+          "full": "A Ana le di el libro."
+        },
+        {
+          "q": "A mí ______ gustan los coches.",
+          "hint": "pronoun",
+          "a": "me",
+          "full": "A mí me gustan los coches."
+        },
+        {
+          "q": "Chicos, ¡______!",
+          "hint": "sentarse: vosotros imperative",
+          "a": "sentaos",
+          "full": "Chicos, ¡sentaos!"
+        },
+        {
+          "q": "No ______ lo digas a nadie.",
+          "hint": "le + lo",
+          "a": "se",
+          "full": "No se lo digas a nadie."
+        },
+        {
+          "q": "Vimos a María y ______ saludamos.",
+          "hint": "direct object, she",
+          "a": "la",
+          "full": "Vimos a María y la saludamos."
+        },
+        {
+          "q": "Se me ______ las llaves.",
+          "hint": "olvidar: pretérito, plural",
+          "a": "olvidaron",
+          "full": "Se me olvidaron las llaves."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish (Spain):</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "I dropped the glass.",
+          "a": "Se me cayó el vaso."
+        },
+        {
+          "q": "I gave it to him yesterday.",
+          "a": "Se lo di ayer."
+        },
+        {
+          "q": "You do not know how hard it is.",
+          "a": "No sabes lo difícil que es."
+        },
+        {
+          "q": "Flats are sold here.",
+          "a": "Aquí se venden pisos."
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

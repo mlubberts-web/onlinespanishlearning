@@ -1,0 +1,222 @@
+{
+  "meta": {
+    "level": "A1",
+    "section": "Grammar",
+    "number": 8,
+    "total_in_level": 9,
+    "title": "Basic Sentence Structure",
+    "subtitle": "Word order, negatives, questions, linking words and the first prepositions",
+    "footer": "Spanish Learning Program · A1 · Grammar · Sentence structure",
+    "next": "Next: A1 · PDF 9 — Vocabulary and set phrases"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "build simple sentences in the right order",
+        "make negative sentences, including with nunca, nada and nadie",
+        "ask yes/no questions and questions with a question word",
+        "link ideas with y, o, pero and porque, and use the first prepositions correctly"
+      ]
+    },
+
+    { "type": "h1", "text": "1. Word order" },
+    {
+      "type": "p",
+      "text": "The basic order is <b>(subject) + verb + the rest</b>. The subject is usually left out. Time and place expressions can go at the end or at the start, but the verb does <b>not</b> move."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [2.4, 2.6, 4.2, 4.0, 3.8],
+      "head": ["Subject", "Verb", "Object", "Place", "Time"],
+      "rows": [
+        ["Ana", "estudia", "español", "en la universidad", "todos los días."],
+        ["(Yo)", "como", "pasta", "en casa", "los domingos."],
+        ["(Nosotros)", "vemos", "la tele", "en el salón", "por la noche."]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<b>Adjectives</b> go after the noun: <i>una casa grande, un coche rojo</i> (PDF 5).",
+        "<b>Time words</b> can open the sentence: <i>Hoy trabajo en casa.</i> or <i>Trabajo en casa hoy.</i>"
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "dutch",
+      "title": "No Dutch word-order tricks needed",
+      "bullets": [
+        "Dutch inverts after a time word (<i>Morgen werk ik</i>). Spanish does not: <b>Mañana trabajo.</b>",
+        "Dutch sends the verb to the end after <i>omdat</i>, <i>dat</i>, <i>als</i>. Spanish keeps the normal order: <b>porque estoy cansado</b> (omdat ik moe ben)."
+      ]
+    },
+
+    { "type": "h1", "text": "2. Negative sentences" },
+    {
+      "type": "p",
+      "text": "Put <b>no</b> directly before the verb: <i>No hablo francés. No vivo en Madrid.</i> The negative words below follow one rule: <b>if they come after the verb, you also need no before the verb. If they come before the verb, you do not.</b>"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [2.8, 3.2, 5.6, 5.4],
+      "head": ["Word", "Meaning", "After the verb (with no)", "Before the verb (no extra no)"],
+      "rows": [
+        ["nada", "nothing", "No tengo nada.", "Nada es fácil."],
+        ["nadie", "nobody", "No veo a nadie.", "Nadie habla español aquí."],
+        ["nunca", "never", "No voy nunca al cine.", "Nunca voy al cine."],
+        ["tampoco", "neither, not either", "No hablo francés tampoco.", "Tampoco hablo francés."]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "dutch",
+      "title": "Double negatives are normal",
+      "text": "Dutch and English avoid two negatives (<i>ik zie niemand</i>). Spanish requires them after the verb: <b>No veo a nadie</b>, <b>No tengo nada</b>."
+    },
+
+    { "type": "h1", "text": "3. Questions" },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [4.4, 6.4, 6.2],
+      "head": ["Type", "Example", "English"],
+      "rows": [
+        ["Yes / no (same order, rising voice)", "¿Hablas inglés?", "Do you speak English?"],
+        ["Yes / no (verb first, subject after)", "¿Habla Ana inglés?", "Does Ana speak English?"],
+        ["Tag question", "Hablas inglés, ¿verdad? / ¿no?", "You speak English, don't you?"],
+        ["Question word + verb", "¿Dónde vives?", "Where do you live?"],
+        ["Question word + verb + subject", "¿Qué hacen ellos?", "What are they doing?"]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Spanish has no helper like <i>do</i> or <i>does</i>. The same verb form does the job.",
+        "In Spain, if you state the subject in a question it goes <b>after</b> the verb: <i>¿Dónde vives (tú)?</i>",
+        "To answer, repeat the verb: <i>¿Hablas inglés? Sí, hablo inglés. / No, no hablo inglés.</i> (A negative answer starts with <b>No,</b> and then a negative sentence.)"
+      ]
+    },
+
+    { "type": "h1", "text": "4. Linking words" },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [3.2, 3.2, 10.6],
+      "head": ["Word", "Meaning", "Example"],
+      "rows": [
+        ["y (e)", "and", "Hablo inglés y español."],
+        ["o (u)", "or", "¿Quieres té o café?"],
+        ["pero", "but", "Es caro, pero es muy bueno."],
+        ["porque", "because", "Estudio español porque quiero viajar."],
+        ["también", "also, too", "Yo también hablo inglés."],
+        ["entonces", "so, then", "Tengo sueño, entonces me acuesto."],
+        ["cuando", "when", "Cuando llego a casa, ceno."]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "warn",
+      "title": "y becomes e, o becomes u",
+      "text": "<b>y</b> changes to <b>e</b> before a word that starts with <b>i-</b> or <b>hi-</b>: <i>español e inglés, padre e hijo</i> (but <i>agua y hielo</i>, because of hie-).<br/><b>o</b> changes to <b>u</b> before a word that starts with <b>o-</b> or <b>ho-</b>: <i>siete u ocho, mujer u hombre</i>."
+    },
+
+    { "type": "h1", "text": "5. First prepositions" },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [2.4, 5.6, 9.0],
+      "head": ["Word", "Main uses", "Example"],
+      "rows": [
+        ["a", "direction, time, personal a", "Voy a Madrid. Llego a las dos. Veo a María."],
+        ["de", "origin, possession, material", "Soy de España. Es el libro de Ana."],
+        ["en", "in, on, at; by (transport)", "Estoy en casa. Voy en tren."],
+        ["con", "with", "Vivo con mi hermano."],
+        ["sin", "without", "Quiero un café sin azúcar."],
+        ["para", "for, in order to", "Es para ti. Estudio para aprender."],
+        ["desde / hasta", "from / until", "Trabajo desde las nueve hasta las cinco."],
+        ["entre", "between, among", "Está entre el banco y la farmacia."]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<b>Personal a:</b> put <b>a</b> before a direct object that is a specific person (or a pet): <i>Veo a Pedro. Conozco a tu hermana.</i> Not before things: <i>Veo la tele.</i> Not after tener: <i>Tengo dos hermanos.</i>",
+        "<b>Possession</b> uses <b>de</b>, never 's: <i>el libro de Ana</i> (Ana's book).",
+        "<b>Contractions:</b> a + el = <b>al</b>, de + el = <b>del</b>."
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "Place prepositions",
+      "items": [
+        ["encima de / sobre", "on, on top of"], ["debajo de", "under"], ["delante de", "in front of"], ["detrás de", "behind"],
+        ["al lado de", "next to"], ["cerca de", "near"], ["lejos de", "far from"], ["entre", "between"],
+        ["a la derecha de", "to the right of"], ["a la izquierda de", "to the left of"], ["enfrente de", "opposite"], ["dentro de", "inside"]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<i>El gato está debajo de la mesa. La farmacia está al lado del banco. Mi casa está lejos de aquí.</i>"
+    },
+
+    { "type": "h1", "text": "6. Common mistakes" },
+    {
+      "type": "mistakes",
+      "rows": [
+        ["Yo no tengo no dinero.", "No tengo dinero.", "One no before the verb. Do not repeat it before the noun."],
+        ["Veo nadie.", "No veo a nadie.", "A negative word after the verb needs no before the verb, and a person object takes personal a."],
+        ["Veo María.", "Veo a María.", "Personal a before a specific person."],
+        ["Es el libro Ana.", "Es el libro de Ana.", "Possession uses de."],
+        ["¿Dónde tú vives?", "¿Dónde vives (tú)?", "In Spain the subject goes after the verb, or is left out."],
+        ["Padre y hijo.", "Padre e hijo.", "y becomes e before i- and hi-."],
+        ["Siete o ocho.", "Siete u ocho.", "o becomes u before o- and ho-."],
+        ["Voy en el mercado.", "Voy al mercado.", "Direction takes a, and a + el = al."]
+      ]
+    },
+
+    { "type": "h1", "text": "7. Self-check" },
+    {
+      "type": "p",
+      "text": "Complete or change each sentence as asked. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": ["Sentence", "Task"],
+      "items": [
+        { "q": "Hablo francés.", "hint": "make it negative", "a": "No hablo francés.", "full": "No hablo francés." },
+        { "q": "Bebo café.", "hint": "make it negative with nunca", "a": "Nunca bebo café.", "full": "Nunca bebo café." },
+        { "q": "Veo ______ Pedro.", "hint": "personal a", "a": "a", "full": "Veo a Pedro." },
+        { "q": "Es el libro ______ Ana.", "hint": "of", "a": "de", "full": "Es el libro de Ana." },
+        { "q": "Voy ______ mercado.", "hint": "a + el", "a": "al", "full": "Voy al mercado." },
+        { "q": "Ana ______ Isabel son amigas.", "hint": "and", "a": "e", "full": "Ana e Isabel son amigas." },
+        { "q": "Tengo siete ______ ocho libros.", "hint": "or", "a": "u", "full": "Tengo siete u ocho libros." },
+        { "q": "El gato está ______ de la mesa.", "hint": "under", "a": "debajo", "full": "El gato está debajo de la mesa." },
+        { "q": "La farmacia está ______ de correos.", "hint": "next to", "a": "al lado", "full": "La farmacia está al lado de correos." },
+        { "q": "tú / dónde / vives", "hint": "put in order", "a": "¿Dónde vives?", "full": "¿Dónde vives?" },
+        { "q": "No tengo ______.", "hint": "nothing", "a": "nada", "full": "No tengo nada." },
+        { "q": "No veo a ______.", "hint": "nobody", "a": "nadie", "full": "No veo a nadie." }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish:</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        { "q": "I don't eat meat.", "a": "No como carne." },
+        { "q": "Is the bank near here?", "a": "¿Está el banco cerca de aquí?" },
+        { "q": "She never works on Saturdays.", "a": "Nunca trabaja los sábados." },
+        { "q": "Do you want tea or coffee?", "a": "¿Quieres té o café?" }
+      ]
+    },
+
+    { "type": "pagebreak" },
+    { "type": "answers" }
+  ]
+}

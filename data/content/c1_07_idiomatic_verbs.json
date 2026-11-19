@@ -1,0 +1,635 @@
+{
+  "meta": {
+    "level": "C1",
+    "section": "Grammar",
+    "number": 7,
+    "total_in_level": 10,
+    "title": "Idiomatic Verbs and Fixed Expressions",
+    "subtitle": "pronominal verbs that change meaning and fixed expressions with dar, echar, tirar, meter, poner, hacer, tomar, sacar, tener, llevar, ir, pasar, dejar",
+    "footer": "Spanish Learning Program · C1 · Grammar · Idiomatic verbs",
+    "next": "Next: C1 · PDF 8 — Spelling, accents and punctuation"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "recognise how a pronominal form (se) changes a verb's meaning",
+        "use fixed expressions with dar, echar, tirar, meter, poner, hacer, tomar, sacar",
+        "use phrasal-style expressions (dar con, dar por, echar de menos, tener que ver con)",
+        "avoid literal translations from English and Dutch"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "1. Pronominal vs non-pronominal verbs"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        2.4,
+        3.4,
+        2.8,
+        3.8,
+        4.6
+      ],
+      "head": [
+        "Verb",
+        "Meaning",
+        "Pronominal",
+        "Meaning",
+        "Example"
+      ],
+      "rows": [
+        [
+          "ir",
+          "to go",
+          "irse",
+          "to leave",
+          "Me voy."
+        ],
+        [
+          "dormir",
+          "to sleep",
+          "dormirse",
+          "to fall asleep",
+          "Me dormí."
+        ],
+        [
+          "llevar",
+          "to carry, wear",
+          "llevarse",
+          "to take away / get on",
+          "Se llevó el libro."
+        ],
+        [
+          "quedar",
+          "to meet / remain",
+          "quedarse",
+          "to stay",
+          "Me quedo."
+        ],
+        [
+          "poner",
+          "to put",
+          "ponerse",
+          "to put on / become",
+          "Se puso rojo."
+        ],
+        [
+          "volver",
+          "to return",
+          "volverse",
+          "to turn around / become",
+          "Se volvió loco."
+        ],
+        [
+          "salir",
+          "to go out",
+          "salirse",
+          "to leave (a path)",
+          "Se salió de la carretera."
+        ],
+        [
+          "caer",
+          "to fall",
+          "caerse",
+          "to fall (down)",
+          "Me caí."
+        ],
+        [
+          "parecer",
+          "to seem",
+          "parecerse",
+          "to resemble",
+          "Se parece a su padre."
+        ],
+        [
+          "hacer",
+          "to do, make",
+          "hacerse",
+          "to become",
+          "Se hizo médico."
+        ],
+        [
+          "tomar",
+          "to take",
+          "tomarse",
+          "to drink / eat up",
+          "Me tomé un café."
+        ],
+        [
+          "negar",
+          "to deny",
+          "negarse a",
+          "to refuse",
+          "Se negó a ir."
+        ],
+        [
+          "sentir",
+          "to feel",
+          "sentirse",
+          "to feel (state)",
+          "Me siento mal."
+        ],
+        [
+          "morir",
+          "to die",
+          "morirse",
+          "to be dying (of)",
+          "Me muero de hambre."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "dutch",
+      "title": "se = intensifier",
+      "text": "Spanish often adds <b>se</b> to show involvement or completion: <i>Se leyó el libro</i> (he read the whole book), <i>Me bebí el café</i> (I drank it all up). Dutch adds <i>helemaal</i> or <i>op</i>; Spanish adds a pronoun."
+    },
+    {
+      "type": "h1",
+      "text": "2. Dar, echar, tirar, meter"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.0,
+        5.6,
+        6.4
+      ],
+      "head": [
+        "Expression",
+        "Meaning",
+        "Example"
+      ],
+      "rows": [
+        [
+          "dar con",
+          "to find, come across",
+          "Di con la solución."
+        ],
+        [
+          "dar por + participle",
+          "to consider",
+          "Lo dieron por muerto."
+        ],
+        [
+          "darse cuenta de",
+          "to realise",
+          "No me di cuenta."
+        ],
+        [
+          "darle por + inf.",
+          "to take it into one's head",
+          "Le dio por cantar."
+        ],
+        [
+          "dar de sí",
+          "to stretch, to be enough",
+          "El dinero no da de sí."
+        ],
+        [
+          "darse prisa",
+          "to hurry",
+          "¡Date prisa!"
+        ],
+        [
+          "dar igual",
+          "not to matter",
+          "Me da igual."
+        ],
+        [
+          "echar de menos",
+          "to miss",
+          "Te echo de menos."
+        ],
+        [
+          "echar una mano",
+          "to lend a hand",
+          "Échame una mano."
+        ],
+        [
+          "echar a perder",
+          "to ruin",
+          "Echó a perder el plan."
+        ],
+        [
+          "echarse a + inf.",
+          "to start suddenly",
+          "Se echó a reír."
+        ],
+        [
+          "tirar de",
+          "to pull",
+          "Tira de la puerta."
+        ],
+        [
+          "tirar la toalla",
+          "to give up",
+          "No tires la toalla."
+        ],
+        [
+          "tirarse + time",
+          "to spend (colloquial)",
+          "Me tiré dos horas esperando."
+        ],
+        [
+          "meterse en",
+          "to get involved in",
+          "No te metas en líos."
+        ],
+        [
+          "meter la pata",
+          "to put one's foot in it",
+          "Metí la pata."
+        ],
+        [
+          "meterse con",
+          "to pick on",
+          "No te metas con él."
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "3. Poner, hacer, tomar, sacar"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.0,
+        5.6,
+        6.4
+      ],
+      "head": [
+        "Expression",
+        "Meaning",
+        "Example"
+      ],
+      "rows": [
+        [
+          "ponerse a + inf.",
+          "to start",
+          "Se puso a llover."
+        ],
+        [
+          "ponerse de acuerdo",
+          "to come to an agreement",
+          "Nos pusimos de acuerdo."
+        ],
+        [
+          "poner en marcha",
+          "to launch",
+          "Pusieron en marcha el plan."
+        ],
+        [
+          "poner de relieve",
+          "to highlight",
+          "El informe pone de relieve ..."
+        ],
+        [
+          "ponerse al día",
+          "to catch up",
+          "Tengo que ponerme al día."
+        ],
+        [
+          "hacer falta",
+          "to be needed",
+          "Hace falta tiempo."
+        ],
+        [
+          "hacer caso (a)",
+          "to pay attention to",
+          "No me hace caso."
+        ],
+        [
+          "hacerse cargo de",
+          "to take charge of",
+          "Me hago cargo."
+        ],
+        [
+          "hacer(se) el tonto",
+          "to play dumb",
+          "No te hagas el tonto."
+        ],
+        [
+          "tomar el pelo",
+          "to pull someone's leg",
+          "Me estás tomando el pelo."
+        ],
+        [
+          "tomar en serio",
+          "to take seriously",
+          "Tómalo en serio."
+        ],
+        [
+          "tomarse en serio",
+          "to take oneself seriously",
+          "Se toma muy en serio."
+        ],
+        [
+          "sacar adelante",
+          "to bring through",
+          "Sacó adelante a su familia."
+        ],
+        [
+          "sacar de quicio",
+          "to drive crazy",
+          "Me saca de quicio."
+        ],
+        [
+          "sacar a relucir",
+          "to bring up",
+          "Sacó a relucir el tema."
+        ],
+        [
+          "sacar provecho de",
+          "to benefit from",
+          "Sacó provecho del curso."
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "4. Tener, llevar, ir, pasar, dejar"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.0,
+        5.6,
+        6.4
+      ],
+      "head": [
+        "Expression",
+        "Meaning",
+        "Example"
+      ],
+      "rows": [
+        [
+          "tener que ver con",
+          "to have to do with",
+          "No tiene que ver conmigo."
+        ],
+        [
+          "tener en cuenta",
+          "to take into account",
+          "Ten en cuenta que ..."
+        ],
+        [
+          "tener ganas de",
+          "to feel like",
+          "Tengo ganas de salir."
+        ],
+        [
+          "tener éxito",
+          "to be successful",
+          "El libro tuvo éxito."
+        ],
+        [
+          "llevar a cabo",
+          "to carry out",
+          "Se llevó a cabo."
+        ],
+        [
+          "llevarse bien con",
+          "to get on with",
+          "Me llevo bien con él."
+        ],
+        [
+          "llevar la contraria",
+          "to contradict",
+          "Siempre me lleva la contraria."
+        ],
+        [
+          "ir al grano",
+          "to get to the point",
+          "Vayamos al grano."
+        ],
+        [
+          "irse por las ramas",
+          "to go off at a tangent",
+          "No te vayas por las ramas."
+        ],
+        [
+          "ir de + noun",
+          "to act as / dress as",
+          "Va de listo."
+        ],
+        [
+          "pasar de",
+          "to not care about",
+          "Paso de política."
+        ],
+        [
+          "pasarlo bien",
+          "to have a good time",
+          "Lo pasamos genial."
+        ],
+        [
+          "pasar por alto",
+          "to overlook",
+          "Pasó por alto el detalle."
+        ],
+        [
+          "dejar de + inf.",
+          "to stop",
+          "Deja de fumar."
+        ],
+        [
+          "dejarse llevar",
+          "to let oneself go",
+          "Me dejé llevar."
+        ],
+        [
+          "dejar plantado",
+          "to stand up",
+          "Me dejó plantado."
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "5. Common mistakes"
+    },
+    {
+      "type": "mistakes",
+      "rows": [
+        [
+          "Lo echo de menos tú.",
+          "Te echo de menos.",
+          "echar de menos: direct object."
+        ],
+        [
+          "Me dormí el libro.",
+          "Me dormí leyendo el libro.",
+          "dormirse = fall asleep."
+        ],
+        [
+          "Me di cuenta que era tarde.",
+          "Me di cuenta de que era tarde.",
+          "darse cuenta DE que."
+        ],
+        [
+          "Metí el pie.",
+          "Metí la pata.",
+          "idiom: meter la pata."
+        ],
+        [
+          "Hice caso a él.",
+          "Le hice caso.",
+          "hacer caso: indirect pronoun."
+        ],
+        [
+          "Dejé de a fumar.",
+          "Dejé de fumar.",
+          "dejar de + infinitive."
+        ],
+        [
+          "Me llevo bien a él.",
+          "Me llevo bien con él.",
+          "llevarse bien con."
+        ],
+        [
+          "Pasé muy bien tiempo.",
+          "Lo pasé muy bien.",
+          "pasarlo bien."
+        ],
+        [
+          "Me tomé el pelo.",
+          "Me tomó el pelo.",
+          "tomar el pelo a alguien."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "6. Self-check"
+    },
+    {
+      "type": "p",
+      "text": "Fill in the correct form (present or preterite as shown). Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Hint"
+      ],
+      "items": [
+        {
+          "q": "Te ______ de menos.",
+          "hint": "echar: yo, present",
+          "a": "echo",
+          "full": "Te echo de menos."
+        },
+        {
+          "q": "Se ______ a reír.",
+          "hint": "echar: él, preterite",
+          "a": "echó",
+          "full": "Se echó a reír."
+        },
+        {
+          "q": "No te ______ el tonto.",
+          "hint": "hacer: negative imperative, se",
+          "a": "hagas",
+          "full": "No te hagas el tonto."
+        },
+        {
+          "q": "Me ______ igual.",
+          "hint": "dar: present",
+          "a": "da",
+          "full": "Me da igual."
+        },
+        {
+          "q": "Se ______ de acuerdo en seguida.",
+          "hint": "ponerse: ellos, preterite",
+          "a": "pusieron",
+          "full": "Se pusieron de acuerdo en seguida."
+        },
+        {
+          "q": "Paso ______ política.",
+          "hint": "preposition",
+          "a": "de",
+          "full": "Paso de política."
+        },
+        {
+          "q": "Me ______ bien con mi jefe.",
+          "hint": "llevarse: present",
+          "a": "llevo",
+          "full": "Me llevo bien con mi jefe."
+        },
+        {
+          "q": "Me ______ un café.",
+          "hint": "tomarse: yo, preterite",
+          "a": "tomé",
+          "full": "Me tomé un café."
+        },
+        {
+          "q": "Vayamos al ______.",
+          "hint": "to the point",
+          "a": "grano",
+          "full": "Vayamos al grano."
+        },
+        {
+          "q": "¿Te das ______ de que es tarde?",
+          "hint": "noun",
+          "a": "cuenta",
+          "full": "¿Te das cuenta de que es tarde?"
+        },
+        {
+          "q": "Siempre me lleva la ______.",
+          "hint": "contradicts",
+          "a": "contraria",
+          "full": "Siempre me lleva la contraria."
+        },
+        {
+          "q": "Lo ______ muy bien en la fiesta.",
+          "hint": "pasar: nosotros, preterite",
+          "a": "pasamos",
+          "full": "Lo pasamos muy bien en la fiesta."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish:</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "I miss you.",
+          "a": "Te echo de menos."
+        },
+        {
+          "q": "He started laughing.",
+          "a": "Se echó a reír."
+        },
+        {
+          "q": "Let's get to the point.",
+          "a": "Vayamos al grano."
+        },
+        {
+          "q": "I do not care about politics.",
+          "a": "Paso de política."
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

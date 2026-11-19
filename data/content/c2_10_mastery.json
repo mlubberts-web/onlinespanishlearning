@@ -1,0 +1,520 @@
+{
+  "meta": {
+    "level": "C2",
+    "section": "Vocabulary",
+    "number": 10,
+    "total_in_level": 10,
+    "title": "Mastery Phrases and Literary Vocabulary",
+    "subtitle": "advanced set phrases, verb phrases, literary nouns and adjectives, and the C2 checklist",
+    "footer": "Spanish Learning Program · C2 · Vocabulary · Mastery phrases",
+    "next": "Next: C2 complete — the practice website"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "use advanced discourse phrases confidently",
+        "read and use literary vocabulary",
+        "handle fixed expressions without mistakes",
+        "check yourself against the C2 profile"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "1. Advanced set phrases"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.0,
+        5.2,
+        6.8
+      ],
+      "head": [
+        "Phrase",
+        "Meaning",
+        "Example"
+      ],
+      "rows": [
+        [
+          "al fin y al cabo",
+          "after all",
+          "Al fin y al cabo, es tu decisión."
+        ],
+        [
+          "a fin de cuentas",
+          "when all is said and done",
+          "A fin de cuentas, no cambia nada."
+        ],
+        [
+          "en el fondo",
+          "deep down",
+          "En el fondo, tiene razón."
+        ],
+        [
+          "de todos modos",
+          "anyway",
+          "De todos modos, iré."
+        ],
+        [
+          "por lo visto",
+          "apparently",
+          "Por lo visto, no vendrá."
+        ],
+        [
+          "a todas luces",
+          "clearly",
+          "A todas luces es un error."
+        ],
+        [
+          "sin ir más lejos",
+          "for example, right here",
+          "Sin ir más lejos, ayer pasó."
+        ],
+        [
+          "ni que decir tiene",
+          "it goes without saying",
+          "Ni que decir tiene que ayudaré."
+        ],
+        [
+          "dicho sea de paso",
+          "by the way",
+          "Dicho sea de paso, el plazo termina hoy."
+        ],
+        [
+          "a decir verdad",
+          "to tell the truth",
+          "A decir verdad, no me gusta."
+        ],
+        [
+          "por así decirlo",
+          "so to speak",
+          "Es, por así decirlo, mi mentor."
+        ],
+        [
+          "de buenas a primeras",
+          "all of a sudden",
+          "Lo dijo de buenas a primeras."
+        ],
+        [
+          "tarde o temprano",
+          "sooner or later",
+          "Tarde o temprano, todo se sabe."
+        ],
+        [
+          "de pe a pa",
+          "from start to finish",
+          "Me lo sé de pe a pa."
+        ],
+        [
+          "ni más ni menos",
+          "exactly, no less",
+          "Es ni más ni menos que el director."
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "2. Verb phrases"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.2,
+        5.2,
+        6.6
+      ],
+      "head": [
+        "Phrase",
+        "Meaning",
+        "Example"
+      ],
+      "rows": [
+        [
+          "echar de menos",
+          "to miss",
+          "Te echo de menos."
+        ],
+        [
+          "dar por sentado",
+          "to take for granted",
+          "Das por sentado mi apoyo."
+        ],
+        [
+          "hacer caso omiso",
+          "to ignore",
+          "Hizo caso omiso de mis consejos."
+        ],
+        [
+          "poner en tela de juicio",
+          "to call into question",
+          "Pone en tela de juicio su honestidad."
+        ],
+        [
+          "pasar por alto",
+          "to overlook",
+          "Pasó por alto un detalle."
+        ],
+        [
+          "caer en la cuenta",
+          "to realise",
+          "No caí en la cuenta hasta ayer."
+        ],
+        [
+          "venir al caso",
+          "to be relevant",
+          "Eso no viene al caso."
+        ],
+        [
+          "estar a la altura",
+          "to live up to",
+          "No estuvo a la altura."
+        ],
+        [
+          "dejar mucho que desear",
+          "to leave a lot to be desired",
+          "El servicio deja mucho que desear."
+        ],
+        [
+          "tener a bien",
+          "to see fit (formal)",
+          "Tenga a bien responderme."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "3. Literary vocabulary"
+    },
+    {
+      "type": "verbpairs",
+      "title": "Nouns",
+      "items": [
+        [
+          "el sosiego",
+          "calm"
+        ],
+        [
+          "el desasosiego",
+          "unease"
+        ],
+        [
+          "la zozobra",
+          "anxiety"
+        ],
+        [
+          "la añoranza",
+          "longing"
+        ],
+        [
+          "el desconcierto",
+          "bewilderment"
+        ],
+        [
+          "el hastío",
+          "weariness"
+        ],
+        [
+          "la parsimonia",
+          "slowness, calm"
+        ],
+        [
+          "el desdén",
+          "disdain"
+        ],
+        [
+          "la vehemencia",
+          "passion"
+        ],
+        [
+          "la templanza",
+          "composure"
+        ],
+        [
+          "el albedrío",
+          "free will"
+        ],
+        [
+          "el candor",
+          "innocence"
+        ],
+        [
+          "la tesitura",
+          "situation"
+        ],
+        [
+          "el menester",
+          "task"
+        ],
+        [
+          "el arraigo",
+          "roots"
+        ],
+        [
+          "el desamparo",
+          "helplessness"
+        ]
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "Adjectives",
+      "items": [
+        [
+          "efímero",
+          "fleeting"
+        ],
+        [
+          "tenaz",
+          "tenacious"
+        ],
+        [
+          "ingente",
+          "huge"
+        ],
+        [
+          "perspicaz",
+          "perceptive"
+        ],
+        [
+          "voraz",
+          "voracious"
+        ],
+        [
+          "contundente",
+          "forceful"
+        ],
+        [
+          "sutil",
+          "subtle"
+        ],
+        [
+          "ávido",
+          "eager"
+        ],
+        [
+          "inconmensurable",
+          "immeasurable"
+        ],
+        [
+          "deleznable",
+          "contemptible"
+        ],
+        [
+          "jocoso",
+          "jocular"
+        ],
+        [
+          "taciturno",
+          "taciturn"
+        ],
+        [
+          "mordaz",
+          "biting"
+        ],
+        [
+          "pertinaz",
+          "persistent"
+        ],
+        [
+          "insólito",
+          "unusual"
+        ],
+        [
+          "arduo",
+          "hard, arduous"
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "4. C2 checklist"
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "You are at C2 when you can",
+      "bullets": [
+        "follow fast speech and TV, radio and films without strain",
+        "read literature, law and press and see implied meaning",
+        "write structured, precise texts with a deliberate register",
+        "express fine shades of meaning and irony",
+        "recover easily from mistakes and rephrase on the spot"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "5. Common mistakes"
+    },
+    {
+      "type": "mistakes",
+      "rows": [
+        [
+          "Al fin y al cabo de cuentas.",
+          "Al fin y al cabo. / A fin de cuentas.",
+          "two phrases; do not mix."
+        ],
+        [
+          "Echo menos a mi familia.",
+          "Echo de menos a mi familia.",
+          "echar de menos."
+        ],
+        [
+          "Hizo caso omiso a mis consejos.",
+          "Hizo caso omiso de mis consejos.",
+          "caso omiso de."
+        ],
+        [
+          "Eso no viene a cuento a mí.",
+          "Eso no viene al caso.",
+          "fixed phrase."
+        ],
+        [
+          "Pone en tela de juicios.",
+          "Pone en tela de juicio.",
+          "singular juicio."
+        ],
+        [
+          "Tarde o más tarde.",
+          "Tarde o temprano.",
+          "fixed phrase."
+        ],
+        [
+          "Me lo sé de pe a pi.",
+          "Me lo sé de pe a pa.",
+          "pe a pa."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "6. Self-check"
+    },
+    {
+      "type": "p",
+      "text": "Fill in the blank. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Hint"
+      ],
+      "items": [
+        {
+          "q": "Al fin y al ______, es tu decisión.",
+          "hint": "end",
+          "a": "cabo",
+          "full": "Al fin y al cabo, es tu decisión."
+        },
+        {
+          "q": "______ sea de paso, el plazo termina hoy.",
+          "hint": "said",
+          "a": "Dicho",
+          "full": "Dicho sea de paso, el plazo termina hoy."
+        },
+        {
+          "q": "Hizo caso ______ de mis consejos.",
+          "hint": "omiso (adj.)",
+          "a": "omiso",
+          "full": "Hizo caso omiso de mis consejos."
+        },
+        {
+          "q": "Eso pone en ______ de juicio su honestidad.",
+          "hint": "cloth",
+          "a": "tela",
+          "full": "Eso pone en tela de juicio su honestidad."
+        },
+        {
+          "q": "Tarde o ______, todo se sabe.",
+          "hint": "early",
+          "a": "temprano",
+          "full": "Tarde o temprano, todo se sabe."
+        },
+        {
+          "q": "A ______ verdad, no me gusta.",
+          "hint": "to say",
+          "a": "decir",
+          "full": "A decir verdad, no me gusta."
+        },
+        {
+          "q": "No ______ en la cuenta hasta ayer.",
+          "hint": "caer: pretérito, yo",
+          "a": "caí",
+          "full": "No caí en la cuenta hasta ayer."
+        },
+        {
+          "q": "Por lo ______, no vendrá.",
+          "hint": "seen",
+          "a": "visto",
+          "full": "Por lo visto, no vendrá."
+        },
+        {
+          "q": "Me lo sé de ______ a pa.",
+          "hint": "letter p",
+          "a": "pe",
+          "full": "Me lo sé de pe a pa."
+        },
+        {
+          "q": "El servicio deja mucho que ______.",
+          "hint": "to wish for",
+          "a": "desear",
+          "full": "El servicio deja mucho que desear."
+        },
+        {
+          "q": "Es una tarea ______, necesitará meses.",
+          "hint": "arduo: feminine",
+          "a": "ardua",
+          "full": "Es una tarea ardua, necesitará meses."
+        },
+        {
+          "q": "El niño tiene un carácter ______: habla poco.",
+          "hint": "taciturno: masculine",
+          "a": "taciturno",
+          "full": "El niño tiene un carácter taciturno: habla poco."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish (Spain):</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "After all, it is your decision.",
+          "a": "Al fin y al cabo, es tu decisión."
+        },
+        {
+          "q": "Apparently he will not come.",
+          "a": "Por lo visto, no vendrá."
+        },
+        {
+          "q": "That does not matter.",
+          "a": "Eso no viene al caso."
+        },
+        {
+          "q": "Sooner or later everything comes out.",
+          "a": "Tarde o temprano, todo se sabe."
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

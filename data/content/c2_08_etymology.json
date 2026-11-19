@@ -1,0 +1,500 @@
+{
+  "meta": {
+    "level": "C2",
+    "section": "Vocabulary",
+    "number": 8,
+    "total_in_level": 10,
+    "title": "Etymology and Word Origins",
+    "subtitle": "Latin, Arabic, indigenous and other sources, learned doublets, anglicisms and productive roots",
+    "footer": "Spanish Learning Program · C2 · Vocabulary · Word origins",
+    "next": "Next: C2 · PDF 9 — Specialist vocabulary"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "trace Spanish words to their sources",
+        "recognise learned doublets in academic texts",
+        "avoid anglicisms and use Spanish alternatives",
+        "decode unknown words from prefixes and roots"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "1. Where Spanish words come from"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        3.8,
+        6.6,
+        6.6
+      ],
+      "head": [
+        "Source",
+        "Examples",
+        "Note"
+      ],
+      "rows": [
+        [
+          "Latin (about 70 %)",
+          "agua, padre, noche, mano, ojo",
+          "the base of the language"
+        ],
+        [
+          "Greek",
+          "teléfono, filosofía, historia, democracia",
+          "science and culture"
+        ],
+        [
+          "Arabic (about 4000 words)",
+          "aceite, azúcar, almohada, ojalá, alcalde, algodón, arroz",
+          "words starting with al- and az-"
+        ],
+        [
+          "Germanic",
+          "guerra, espía, ropa, jabón",
+          "from the Visigoths"
+        ],
+        [
+          "Basque",
+          "izquierda, pizarra, chaparro",
+          "pre-Roman neighbour"
+        ],
+        [
+          "Indigenous America",
+          "chocolate, tomate, maíz, canoa, huracán",
+          "Náhuatl, Taíno, Quechua"
+        ],
+        [
+          "French / Italian",
+          "jardín, hotel, soneto, novela",
+          "from the 17th century on"
+        ],
+        [
+          "English",
+          "fútbol, estrés, líder, clic, wifi",
+          "20th century onwards"
+        ],
+        [
+          "Dutch",
+          "yate, dique",
+          "maritime terms"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "Why it helps",
+      "text": "Arabic loans often start with <b>al-</b> (almohada, alcalde, algodón) or <b>az-</b> (azúcar, azul, azotea). Recognising the pattern helps you guess meaning and spelling."
+    },
+    {
+      "type": "h1",
+      "text": "2. Popular and learned doublets"
+    },
+    {
+      "type": "p",
+      "text": "Many words exist twice: a <b>popular</b> form that evolved naturally and a <b>learned</b> form (cultismo) taken straight from Latin. Learned forms appear in academic and scientific language."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        3.4,
+        3.8,
+        3.4,
+        6.4
+      ],
+      "head": [
+        "Popular",
+        "Learned adjective",
+        "Latin",
+        "Example"
+      ],
+      "rows": [
+        [
+          "ojo",
+          "ocular",
+          "oculus",
+          "un examen ocular"
+        ],
+        [
+          "leche",
+          "lácteo",
+          "lac",
+          "productos lácteos"
+        ],
+        [
+          "noche",
+          "nocturno",
+          "nox",
+          "vida nocturna"
+        ],
+        [
+          "mano",
+          "manual",
+          "manus",
+          "trabajo manual"
+        ],
+        [
+          "agua",
+          "acuático",
+          "aqua",
+          "deportes acuáticos"
+        ],
+        [
+          "padre",
+          "paterno",
+          "pater",
+          "amor paterno"
+        ],
+        [
+          "hierro",
+          "férreo",
+          "ferrum",
+          "una disciplina férrea"
+        ],
+        [
+          "boca",
+          "oral",
+          "os, oris",
+          "un examen oral"
+        ],
+        [
+          "hijo",
+          "filial",
+          "filius",
+          "amor filial"
+        ],
+        [
+          "lleno",
+          "pleno",
+          "plenus",
+          "en pleno día"
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "3. Anglicisms and Spanish alternatives"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.2,
+        5.0,
+        3.6,
+        4.2
+      ],
+      "head": [
+        "Anglicism",
+        "Spanish equivalent",
+        "Accepted?",
+        "Example"
+      ],
+      "rows": [
+        [
+          "email",
+          "el correo electrónico",
+          "email accepted",
+          "Envíame un correo."
+        ],
+        [
+          "parking",
+          "el aparcamiento",
+          "yes, informal",
+          "Busco aparcamiento."
+        ],
+        [
+          "chequear",
+          "revisar, comprobar",
+          "no, avoid",
+          "Voy a revisar el correo."
+        ],
+        [
+          "aplicar a un puesto",
+          "solicitar un puesto",
+          "no, avoid",
+          "Solicité el puesto."
+        ],
+        [
+          "link",
+          "el enlace",
+          "enlace preferred",
+          "Haz clic en el enlace."
+        ],
+        [
+          "feedback",
+          "la opinión, la valoración",
+          "feedback accepted",
+          "Gracias por tu valoración."
+        ],
+        [
+          "meeting",
+          "la reunión",
+          "reunión preferred",
+          "Tengo una reunión."
+        ],
+        [
+          "issue",
+          "el tema, el problema",
+          "no, avoid",
+          "Es un tema importante."
+        ],
+        [
+          "hacer sentido",
+          "tener sentido",
+          "no, avoid",
+          "Eso tiene sentido."
+        ]
+      ],
+      "latam_ok": true
+    },
+    {
+      "type": "h1",
+      "text": "4. Productive prefixes and roots"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        3.6,
+        4.4,
+        4.4,
+        4.6
+      ],
+      "head": [
+        "Prefix / root",
+        "Meaning",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "anti-",
+          "against",
+          "antibiótico",
+          "antibiotic"
+        ],
+        [
+          "bio-",
+          "life",
+          "biología",
+          "biology"
+        ],
+        [
+          "geo-",
+          "earth",
+          "geografía",
+          "geography"
+        ],
+        [
+          "micro- / macro-",
+          "small / large",
+          "microscopio, macroeconomía",
+          "microscope, macroeconomics"
+        ],
+        [
+          "poli-",
+          "many",
+          "políglota",
+          "polyglot"
+        ],
+        [
+          "neo-",
+          "new",
+          "neoclásico",
+          "neoclassical"
+        ],
+        [
+          "-logía",
+          "study of",
+          "psicología",
+          "psychology"
+        ],
+        [
+          "-fobia",
+          "fear of",
+          "claustrofobia",
+          "claustrophobia"
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "5. Common mistakes"
+    },
+    {
+      "type": "mistakes",
+      "rows": [
+        [
+          "Voy a chequear el email.",
+          "Voy a revisar el correo.",
+          "chequear is an anglicism."
+        ],
+        [
+          "Apliqué para el puesto.",
+          "Solicité el puesto.",
+          "aplicar = to apply a rule."
+        ],
+        [
+          "Eso hace sentido.",
+          "Eso tiene sentido.",
+          "tener sentido."
+        ],
+        [
+          "Es un issue importante.",
+          "Es un tema importante.",
+          "issue is not Spanish."
+        ],
+        [
+          "Tengo que hacer un parking.",
+          "Tengo que aparcar.",
+          "aparcar the car."
+        ],
+        [
+          "Llámame para atrás.",
+          "Devuélveme la llamada.",
+          "a literal translation of 'call back'."
+        ],
+        [
+          "Un examen de ojo.",
+          "Un examen ocular.",
+          "technical phrases use the learned adjective."
+        ]
+      ],
+      "latam_ok": true
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "6. Self-check"
+    },
+    {
+      "type": "p",
+      "text": "Fill in the blank. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Hint"
+      ],
+      "items": [
+        {
+          "q": "El adjetivo culto de «ojo» es ______.",
+          "hint": "learned adjective",
+          "a": "ocular",
+          "full": "El adjetivo culto de «ojo» es ocular."
+        },
+        {
+          "q": "El adjetivo culto de «leche» es ______.",
+          "hint": "learned adjective",
+          "a": "lácteo",
+          "full": "El adjetivo culto de «leche» es lácteo."
+        },
+        {
+          "q": "El adjetivo culto de «noche» es ______.",
+          "hint": "learned adjective",
+          "a": "nocturno",
+          "full": "El adjetivo culto de «noche» es nocturno."
+        },
+        {
+          "q": "El adjetivo culto de «mano» es ______.",
+          "hint": "learned adjective",
+          "a": "manual",
+          "full": "El adjetivo culto de «mano» es manual."
+        },
+        {
+          "q": "El adjetivo culto de «agua» es ______.",
+          "hint": "learned adjective",
+          "a": "acuático",
+          "full": "El adjetivo culto de «agua» es acuático."
+        },
+        {
+          "q": "El adjetivo culto de «padre» es ______.",
+          "hint": "learned adjective",
+          "a": "paterno",
+          "full": "El adjetivo culto de «padre» es paterno."
+        },
+        {
+          "q": "«Aceite» viene del ______.",
+          "hint": "language",
+          "a": "árabe",
+          "full": "«Aceite» viene del árabe."
+        },
+        {
+          "q": "«Chocolate» viene del ______.",
+          "hint": "Mexican language",
+          "a": "náhuatl",
+          "full": "«Chocolate» viene del náhuatl."
+        },
+        {
+          "q": "En España se dice «correo ______» y no «email».",
+          "hint": "adjective",
+          "a": "electrónico",
+          "full": "En España se dice «correo electrónico» y no «email»."
+        },
+        {
+          "q": "En España se dice «______» en vez de «parking».",
+          "hint": "Spanish noun",
+          "a": "aparcamiento",
+          "full": "En España se dice «aparcamiento» en vez de «parking»."
+        },
+        {
+          "q": "«Izquierda» viene del ______.",
+          "hint": "language",
+          "a": "euskera",
+          "full": "«Izquierda» viene del euskera."
+        },
+        {
+          "q": "«Hijo» viene del latín «______».",
+          "hint": "Latin word",
+          "a": "filius",
+          "full": "«Hijo» viene del latín «filius»."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish (Spain):</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "Dairy products.",
+          "a": "Productos lácteos."
+        },
+        {
+          "q": "I will check my email.",
+          "a": "Voy a revisar el correo electrónico."
+        },
+        {
+          "q": "That makes sense.",
+          "a": "Eso tiene sentido."
+        },
+        {
+          "q": "I applied for the job.",
+          "a": "Solicité el puesto."
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

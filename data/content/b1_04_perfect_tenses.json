@@ -1,0 +1,762 @@
+{
+  "meta": {
+    "level": "B1",
+    "section": "Verbs",
+    "number": 4,
+    "total_in_level": 10,
+    "title": "Perfect Tenses",
+    "subtitle": "Past perfect, future perfect, conditional perfect and the present perfect subjunctive",
+    "footer": "Spanish Learning Program · B1 · Verbs · Perfect tenses",
+    "next": "Next: B1 · PDF 5 — Relative clauses"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "form all perfect tenses with haber + past participle",
+        "use the past perfect for something that happened before another past event",
+        "use the future perfect and conditional perfect for completion, probability and would-have",
+        "use the present perfect subjunctive (espero que hayas llegado)"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "1. One pattern, five tenses"
+    },
+    {
+      "type": "p",
+      "text": "Every perfect tense is a form of <b>haber</b> + the <b>past participle</b> (A2 PDF 5). Only the tense of haber changes. The participle never changes: <i>he hecho, habíamos hecho, habrán hecho</i>."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        3.6,
+        2.6,
+        2.6,
+        2.6,
+        2.8,
+        2.8
+      ],
+      "head": [
+        "Person",
+        "Present perfect",
+        "Past perfect",
+        "Future perfect",
+        "Conditional perfect",
+        "Present perfect subj."
+      ],
+      "rows": [
+        [
+          "yo",
+          "he",
+          "había",
+          "habré",
+          "habría",
+          "haya"
+        ],
+        [
+          "tú",
+          "has",
+          "habías",
+          "habrás",
+          "habrías",
+          "hayas"
+        ],
+        [
+          "él / ella / usted",
+          "ha",
+          "había",
+          "habrá",
+          "habría",
+          "haya"
+        ],
+        [
+          "nosotros / nosotras",
+          "hemos",
+          "habíamos",
+          "habremos",
+          "habríamos",
+          "hayamos"
+        ],
+        [
+          "vosotros / vosotras",
+          "habéis",
+          "habíais",
+          "habréis",
+          "habríais",
+          "hayáis"
+        ],
+        [
+          "ellos / ellas / ustedes",
+          "han",
+          "habían",
+          "habrán",
+          "habrían",
+          "hayan"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        3.6,
+        6.4,
+        7.0
+      ],
+      "head": [
+        "Tense",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "Present perfect",
+          "He terminado.",
+          "I have finished."
+        ],
+        [
+          "Past perfect",
+          "Ya había terminado.",
+          "I had already finished."
+        ],
+        [
+          "Future perfect",
+          "Habré terminado.",
+          "I will have finished."
+        ],
+        [
+          "Conditional perfect",
+          "Habría terminado.",
+          "I would have finished."
+        ],
+        [
+          "Present perfect subjunctive",
+          "Espero que hayas terminado.",
+          "I hope you have finished."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "dutch",
+      "title": "Same logic as Dutch",
+      "text": "Dutch <i>had gegeten</i> = <b>había comido</b>, <i>zal gegeten hebben</i> = <b>habrá comido</b>, <i>zou gegeten hebben</i> = <b>habría comido</b>. The difference: Dutch uses <i>hebben</i> or <i>zijn</i>, Spanish always uses <b>haber</b>."
+    },
+    {
+      "type": "h1",
+      "text": "2. The past perfect (pluscuamperfecto)"
+    },
+    {
+      "type": "p",
+      "text": "It describes an action that was <b>already finished before another moment in the past</b>: <i>Cuando llegué, ya había salido.</i> (When I arrived, he had already left.) Typical words: <b>ya</b>, <b>todavía no</b>, <b>nunca antes</b>, <b>antes de</b>."
+    },
+    {
+      "type": "conj",
+      "tense": "past perfect",
+      "verb": "hablar",
+      "meaning": "to speak",
+      "forms": [
+        "había *hablado*",
+        "habías *hablado*",
+        "había *hablado*",
+        "habíamos *hablado*",
+        "habíais *hablado*",
+        "habían *hablado*"
+      ],
+      "examples": [
+        [
+          "Ya había hablado con él.",
+          "I had already spoken to him."
+        ],
+        [
+          "¿Habías hablado con Ana antes?",
+          "Had you spoken to Ana before?"
+        ],
+        [
+          "Ella había hablado con el jefe.",
+          "She had spoken to the boss."
+        ],
+        [
+          "Habíamos hablado por teléfono.",
+          "We had spoken on the phone."
+        ],
+        [
+          "¿Habíais hablado con el profesor?",
+          "Had you (all) spoken to the teacher?"
+        ],
+        [
+          "Ellos habían hablado con todos.",
+          "They had spoken to everyone."
+        ]
+      ],
+      "label": "regular verb"
+    },
+    {
+      "type": "conj",
+      "tense": "past perfect",
+      "verb": "comer",
+      "meaning": "to eat",
+      "forms": [
+        "había *comido*",
+        "habías *comido*",
+        "había *comido*",
+        "habíamos *comido*",
+        "habíais *comido*",
+        "habían *comido*"
+      ],
+      "examples": [
+        [
+          "Ya había comido cuando llegaste.",
+          "I had already eaten when you arrived."
+        ],
+        [
+          "¿Habías comido ya?",
+          "Had you eaten already?"
+        ],
+        [
+          "Marta había comido en casa.",
+          "Marta had eaten at home."
+        ],
+        [
+          "Habíamos comido paella.",
+          "We had eaten paella."
+        ],
+        [
+          "¿Habíais comido antes?",
+          "Had you (all) eaten before?"
+        ],
+        [
+          "Los niños habían comido poco.",
+          "The children had eaten little."
+        ]
+      ],
+      "label": "regular verb"
+    },
+    {
+      "type": "conj",
+      "tense": "past perfect",
+      "verb": "hacer",
+      "meaning": "to do, make",
+      "forms": [
+        "había *hecho*",
+        "habías *hecho*",
+        "había *hecho*",
+        "habíamos *hecho*",
+        "habíais *hecho*",
+        "habían *hecho*"
+      ],
+      "examples": [
+        [
+          "Ya había hecho la compra.",
+          "I had already done the shopping."
+        ],
+        [
+          "¿Habías hecho los deberes?",
+          "Had you done your homework?"
+        ],
+        [
+          "Ella había hecho la maleta.",
+          "She had packed."
+        ],
+        [
+          "Habíamos hecho un plan.",
+          "We had made a plan."
+        ],
+        [
+          "¿Habíais hecho la reserva?",
+          "Had you (all) made the booking?"
+        ],
+        [
+          "Mis padres habían hecho una reforma.",
+          "My parents had done a renovation."
+        ]
+      ],
+      "label": "irregular participle"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.0,
+        6.6,
+        5.4
+      ],
+      "head": [
+        "Use",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "Before another past event",
+          "Cuando llegué, ya había salido.",
+          "When I arrived, he had already left."
+        ],
+        [
+          "Experience before a point in the past",
+          "Nunca había visto el mar.",
+          "I had never seen the sea."
+        ],
+        [
+          "Reported speech",
+          "Dijo que había terminado.",
+          "He said he had finished."
+        ],
+        [
+          "Explaining a past situation",
+          "Estaba cansado porque había trabajado mucho.",
+          "I was tired because I had worked a lot."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "Sequence of events",
+      "text": "Use the preterite for the later event and the past perfect for the earlier one: <b>Cuando llegamos</b> (preterite), <b>ya habían empezado</b> (past perfect). If the order is clear from the words (<i>antes, después</i>), Spanish often uses just the preterite."
+    },
+    {
+      "type": "h1",
+      "text": "3. The future perfect"
+    },
+    {
+      "type": "p",
+      "text": "<b>habré + participle</b> says that something <b>will be finished by a certain time</b>, or expresses <b>probability about a recent past</b>."
+    },
+    {
+      "type": "conjgrid",
+      "tense": "future perfect",
+      "verbs": [
+        {
+          "inf": "hablar",
+          "meaning": "to speak",
+          "forms": [
+            "habré *hablado*",
+            "habrás *hablado*",
+            "habrá *hablado*",
+            "habremos *hablado*",
+            "habréis *hablado*",
+            "habrán *hablado*"
+          ]
+        },
+        {
+          "inf": "comer",
+          "meaning": "to eat",
+          "forms": [
+            "habré *comido*",
+            "habrás *comido*",
+            "habrá *comido*",
+            "habremos *comido*",
+            "habréis *comido*",
+            "habrán *comido*"
+          ]
+        },
+        {
+          "inf": "hacer",
+          "meaning": "to do, make",
+          "forms": [
+            "habré *hecho*",
+            "habrás *hecho*",
+            "habrá *hecho*",
+            "habremos *hecho*",
+            "habréis *hecho*",
+            "habrán *hecho*"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.4,
+        6.6,
+        6.0
+      ],
+      "head": [
+        "Use",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "Finished by a time",
+          "Para el viernes habré terminado.",
+          "By Friday I will have finished."
+        ],
+        [
+          "Probability, past",
+          "Ya habrán llegado.",
+          "They have probably arrived by now."
+        ],
+        [
+          "Probability, past",
+          "¿Dónde habrá puesto las llaves?",
+          "Where can he have put the keys?"
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "4. The conditional perfect"
+    },
+    {
+      "type": "p",
+      "text": "<b>habría + participle</b> means <b>would have</b>: something that did not happen, or a polite or uncertain statement about the past."
+    },
+    {
+      "type": "conjgrid",
+      "tense": "conditional perfect",
+      "verbs": [
+        {
+          "inf": "hablar",
+          "meaning": "to speak",
+          "forms": [
+            "habría *hablado*",
+            "habrías *hablado*",
+            "habría *hablado*",
+            "habríamos *hablado*",
+            "habríais *hablado*",
+            "habrían *hablado*"
+          ]
+        },
+        {
+          "inf": "comer",
+          "meaning": "to eat",
+          "forms": [
+            "habría *comido*",
+            "habrías *comido*",
+            "habría *comido*",
+            "habríamos *comido*",
+            "habríais *comido*",
+            "habrían *comido*"
+          ]
+        },
+        {
+          "inf": "hacer",
+          "meaning": "to do, make",
+          "forms": [
+            "habría *hecho*",
+            "habrías *hecho*",
+            "habría *hecho*",
+            "habríamos *hecho*",
+            "habríais *hecho*",
+            "habrían *hecho*"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.4,
+        6.6,
+        6.0
+      ],
+      "head": [
+        "Use",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "Unreal past",
+          "Yo habría hecho lo mismo.",
+          "I would have done the same."
+        ],
+        [
+          "Missed chance",
+          "Habría ido, pero no tenía tiempo.",
+          "I would have gone, but I had no time."
+        ],
+        [
+          "Reported speech",
+          "Dijo que habría terminado para el lunes.",
+          "He said he would have finished by Monday."
+        ],
+        [
+          "Probability, past",
+          "Habría salido ya.",
+          "He had probably left already."
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "5. The present perfect subjunctive"
+    },
+    {
+      "type": "p",
+      "text": "Use <b>haya + participle</b> after the same triggers as the present subjunctive (PDF 3) when the action in the subordinate clause is <b>already finished</b>."
+    },
+    {
+      "type": "conjgrid",
+      "tense": "present perfect subjunctive",
+      "verbs": [
+        {
+          "inf": "hablar",
+          "meaning": "to speak",
+          "forms": [
+            "haya *hablado*",
+            "hayas *hablado*",
+            "haya *hablado*",
+            "hayamos *hablado*",
+            "hayáis *hablado*",
+            "hayan *hablado*"
+          ]
+        },
+        {
+          "inf": "comer",
+          "meaning": "to eat",
+          "forms": [
+            "haya *comido*",
+            "hayas *comido*",
+            "haya *comido*",
+            "hayamos *comido*",
+            "hayáis *comido*",
+            "hayan *comido*"
+          ]
+        },
+        {
+          "inf": "hacer",
+          "meaning": "to do, make",
+          "forms": [
+            "haya *hecho*",
+            "hayas *hecho*",
+            "haya *hecho*",
+            "hayamos *hecho*",
+            "hayáis *hecho*",
+            "hayan *hecho*"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.6,
+        6.2,
+        5.2
+      ],
+      "head": [
+        "Present subjunctive (not yet)",
+        "Perfect subjunctive (finished)",
+        "English"
+      ],
+      "rows": [
+        [
+          "Espero que vengas.",
+          "Espero que hayas venido.",
+          "I hope you come. / I hope you have come."
+        ],
+        [
+          "Dudo que termine.",
+          "Dudo que haya terminado.",
+          "I doubt he finishes. / I doubt he has finished."
+        ],
+        [
+          "Me alegro de que estés aquí.",
+          "Me alegro de que hayas llegado.",
+          "I am glad you are here. / I am glad you arrived."
+        ],
+        [
+          "Cuando termines, llámame.",
+          "Cuando hayas terminado, llámame.",
+          "When you finish, call me. / When you have finished, call me."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "En cuanto, cuando, después de que",
+      "text": "For the future, use the perfect subjunctive to stress completion: <i>En cuanto hayamos comido, saldremos.</i> (As soon as we have eaten, we will go out.)"
+    },
+    {
+      "type": "h1",
+      "text": "6. Common mistakes"
+    },
+    {
+      "type": "mistakes",
+      "rows": [
+        [
+          "Cuando llegué, ya salí.",
+          "Cuando llegué, ya había salido.",
+          "The earlier action takes the past perfect."
+        ],
+        [
+          "Había comió.",
+          "Había comido.",
+          "The participle of -er verbs ends in -ido."
+        ],
+        [
+          "Habíamos hacido.",
+          "Habíamos hecho.",
+          "The participle of hacer is hecho."
+        ],
+        [
+          "Dijo que ha terminado.",
+          "Dijo que había terminado.",
+          "After a past verb of saying, use the past perfect."
+        ],
+        [
+          "Para mañana he terminado.",
+          "Para mañana habré terminado.",
+          "A future deadline needs the future perfect."
+        ],
+        [
+          "Espero que has llegado bien.",
+          "Espero que hayas llegado bien.",
+          "Espero que needs the subjunctive: hayas."
+        ],
+        [
+          "Me alegro de que has venido.",
+          "Me alegro de que hayas venido.",
+          "Same rule: haya, hayas, haya ..."
+        ],
+        [
+          "Habían ya salido.",
+          "Ya habían salido.",
+          "haber and the participle are never separated."
+        ],
+        [
+          "Yo había vivir en Cuba.",
+          "Yo había vivido en Cuba.",
+          "The participle, not the infinitive, follows haber."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "7. Self-check"
+    },
+    {
+      "type": "p",
+      "text": "Write the perfect form of the verb in brackets. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Verb"
+      ],
+      "items": [
+        {
+          "q": "Cuando llegué, ellos ya ______.",
+          "hint": "salir (past perfect)",
+          "a": "habían salido",
+          "full": "Cuando llegué, ellos ya habían salido."
+        },
+        {
+          "q": "Yo nunca ______ el mar antes de ese viaje.",
+          "hint": "ver (past perfect)",
+          "a": "había visto",
+          "full": "Yo nunca había visto el mar antes de ese viaje."
+        },
+        {
+          "q": "¿______ ya cuando llegamos?",
+          "hint": "comer (tú, past perfect)",
+          "a": "Habías comido",
+          "full": "¿Habías comido ya cuando llegamos?"
+        },
+        {
+          "q": "Nosotros ya ______ la reserva.",
+          "hint": "hacer (past perfect)",
+          "a": "habíamos hecho",
+          "full": "Nosotros ya habíamos hecho la reserva."
+        },
+        {
+          "q": "Dijo que ya ______ el trabajo.",
+          "hint": "terminar (past perfect)",
+          "a": "había terminado",
+          "full": "Dijo que ya había terminado el trabajo."
+        },
+        {
+          "q": "Para el viernes yo ______ el informe.",
+          "hint": "escribir (future perfect)",
+          "a": "habré escrito",
+          "full": "Para el viernes yo habré escrito el informe."
+        },
+        {
+          "q": "Ya ______ a casa, seguro.",
+          "hint": "llegar (ellos, future perfect)",
+          "a": "habrán llegado",
+          "full": "Ya habrán llegado a casa, seguro."
+        },
+        {
+          "q": "Yo ______ lo mismo.",
+          "hint": "hacer (conditional perfect)",
+          "a": "habría hecho",
+          "full": "Yo habría hecho lo mismo."
+        },
+        {
+          "q": "Espero que tú ______ bien.",
+          "hint": "llegar (perfect subjunctive)",
+          "a": "hayas llegado",
+          "full": "Espero que tú hayas llegado bien."
+        },
+        {
+          "q": "Me alegro de que ______.",
+          "hint": "venir (vosotros, perfect subjunctive)",
+          "a": "hayáis venido",
+          "full": "Me alegro de que hayáis venido."
+        },
+        {
+          "q": "Cuando ______, llámame.",
+          "hint": "terminar (tú, perfect subjunctive)",
+          "a": "hayas terminado",
+          "full": "Cuando hayas terminado, llámame."
+        },
+        {
+          "q": "Dudo que ellos ______ la verdad.",
+          "hint": "decir (perfect subjunctive)",
+          "a": "hayan dicho",
+          "full": "Dudo que ellos hayan dicho la verdad."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish:</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "I had never seen the sea.",
+          "a": "Nunca había visto el mar."
+        },
+        {
+          "q": "She will have arrived by now.",
+          "a": "Habrá llegado ya."
+        },
+        {
+          "q": "I would have said no.",
+          "a": "Habría dicho que no."
+        },
+        {
+          "q": "I hope you have slept well.",
+          "a": "Espero que hayas dormido bien."
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

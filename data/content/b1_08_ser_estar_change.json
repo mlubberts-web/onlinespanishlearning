@@ -1,0 +1,548 @@
+{
+  "meta": {
+    "level": "B1",
+    "section": "Grammar",
+    "number": 8,
+    "total_in_level": 10,
+    "title": "ser, estar and Verbs of Change",
+    "subtitle": "the full ser/estar contrast, adjectives with two meanings, ponerse, volverse, hacerse, quedarse and more",
+    "footer": "Spanish Learning Program · B1 · Grammar · ser, estar and verbs of change",
+    "next": "Next: B1 · PDF 9 — Connectors and discourse markers"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "choose between ser and estar in all main situations",
+        "use adjectives whose meaning changes with ser or estar (listo, aburrido, malo ...)",
+        "express change: ponerse, volverse, hacerse, convertirse en, quedarse, llegar a ser",
+        "use common fixed phrases with ser and estar (estar de acuerdo, ser de, estar a punto de)"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "1. Ser and estar: the full picture"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        3.8,
+        6.6,
+        6.6
+      ],
+      "head": [
+        "",
+        "SER",
+        "ESTAR"
+      ],
+      "rows": [
+        [
+          "Core idea",
+          "what something IS",
+          "how or where something IS"
+        ],
+        [
+          "Identity",
+          "Soy Menno. Es mi hermano.",
+          ""
+        ],
+        [
+          "Job, nationality",
+          "Es ingeniero. Somos holandeses.",
+          ""
+        ],
+        [
+          "Origin, material",
+          "Es de Groningen. La mesa es de madera.",
+          ""
+        ],
+        [
+          "Time, date",
+          "Son las tres. Es lunes.",
+          ""
+        ],
+        [
+          "Characteristics",
+          "Es alto. El libro es interesante.",
+          ""
+        ],
+        [
+          "Possession",
+          "Es de Ana. Es mío.",
+          ""
+        ],
+        [
+          "Location",
+          "(of events) La fiesta es en mi casa.",
+          "(of things and people) El libro está en la mesa."
+        ],
+        [
+          "Temporary state",
+          "",
+          "Estoy cansado. La sopa está fría."
+        ],
+        [
+          "Result of an action",
+          "",
+          "La puerta está cerrada."
+        ],
+        [
+          "Ongoing action",
+          "",
+          "Estoy estudiando."
+        ],
+        [
+          "Opinion on the spot",
+          "",
+          "¡Qué rica está esta paella!"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "Quick test",
+      "text": "Ask yourself: is it <b>what it is</b> (ser) or <b>how it is right now</b> (estar)? Ser = definition. Estar = condition and place. Events are the exception: <i>La boda es en la iglesia</i>."
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "2. Adjectives that change meaning"
+    },
+    {
+      "type": "p",
+      "text": "With ser the adjective describes a <b>permanent quality</b>; with estar it describes a <b>state, result or impression</b>."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        3.0,
+        6.4,
+        7.6
+      ],
+      "head": [
+        "Adjective",
+        "SER",
+        "ESTAR"
+      ],
+      "rows": [
+        [
+          "listo",
+          "ser listo = to be clever",
+          "estar listo = to be ready"
+        ],
+        [
+          "aburrido",
+          "ser aburrido = to be boring",
+          "estar aburrido = to be bored"
+        ],
+        [
+          "malo",
+          "ser malo = to be bad (character)",
+          "estar malo = to be ill / to taste bad"
+        ],
+        [
+          "bueno",
+          "ser bueno = to be good (kind)",
+          "estar bueno = to taste good / be attractive"
+        ],
+        [
+          "rico",
+          "ser rico = to be rich",
+          "estar rico = to taste delicious"
+        ],
+        [
+          "vivo",
+          "ser vivo = to be sharp, quick",
+          "estar vivo = to be alive"
+        ],
+        [
+          "seguro",
+          "ser seguro = to be safe",
+          "estar seguro = to be sure"
+        ],
+        [
+          "cansado",
+          "ser cansado = to be tiring",
+          "estar cansado = to be tired"
+        ],
+        [
+          "verde",
+          "ser verde = to be green (colour)",
+          "estar verde = to be unripe"
+        ],
+        [
+          "abierto",
+          "ser abierto = to be open-minded",
+          "estar abierto = to be open (not closed)"
+        ],
+        [
+          "orgulloso",
+          "ser orgulloso = to be proud (arrogant)",
+          "estar orgulloso = to be proud (of something)"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Examples:</b> <i>Mi primo es muy listo. / ¿Estás listo? Nos vamos.</i> · <i>El profesor es aburrido. / Estoy aburrido.</i> · <i>Ese chico es malo. / Estoy malo: tengo fiebre.</i>"
+    },
+    {
+      "type": "callout",
+      "kind": "spain",
+      "title": "Estar bueno / estar rico",
+      "text": "In Spain <b>está buena</b> / <b>está bueno</b> about a person means \"attractive\" (informal). About food use <b>está rico</b> or <b>está bueno</b>: <i>Este jamón está buenísimo.</i>"
+    },
+    {
+      "type": "h1",
+      "text": "3. Expressing change"
+    },
+    {
+      "type": "p",
+      "text": "Dutch uses <i>worden</i> for all changes. Spanish chooses a verb depending on the kind of change."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        3.2,
+        5.6,
+        5.0,
+        3.2
+      ],
+      "head": [
+        "Verb",
+        "Use",
+        "Example",
+        "Followed by"
+      ],
+      "rows": [
+        [
+          "ponerse",
+          "temporary change: mood, colour, health",
+          "Me puse nervioso. Se puso rojo.",
+          "adjective"
+        ],
+        [
+          "volverse",
+          "sudden or deep change of character",
+          "Se volvió loco. Se ha vuelto muy callado.",
+          "adjective"
+        ],
+        [
+          "hacerse",
+          "change through effort or choice (job, religion, rich)",
+          "Se hizo médico. Me hice vegetariano.",
+          "noun / adjective"
+        ],
+        [
+          "convertirse en",
+          "complete transformation",
+          "El pueblo se convirtió en ciudad.",
+          "noun"
+        ],
+        [
+          "quedarse",
+          "result of an event (lasting state)",
+          "Se quedó calvo. Me quedé sin dinero.",
+          "adjective / sin"
+        ],
+        [
+          "llegar a ser",
+          "gradual achievement",
+          "Llegó a ser director.",
+          "noun"
+        ],
+        [
+          "acabar + gerund",
+          "to end up",
+          "Acabé comprando el rojo.",
+          "gerund"
+        ]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<b>Emotions</b> with reflexive verbs: <i>enfadarse, alegrarse, preocuparse, aburrirse, enamorarse, sorprenderse</i>.",
+        "<b>Ponerse + adjective</b> is the most common: <i>Cuando oyó la noticia, se puso muy triste.</i>",
+        "<b>Hacerse</b> also means to become older: <i>Me estoy haciendo mayor.</i>",
+        "Time-related: <i>hacerse de noche</i> (to get dark), <i>hacerse tarde</i> (to get late)."
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "dutch",
+      "title": "worden",
+      "text": "Dutch <i>hij werd boos</i> = <b>se puso furioso</b> (temporary mood). <i>Hij werd arts</i> = <b>se hizo médico</b>. <i>Hij werd gek</i> = <b>se volvió loco</b>. Always ask: temporary, effort or sudden?"
+    },
+    {
+      "type": "h1",
+      "text": "4. Fixed expressions with ser and estar"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.4,
+        5.6,
+        6.0
+      ],
+      "head": [
+        "Expression",
+        "Meaning",
+        "Example"
+      ],
+      "rows": [
+        [
+          "estar de acuerdo (con)",
+          "to agree (with)",
+          "Estoy de acuerdo contigo."
+        ],
+        [
+          "estar a punto de + inf.",
+          "to be about to",
+          "Estoy a punto de salir."
+        ],
+        [
+          "estar de vacaciones",
+          "to be on holiday",
+          "Estamos de vacaciones."
+        ],
+        [
+          "estar de viaje",
+          "to be travelling",
+          "Mi padre está de viaje."
+        ],
+        [
+          "estar de moda",
+          "to be fashionable",
+          "Esta chaqueta está de moda."
+        ],
+        [
+          "estar de pie",
+          "to be standing",
+          "Llevo dos horas de pie."
+        ],
+        [
+          "estar en forma",
+          "to be fit",
+          "Estás muy en forma."
+        ],
+        [
+          "estar harto de",
+          "to be fed up with",
+          "Estoy harto de esperar."
+        ],
+        [
+          "ser de + origin / material",
+          "to come from / be made of",
+          "Es de Madrid. Es de plástico."
+        ],
+        [
+          "ser para + purpose",
+          "to be for",
+          "Este regalo es para ti."
+        ],
+        [
+          "ser capaz de",
+          "to be able to",
+          "Es capaz de todo."
+        ],
+        [
+          "ser cuestión de",
+          "to be a matter of",
+          "Es cuestión de tiempo."
+        ],
+        [
+          "ser mejor / necesario + inf.",
+          "to be better / necessary",
+          "Es mejor esperar."
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "5. Common mistakes"
+    },
+    {
+      "type": "mistakes",
+      "rows": [
+        [
+          "Soy cansado.",
+          "Estoy cansado.",
+          "Temporary state: estar."
+        ],
+        [
+          "Estoy ingeniero.",
+          "Soy ingeniero.",
+          "Profession: ser."
+        ],
+        [
+          "La fiesta está en mi casa.",
+          "La fiesta es en mi casa.",
+          "Events take ser for location."
+        ],
+        [
+          "Soy aburrido porque no hay nada que hacer.",
+          "Estoy aburrido porque no hay nada que hacer.",
+          "Boredom as a state: estar."
+        ],
+        [
+          "Se hizo nervioso.",
+          "Se puso nervioso.",
+          "Temporary mood: ponerse."
+        ],
+        [
+          "Me puse médico.",
+          "Me hice médico.",
+          "Profession through effort: hacerse."
+        ],
+        [
+          "Se puso loco para siempre.",
+          "Se volvió loco.",
+          "Deep change: volverse."
+        ],
+        [
+          "Estoy de acuerdo a ti.",
+          "Estoy de acuerdo contigo.",
+          "estar de acuerdo con."
+        ],
+        [
+          "La sopa es fría.",
+          "La sopa está fría.",
+          "Temporary condition: estar."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "6. Self-check"
+    },
+    {
+      "type": "p",
+      "text": "Fill in the correct form (present tense unless stated). Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Hint"
+      ],
+      "items": [
+        {
+          "q": "Mi hermana ______ ingeniera.",
+          "hint": "ser / estar",
+          "a": "es",
+          "full": "Mi hermana es ingeniera."
+        },
+        {
+          "q": "La sopa ______ fría.",
+          "hint": "ser / estar",
+          "a": "está",
+          "full": "La sopa está fría."
+        },
+        {
+          "q": "La fiesta ______ en mi casa.",
+          "hint": "event: ser / estar",
+          "a": "es",
+          "full": "La fiesta es en mi casa."
+        },
+        {
+          "q": "Mi primo ______ muy listo.",
+          "hint": "clever",
+          "a": "es",
+          "full": "Mi primo es muy listo."
+        },
+        {
+          "q": "¿______ listo? Nos vamos.",
+          "hint": "ready: tú",
+          "a": "Estás",
+          "full": "¿Estás listo? Nos vamos."
+        },
+        {
+          "q": "Cuando oyó la noticia, ______ muy triste.",
+          "hint": "ponerse (preterite)",
+          "a": "se puso",
+          "full": "Cuando oyó la noticia, se puso muy triste."
+        },
+        {
+          "q": "Mi tío ______ médico después de muchos años.",
+          "hint": "hacerse (preterite)",
+          "a": "se hizo",
+          "full": "Mi tío se hizo médico después de muchos años."
+        },
+        {
+          "q": "Después del accidente ______ calvo.",
+          "hint": "quedarse (preterite, él)",
+          "a": "se quedó",
+          "full": "Después del accidente se quedó calvo."
+        },
+        {
+          "q": "Estoy ______ acuerdo contigo.",
+          "hint": "one word",
+          "a": "de",
+          "full": "Estoy de acuerdo contigo."
+        },
+        {
+          "q": "El pueblo ______ en una ciudad grande.",
+          "hint": "convertirse (preterite)",
+          "a": "se convirtió",
+          "full": "El pueblo se convirtió en una ciudad grande."
+        },
+        {
+          "q": "Esta paella ______ riquísima.",
+          "hint": "taste: ser / estar",
+          "a": "está",
+          "full": "Esta paella está riquísima."
+        },
+        {
+          "q": "Estoy a punto ______ salir.",
+          "hint": "preposition",
+          "a": "de",
+          "full": "Estoy a punto de salir."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish:</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "I am tired and the soup is cold.",
+          "a": "Estoy cansado y la sopa está fría."
+        },
+        {
+          "q": "She became a doctor.",
+          "a": "Se hizo médica."
+        },
+        {
+          "q": "He got angry.",
+          "a": "Se enfadó. / Se puso furioso."
+        },
+        {
+          "q": "The party is at my house.",
+          "a": "La fiesta es en mi casa."
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

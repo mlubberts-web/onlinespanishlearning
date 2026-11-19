@@ -1,0 +1,713 @@
+{
+  "meta": {
+    "level": "B1",
+    "section": "Grammar",
+    "number": 3,
+    "total_in_level": 10,
+    "title": "The Present Subjunctive: Uses",
+    "subtitle": "Wishes, emotions, doubt, impersonal expressions, ojalá and the main conjunctions",
+    "footer": "Spanish Learning Program · B1 · Grammar · Subjunctive uses",
+    "next": "Next: B1 · PDF 4 — Perfect tenses"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "decide when a clause after que needs the subjunctive",
+        "use it after wishes, emotions, doubt, impersonal expressions and ojalá",
+        "contrast it with the indicative (creo que viene / no creo que venga)",
+        "use it after para que, antes de que, sin que, and with cuando for the future"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "1. The basic pattern"
+    },
+    {
+      "type": "p",
+      "text": "The subjunctive appears in a <b>subordinate clause</b> introduced by <b>que</b> when the main clause expresses something other than a plain fact. A short memory aid is <b>WEIRDO</b>:"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        3.6,
+        5.0,
+        8.4
+      ],
+      "head": [
+        "Letter",
+        "Trigger",
+        "Example"
+      ],
+      "rows": [
+        [
+          "W",
+          "Wishes and requests",
+          "Quiero que vengas."
+        ],
+        [
+          "E",
+          "Emotions",
+          "Me alegro de que estés aquí."
+        ],
+        [
+          "I",
+          "Impersonal expressions",
+          "Es importante que estudies."
+        ],
+        [
+          "R",
+          "Recommendations",
+          "Te recomiendo que descanses."
+        ],
+        [
+          "D",
+          "Doubt and denial",
+          "Dudo que tenga tiempo."
+        ],
+        [
+          "O",
+          "Ojalá",
+          "Ojalá haga buen tiempo."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "warn",
+      "title": "Two conditions must be true",
+      "bullets": [
+        "The two clauses have <b>different subjects</b>: <i>Quiero que tú vengas.</i> With the same subject use the infinitive: <i>Quiero venir.</i>",
+        "The main clause expresses <b>influence, feeling or doubt</b>, not certainty: <i>Sé que vienes</i> (indicative) vs <i>Dudo que vengas</i> (subjunctive)."
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "2. Wishes, requests and advice"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.6,
+        6.8,
+        5.6
+      ],
+      "head": [
+        "Verb",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "querer que",
+          "Quiero que me ayudes.",
+          "I want you to help me."
+        ],
+        [
+          "preferir que",
+          "Prefiero que hables tú.",
+          "I prefer that you speak."
+        ],
+        [
+          "esperar que",
+          "Espero que tengas suerte.",
+          "I hope you are lucky."
+        ],
+        [
+          "pedir que",
+          "Te pido que me escuches.",
+          "I ask you to listen to me."
+        ],
+        [
+          "necesitar que",
+          "Necesito que vengas pronto.",
+          "I need you to come soon."
+        ],
+        [
+          "aconsejar / recomendar que",
+          "Te recomiendo que pruebes el pescado.",
+          "I recommend that you try the fish."
+        ],
+        [
+          "permitir / dejar que",
+          "No me deja que salga tarde.",
+          "He doesn't let me go out late."
+        ],
+        [
+          "prohibir que",
+          "Mis padres prohíben que fume.",
+          "My parents forbid me to smoke."
+        ],
+        [
+          "decir que (order)",
+          "Dime que vengas.",
+          "Tell me to come."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "decir que: fact or order?",
+      "text": "<b>Dice que viene</b> (he says he is coming) gives information: indicative. <b>Dice que vengas</b> (he tells you to come) gives an order: subjunctive. The same applies to <i>escribir que</i> and <i>gritar que</i>."
+    },
+    {
+      "type": "callout",
+      "kind": "dutch",
+      "title": "Dutch dat = que + subjunctive",
+      "text": "<i>Ik hoop dat je komt</i> is <b>Espero que vengas</b>; <i>Ik wil dat je helpt</i> is <b>Quiero que ayudes</b>. In Dutch the verb after <i>dat</i> is in the normal present, in Spanish it is not."
+    },
+    {
+      "type": "h1",
+      "text": "3. Emotions and reactions"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.4,
+        6.6,
+        5.0
+      ],
+      "head": [
+        "Expression",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "alegrarse de que / me alegra que",
+          "Me alegra que estés mejor.",
+          "I am glad you are better."
+        ],
+        [
+          "me gusta / me encanta que",
+          "Me encanta que cocines.",
+          "I love it that you cook."
+        ],
+        [
+          "me molesta / me preocupa que",
+          "Me molesta que llegues tarde.",
+          "It bothers me that you arrive late."
+        ],
+        [
+          "me sorprende que",
+          "Me sorprende que no sepa nada.",
+          "It surprises me that he knows nothing."
+        ],
+        [
+          "tener miedo de que",
+          "Tengo miedo de que llueva.",
+          "I am afraid it will rain."
+        ],
+        [
+          "sentir / lamentar que",
+          "Siento que no puedas venir.",
+          "I am sorry you can't come."
+        ],
+        [
+          "es una pena / lástima que",
+          "Es una pena que se vayan.",
+          "It is a pity that they are leaving."
+        ]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "After verbs and expressions with <b>de</b> (alegrarse de, tener miedo de, estar contento de) keep the preposition before <b>que</b>: <i>Me alegro <b>de que</b> vengas.</i>"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "4. Doubt and denial"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.4,
+        5.8,
+        5.8
+      ],
+      "head": [
+        "Subjunctive (doubt, denial)",
+        "Indicative (certainty)",
+        "English"
+      ],
+      "rows": [
+        [
+          "No creo que venga.",
+          "Creo que viene.",
+          "I don't think he is coming. / I think he is coming."
+        ],
+        [
+          "Dudo que tenga razón.",
+          "No dudo que tiene razón.",
+          "I doubt he is right. / I don't doubt he is right."
+        ],
+        [
+          "No es verdad que sea fácil.",
+          "Es verdad que es fácil.",
+          "It isn't true that it is easy. / It is true that it is easy."
+        ],
+        [
+          "No estoy seguro de que funcione.",
+          "Estoy seguro de que funciona.",
+          "I'm not sure it works. / I'm sure it works."
+        ],
+        [
+          "Niego que lo sepa.",
+          "Es obvio que lo sabe.",
+          "I deny he knows. / It is obvious he knows."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.4,
+        5.8,
+        5.8
+      ],
+      "head": [
+        "Expression of possibility",
+        "Mood",
+        "Example"
+      ],
+      "rows": [
+        [
+          "es posible que, es probable que, puede ser que",
+          "subjunctive",
+          "Es posible que llueva."
+        ],
+        [
+          "quizás, tal vez",
+          "subjunctive (more doubt) or indicative",
+          "Quizás venga. / Quizás viene."
+        ],
+        [
+          "a lo mejor",
+          "indicative only",
+          "A lo mejor viene."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "Question: is it a fact or an opinion?",
+      "text": "<b>Creer, pensar, opinar, parecer</b> and <b>estar seguro</b> take the <b>indicative</b> when affirmative (they state belief as fact) and the <b>subjunctive</b> when negative. In a question the choice depends on the doubt: <i>¿Crees que viene?</i> (neutral) vs <i>¿Crees que venga?</i> (you doubt it)."
+    },
+    {
+      "type": "h1",
+      "text": "5. Impersonal expressions"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        6.0,
+        5.0,
+        6.0
+      ],
+      "head": [
+        "Subjunctive",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "es importante / necesario / urgente que",
+          "Es necesario que llegues pronto.",
+          "It is necessary that you arrive soon."
+        ],
+        [
+          "es mejor / bueno / malo que",
+          "Es mejor que esperemos.",
+          "It is better that we wait."
+        ],
+        [
+          "es una lástima que",
+          "Es una lástima que no vengas.",
+          "It is a pity that you don't come."
+        ],
+        [
+          "hace falta / conviene / basta que",
+          "Hace falta que estudies más.",
+          "You need to study more."
+        ],
+        [
+          "es raro / extraño que",
+          "Es raro que no conteste.",
+          "It is strange that he doesn't answer."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        6.0,
+        5.0,
+        6.0
+      ],
+      "head": [
+        "Indicative (certainty)",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "es verdad / cierto / obvio / evidente que",
+          "Es evidente que tiene razón.",
+          "It is obvious that he is right."
+        ],
+        [
+          "está claro que",
+          "Está claro que no viene.",
+          "It is clear that he is not coming."
+        ]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<b>General statements</b> use the infinitive (no subject): <i>Es importante estudiar.</i> A specific person needs que + subjunctive: <i>Es importante que tú estudies.</i>"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "6. Ojalá and wishes with que"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.4,
+        5.8,
+        5.8
+      ],
+      "head": [
+        "Expression",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "Ojalá (que) + subjunctive",
+          "Ojalá haga buen tiempo.",
+          "I hope the weather is good."
+        ],
+        [
+          "¡Que + subjunctive!",
+          "¡Que te vaya bien!",
+          "I hope it goes well for you!"
+        ],
+        [
+          "¡Que + subjunctive!",
+          "¡Que descanses!",
+          "Sleep well!"
+        ],
+        [
+          "¡Que + subjunctive!",
+          "¡Que lo pases bien!",
+          "Have a good time!"
+        ],
+        [
+          "¡Que aproveche!",
+          "¡Que aproveche!",
+          "Enjoy your meal!"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Ojalá</b> comes from Arabic <i>inshallah</i> and works without a subject: <i>Ojalá vengas. Ojalá lo sepa.</i>"
+    },
+    {
+      "type": "h1",
+      "text": "7. Conjunctions"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.2,
+        4.0,
+        7.8
+      ],
+      "head": [
+        "Always subjunctive",
+        "English",
+        "Example"
+      ],
+      "rows": [
+        [
+          "para que",
+          "so that",
+          "Te lo explico para que lo entiendas."
+        ],
+        [
+          "antes de que",
+          "before",
+          "Llámame antes de que salgas."
+        ],
+        [
+          "sin que",
+          "without",
+          "Salió sin que lo viéramos."
+        ],
+        [
+          "a menos que",
+          "unless",
+          "Iré, a menos que llueva."
+        ],
+        [
+          "con tal de que",
+          "provided that",
+          "Iré con tal de que vengas."
+        ],
+        [
+          "en caso de que",
+          "in case",
+          "Lleva paraguas en caso de que llueva."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.2,
+        5.8,
+        6.0
+      ],
+      "head": [
+        "Time and concession",
+        "Future / unknown: subjunctive",
+        "Habit / fact: indicative"
+      ],
+      "rows": [
+        [
+          "cuando (when)",
+          "Cuando llegues, llámame.",
+          "Cuando llego, llamo."
+        ],
+        [
+          "hasta que (until)",
+          "Espero hasta que vuelvas.",
+          "Espero hasta que vuelves."
+        ],
+        [
+          "en cuanto (as soon as)",
+          "En cuanto lo sepa, te aviso.",
+          "En cuanto lo sé, te aviso."
+        ],
+        [
+          "después de que (after)",
+          "Después de que comas, saldremos.",
+          "Después de que como, salgo."
+        ],
+        [
+          "aunque (even if / although)",
+          "Aunque llueva, iré. (even if it rains)",
+          "Aunque llueve, voy. (although it is raining)"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "dutch",
+      "title": "Dutch present for the future",
+      "text": "Dutch says <i>Als je aankomt, bel me</i> and <i>Wanneer ik aankom, bel ik</i> with the same present tense. Spanish distinguishes: <b>Cuando llegues</b> (it has not happened yet) vs <b>Cuando llego</b> (it happens regularly)."
+    },
+    {
+      "type": "h1",
+      "text": "8. Common mistakes"
+    },
+    {
+      "type": "mistakes",
+      "rows": [
+        [
+          "Quiero que tú vienes.",
+          "Quiero que tú vengas.",
+          "querer que needs the subjunctive."
+        ],
+        [
+          "Espero que tengo tiempo.",
+          "Espero tener tiempo.",
+          "Same subject: infinitive instead of que."
+        ],
+        [
+          "Quiero que yo voy.",
+          "Quiero ir.",
+          "Same subject: infinitive."
+        ],
+        [
+          "Creo que vengas.",
+          "Creo que vienes.",
+          "Affirmative creer que takes the indicative."
+        ],
+        [
+          "No creo que viene.",
+          "No creo que venga.",
+          "Negative creer que takes the subjunctive."
+        ],
+        [
+          "Es verdad que sea difícil.",
+          "Es verdad que es difícil.",
+          "es verdad que states a fact: indicative."
+        ],
+        [
+          "Cuando llego mañana, te llamo.",
+          "Cuando llegue mañana, te llamo.",
+          "cuando + future meaning needs the subjunctive."
+        ],
+        [
+          "Te lo digo para que sabes.",
+          "Te lo digo para que sepas.",
+          "para que is always followed by the subjunctive."
+        ],
+        [
+          "A lo mejor venga.",
+          "A lo mejor viene.",
+          "a lo mejor takes the indicative."
+        ],
+        [
+          "Me alegro que vienes.",
+          "Me alegro de que vengas.",
+          "Keep de before que, and use the subjunctive."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "9. Self-check"
+    },
+    {
+      "type": "p",
+      "text": "Write the verb in brackets in the subjunctive, the indicative or the infinitive. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Verb"
+      ],
+      "items": [
+        {
+          "q": "Quiero que tú ______ a la fiesta.",
+          "hint": "venir",
+          "a": "vengas",
+          "full": "Quiero que tú vengas a la fiesta."
+        },
+        {
+          "q": "Es importante que ellos ______ la verdad.",
+          "hint": "saber",
+          "a": "sepan",
+          "full": "Es importante que ellos sepan la verdad."
+        },
+        {
+          "q": "Me alegro de que ______ bien.",
+          "hint": "estar (tú)",
+          "a": "estés",
+          "full": "Me alegro de que estés bien."
+        },
+        {
+          "q": "Dudo que él ______ tiempo.",
+          "hint": "tener",
+          "a": "tenga",
+          "full": "Dudo que él tenga tiempo."
+        },
+        {
+          "q": "No creo que el examen ______ difícil.",
+          "hint": "ser",
+          "a": "sea",
+          "full": "No creo que el examen sea difícil."
+        },
+        {
+          "q": "Creo que ella ______ razón.",
+          "hint": "tener",
+          "a": "tiene",
+          "full": "Creo que ella tiene razón."
+        },
+        {
+          "q": "Ojalá ______ mañana.",
+          "hint": "llover",
+          "a": "llueva",
+          "full": "Ojalá llueva mañana."
+        },
+        {
+          "q": "Te lo explico para que lo ______.",
+          "hint": "entender (tú)",
+          "a": "entiendas",
+          "full": "Te lo explico para que lo entiendas."
+        },
+        {
+          "q": "Cuando ______ a casa mañana, te llamaré.",
+          "hint": "llegar (yo)",
+          "a": "llegue",
+          "full": "Cuando llegue a casa mañana, te llamaré."
+        },
+        {
+          "q": "Voy a esperar hasta que tú ______.",
+          "hint": "volver",
+          "a": "vuelvas",
+          "full": "Voy a esperar hasta que tú vuelvas."
+        },
+        {
+          "q": "Es verdad que ellos ______ cansados.",
+          "hint": "estar",
+          "a": "están",
+          "full": "Es verdad que ellos están cansados."
+        },
+        {
+          "q": "Prefiero ______ en casa.",
+          "hint": "quedarse (yo)",
+          "a": "quedarme",
+          "full": "Prefiero quedarme en casa."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish:</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "I hope you have a nice weekend.",
+          "a": "Espero que tengas un buen fin de semana."
+        },
+        {
+          "q": "I don't think he is coming.",
+          "a": "No creo que venga."
+        },
+        {
+          "q": "Call me when you arrive.",
+          "a": "Llámame cuando llegues."
+        },
+        {
+          "q": "I want to go home.",
+          "a": "Quiero ir a casa."
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

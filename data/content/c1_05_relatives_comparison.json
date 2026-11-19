@@ -1,0 +1,525 @@
+{
+  "meta": {
+    "level": "C1",
+    "section": "Grammar",
+    "number": 5,
+    "total_in_level": 10,
+    "title": "Relative Clauses and Comparison",
+    "subtitle": "el cual, cuyo, cuanto, restrictive vs explanatory clauses, de lo que, cuanto más ... más",
+    "footer": "Spanish Learning Program · C1 · Grammar · Relatives and comparison",
+    "next": "Next: C1 · PDF 6 — Register, hedging and academic style"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "use el cual, la cual, lo cual, cuyo and cuanto in formal relative clauses",
+        "distinguish restrictive and explanatory relative clauses",
+        "form advanced comparisons (cuanto más ... más, de lo que, tanto es así que)",
+        "use proportional and graded structures (cada vez más, a medida que, tanto ... como)"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "1. Relative pronouns: forms and use"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.2,
+        6.4,
+        6.4
+      ],
+      "head": [
+        "Pronoun",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "que",
+          "El libro que leí es bueno.",
+          "The book that I read is good."
+        ],
+        [
+          "quien / quienes",
+          "La mujer con quien hablé es médica.",
+          "The woman I spoke with is a doctor."
+        ],
+        [
+          "el que / la que / los que / las que",
+          "El que llegó tarde se disculpó.",
+          "The one who arrived late apologised."
+        ],
+        [
+          "el cual / la cual / los cuales / las cuales",
+          "El motivo por el cual vine es personal.",
+          "The reason for which I came is personal."
+        ],
+        [
+          "lo que / lo cual",
+          "No vino, lo cual / lo que me molestó.",
+          "He did not come, which annoyed me."
+        ],
+        [
+          "cuyo / cuya / cuyos / cuyas",
+          "El autor cuyo libro leí vive aquí.",
+          "The author whose book I read lives here."
+        ],
+        [
+          "donde / en que / en el que",
+          "La casa donde / en la que vivo.",
+          "The house where / in which I live."
+        ],
+        [
+          "cuanto / cuanta / cuantos",
+          "Todo cuanto tengo es tuyo.",
+          "Everything I have is yours."
+        ],
+        [
+          "como / cuando (relative)",
+          "La forma como lo hizo me gustó. El día cuando llegué ...",
+          "The way he did it ... / The day I arrived ..."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "warn",
+      "title": "Cuyo agrees with what follows",
+      "text": "<b>Cuyo</b> agrees in gender and number with the noun that comes <b>after</b> it, not with the owner: <i>La empresa cuyos directivos dimitieron ...</i> (the company whose directors resigned). Never use an article after it: not <i>cuyo el libro</i>."
+    },
+    {
+      "type": "h1",
+      "text": "2. Restrictive vs explanatory clauses"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.6,
+        5.6,
+        5.8
+      ],
+      "head": [
+        "Restrictive (no commas)",
+        "Explanatory (with commas)",
+        "Meaning"
+      ],
+      "rows": [
+        [
+          "Los estudiantes que estudiaron aprobaron.",
+          "Los estudiantes, que estudiaron, aprobaron.",
+          "only those who studied / all of them did"
+        ],
+        [
+          "Mi hermano que vive en Madrid es médico.",
+          "Mi hermano, que vive en Madrid, es médico.",
+          "I have several brothers / I have one brother"
+        ],
+        [
+          "Los coches que son rápidos cuestan más.",
+          "Los coches, que son rápidos, cuestan más.",
+          "only fast ones / cars in general"
+        ]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<b>Explanatory clauses</b> (commas) can use <b>el cual / quien / lo cual</b>: <i>Su padre, quien/el cual trabaja en Londres, vuelve hoy.</i>",
+        "<b>Restrictive clauses</b> mostly use <b>que</b> or <b>el que</b>.",
+        "After a <b>preposition</b> use <b>el que / el cual / quien</b>: <i>La razón por la que / por la cual ...</i>. A bare <i>que</i> cannot follow a long preposition."
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "3. Relatives with prepositions"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.0,
+        6.2,
+        5.8
+      ],
+      "head": [
+        "Structure",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "a quien / al que",
+          "El amigo a quien escribí ...",
+          "The friend I wrote to ..."
+        ],
+        [
+          "con quien / con el que",
+          "La persona con quien trabajo ...",
+          "The person I work with ..."
+        ],
+        [
+          "de quien / del que / de cuyo",
+          "El autor de quien hablamos ...",
+          "The author we talked about ..."
+        ],
+        [
+          "en el que / donde",
+          "El país en el que vivo ...",
+          "The country where I live ..."
+        ],
+        [
+          "por lo que / por lo cual",
+          "Perdí el tren, por lo que llegué tarde.",
+          "I missed the train, so I arrived late."
+        ],
+        [
+          "sobre el cual / acerca del cual",
+          "El tema sobre el cual escribió ...",
+          "The topic he wrote about ..."
+        ],
+        [
+          "tras lo cual",
+          "Cenó, tras lo cual se acostó.",
+          "He had dinner, after which he went to bed."
+        ],
+        [
+          "lo de + noun",
+          "Lo de ayer fue un error.",
+          "That business yesterday was a mistake."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "4. Advanced comparison"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.0,
+        6.2,
+        5.8
+      ],
+      "head": [
+        "Structure",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "más / menos + adj. + que",
+          "Es más alto que su padre.",
+          "He is taller than his father."
+        ],
+        [
+          "más / menos de + number",
+          "Hay más de cien personas.",
+          "There are more than a hundred people."
+        ],
+        [
+          "más ... de lo que + verb",
+          "Es más difícil de lo que pensaba.",
+          "It is harder than I thought."
+        ],
+        [
+          "más ... del que / de la que ...",
+          "Tiene más dinero del que necesita.",
+          "He has more money than he needs."
+        ],
+        [
+          "más ... de los que + noun",
+          "Compró más libros de los que podía leer.",
+          "He bought more books than he could read."
+        ],
+        [
+          "tan ... como / tanto ... como",
+          "Es tan alto como yo. Come tanto como tú.",
+          "He is as tall as me. He eats as much as you."
+        ],
+        [
+          "cuanto más ... (más / menos)",
+          "Cuanto más estudio, más aprendo.",
+          "The more I study, the more I learn."
+        ],
+        [
+          "cuanto más ... tanto más",
+          "Cuanto más lo pienso, tanto más lo dudo.",
+          "The more I think about it, the more I doubt it."
+        ],
+        [
+          "cada vez más / menos",
+          "Cada vez hay más gente.",
+          "There are more and more people."
+        ],
+        [
+          "mucho / bastante / algo más",
+          "Es mucho más caro.",
+          "It is much more expensive."
+        ],
+        [
+          "lo más ... posible",
+          "Hazlo lo más rápido posible.",
+          "Do it as fast as possible."
+        ],
+        [
+          "cuanto antes / tan pronto como",
+          "Llámame cuanto antes.",
+          "Call me as soon as possible."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "de lo que / del que",
+      "text": "Use <b>de lo que</b> before a verb (the thing compared is a clause): <i>Es más caro de lo que creía.</i> Use <b>del que / de la que / de los que / de las que</b> when a noun is compared: <i>Hay más gente de la que esperaba.</i> It must agree with that noun."
+    },
+    {
+      "type": "h1",
+      "text": "5. Proportion, degree and consequence"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.0,
+        6.2,
+        5.8
+      ],
+      "head": [
+        "Structure",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "a medida que / conforme",
+          "Conforme crece, cambia.",
+          "As he grows, he changes."
+        ],
+        [
+          "tanto es así que",
+          "Estaba cansado, tanto es así que se durmió.",
+          "He was so tired that he fell asleep."
+        ],
+        [
+          "tal ... que",
+          "Fue tal el ruido que nadie durmió.",
+          "The noise was such that nobody slept."
+        ],
+        [
+          "tan ... que / tanto ... que",
+          "Corre tanto que no lo alcanzo.",
+          "He runs so much that I cannot catch him."
+        ],
+        [
+          "al punto de que",
+          "Llegó al punto de que ya no hablaba.",
+          "It reached the point where he no longer spoke."
+        ],
+        [
+          "de tal manera que",
+          "Habló de tal manera que todos lloraron.",
+          "He spoke in such a way that everyone cried."
+        ],
+        [
+          "cuanto más ... menos",
+          "Cuanto más leo, menos entiendo.",
+          "The more I read, the less I understand."
+        ],
+        [
+          "a tal punto que",
+          "Se esforzó a tal punto que enfermó.",
+          "He worked so hard that he fell ill."
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "6. Common mistakes"
+    },
+    {
+      "type": "mistakes",
+      "rows": [
+        [
+          "El hombre cuyo el hijo es médico ...",
+          "El hombre cuyo hijo es médico ...",
+          "no article after cuyo."
+        ],
+        [
+          "La mujer cuyo libros leí ...",
+          "La mujer cuyos libros leí ...",
+          "cuyo agrees with libros."
+        ],
+        [
+          "Es más caro que pensaba.",
+          "Es más caro de lo que pensaba.",
+          "de lo que + verb."
+        ],
+        [
+          "Tiene más dinero que necesita.",
+          "Tiene más dinero del que necesita.",
+          "del que + noun clause."
+        ],
+        [
+          "Hay más que cien personas.",
+          "Hay más de cien personas.",
+          "más de + number."
+        ],
+        [
+          "La razón por que vine ...",
+          "La razón por la que vine ...",
+          "preposition + la que."
+        ],
+        [
+          "Es tan alto que yo.",
+          "Es tan alto como yo.",
+          "tan ... como."
+        ],
+        [
+          "Cuanto más estudio, más más aprendo.",
+          "Cuanto más estudio, más aprendo.",
+          "one más."
+        ],
+        [
+          "No vino, que me molestó.",
+          "No vino, lo cual me molestó.",
+          "lo cual / lo que for a clause."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "7. Self-check"
+    },
+    {
+      "type": "p",
+      "text": "Fill in the correct relative pronoun or comparison form. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Hint"
+      ],
+      "items": [
+        {
+          "q": "El autor ______ libro leí vive aquí.",
+          "hint": "whose",
+          "a": "cuyo",
+          "full": "El autor cuyo libro leí vive aquí."
+        },
+        {
+          "q": "La empresa ______ directivos dimitieron cerró.",
+          "hint": "whose + plural",
+          "a": "cuyos",
+          "full": "La empresa cuyos directivos dimitieron cerró."
+        },
+        {
+          "q": "No vino, ______ me molestó.",
+          "hint": "which",
+          "a": "lo cual",
+          "full": "No vino, lo cual me molestó."
+        },
+        {
+          "q": "La razón por la ______ vine es personal.",
+          "hint": "relative",
+          "a": "que",
+          "full": "La razón por la que vine es personal."
+        },
+        {
+          "q": "Es más difícil ______ lo que pensaba.",
+          "hint": "preposition",
+          "a": "de",
+          "full": "Es más difícil de lo que pensaba."
+        },
+        {
+          "q": "Tiene más dinero ______ que necesita.",
+          "hint": "del / de lo / de la",
+          "a": "del",
+          "full": "Tiene más dinero del que necesita."
+        },
+        {
+          "q": "Hay más ______ cien personas.",
+          "hint": "preposition",
+          "a": "de",
+          "full": "Hay más de cien personas."
+        },
+        {
+          "q": "______ más estudio, más aprendo.",
+          "hint": "the more",
+          "a": "Cuanto",
+          "full": "Cuanto más estudio, más aprendo."
+        },
+        {
+          "q": "Todo ______ tengo es tuyo.",
+          "hint": "everything that",
+          "a": "cuanto",
+          "full": "Todo cuanto tengo es tuyo."
+        },
+        {
+          "q": "Es ______ alto como yo.",
+          "hint": "as",
+          "a": "tan",
+          "full": "Es tan alto como yo."
+        },
+        {
+          "q": "Hazlo lo más ______ posible.",
+          "hint": "quickly (adjective form)",
+          "a": "rápido",
+          "full": "Hazlo lo más rápido posible."
+        },
+        {
+          "q": "El amigo a ______ escribí vive en Lima.",
+          "hint": "whom",
+          "a": "quien",
+          "full": "El amigo a quien escribí vive en Lima."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish:</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "The author whose book I read lives here.",
+          "a": "El autor cuyo libro leí vive aquí."
+        },
+        {
+          "q": "It is more expensive than I thought.",
+          "a": "Es más caro de lo que pensaba."
+        },
+        {
+          "q": "The more I study, the more I learn.",
+          "a": "Cuanto más estudio, más aprendo."
+        },
+        {
+          "q": "He did not come, which annoyed me.",
+          "a": "No vino, lo cual me molestó."
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

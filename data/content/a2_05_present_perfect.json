@@ -1,0 +1,762 @@
+{
+  "meta": {
+    "level": "A2",
+    "section": "Verbs",
+    "number": 5,
+    "total_in_level": 10,
+    "title": "The Present Perfect",
+    "subtitle": "Haber + past participle: forms, irregular participles and when Spain uses it instead of the preterite",
+    "footer": "Spanish Learning Program · A2 · Verbs · Present perfect",
+    "next": "Next: A2 · PDF 6 — Future and ongoing actions"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "form the present perfect (he hablado, has comido, ha vivido) for every person",
+        "use the regular and the irregular past participles (hecho, dicho, visto, escrito ...)",
+        "talk about experiences, things you have or have not done yet, and the current week or year",
+        "choose between the present perfect and the preterite, as it is done in Spain"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "1. How it is formed"
+    },
+    {
+      "type": "p",
+      "text": "The present perfect (<i>pretérito perfecto</i>) = the present tense of <b>haber</b> + the <b>past participle</b>. The participle never changes: it does not agree with the subject."
+    },
+    {
+      "type": "conj",
+      "tense": "present",
+      "verb": "haber",
+      "meaning": "to have (auxiliary verb)",
+      "label": "irregular verb · only used as a helper here",
+      "forms": [
+        "*he*",
+        "*has*",
+        "*ha*",
+        "*hemos*",
+        "*habéis*",
+        "*han*"
+      ],
+      "examples": [
+        [
+          "He terminado el trabajo.",
+          "I have finished the work."
+        ],
+        [
+          "¿Has visto mi móvil?",
+          "Have you seen my phone?"
+        ],
+        [
+          "Ella ha llegado tarde.",
+          "She has arrived late."
+        ],
+        [
+          "Hemos comido paella.",
+          "We have eaten paella."
+        ],
+        [
+          "¿Habéis estado en Sevilla?",
+          "Have you (all) been to Seville?"
+        ],
+        [
+          "Mis padres han salido.",
+          "My parents have gone out."
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "2. The past participle"
+    },
+    {
+      "type": "p",
+      "text": "Take off -ar / -er / -ir and add <b>-ado</b> (for -ar) or <b>-ido</b> (for -er and -ir)."
+    },
+    {
+      "type": "verbpairs",
+      "title": "Regular participles",
+      "check": "participle",
+      "items": [
+        [
+          "hablar",
+          "hablado"
+        ],
+        [
+          "trabajar",
+          "trabajado"
+        ],
+        [
+          "comprar",
+          "comprado"
+        ],
+        [
+          "estudiar",
+          "estudiado"
+        ],
+        [
+          "comer",
+          "comido"
+        ],
+        [
+          "beber",
+          "bebido"
+        ],
+        [
+          "vivir",
+          "vivido"
+        ],
+        [
+          "salir",
+          "salido"
+        ],
+        [
+          "tener",
+          "tenido"
+        ],
+        [
+          "ser",
+          "sido"
+        ],
+        [
+          "estar",
+          "estado"
+        ],
+        [
+          "ir",
+          "ido"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "When the stem ends in a vowel (a, e, o), the participle ending <b>-ido</b> takes a written accent: <b>-ído</b>."
+    },
+    {
+      "type": "verbpairs",
+      "title": "Participles with an accent",
+      "check": "participle",
+      "items": [
+        [
+          "leer",
+          "leído"
+        ],
+        [
+          "creer",
+          "creído"
+        ],
+        [
+          "oír",
+          "oído"
+        ],
+        [
+          "traer",
+          "traído"
+        ],
+        [
+          "caer",
+          "caído"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Irregular participles (learn these)"
+    },
+    {
+      "type": "verbpairs",
+      "title": "Irregular participles",
+      "check": "participle",
+      "items": [
+        [
+          "hacer",
+          "hecho (done, made)"
+        ],
+        [
+          "decir",
+          "dicho (said)"
+        ],
+        [
+          "ver",
+          "visto (seen)"
+        ],
+        [
+          "poner",
+          "puesto (put)"
+        ],
+        [
+          "escribir",
+          "escrito (written)"
+        ],
+        [
+          "abrir",
+          "abierto (opened)"
+        ],
+        [
+          "volver",
+          "vuelto (returned)"
+        ],
+        [
+          "romper",
+          "roto (broken)"
+        ],
+        [
+          "morir",
+          "muerto (died)"
+        ],
+        [
+          "cubrir",
+          "cubierto (covered)"
+        ],
+        [
+          "descubrir",
+          "descubierto (discovered)"
+        ],
+        [
+          "resolver",
+          "resuelto (solved)"
+        ],
+        [
+          "describir",
+          "descrito (described)"
+        ],
+        [
+          "devolver",
+          "devuelto (given back)"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "Compounds copy the base verb",
+      "text": "A verb built on another one copies its participle: <i>deshacer</i> : deshecho, <i>componer</i> : compuesto, <i>suponer</i> : supuesto, <i>prever</i> : previsto, <i>reescribir</i> : reescrito, <i>satisfacer</i> : satisfecho."
+    },
+    {
+      "type": "callout",
+      "kind": "warn",
+      "title": "haber is not tener",
+      "text": "<b>Haber</b> is only the helper verb before a participle (<i>he comido</i>). To say you possess something, use <b>tener</b> (<i>tengo un coche</i>). Never write <i>tengo comido</i> for the perfect."
+    },
+    {
+      "type": "callout",
+      "kind": "dutch",
+      "title": "No zijn, no splitting",
+      "bullets": [
+        "Dutch uses <i>hebben</i> or <i>zijn</i>: <i>ik ben gegaan</i>. Spanish always uses <b>haber</b>: <b>he ido</b>.",
+        "Dutch splits the verb: <i>ik heb gisteren gegeten</i>. In Spanish <b>he</b> and the participle stay together: <b>ya he comido</b>, <b>no he comido</b>."
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "3. Full conjugations"
+    },
+    {
+      "type": "conj",
+      "tense": "present perfect",
+      "verb": "hablar",
+      "meaning": "to speak",
+      "forms": [
+        "he *hablado*",
+        "has *hablado*",
+        "ha *hablado*",
+        "hemos *hablado*",
+        "habéis *hablado*",
+        "han *hablado*"
+      ],
+      "examples": [
+        [
+          "Hoy he hablado con mi jefe.",
+          "Today I have spoken with my boss."
+        ],
+        [
+          "¿Has hablado con Ana?",
+          "Have you spoken with Ana?"
+        ],
+        [
+          "Ella ha hablado mucho esta semana.",
+          "She has talked a lot this week."
+        ],
+        [
+          "Hemos hablado por teléfono.",
+          "We have spoken on the phone."
+        ],
+        [
+          "¿Habéis hablado con el profesor?",
+          "Have you (all) spoken with the teacher?"
+        ],
+        [
+          "Mis padres han hablado con el director.",
+          "My parents have spoken with the headteacher."
+        ]
+      ],
+      "label": "regular verb"
+    },
+    {
+      "type": "conj",
+      "tense": "present perfect",
+      "verb": "comer",
+      "meaning": "to eat",
+      "forms": [
+        "he *comido*",
+        "has *comido*",
+        "ha *comido*",
+        "hemos *comido*",
+        "habéis *comido*",
+        "han *comido*"
+      ],
+      "examples": [
+        [
+          "Hoy he comido muy tarde.",
+          "Today I have eaten very late."
+        ],
+        [
+          "¿Has comido ya?",
+          "Have you eaten yet?"
+        ],
+        [
+          "Marta ha comido en casa.",
+          "Marta has eaten at home."
+        ],
+        [
+          "Hemos comido paella esta semana.",
+          "We have eaten paella this week."
+        ],
+        [
+          "¿Habéis comido en este restaurante?",
+          "Have you (all) eaten in this restaurant?"
+        ],
+        [
+          "Los niños han comido muy poco.",
+          "The children have eaten very little."
+        ]
+      ],
+      "label": "regular verb"
+    },
+    {
+      "type": "conj",
+      "tense": "present perfect",
+      "verb": "vivir",
+      "meaning": "to live",
+      "forms": [
+        "he *vivido*",
+        "has *vivido*",
+        "ha *vivido*",
+        "hemos *vivido*",
+        "habéis *vivido*",
+        "han *vivido*"
+      ],
+      "examples": [
+        [
+          "He vivido en tres ciudades.",
+          "I have lived in three cities."
+        ],
+        [
+          "¿Has vivido en el extranjero?",
+          "Have you lived abroad?"
+        ],
+        [
+          "Mi abuelo ha vivido aquí toda su vida.",
+          "My grandfather has lived here all his life."
+        ],
+        [
+          "Hemos vivido en este piso cinco años.",
+          "We have lived in this flat for five years."
+        ],
+        [
+          "¿Habéis vivido alguna vez en Madrid?",
+          "Have you (all) ever lived in Madrid?"
+        ],
+        [
+          "Mis tíos han vivido en Cuba.",
+          "My aunt and uncle have lived in Cuba."
+        ]
+      ],
+      "label": "regular verb"
+    },
+    {
+      "type": "conj",
+      "tense": "present perfect",
+      "verb": "hacer",
+      "meaning": "to do, to make",
+      "forms": [
+        "he *hecho*",
+        "has *hecho*",
+        "ha *hecho*",
+        "hemos *hecho*",
+        "habéis *hecho*",
+        "han *hecho*"
+      ],
+      "examples": [
+        [
+          "Hoy he hecho la compra.",
+          "Today I have done the shopping."
+        ],
+        [
+          "¿Qué has hecho este fin de semana?",
+          "What have you done this weekend?"
+        ],
+        [
+          "Ella ha hecho un pastel.",
+          "She has made a cake."
+        ],
+        [
+          "Hemos hecho un viaje increíble.",
+          "We have made an incredible trip."
+        ],
+        [
+          "¿Habéis hecho los deberes?",
+          "Have you (all) done your homework?"
+        ],
+        [
+          "Mis padres han hecho una reforma.",
+          "My parents have done a renovation."
+        ]
+      ],
+      "label": "irregular participle"
+    },
+    {
+      "type": "h1",
+      "text": "4. Word order"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<b>He</b> and the participle are never separated: <i>Ya he comido. No he visto nada. Todavía no hemos terminado.</i>",
+        "Negative: <b>no</b> goes before <b>he</b>: <i>No he comido.</i>",
+        "Questions: <i>¿Has comido? ¿Ya has comido?</i>",
+        "The participle does not change for gender or number: <i>Ellos han comido. Ella ha comido.</i> (Object pronouns go in front of haber: <i>Lo he visto</i>, see PDF 8.)"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "5. When to use it"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.6,
+        6.6,
+        5.8
+      ],
+      "head": [
+        "Use",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "A period that is not over yet",
+          "Esta semana he trabajado mucho.",
+          "This week I have worked a lot."
+        ],
+        [
+          "Experience in your life",
+          "¿Has estado alguna vez en México?",
+          "Have you ever been to Mexico?"
+        ],
+        [
+          "Never up to now",
+          "Nunca he visto el mar.",
+          "I have never seen the sea."
+        ],
+        [
+          "Recent action, relevant now",
+          "He perdido las llaves.",
+          "I have lost my keys."
+        ],
+        [
+          "Already / not yet",
+          "Ya he terminado. Todavía no he cenado.",
+          "I have finished. I haven't had dinner yet."
+        ],
+        [
+          "Repeated up to now",
+          "He visto esa película tres veces.",
+          "I have seen that film three times."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.2,
+        6.0,
+        5.8
+      ],
+      "head": [
+        "Time words for the perfect",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "hoy, esta mañana, esta tarde",
+          "Hoy he llegado pronto.",
+          "Today I arrived early."
+        ],
+        [
+          "esta semana / este mes / este año",
+          "Este año he viajado mucho.",
+          "This year I have travelled a lot."
+        ],
+        [
+          "ya / todavía no / aún no",
+          "Aún no he llamado.",
+          "I have not called yet."
+        ],
+        [
+          "alguna vez / nunca",
+          "Nunca he comido pulpo.",
+          "I have never eaten octopus."
+        ],
+        [
+          "últimamente / hasta ahora",
+          "Hasta ahora he aprendido mucho.",
+          "So far I have learnt a lot."
+        ],
+        [
+          "muchas veces / varias veces",
+          "Lo he intentado varias veces.",
+          "I have tried it several times."
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "6. Present perfect or preterite?"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.6,
+        5.7,
+        5.7
+      ],
+      "head": [
+        "Question",
+        "Present perfect",
+        "Preterite"
+      ],
+      "rows": [
+        [
+          "Is the time period still open?",
+          "Hoy he comido tarde.",
+          "Ayer comí tarde."
+        ],
+        [
+          "",
+          "Este año he viajado a Italia.",
+          "El año pasado viajé a Italia."
+        ],
+        [
+          "Is there a finished time word?",
+          "no (hoy, esta semana ...)",
+          "yes (ayer, anoche, en 2019, hace dos días ...)"
+        ],
+        [
+          "No time word, experience",
+          "¿Has estado en Roma?",
+          "¿Estuviste en Roma el año pasado?"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "dutch",
+      "title": "Dutch uses the perfect for both",
+      "text": "<i>Ik heb gisteren gegeten</i> and <i>ik heb vandaag gegeten</i> look alike in Dutch. In Spanish, <b>gisteren</b> needs the preterite (<i>Ayer comí</i>) and <b>vandaag</b> needs the perfect (<i>Hoy he comido</i>)."
+    },
+    {
+      "type": "callout",
+      "kind": "spain",
+      "title": "Spain vs Latin America",
+      "text": "In Spain the perfect is the normal tense for <b>hoy</b>, <b>esta semana</b>, <b>este año</b> and recent news: <i>¿Has comido?</i> <i>Hoy he trabajado mucho.</i> Many Latin American speakers use the preterite there instead: <i>¿Comiste?</i> <i>Hoy trabajé mucho.</i> Both are understood everywhere, but learn the Spanish pattern above."
+    },
+    {
+      "type": "h1",
+      "text": "7. Common mistakes"
+    },
+    {
+      "type": "mistakes",
+      "rows": [
+        [
+          "Ayer he comido paella.",
+          "Ayer comí paella.",
+          "ayer is a finished period: preterite."
+        ],
+        [
+          "El año pasado he viajado a Italia.",
+          "El año pasado viajé a Italia.",
+          "el año pasado is finished: preterite."
+        ],
+        [
+          "Ellos han comidos.",
+          "Ellos han comido.",
+          "The participle never agrees with the subject."
+        ],
+        [
+          "He ya terminado.",
+          "Ya he terminado.",
+          "he and the participle are never separated."
+        ],
+        [
+          "Yo soy ido a casa.",
+          "Yo he ido a casa.",
+          "Always haber, never ser, in the perfect."
+        ],
+        [
+          "He hacido la cena.",
+          "He hecho la cena.",
+          "The participle of hacer is hecho."
+        ],
+        [
+          "Ha dicido la verdad.",
+          "Ha dicho la verdad.",
+          "The participle of decir is dicho."
+        ],
+        [
+          "Hemos escribido una carta.",
+          "Hemos escrito una carta.",
+          "The participle of escribir is escrito."
+        ],
+        [
+          "He leido el libro.",
+          "He leído el libro.",
+          "Accent needed: leído, creído, oído, traído, caído."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "8. Self-check"
+    },
+    {
+      "type": "p",
+      "text": "Write the present perfect of the verb in brackets. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Verb"
+      ],
+      "items": [
+        {
+          "q": "Hoy yo ______ mucho.",
+          "hint": "trabajar (yo)",
+          "a": "he trabajado",
+          "full": "Hoy yo he trabajado mucho."
+        },
+        {
+          "q": "¿Tú ______ alguna vez en México?",
+          "hint": "estar (tú)",
+          "a": "has estado",
+          "full": "¿Tú has estado alguna vez en México?"
+        },
+        {
+          "q": "Nosotros ya ______ la cena.",
+          "hint": "preparar (nosotros)",
+          "a": "hemos preparado",
+          "full": "Nosotros ya hemos preparado la cena."
+        },
+        {
+          "q": "Mis padres ______ la compra esta mañana.",
+          "hint": "hacer (ellos)",
+          "a": "han hecho",
+          "full": "Mis padres han hecho la compra esta mañana."
+        },
+        {
+          "q": "¿Vosotros ______ la película?",
+          "hint": "ver (vosotros)",
+          "a": "habéis visto",
+          "full": "¿Vosotros habéis visto la película?"
+        },
+        {
+          "q": "Ella todavía no ______ el correo.",
+          "hint": "abrir (ella)",
+          "a": "ha abierto",
+          "full": "Ella todavía no ha abierto el correo."
+        },
+        {
+          "q": "Yo nunca ______ sushi.",
+          "hint": "comer (yo)",
+          "a": "he comido",
+          "full": "Yo nunca he comido sushi."
+        },
+        {
+          "q": "Esta semana ______ tres libros.",
+          "hint": "leer (yo)",
+          "a": "he leído",
+          "full": "Esta semana he leído tres libros."
+        },
+        {
+          "q": "Ana ______ la verdad.",
+          "hint": "decir (ella)",
+          "a": "ha dicho",
+          "full": "Ana ha dicho la verdad."
+        },
+        {
+          "q": "Mis amigos ya ______ de vacaciones.",
+          "hint": "volver (ellos)",
+          "a": "han vuelto",
+          "full": "Mis amigos ya han vuelto de vacaciones."
+        },
+        {
+          "q": "Sin querer, yo ______ la ventana.",
+          "hint": "romper (yo)",
+          "a": "he roto",
+          "full": "Sin querer, yo he roto la ventana."
+        },
+        {
+          "q": "Este año ______ mucho español.",
+          "hint": "aprender (nosotros)",
+          "a": "hemos aprendido",
+          "full": "Este año hemos aprendido mucho español."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish:</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "I have not eaten yet.",
+          "a": "Todavía no he comido."
+        },
+        {
+          "q": "Have you ever been in Spain?",
+          "a": "¿Has estado alguna vez en España?"
+        },
+        {
+          "q": "This week we have worked a lot.",
+          "a": "Esta semana hemos trabajado mucho."
+        },
+        {
+          "q": "She has already finished.",
+          "a": "Ya ha terminado."
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

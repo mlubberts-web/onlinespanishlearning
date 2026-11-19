@@ -1,0 +1,285 @@
+{
+  "meta": {
+    "level": "A1",
+    "section": "Verbs",
+    "number": 2,
+    "total_in_level": 9,
+    "title": "Regular Verbs: Present Tense",
+    "subtitle": "How to conjugate -ar, -er and -ir verbs, with every person including vosotros (Spain Spanish)",
+    "footer": "Spanish Learning Program · A1 · Verbs · Regular present tense",
+    "next": "Next: A1 · PDF 3 — Irregular verbs: present tense"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "split any regular verb into stem and ending",
+        "conjugate regular -ar, -er and -ir verbs in the present tense for all six persons",
+        "choose between tú, usted, vosotros and ustedes",
+        "use the present tense for habits, facts, things happening now and the near future",
+        "avoid the most common beginner mistakes"
+      ]
+    },
+
+    { "type": "h1", "text": "1. The big picture" },
+    {
+      "type": "p",
+      "text": "In Spanish the ending of the verb tells you who is doing the action. Every verb in its dictionary form (the <b>infinitive</b>) ends in <b>-ar</b>, <b>-er</b> or <b>-ir</b>. Take that ending off to get the <b>stem</b>, then add the ending that matches the person."
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "Example",
+      "text": "hablar (to speak): stem <b>habl-</b> + ending <b>-o</b> = <b>hablo</b> (I speak)"
+    },
+    {
+      "type": "p",
+      "text": "Regular verbs follow one fixed pattern per group, so learning three sets of endings lets you conjugate hundreds of verbs."
+    },
+
+    { "type": "h1", "text": "2. Subject pronouns" },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [3.6, 4.4, 2.6, 6.4],
+      "head": ["Spanish", "English", "Dutch", "Notes"],
+      "rows": [
+        ["yo", "I", "ik", ""],
+        ["tú", "you (informal, singular)", "jij / je", "friends, family, people your age"],
+        ["él / ella", "he / she", "hij / zij", ""],
+        ["usted (Ud.)", "you (formal, singular)", "u", "strangers, older people, respect; takes the él/ella verb form"],
+        ["nosotros / nosotras", "we", "wij / we", "nosotras = an all-female group"],
+        ["vosotros / vosotras", "you (informal, plural)", "jullie", "used in Spain; vosotras = an all-female group"],
+        ["ellos / ellas", "they", "zij / ze", "ellas = an all-female group"],
+        ["ustedes (Uds.)", "you (formal, plural)", "u (plural)", "takes the ellos/ellas verb form"]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "spain",
+      "title": "Spain vs Latin America",
+      "text": "In Spain you say <b>vosotros</b> to a group of friends or family and <b>ustedes</b> only to a group you address formally. In Latin America <b>ustedes</b> is used for both, so you will hear it a lot in videos and apps. This course always includes vosotros."
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "Leave the pronoun out",
+      "text": "The ending already shows the person, so Spanish normally drops the subject pronoun: <b>Hablo español</b>, not <i>Yo hablo español</i>. Use a pronoun only for contrast or emphasis: <i>Yo hablo inglés, pero ella habla francés.</i> (I speak English, but she speaks French.) Él, ella and usted share one verb form, so a pronoun or a name can also remove doubt."
+    },
+
+    { "type": "h1", "text": "3. The endings" },
+    {
+      "type": "p",
+      "text": "Learn these three columns. The stem never changes for regular verbs."
+    },
+    {
+      "type": "table",
+      "style": "endings",
+      "widths": [5.0, 4.0, 4.0, 4.0],
+      "head": ["Person", "-ar  (hablar)", "-er  (comer)", "-ir  (vivir)"],
+      "rows": [
+        ["yo", "-o", "-o", "-o"],
+        ["tú", "-as", "-es", "-es"],
+        ["él / ella / usted", "-a", "-e", "-e"],
+        ["nosotros / nosotras", "-amos", "-emos", "-imos"],
+        ["vosotros / vosotras", "-áis", "-éis", "-ís"],
+        ["ellos / ellas / ustedes", "-an", "-en", "-en"]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "Patterns worth memorising",
+      "bullets": [
+        "The <b>yo</b> form always ends in <b>-o</b>, in all three groups.",
+        "<b>-er</b> and <b>-ir</b> verbs have the same endings except for <b>nosotros</b> (-emos / -imos) and <b>vosotros</b> (-éis / -ís).",
+        "The only written accents in regular present-tense forms are in the <b>vosotros</b> forms: habl<b>áis</b>, com<b>éis</b>, viv<b>ís</b>.",
+        "The stress falls on the stem in yo, tú, él and ellos forms (HAblo, HAblas, HAbla, HAblan) and on the ending in nosotros and vosotros forms (hablAmos, habLÁIS)."
+      ]
+    },
+
+    { "type": "h1", "text": "4. Full conjugations" },
+    {
+      "type": "conj",
+      "verb": "hablar",
+      "meaning": "to speak, to talk",
+      "group": "-ar",
+      "stem": "habl",
+      "endings": ["o", "as", "a", "amos", "áis", "an"],
+      "examples": [
+        ["Hablo español.", "I speak Spanish."],
+        ["¿Hablas inglés?", "Do you speak English?"],
+        ["Ella habla muy rápido.", "She speaks very fast."],
+        ["Hablamos por teléfono.", "We talk on the phone."],
+        ["¿Habláis alemán?", "Do you (all) speak German?"],
+        ["Ellos hablan con el profesor.", "They talk to the teacher."]
+      ]
+    },
+    {
+      "type": "conj",
+      "verb": "comer",
+      "meaning": "to eat",
+      "group": "-er",
+      "stem": "com",
+      "endings": ["o", "es", "e", "emos", "éis", "en"],
+      "examples": [
+        ["Como fruta todos los días.", "I eat fruit every day."],
+        ["¿Comes carne?", "Do you eat meat?"],
+        ["Él come en casa.", "He eats at home."],
+        ["Comemos a las dos.", "We eat at two o'clock."],
+        ["¿Coméis aquí?", "Do you (all) eat here?"],
+        ["Ellas comen pasta.", "They eat pasta."]
+      ]
+    },
+    {
+      "type": "conj",
+      "verb": "vivir",
+      "meaning": "to live",
+      "group": "-ir",
+      "stem": "viv",
+      "endings": ["o", "es", "e", "imos", "ís", "en"],
+      "examples": [
+        ["Vivo en Madrid.", "I live in Madrid."],
+        ["¿Dónde vives?", "Where do you live?"],
+        ["Ella vive con su hermana.", "She lives with her sister."],
+        ["Vivimos en un piso.", "We live in a flat."],
+        ["¿Vivís cerca de aquí?", "Do you (all) live near here?"],
+        ["Viven en España.", "They live in Spain."]
+      ]
+    },
+
+    { "type": "h1", "text": "5. Common regular verbs" },
+    {
+      "type": "p",
+      "text": "All of these follow the patterns above exactly. Practise them aloud with all six persons."
+    },
+    {
+      "type": "verbpairs",
+      "title": "-ar verbs",
+      "items": [
+        ["hablar", "to speak"], ["trabajar", "to work"], ["estudiar", "to study"], ["comprar", "to buy"],
+        ["caminar", "to walk"], ["bailar", "to dance"], ["cantar", "to sing"], ["cocinar", "to cook"],
+        ["escuchar", "to listen to"], ["mirar", "to look at, to watch"], ["necesitar", "to need"], ["viajar", "to travel"],
+        ["llamar", "to call"], ["ayudar", "to help"], ["llegar", "to arrive"], ["buscar", "to look for"]
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "-er verbs",
+      "items": [
+        ["comer", "to eat"], ["beber", "to drink"], ["leer", "to read"], ["aprender", "to learn"],
+        ["correr", "to run"], ["comprender", "to understand"], ["vender", "to sell"], ["responder", "to answer"],
+        ["creer", "to believe, to think"], ["deber", "must, should"]
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "-ir verbs",
+      "items": [
+        ["vivir", "to live"], ["escribir", "to write"], ["abrir", "to open"], ["recibir", "to receive"],
+        ["decidir", "to decide"], ["subir", "to go up, to climb"], ["compartir", "to share"], ["describir", "to describe"],
+        ["permitir", "to allow"], ["asistir", "to attend"]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "warn",
+      "title": "Not in these lists on purpose",
+      "text": "Verbs like <b>ser, estar, ir, tener, hacer, ver</b> and stem-changers like <b>poder, querer, dormir</b> are irregular in the present tense. They are in the next PDF."
+    },
+
+    { "type": "h1", "text": "6. When do you use the present tense?" },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [4.6, 6.6, 5.8],
+      "head": ["Use", "Example", "English"],
+      "rows": [
+        ["Habits and routines", "Trabajo de lunes a viernes.", "I work from Monday to Friday."],
+        ["Facts and permanent situations", "Vivimos en Madrid.", "We live in Madrid."],
+        ["Things happening now", "Ahora estudio.", "I am studying now."],
+        ["Near future", "Mañana trabajo.", "I am working tomorrow."],
+        ["Asking and answering", "¿Hablas inglés? Sí, hablo un poco.", "Do you speak English? Yes, I speak a little."]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "dutch",
+      "title": "Good news for Dutch speakers",
+      "text": "Spanish, like Dutch, often uses the present tense for the near future (<i>Mañana trabajo</i> = Morgen werk ik). Also, one Spanish form covers both English forms: <b>hablo</b> means I speak <i>and</i> I am speaking."
+    },
+    {
+      "type": "verbpairs",
+      "title": "Useful time words",
+      "items": [
+        ["siempre", "always"], ["normalmente", "usually"], ["a menudo", "often"], ["a veces", "sometimes"],
+        ["nunca", "never"], ["todos los días", "every day"], ["cada semana", "every week"], ["los lunes", "on Mondays"]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<i>Siempre bebo agua.</i> — I always drink water.<br/><i>A veces escucho música.</i> — Sometimes I listen to music.<br/><i>Nunca como carne.</i> — I never eat meat."
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "Negatives and questions in one line",
+      "text": "Put <b>no</b> before the verb for a negative: <i>No hablo francés.</i> For a question, put the sentence between ¿ and ? and raise your voice at the end: <i>¿Hablas inglés?</i> Full details come in A1 · PDF 8."
+    },
+
+    { "type": "h1", "text": "7. Common mistakes" },
+    {
+      "type": "mistakes",
+      "rows": [
+        ["Yo hablar español.", "Hablo español.", "Conjugate the verb. The infinitive is not used after a subject."],
+        ["Yo trabajo, yo estudio y yo vivo en Madrid.", "Trabajo, estudio y vivo en Madrid.", "Dutch needs ik/jij every time. Spanish endings already show the person."],
+        ["Vivemos en Sevilla.", "Vivimos en Sevilla.", "Nosotros: -ar = -amos, -er = -emos, -ir = -imos."],
+        ["¿Vosotros comís?", "¿Vosotros coméis?", "Vosotros: -er verbs take -éis. The ending -ís belongs only to -ir verbs (vivís)."],
+        ["Ustedes habláis.", "Ustedes hablan.", "Ustedes (formal plural) uses the ellos/ellas form."],
+        ["Tú trabaja mucho.", "Tú trabajas mucho.", "Tú always ends in -s. Él/ella/usted has no -s."],
+        ["¿Hablas usted inglés?", "¿Habla usted inglés?", "Usted is formal and takes the él/ella form, not the tú form."]
+      ]
+    },
+
+    { "type": "h1", "text": "8. Self-check" },
+    {
+      "type": "p",
+      "text": "Complete each sentence with the correct present-tense form. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "items": [
+        { "q": "______ español.", "hint": "hablar (yo)", "a": "Hablo", "full": "Hablo español." },
+        { "q": "¿Qué ______ por la mañana?", "hint": "comer (tú)", "a": "comes", "full": "¿Qué comes por la mañana?" },
+        { "q": "Ella ______ en Madrid.", "hint": "vivir", "a": "vive", "full": "Ella vive en Madrid." },
+        { "q": "______ en una oficina.", "hint": "trabajar (nosotros)", "a": "Trabajamos", "full": "Trabajamos en una oficina." },
+        { "q": "¿Qué ______?", "hint": "beber (vosotros)", "a": "bebéis", "full": "¿Qué bebéis?" },
+        { "q": "______ correos.", "hint": "escribir (ellos)", "a": "Escriben", "full": "Escriben correos." },
+        { "q": "______ por la tarde.", "hint": "estudiar (yo)", "a": "Estudio", "full": "Estudio por la tarde." },
+        { "q": "¿______ español?", "hint": "aprender (usted)", "a": "Aprende", "full": "¿Aprende español?" },
+        { "q": "______ la puerta.", "hint": "abrir (nosotras)", "a": "Abrimos", "full": "Abrimos la puerta." },
+        { "q": "______ el pan.", "hint": "comprar (vosotros)", "a": "Compráis", "full": "Compráis el pan." },
+        { "q": "Él ______ el periódico.", "hint": "leer", "a": "lee", "full": "Él lee el periódico." },
+        { "q": "______ muy bien.", "hint": "cantar (ellas)", "a": "Cantan", "full": "Cantan muy bien." }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish:</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        { "q": "We live in Spain.", "a": "Vivimos en España." },
+        { "q": "Do you (all, informal) speak English?", "a": "¿Habláis inglés?" },
+        { "q": "I eat fruit every day.", "a": "Como fruta todos los días." },
+        { "q": "She does not work on Sundays.", "a": "No trabaja los domingos." }
+      ]
+    },
+
+    { "type": "pagebreak" },
+    { "type": "answers" }
+  ]
+}

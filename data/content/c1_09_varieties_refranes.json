@@ -1,0 +1,530 @@
+{
+  "meta": {
+    "level": "C1",
+    "section": "Culture",
+    "number": 9,
+    "total_in_level": 10,
+    "title": "Spanish in Spain and in the World",
+    "subtitle": "regional varieties, voseo and ustedes, vocabulary differences, co-official languages and refranes",
+    "footer": "Spanish Learning Program · C1 · Culture · Spanish in the world",
+    "next": "Next: C1 · PDF 10 — Vocabulary and set phrases"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "recognise the main varieties of Spanish in Spain and Latin America",
+        "understand voseo, ustedes, seseo, yeísmo and the main vocabulary differences",
+        "recognise Spanish regional languages and their influence (catalán, gallego, euskera)",
+        "understand common refranes and proverbs, and use them naturally"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Note on the course:</b> all PDFs of this program teach <b>Spain Spanish</b>. This PDF helps you <b>understand</b> other varieties; you do not need to use them yourself."
+    },
+    {
+      "type": "h1",
+      "text": "1. Spanish in Spain"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        3.6,
+        6.4,
+        7.0
+      ],
+      "head": [
+        "Region",
+        "Features",
+        "Examples"
+      ],
+      "rows": [
+        [
+          "Castilian (north, centre)",
+          "reference for standard pronunciation; z, c as /θ/",
+          "cielo, zapato, gracias"
+        ],
+        [
+          "Andalusian",
+          "s aspirated or dropped; seseo / ceceo; d dropped",
+          "ehtá (está), pescao (pescado)"
+        ],
+        [
+          "Canarias",
+          "closer to Latin America: seseo, ustedes",
+          "ustedes vienen"
+        ],
+        [
+          "Catalan area",
+          "Spanish with Catalan loans and syntax",
+          "tengo que ir (vs Catalan haver d'anar)"
+        ],
+        [
+          "Galicia",
+          "Galician influence, intonation",
+          "estar a facer, vir de + inf."
+        ],
+        [
+          "Basque Country",
+          "Basque loans; leísmo common",
+          "le vi (him)"
+        ],
+        [
+          "Madrid",
+          "informal 'madrileñismos'",
+          "chulo, molar, entrañable"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "spain",
+      "title": "Other official languages",
+      "text": "Spain has co-official languages: <b>catalán / valenciano</b> (Catalonia, Valencia, Balearics), <b>gallego</b> (Galicia), <b>euskera</b> (Basque Country, Navarre). You will hear them in signs, TV and everyday life. Learn the basics: <i>bon dia, gràcies</i> (catalán), <i>bos días, grazas</i> (gallego), <i>egun on, eskerrik asko</i> (euskera)."
+    },
+    {
+      "type": "h1",
+      "text": "2. Key grammar and pronunciation differences"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.2,
+        6.0,
+        6.8
+      ],
+      "head": [
+        "Feature",
+        "Spain (standard)",
+        "Latin America / elsewhere"
+      ],
+      "rows": [
+        [
+          "vosotros",
+          "vosotros coméis",
+          "ustedes comen"
+        ],
+        [
+          "voseo",
+          "tú comes",
+          "vos comés (Argentina, Uruguay, Central America)"
+        ],
+        [
+          "seseo",
+          "cinco: z/c sounds like English th",
+          "cinco: z/c sounds like s (nearly all Latin America, Andalusia)"
+        ],
+        [
+          "yeísmo",
+          "calle: ll sometimes differs from y (north, rare)",
+          "calle: ll sounds exactly like y (nearly all)"
+        ],
+        [
+          "present perfect",
+          "Hoy he comido.",
+          "Hoy comí. (often)"
+        ],
+        [
+          "leísmo",
+          "A Juan le vi. (accepted)",
+          "A Juan lo vi."
+        ],
+        [
+          "laísmo",
+          "La dije la verdad. (not standard, avoid)",
+          "(not standard, avoid)"
+        ],
+        [
+          "subjunctive -se form",
+          "hubiese / hubiera",
+          "hubiera (mostly)"
+        ],
+        [
+          "ir a + infinitive",
+          "Voy a comer.",
+          "same"
+        ],
+        [
+          "diminutives",
+          "-ito, -illo",
+          "-ito, -ico, -ingo (regional)"
+        ]
+      ],
+      "latam_ok": true
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "3. Common vocabulary differences"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.4,
+        4.6,
+        4.4,
+        3.6
+      ],
+      "head": [
+        "Spain",
+        "Latin America",
+        "English",
+        "Note"
+      ],
+      "rows": [
+        [
+          "el coche",
+          "el carro / el auto",
+          "car",
+          ""
+        ],
+        [
+          "el ordenador",
+          "la computadora / el computador",
+          "computer",
+          ""
+        ],
+        [
+          "el móvil",
+          "el celular",
+          "mobile phone",
+          ""
+        ],
+        [
+          "el zumo",
+          "el jugo",
+          "juice",
+          ""
+        ],
+        [
+          "la patata",
+          "la papa",
+          "potato",
+          ""
+        ],
+        [
+          "el piso",
+          "el apartamento / el departamento",
+          "flat",
+          ""
+        ],
+        [
+          "conducir",
+          "manejar",
+          "to drive",
+          "manejar = to handle"
+        ],
+        [
+          "coger (el autobús)",
+          "tomar",
+          "to take",
+          "coger is taboo in Argentina, Mexico"
+        ],
+        [
+          "el autobús",
+          "el camión / la guagua / el colectivo",
+          "bus",
+          "very varied"
+        ],
+        [
+          "las gafas",
+          "los lentes",
+          "glasses",
+          ""
+        ],
+        [
+          "la nata",
+          "la crema",
+          "cream",
+          ""
+        ],
+        [
+          "vale",
+          "okay / dale / listo",
+          "OK",
+          ""
+        ],
+        [
+          "el bolígrafo",
+          "la lapicera / el lapicero",
+          "pen",
+          ""
+        ],
+        [
+          "el aparcamiento",
+          "el estacionamiento",
+          "parking",
+          ""
+        ],
+        [
+          "la acera",
+          "la vereda / la banqueta",
+          "pavement",
+          ""
+        ]
+      ],
+      "latam_ok": true
+    },
+    {
+      "type": "callout",
+      "kind": "warn",
+      "title": "Careful with coger",
+      "text": "In Spain <b>coger</b> is neutral (<i>coger el tren</i>). In much of Latin America (Argentina, Mexico) it has a vulgar meaning. When talking to Latin Americans, <b>tomar</b> is safer."
+    },
+    {
+      "type": "h1",
+      "text": "4. Refranes: proverbs"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        6.2,
+        5.6,
+        5.2
+      ],
+      "head": [
+        "Refrán",
+        "Meaning",
+        "English equivalent"
+      ],
+      "rows": [
+        [
+          "A quien madruga, Dios le ayuda.",
+          "early risers get help",
+          "The early bird catches the worm."
+        ],
+        [
+          "Más vale tarde que nunca.",
+          "better late than never",
+          "Better late than never."
+        ],
+        [
+          "Camarón que se duerme, se lo lleva la corriente.",
+          "do not sleep on it",
+          "You snooze, you lose."
+        ],
+        [
+          "En casa del herrero, cuchillo de palo.",
+          "ironic: professionals lack their own tools",
+          "The cobbler's children have no shoes."
+        ],
+        [
+          "No hay mal que por bien no venga.",
+          "every cloud has a silver lining",
+          "Every cloud has a silver lining."
+        ],
+        [
+          "Dime con quién andas y te diré quién eres.",
+          "you are judged by your company",
+          "A man is known by the company he keeps."
+        ],
+        [
+          "Ojos que no ven, corazón que no siente.",
+          "what you do not see does not hurt",
+          "Out of sight, out of mind."
+        ],
+        [
+          "Quien mucho abarca, poco aprieta.",
+          "do not take on too much",
+          "Do not bite off more than you can chew."
+        ],
+        [
+          "A caballo regalado no le mires el diente.",
+          "do not look a gift horse in the mouth",
+          "Do not look a gift horse in the mouth."
+        ],
+        [
+          "Más vale pájaro en mano que ciento volando.",
+          "prefer certainty",
+          "A bird in the hand is worth two in the bush."
+        ],
+        [
+          "El que no arriesga, no gana.",
+          "nothing ventured, nothing gained",
+          "Nothing ventured, nothing gained."
+        ],
+        [
+          "Al mal tiempo, buena cara.",
+          "keep smiling in bad times",
+          "Keep a stiff upper lip."
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "5. Common mistakes"
+    },
+    {
+      "type": "mistakes",
+      "rows": [
+        [
+          "Hablo castellano, no español. (as a rule)",
+          "Both are correct: castellano / español.",
+          "both names are used."
+        ],
+        [
+          "En España decimos ustedes coméis.",
+          "En España decimos vosotros coméis.",
+          "vosotros + vosotros forms."
+        ],
+        [
+          "Never say coger in Latin America.",
+          "Voy a coger / tomar el autobús.",
+          "coger is fine in Spain."
+        ],
+        [
+          "Hoy comí mucho. (in Spain)",
+          "Hoy he comido mucho.",
+          "unfinished period."
+        ],
+        [
+          "Vos tenés (in Spain).",
+          "Tú tienes.",
+          "no voseo in Spain."
+        ],
+        [
+          "Me gustan las papas.",
+          "Me gustan las patatas.",
+          "Spain: patata."
+        ],
+        [
+          "Voy a manejar a Madrid.",
+          "Voy a conducir a Madrid.",
+          "Spain: conducir."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "6. Self-check"
+    },
+    {
+      "type": "p",
+      "text": "Fill in the Spain Spanish word. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Hint"
+      ],
+      "items": [
+        {
+          "q": "En España decimos ______ coméis.",
+          "hint": "you all",
+          "a": "vosotros",
+          "full": "En España decimos vosotros coméis."
+        },
+        {
+          "q": "Voy a ______ el coche a la oficina.",
+          "hint": "drive, Spain (verb)",
+          "a": "conducir",
+          "full": "Voy a conducir el coche a la oficina."
+        },
+        {
+          "q": "Me gusta el ______ de naranja.",
+          "hint": "juice, Spain",
+          "a": "zumo",
+          "full": "Me gusta el zumo de naranja."
+        },
+        {
+          "q": "Mi ______ me suena.",
+          "hint": "phone, Spain word",
+          "a": "móvil",
+          "full": "Mi móvil me suena."
+        },
+        {
+          "q": "Necesito mi ______ para trabajar.",
+          "hint": "computer, Spain word",
+          "a": "ordenador",
+          "full": "Necesito mi ordenador para trabajar."
+        },
+        {
+          "q": "Vivo en un ______ en Madrid.",
+          "hint": "flat, Spain word",
+          "a": "piso",
+          "full": "Vivo en un piso en Madrid."
+        },
+        {
+          "q": "Prefiero las ______ fritas.",
+          "hint": "potatoes, Spain word",
+          "a": "patatas",
+          "full": "Prefiero las patatas fritas."
+        },
+        {
+          "q": "Más ______ tarde que nunca.",
+          "hint": "proverb",
+          "a": "vale",
+          "full": "Más vale tarde que nunca."
+        },
+        {
+          "q": "A quien ______, Dios le ayuda.",
+          "hint": "madrugar: él, present",
+          "a": "madruga",
+          "full": "A quien madruga, Dios le ayuda."
+        },
+        {
+          "q": "Hoy ______ muy tarde.",
+          "hint": "comer: perfect, Spain",
+          "a": "he comido",
+          "full": "Hoy he comido muy tarde."
+        },
+        {
+          "q": "No hay mal que por ______ no venga.",
+          "hint": "good",
+          "a": "bien",
+          "full": "No hay mal que por bien no venga."
+        },
+        {
+          "q": "El que no ______, no gana.",
+          "hint": "arriesgar: él, present",
+          "a": "arriesga",
+          "full": "El que no arriesga, no gana."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish (Spain):</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "You all speak very fast.",
+          "a": "Vosotros habláis muy rápido."
+        },
+        {
+          "q": "I drive to work every day.",
+          "a": "Conduzco al trabajo todos los días."
+        },
+        {
+          "q": "Better late than never.",
+          "a": "Más vale tarde que nunca."
+        },
+        {
+          "q": "I am going to take the bus.",
+          "a": "Voy a coger el autobús."
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

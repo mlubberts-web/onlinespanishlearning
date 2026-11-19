@@ -1,0 +1,695 @@
+{
+  "meta": {
+    "level": "C1",
+    "section": "Writing",
+    "number": 8,
+    "total_in_level": 10,
+    "title": "Spelling, Accents and Punctuation",
+    "subtitle": "accent rules, hiatus, diacritical accents, homophones, spelling trouble spots, punctuation and capitals",
+    "footer": "Spanish Learning Program · C1 · Writing · Spelling and punctuation",
+    "next": "Next: C1 · PDF 9 — Spanish in Spain and in the world"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "place written accents correctly (agudas, llanas, esdrújulas, hiatus)",
+        "use diacritical accents (tú/tu, él/el, más/mas, qué/que, sé/se)",
+        "avoid classic homophone errors (haber/a ver, hay/ahí/ay, sino/si no, porque/por qué)",
+        "punctuate Spanish correctly (¿?, ¡!, commas, raya, capitals)"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "1. Stress and written accents"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.0,
+        6.0,
+        7.0
+      ],
+      "head": [
+        "Type",
+        "Rule",
+        "Examples"
+      ],
+      "rows": [
+        [
+          "aguda (last syllable stressed)",
+          "accent if it ends in vowel, -n or -s",
+          "café, canción, estás; but: hotel, ciudad"
+        ],
+        [
+          "llana (second-to-last stressed)",
+          "accent if it does NOT end in vowel, -n, -s",
+          "árbol, fácil, lápiz; but: casa, joven, crisis"
+        ],
+        [
+          "esdrújula (third-to-last)",
+          "always an accent",
+          "teléfono, médico, rápido, música"
+        ],
+        [
+          "sobresdrújula (fourth-to-last)",
+          "always an accent",
+          "cuéntaselo, dígamelo, llévatelo"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "Quick check",
+      "text": "Say the word, find the stressed syllable, count from the end. <b>Agudas</b> and <b>llanas</b> get an accent only against the normal rule; <b>esdrújulas</b> always do."
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "A word <b>loses</b> or <b>gains</b> an accent when it changes: <i>joven / jóvenes, examen / exámenes, canción / canciones, régimen / regímenes</i>.",
+        "<b>Compound adverbs in -mente</b> keep the accent of the adjective: <i>rápido: rápidamente, fácil: fácilmente</i>."
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "2. Diphthongs and hiatus"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.6,
+        6.2,
+        6.2
+      ],
+      "head": [
+        "Pattern",
+        "Rule",
+        "Examples"
+      ],
+      "rows": [
+        [
+          "strong + weak vowel (a, e, o + i, u)",
+          "diphthong, one syllable",
+          "bailar, cuidado, causa, aire"
+        ],
+        [
+          "weak + weak (i, u)",
+          "diphthong",
+          "ciudad, fui, cuidado"
+        ],
+        [
+          "strong + strong (a, e, o)",
+          "hiatus, two syllables",
+          "teatro, océano, poeta, aéreo"
+        ],
+        [
+          "stressed weak + strong",
+          "hiatus: accent on the weak vowel",
+          "día, país, río, maíz, baúl, Raúl"
+        ],
+        [
+          "strong + stressed weak",
+          "hiatus: accent",
+          "oído, reír, freír, increíble"
+        ],
+        [
+          "ui / iu",
+          "diphthong, accent as usual",
+          "construí (agudas), cuídate, ruido"
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "3. Diacritical accents"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        3.4,
+        4.6,
+        3.4,
+        5.6
+      ],
+      "head": [
+        "With accent",
+        "Meaning",
+        "Without accent",
+        "Meaning"
+      ],
+      "rows": [
+        [
+          "tú",
+          "you (subject)",
+          "tu",
+          "your"
+        ],
+        [
+          "él",
+          "he",
+          "el",
+          "the"
+        ],
+        [
+          "mí",
+          "me (after prep.)",
+          "mi",
+          "my"
+        ],
+        [
+          "sí",
+          "yes; himself",
+          "si",
+          "if"
+        ],
+        [
+          "té",
+          "tea",
+          "te",
+          "you (object)"
+        ],
+        [
+          "sé",
+          "I know; be (imperative)",
+          "se",
+          "himself, to him"
+        ],
+        [
+          "dé",
+          "give (subjunctive)",
+          "de",
+          "of, from"
+        ],
+        [
+          "más",
+          "more",
+          "mas",
+          "but (literary)"
+        ],
+        [
+          "aún (still)",
+          "aún no ha llegado",
+          "aun (even)",
+          "aun así, aun siendo"
+        ],
+        [
+          "qué, quién, cuál, cómo, cuándo, dónde, cuánto",
+          "questions, exclamations, indirect questions",
+          "que, quien, cual, como, cuando, donde, cuanto",
+          "relatives, conjunctions"
+        ]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<b>Solo</b> (alone / only) and <b>este, ese, aquel</b> (demonstratives) no longer need an accent (RAE 2010), even if the sentence is ambiguous.",
+        "<b>Indirect questions</b> keep the accent: <i>No sé qué quiere. Dime cómo se llama. Pregunta dónde vive.</i>",
+        "<b>Por qué / porque / porqué</b> as in B1: <i>¿Por qué? Porque ... El porqué.</i>"
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "4. Homophones and look-alikes"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.6,
+        6.2,
+        6.2
+      ],
+      "head": [
+        "Pair",
+        "Use",
+        "Example"
+      ],
+      "rows": [
+        [
+          "haber / a ver",
+          "to have (aux.) / look (a + ver)",
+          "Ha de haber un error. A ver qué pasa."
+        ],
+        [
+          "hay / ahí / ay",
+          "there is / there / oh",
+          "Hay un libro ahí. ¡Ay!"
+        ],
+        [
+          "echo / hecho",
+          "I throw / done, fact",
+          "Lo echo al cubo. Es un hecho."
+        ],
+        [
+          "hacia / hacía",
+          "towards / he did (imperfect)",
+          "Voy hacia casa. Hacía frío."
+        ],
+        [
+          "vaya / valla / baya",
+          "go (subj.) / fence / berry",
+          "Que vaya. La valla. Una baya."
+        ],
+        [
+          "tuvo / tubo",
+          "he had / pipe",
+          "Tuvo suerte. Un tubo roto."
+        ],
+        [
+          "botar / votar",
+          "to bounce / to vote",
+          "Botar la pelota. Votar al presidente."
+        ],
+        [
+          "sino / si no",
+          "but, rather / if not",
+          "No es X sino Y. Si no vienes, ..."
+        ],
+        [
+          "también / tan bien",
+          "also / so well",
+          "Yo también. Canta tan bien."
+        ],
+        [
+          "tampoco / tan poco",
+          "neither / so little",
+          "Yo tampoco. Gana tan poco."
+        ],
+        [
+          "con que / conque / con qué",
+          "with which / so then / with what",
+          "El lápiz con que escribo. ¿Con qué?"
+        ],
+        [
+          "asimismo / así mismo",
+          "likewise / in that same way",
+          "Asimismo, cabe destacar ..."
+        ],
+        [
+          "a / ah / ha",
+          "to / oh / has",
+          "Voy a casa. ¡Ah! Ha llegado."
+        ],
+        [
+          "ola / hola",
+          "wave / hello",
+          "Una ola grande. ¡Hola!"
+        ],
+        [
+          "rebelar / revelar",
+          "to rebel / to reveal",
+          "Se rebeló. Reveló el secreto."
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "5. Spelling trouble spots"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.6,
+        6.2,
+        6.2
+      ],
+      "head": [
+        "Issue",
+        "Rule",
+        "Examples"
+      ],
+      "rows": [
+        [
+          "b / v",
+          "same sound; learn the word",
+          "vaca, baca; haber, haver (wrong)"
+        ],
+        [
+          "g / j",
+          "ge, gi and je, ji sound the same: learn the word",
+          "gente, gigante; jefe, jirafa"
+        ],
+        [
+          "gu / gü",
+          "gue, gui = /g/; güe, güi = /gw/",
+          "guitarra, pingüino, vergüenza"
+        ],
+        [
+          "c / qu / k",
+          "ca, co, cu; que, qui",
+          "casa, queso, kilo"
+        ],
+        [
+          "c / z",
+          "za, zo, zu; ce, ci",
+          "zapato, cena, cinco"
+        ],
+        [
+          "-cción vs -ción",
+          "direct stem in -ct- keeps cc",
+          "acción, dirección, instrucción"
+        ],
+        [
+          "mp / mb / nv",
+          "m before p and b",
+          "campo, cambio, envío, invierno"
+        ],
+        [
+          "h silent",
+          "no sound; check the word",
+          "hablar, hacer, hoy, huevo, ahora"
+        ],
+        [
+          "ll / y",
+          "differs by region, spelling by word",
+          "llave, yo, calle, playa"
+        ],
+        [
+          "x / s",
+          "x = /ks/ or /s/",
+          "examen, extra, explicar, sexto"
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "6. Punctuation"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.0,
+        6.2,
+        5.8
+      ],
+      "head": [
+        "Mark",
+        "Rule",
+        "Example"
+      ],
+      "rows": [
+        [
+          "¿ ... ?",
+          "opening and closing",
+          "¿Qué hora es?"
+        ],
+        [
+          "¡ ... !",
+          "opening and closing",
+          "¡Qué bien!"
+        ],
+        [
+          "comma (vocative)",
+          "before and after",
+          "Ana, ven aquí. Ven, Ana, ahora."
+        ],
+        [
+          "comma (apposition)",
+          "around it",
+          "Madrid, la capital, es grande."
+        ],
+        [
+          "comma (list)",
+          "between items, not before y",
+          "Compré pan, leche y huevos."
+        ],
+        [
+          "comma (subordinate first)",
+          "after it",
+          "Cuando llegues, llámame."
+        ],
+        [
+          "comma (connector)",
+          "after it",
+          "Sin embargo, no vino."
+        ],
+        [
+          "no comma",
+          "never between subject and verb",
+          "Mi hermano vive en Madrid."
+        ],
+        [
+          "semicolon",
+          "between long related clauses",
+          "Unos viven; otros sobreviven."
+        ],
+        [
+          "colon",
+          "after greetings, before lists, quotes",
+          "Querida Ana: te escribo ..."
+        ],
+        [
+          "raya (—)",
+          "for dialogue",
+          "—¿Vienes? —No."
+        ],
+        [
+          "comillas (« » or \" \")",
+          "quotations, titles",
+          "«No lo sé», dijo."
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Capitals and numbers"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.0,
+        6.2,
+        5.8
+      ],
+      "head": [
+        "Rule",
+        "Spanish",
+        "English"
+      ],
+      "rows": [
+        [
+          "Days, months, seasons: lower case",
+          "lunes, enero, verano",
+          "Monday, January, summer"
+        ],
+        [
+          "Languages and nationalities: lower case",
+          "el español, un holandés",
+          "Spanish, a Dutchman"
+        ],
+        [
+          "Titles: first word capital",
+          "Cien años de soledad",
+          "One Hundred Years of Solitude"
+        ],
+        [
+          "Decimal comma",
+          "3,5 (tres coma cinco)",
+          "3.5"
+        ],
+        [
+          "Thousands: space (or period)",
+          "10 000 or 10.000",
+          "10,000"
+        ],
+        [
+          "Dates",
+          "30 de octubre de 2026 / 30/10/2026",
+          "30 October 2026"
+        ],
+        [
+          "Time",
+          "las 9:30 / las 21:30 h",
+          "9:30 / 21:30"
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "7. Common mistakes"
+    },
+    {
+      "type": "mistakes",
+      "rows": [
+        [
+          "Tu eres amable.",
+          "Tú eres amable.",
+          "tú = you."
+        ],
+        [
+          "El tiene un coche.",
+          "Él tiene un coche.",
+          "él = he."
+        ],
+        [
+          "Dime cuando llegas.",
+          "Dime cuándo llegas.",
+          "indirect question: cuándo."
+        ],
+        [
+          "Que hora es?",
+          "¿Qué hora es?",
+          "opening ¿ and accent."
+        ],
+        [
+          "Haber qué pasa.",
+          "A ver qué pasa.",
+          "a ver (look)."
+        ],
+        [
+          "No es caro si no barato.",
+          "No es caro sino barato.",
+          "sino = but."
+        ],
+        [
+          "Si no vienes, sino me enfado.",
+          "Si no vienes, me enfado.",
+          "si no = if not."
+        ],
+        [
+          "Mi hermano, vive en Madrid.",
+          "Mi hermano vive en Madrid.",
+          "no comma subject + verb."
+        ],
+        [
+          "El Lunes de Enero.",
+          "El lunes de enero.",
+          "lower case."
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "8. Self-check"
+    },
+    {
+      "type": "p",
+      "text": "Fill in the correct form with or without accent. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Hint"
+      ],
+      "items": [
+        {
+          "q": "______ eres mi mejor amigo.",
+          "hint": "you (subject)",
+          "a": "Tú",
+          "full": "Tú eres mi mejor amigo."
+        },
+        {
+          "q": "Es ______ casa.",
+          "hint": "your - possessive",
+          "a": "tu",
+          "full": "Es tu casa."
+        },
+        {
+          "q": "No ______ qué quiere.",
+          "hint": "I know - verb",
+          "a": "sé",
+          "full": "No sé qué quiere."
+        },
+        {
+          "q": "Dime ______ te llamas.",
+          "hint": "how - interrogative",
+          "a": "cómo",
+          "full": "Dime cómo te llamas."
+        },
+        {
+          "q": "Quiero ______ té.",
+          "hint": "a (article)",
+          "a": "un",
+          "full": "Quiero un té."
+        },
+        {
+          "q": "______ no ha llegado.",
+          "hint": "still - temporal",
+          "a": "Aún",
+          "full": "Aún no ha llegado."
+        },
+        {
+          "q": "Voy ______ ver qué pasa.",
+          "hint": "a / ha",
+          "a": "a",
+          "full": "Voy a ver qué pasa."
+        },
+        {
+          "q": "No es rojo, ______ azul.",
+          "hint": "but rather",
+          "a": "sino",
+          "full": "No es rojo, sino azul."
+        },
+        {
+          "q": "______ vienes, me voy.",
+          "hint": "if not - two words",
+          "a": "Si no",
+          "full": "Si no vienes, me voy."
+        },
+        {
+          "q": "Yo ______ voy.",
+          "hint": "neither - one word",
+          "a": "tampoco",
+          "full": "Yo tampoco voy."
+        },
+        {
+          "q": "La ______ del jardín es alta.",
+          "hint": "fence - valla / vaya / baya",
+          "a": "valla",
+          "full": "La valla del jardín es alta."
+        },
+        {
+          "q": "______ mucho frío ayer.",
+          "hint": "it was - hacer, imperfect",
+          "a": "Hacía",
+          "full": "Hacía mucho frío ayer."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish:</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "What time is it?",
+          "a": "¿Qué hora es?"
+        },
+        {
+          "q": "I do not know why he did not come.",
+          "a": "No sé por qué no vino."
+        },
+        {
+          "q": "Next Monday in January.",
+          "a": "El próximo lunes de enero."
+        },
+        {
+          "q": "It is not expensive but cheap.",
+          "a": "No es caro, sino barato."
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

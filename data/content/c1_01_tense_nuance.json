@@ -1,0 +1,624 @@
+{
+  "meta": {
+    "level": "C1",
+    "section": "Grammar",
+    "number": 1,
+    "total_in_level": 10,
+    "title": "Tense Nuance and Narrative",
+    "subtitle": "probability and rumour, politeness and the imperfect, verbs that change meaning, perfect vs preterite, literary tenses",
+    "footer": "Spanish Learning Program · C1 · Grammar · Tense nuance",
+    "next": "Next: C1 · PDF 2 — Subjunctive vs indicative: meaning contrasts"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "use future and conditional to express probability and rumour",
+        "use the imperfect for politeness, surprise and narrative effect",
+        "choose between preterite, imperfect and perfect with verbs that change meaning (saber, conocer, querer, poder)",
+        "recognise literary and legal tenses (pretérito anterior, futuro de subjuntivo)"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "1. Probability and conjecture"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.0,
+        6.2,
+        5.8
+      ],
+      "head": [
+        "Tense",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "future (present guess)",
+          "Serán las tres. ¿Dónde estará Ana?",
+          "It must be about three. Where can Ana be?"
+        ],
+        [
+          "future perfect (past guess)",
+          "Habrá llegado ya. Se habrá dormido.",
+          "He has probably arrived. He must have fallen asleep."
+        ],
+        [
+          "conditional (past guess)",
+          "Serían las tres cuando llamó.",
+          "It must have been about three when he called."
+        ],
+        [
+          "conditional perfect (before-past guess)",
+          "Habría salido ya cuando llegué.",
+          "He had probably left already when I arrived."
+        ],
+        [
+          "future for concession",
+          "Será caro, pero vale la pena.",
+          "It may be expensive, but it is worth it."
+        ],
+        [
+          "future for surprise",
+          "¡Serás tonto!",
+          "You really are silly!"
+        ],
+        [
+          "deber de / seguramente",
+          "Debe de estar enfermo. Seguramente llega tarde.",
+          "He must be ill. He is probably late."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "Guess vs plan",
+      "text": "<b>Estará en casa</b> (guess, now) vs <b>Estará en casa mañana</b> (prediction). Context decides. In the past the conditional takes over: <i>Estaría en casa</i> (I guess he was at home)."
+    },
+    {
+      "type": "h1",
+      "text": "2. Imperfect for politeness, surprise and distance"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.0,
+        6.2,
+        5.8
+      ],
+      "head": [
+        "Use",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "Polite request",
+          "Quería pedirle un favor.",
+          "I wanted to ask you a favour."
+        ],
+        [
+          "Polite question",
+          "¿Qué desea? / ¿Qué deseaba?",
+          "What would you like?"
+        ],
+        [
+          "Message or purpose",
+          "Venía a decirte que hay reunión.",
+          "I came to tell you there is a meeting."
+        ],
+        [
+          "Surprise at what was true",
+          "¡Pues eras tú! ¿Aquí estabas?",
+          "So it was you! You were here all along?"
+        ],
+        [
+          "Hypothetical (spoken)",
+          "Si tenía dinero, me lo compraba.",
+          "If I had money, I would buy it."
+        ],
+        [
+          "Almost happened",
+          "Por poco me caía.",
+          "I almost fell."
+        ],
+        [
+          "Imminent in past",
+          "Iba a salir cuando llamó.",
+          "I was going to leave when he called."
+        ]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "The <b>imperfect for the conditional</b> (<i>Si tenía dinero, me lo compraba</i>) is colloquial. Use the standard form in writing: <i>Si tuviera dinero, me lo compraría.</i>",
+        "<b>Por poco / casi + present or imperfect</b> expresses a near miss: <i>Casi pierdo el tren. Por poco me caí.</i>"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "3. Verbs that change meaning in the past"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        3.4,
+        4.6,
+        4.6,
+        4.4
+      ],
+      "head": [
+        "Verb",
+        "Imperfect",
+        "Preterite",
+        "English (preterite)"
+      ],
+      "rows": [
+        [
+          "saber",
+          "Sabía la verdad. (I knew)",
+          "Supe la verdad. (I found out)",
+          "found out"
+        ],
+        [
+          "conocer",
+          "Conocía a Ana. (I knew her)",
+          "Conocí a Ana. (I met her)",
+          "met"
+        ],
+        [
+          "querer",
+          "Quería ir. (I wanted to)",
+          "Quise ir. (I tried to)",
+          "tried; (no quise) refused"
+        ],
+        [
+          "poder",
+          "Podía salir. (I was able)",
+          "Pude salir. (I managed to)",
+          "managed to"
+        ],
+        [
+          "tener",
+          "Tenía un hijo. (I had)",
+          "Tuve un hijo. (I gave birth to / got)",
+          "got, had (event)"
+        ],
+        [
+          "haber",
+          "Había mucha gente.",
+          "Hubo un accidente.",
+          "there was (event)"
+        ],
+        [
+          "costar",
+          "Costaba diez euros.",
+          "Costó trabajo.",
+          "cost (completed)"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "dutch",
+      "title": "Dutch: ik wist het / ik kwam het te weten",
+      "text": "Dutch uses different words; Spanish uses the <b>tense</b>. <i>Lo supe ayer</i> = ik heb het gisteren gehoord / ontdekt. <i>No quise ir</i> = ik wilde echt niet gaan (and I did not). <i>No pude ir</i> = ik kon niet gaan (and I did not)."
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "4. Present perfect, preterite and time words"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.0,
+        6.2,
+        5.8
+      ],
+      "head": [
+        "Time frame",
+        "Example",
+        "Note"
+      ],
+      "rows": [
+        [
+          "Unfinished period",
+          "Hoy he comido tarde. Este año he viajado mucho.",
+          "Spain: perfect"
+        ],
+        [
+          "Finished period",
+          "Ayer comí tarde. El año pasado viajé mucho.",
+          "preterite"
+        ],
+        [
+          "Recent past (Spain)",
+          "Hace un momento ha llamado Ana.",
+          "perfect, relevance now"
+        ],
+        [
+          "No time word",
+          "Ya lo he hecho. / Ya lo hice.",
+          "both are used"
+        ],
+        [
+          "Present relevance",
+          "He perdido las llaves.",
+          "keys still lost"
+        ],
+        [
+          "Biography",
+          "Nació en 1990 y estudió en Madrid.",
+          "preterite"
+        ],
+        [
+          "Experience",
+          "¿Has estado alguna vez en Perú?",
+          "ever (up to now)"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "spain",
+      "title": "Spain vs Latin America",
+      "text": "In Spain the <b>present perfect</b> covers anything connected to the present: <i>Esta mañana he desayunado fuerte.</i> In much of Latin America the preterite replaces it: <i>Esta mañana desayuné fuerte.</i>"
+    },
+    {
+      "type": "h1",
+      "text": "5. Narrative present and journalistic conditional"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.0,
+        6.2,
+        5.8
+      ],
+      "head": [
+        "Use",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "Historical present",
+          "En 1492 Colón llega a América.",
+          "In 1492 Columbus reaches America."
+        ],
+        [
+          "Vivid narration",
+          "Voy andando y, de repente, veo a Luis.",
+          "I am walking and suddenly I see Luis."
+        ],
+        [
+          "Headline present",
+          "El Gobierno aprueba la ley.",
+          "The government approves the law."
+        ],
+        [
+          "Rumour (conditional)",
+          "El presidente dimitiría mañana.",
+          "The president would reportedly resign tomorrow."
+        ],
+        [
+          "Rumour (perfect cond.)",
+          "Habría habido cuatro heridos.",
+          "There were reportedly four injured."
+        ],
+        [
+          "Reported source",
+          "Según fuentes, ha muerto.",
+          "According to sources, he has died."
+        ],
+        [
+          "Future of narrative",
+          "Años después sería ministro.",
+          "Years later he would be a minister."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "warn",
+      "title": "Journalistic conditional",
+      "text": "The <b>conditional of rumour</b> marks news that is not confirmed. It is common in Spanish news but avoided in exam essays and formal reports."
+    },
+    {
+      "type": "h1",
+      "text": "6. Literary and legal tenses"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.6,
+        6.2,
+        6.2
+      ],
+      "head": [
+        "Tense",
+        "Form",
+        "Example"
+      ],
+      "rows": [
+        [
+          "pretérito anterior",
+          "hubo + participle",
+          "Apenas hubo llegado, se marchó."
+        ],
+        [
+          "pretérito anterior",
+          "hubo + participle",
+          "Cuando hubieron terminado, salieron."
+        ],
+        [
+          "futuro de subjuntivo",
+          "-re, -res, -re, -remos, -reis, -ren",
+          "Si no hubiere acuerdo, ..."
+        ],
+        [
+          "futuro de subjuntivo (proverb)",
+          "fueres, vieres",
+          "Adonde fueres, haz lo que vieres."
+        ],
+        [
+          "futuro perfecto de subjuntivo",
+          "hubiere + participle",
+          "Quien lo hubiere visto, que avise."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        3.4,
+        3.4,
+        3.4,
+        3.4,
+        3.4
+      ],
+      "head": [
+        "",
+        "hablar",
+        "comer",
+        "ser",
+        "tener"
+      ],
+      "rows": [
+        [
+          "yo / él",
+          "hablare",
+          "comiere",
+          "fuere",
+          "tuviere"
+        ],
+        [
+          "tú",
+          "hablares",
+          "comieres",
+          "fueres",
+          "tuvieres"
+        ],
+        [
+          "nosotros",
+          "habláremos",
+          "comiéremos",
+          "fuéremos",
+          "tuviéremos"
+        ],
+        [
+          "vosotros",
+          "hablareis",
+          "comiereis",
+          "fuereis",
+          "tuviereis"
+        ],
+        [
+          "ellos",
+          "hablaren",
+          "comieren",
+          "fueren",
+          "tuvieren"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "You only need to <b>recognise</b> these tenses (legal texts, literature, proverbs). In normal Spanish the present subjunctive or the imperfect takes their place."
+    },
+    {
+      "type": "h1",
+      "text": "7. Common mistakes"
+    },
+    {
+      "type": "mistakes",
+      "rows": [
+        [
+          "Ayer he comido tarde.",
+          "Ayer comí tarde.",
+          "Finished time word: preterite."
+        ],
+        [
+          "Esta mañana comí tarde. (in Spain)",
+          "Esta mañana he comido tarde.",
+          "Unfinished period: perfect."
+        ],
+        [
+          "Conocía a Ana ayer.",
+          "Conocí a Ana ayer.",
+          "met: preterite."
+        ],
+        [
+          "Ayer sabía la noticia.",
+          "Ayer supe la noticia.",
+          "found out: preterite."
+        ],
+        [
+          "Estará las tres.",
+          "Serán las tres.",
+          "Time uses ser."
+        ],
+        [
+          "Habrá sido las tres.",
+          "Serían las tres.",
+          "Past guess: conditional."
+        ],
+        [
+          "Quise saber la verdad (I wanted to know).",
+          "Quería saber la verdad.",
+          "quise = I tried."
+        ],
+        [
+          "Si tendría dinero, ...",
+          "Si tuviera dinero, ...",
+          "No conditional after si."
+        ],
+        [
+          "Apenas llegó, hubo salido.",
+          "Apenas hubo llegado, salió.",
+          "pretérito anterior: first action."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "8. Self-check"
+    },
+    {
+      "type": "p",
+      "text": "Fill in the correct form. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Hint"
+      ],
+      "items": [
+        {
+          "q": "______ las tres ahora.",
+          "hint": "ser: future of probability",
+          "a": "Serán",
+          "full": "Serán las tres ahora."
+        },
+        {
+          "q": "Ana ______ llegado ya.",
+          "hint": "haber: future perfect",
+          "a": "habrá",
+          "full": "Ana habrá llegado ya."
+        },
+        {
+          "q": "______ las tres cuando llamó.",
+          "hint": "ser: conditional of probability",
+          "a": "Serían",
+          "full": "Serían las tres cuando llamó."
+        },
+        {
+          "q": "Ayer ______ la verdad.",
+          "hint": "saber: found out, yo",
+          "a": "supe",
+          "full": "Ayer supe la verdad."
+        },
+        {
+          "q": "El año pasado ______ a Ana.",
+          "hint": "conocer: met, yo",
+          "a": "conocí",
+          "full": "El año pasado conocí a Ana."
+        },
+        {
+          "q": "______ pedirle un favor.",
+          "hint": "querer: polite imperfect",
+          "a": "Quería",
+          "full": "Quería pedirle un favor."
+        },
+        {
+          "q": "Hoy ______ muchísimo.",
+          "hint": "trabajar: yo, present perfect",
+          "a": "he trabajado",
+          "full": "Hoy he trabajado muchísimo."
+        },
+        {
+          "q": "El presidente ______ mañana.",
+          "hint": "dimitir: rumour conditional",
+          "a": "dimitiría",
+          "full": "El presidente dimitiría mañana."
+        },
+        {
+          "q": "Apenas ______ llegado, se marchó.",
+          "hint": "haber: pretérito anterior, él",
+          "a": "hubo",
+          "full": "Apenas hubo llegado, se marchó."
+        },
+        {
+          "q": "No ______ ir, pero al final fui.",
+          "hint": "querer: wanted, yo",
+          "a": "quería",
+          "full": "No quería ir, pero al final fui."
+        },
+        {
+          "q": "Por poco ______.",
+          "hint": "caerse: yo, present",
+          "a": "me caigo",
+          "full": "Por poco me caigo."
+        },
+        {
+          "q": "Esta mañana ______ café.",
+          "hint": "tomar: yo, perfect (Spain)",
+          "a": "he tomado",
+          "full": "Esta mañana he tomado café."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish:</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "He must be ill.",
+          "a": "Debe de estar enfermo. / Estará enfermo."
+        },
+        {
+          "q": "I met Ana last year.",
+          "a": "Conocí a Ana el año pasado."
+        },
+        {
+          "q": "I wanted to ask you a favour.",
+          "a": "Quería pedirte un favor."
+        },
+        {
+          "q": "Apparently the president will resign tomorrow.",
+          "a": "El presidente dimitiría mañana."
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

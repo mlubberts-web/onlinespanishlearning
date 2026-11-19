@@ -1,0 +1,651 @@
+{
+  "meta": {
+    "level": "B1",
+    "section": "Grammar",
+    "number": 7,
+    "total_in_level": 10,
+    "title": "If-clauses and Reported Speech",
+    "subtitle": "real and unreal conditions, the imperfect subjunctive, and reporting statements, questions and orders",
+    "footer": "Spanish Learning Program · B1 · Grammar · If-clauses and reported speech",
+    "next": "Next: B1 · PDF 8 — ser/estar and verbs of change"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "make real conditions with si + present (Si llueve, me quedo en casa)",
+        "make unreal or unlikely conditions with si + imperfect subjunctive (Si tuviera dinero, viajaría)",
+        "report what someone said, asked or ordered (Dijo que vendría)",
+        "shift tenses, time words and pronouns correctly in reported speech"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "1. Real conditions: si + present"
+    },
+    {
+      "type": "p",
+      "text": "When the condition is <b>possible or likely</b>, use <b>si + present indicative</b>. The result can be present, future or imperative."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.6,
+        6.2,
+        5.2
+      ],
+      "head": [
+        "Pattern",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "si + present, present",
+          "Si llueve, me quedo en casa.",
+          "If it rains, I stay at home."
+        ],
+        [
+          "si + present, future",
+          "Si estudias, aprobarás el examen.",
+          "If you study, you will pass the exam."
+        ],
+        [
+          "si + present, imperative",
+          "Si tienes sed, bebe agua.",
+          "If you are thirsty, drink water."
+        ],
+        [
+          "si + present, ir a + inf.",
+          "Si no te das prisa, vas a llegar tarde.",
+          "If you do not hurry, you are going to be late."
+        ],
+        [
+          "si + present perfect, future",
+          "Si no ha llegado, lo llamaré.",
+          "If he has not arrived, I will call him."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "warn",
+      "title": "Never a future after si",
+      "text": "After <b>si</b> (if) you use the <b>present</b>, never the future: <i>Si tengo tiempo, iré</i>, not <i>Si tendré tiempo, iré</i>. (<i>Me pregunto si vendrá</i> is different: here si means \"whether\".)"
+    },
+    {
+      "type": "callout",
+      "kind": "dutch",
+      "title": "Same as Dutch",
+      "text": "Dutch <i>als het regent, blijf ik thuis</i> works exactly the same. The difference is only the future: Dutch also avoids <i>als ik zal komen</i>."
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "2. The imperfect subjunctive (forms)"
+    },
+    {
+      "type": "p",
+      "text": "Take the <b>ellos form of the preterite</b>, remove <b>-ron</b>, and add the endings below. This works for every verb, regular or irregular."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        3.4,
+        2.8,
+        2.8,
+        2.8,
+        2.8,
+        2.4
+      ],
+      "head": [
+        "",
+        "hablar",
+        "comer",
+        "vivir",
+        "ser / ir",
+        "tener"
+      ],
+      "rows": [
+        [
+          "yo",
+          "hablara",
+          "comiera",
+          "viviera",
+          "fuera",
+          "tuviera"
+        ],
+        [
+          "tú",
+          "hablaras",
+          "comieras",
+          "vivieras",
+          "fueras",
+          "tuvieras"
+        ],
+        [
+          "él / ella / usted",
+          "hablara",
+          "comiera",
+          "viviera",
+          "fuera",
+          "tuviera"
+        ],
+        [
+          "nosotros",
+          "habláramos",
+          "comiéramos",
+          "viviéramos",
+          "fuéramos",
+          "tuviéramos"
+        ],
+        [
+          "vosotros",
+          "hablarais",
+          "comierais",
+          "vivierais",
+          "fuerais",
+          "tuvierais"
+        ],
+        [
+          "ellos / ellas / ustedes",
+          "hablaran",
+          "comieran",
+          "vivieran",
+          "fueran",
+          "tuvieran"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.2,
+        4.4,
+        4.2,
+        4.2
+      ],
+      "head": [
+        "Infinitive",
+        "Preterite (ellos)",
+        "Stem",
+        "yo form"
+      ],
+      "rows": [
+        [
+          "hacer",
+          "hicieron",
+          "hicie-",
+          "hiciera"
+        ],
+        [
+          "poder",
+          "pudieron",
+          "pudie-",
+          "pudiera"
+        ],
+        [
+          "querer",
+          "quisieron",
+          "quisie-",
+          "quisiera"
+        ],
+        [
+          "estar",
+          "estuvieron",
+          "estuvie-",
+          "estuviera"
+        ],
+        [
+          "decir",
+          "dijeron",
+          "dije-",
+          "dijera"
+        ],
+        [
+          "saber",
+          "supieron",
+          "supie-",
+          "supiera"
+        ],
+        [
+          "venir",
+          "vinieron",
+          "vinie-",
+          "viniera"
+        ],
+        [
+          "poner",
+          "pusieron",
+          "pusie-",
+          "pusiera"
+        ]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Endings: <b>-ra, -ras, -ra, -ramos, -rais, -ran</b>. The <b>nosotros</b> form always has an accent on the vowel before -ramos: <i>habláramos, tuviéramos</i>.",
+        "Verbs with a <b>j</b> in the preterite (decir, traer, conducir) drop the i: <i>dijeron</i> gives <i>dijera</i>, not <i>dijiera</i>."
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "3. Unlikely or unreal conditions"
+    },
+    {
+      "type": "p",
+      "text": "For things that are <b>unlikely, imaginary or contrary to fact</b> use <b>si + imperfect subjunctive</b>, and the <b>conditional</b> in the result (see B1 PDF 1)."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.6,
+        6.2,
+        5.2
+      ],
+      "head": [
+        "Situation",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "Imaginary",
+          "Si tuviera dinero, viajaría por el mundo.",
+          "If I had money, I would travel the world."
+        ],
+        [
+          "Unlikely",
+          "Si ganara la lotería, compraría una casa.",
+          "If I won the lottery, I would buy a house."
+        ],
+        [
+          "Contrary to fact",
+          "Si fuera tú, hablaría con ella.",
+          "If I were you, I would talk to her."
+        ],
+        [
+          "Polite request",
+          "Si pudieras ayudarme, te lo agradecería.",
+          "If you could help me, I would be grateful."
+        ],
+        [
+          "Ask for advice",
+          "¿Qué harías si estuvieras en mi lugar?",
+          "What would you do if you were in my place?"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "warn",
+      "title": "Not the conditional after si",
+      "text": "The <b>si</b> clause never takes the conditional: <i>Si tuviera tiempo, iría</i>, not <i>Si tendría tiempo, iría</i>. Dutch speakers often make this mistake because they think of <i>zou</i> twice (<i>als ik tijd zou hebben, zou ik gaan</i>)."
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "Useful with quisiera",
+      "text": "<b>Quisiera</b> (imperfect subjunctive of querer) is a polite \"I would like\": <i>Quisiera una mesa para dos.</i> <b>Pudiera</b> and <b>debiera</b> are also used for politeness."
+    },
+    {
+      "type": "p",
+      "text": "<b>como si</b> (as if) always takes the imperfect subjunctive: <i>Habla como si fuera el jefe.</i> (He talks as if he were the boss.)"
+    },
+    {
+      "type": "h1",
+      "text": "4. Reported speech: statements"
+    },
+    {
+      "type": "p",
+      "text": "When the introducing verb is <b>present</b> (dice que), nothing changes except pronouns. When it is a <b>past tense</b> (dijo que), the tense usually shifts back."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.0,
+        6.4,
+        6.6
+      ],
+      "head": [
+        "Direct speech",
+        "Reported (dijo que ...)",
+        "English"
+      ],
+      "rows": [
+        [
+          "\"Tengo hambre.\" (present)",
+          "Dijo que tenía hambre. (imperfect)",
+          "He said he was hungry."
+        ],
+        [
+          "\"Voy al cine.\" (present)",
+          "Dijo que iba al cine.",
+          "She said she was going to the cinema."
+        ],
+        [
+          "\"Compré un coche.\" (preterite)",
+          "Dijo que había comprado un coche. (past perfect)",
+          "He said he had bought a car."
+        ],
+        [
+          "\"He terminado.\" (present perfect)",
+          "Dijo que había terminado.",
+          "She said she had finished."
+        ],
+        [
+          "\"Iré mañana.\" (future)",
+          "Dijo que iría al día siguiente. (conditional)",
+          "He said he would go the next day."
+        ],
+        [
+          "\"Estaba cansado.\" (imperfect)",
+          "Dijo que estaba cansado. (no change)",
+          "He said he was tired."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "Shift summary",
+      "bullets": [
+        "present to <b>imperfect</b>",
+        "preterite / present perfect to <b>past perfect</b> (había + participle)",
+        "future to <b>conditional</b>",
+        "imperfect stays <b>imperfect</b>"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Time and place words</b> shift too, when the reporting happens at a different moment:"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        3.6,
+        4.4,
+        3.6,
+        5.4
+      ],
+      "head": [
+        "Direct",
+        "Reported",
+        "Direct",
+        "Reported"
+      ],
+      "rows": [
+        [
+          "hoy",
+          "ese día",
+          "aquí",
+          "allí"
+        ],
+        [
+          "mañana",
+          "al día siguiente",
+          "este",
+          "ese / aquel"
+        ],
+        [
+          "ayer",
+          "el día anterior",
+          "ahora",
+          "entonces"
+        ],
+        [
+          "la semana que viene",
+          "la semana siguiente",
+          "hace un año",
+          "un año antes"
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "5. Reported questions and orders"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.0,
+        6.8,
+        5.2
+      ],
+      "head": [
+        "Direct",
+        "Reported",
+        "English"
+      ],
+      "rows": [
+        [
+          "\"¿Tienes hambre?\"",
+          "Me preguntó si tenía hambre.",
+          "He asked me if I was hungry."
+        ],
+        [
+          "\"¿Dónde vives?\"",
+          "Me preguntó dónde vivía.",
+          "She asked me where I lived."
+        ],
+        [
+          "\"¿Qué quieres?\"",
+          "Me preguntó qué quería.",
+          "He asked me what I wanted."
+        ],
+        [
+          "\"Ven aquí.\"",
+          "Me dijo que viniera allí.",
+          "He told me to come there."
+        ],
+        [
+          "\"No hables.\"",
+          "Me pidió que no hablara.",
+          "She asked me not to talk."
+        ],
+        [
+          "\"Cierra la puerta.\"",
+          "Me ordenó que cerrara la puerta.",
+          "He ordered me to close the door."
+        ]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<b>Yes/no questions</b> use <b>si</b>: <i>Preguntó si venías.</i> <b>Question words</b> stay, without question marks: <i>Preguntó cuándo llegaba.</i>",
+        "<b>Orders and requests</b> use <b>que + subjunctive</b>. With a past introducing verb, the subjunctive is the imperfect: <i>Me dijo que viniera.</i> With a present introducing verb it is the present: <i>Me dice que venga.</i>",
+        "Common introducing verbs: <b>decir, preguntar, contestar, responder, pedir, explicar, contar, comentar, añadir</b>."
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "6. Common mistakes"
+    },
+    {
+      "type": "mistakes",
+      "rows": [
+        [
+          "Si tendré tiempo, iré.",
+          "Si tengo tiempo, iré.",
+          "No future after si."
+        ],
+        [
+          "Si tendría dinero, viajaría.",
+          "Si tuviera dinero, viajaría.",
+          "si + imperfect subjunctive."
+        ],
+        [
+          "Si fuera rico, compro un barco.",
+          "Si fuera rico, compraría un barco.",
+          "Conditional in the result."
+        ],
+        [
+          "Si estudiaras, apruebas.",
+          "Si estudiaras, aprobarías.",
+          "Match both halves: subjunctive + conditional."
+        ],
+        [
+          "Dijo que tiene hambre ayer.",
+          "Dijo que tenía hambre.",
+          "Past introducing verb: imperfect."
+        ],
+        [
+          "Dijo que iré mañana.",
+          "Dijo que iría al día siguiente.",
+          "Future becomes conditional."
+        ],
+        [
+          "Me preguntó que tenía hambre.",
+          "Me preguntó si tenía hambre.",
+          "Yes/no question: si."
+        ],
+        [
+          "Me dijo que vienes.",
+          "Me dijo que viniera.",
+          "Order: que + subjunctive."
+        ],
+        [
+          "Si pudiera, lo haré.",
+          "Si pudiera, lo haría.",
+          "Unreal si clause: conditional."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "7. Self-check"
+    },
+    {
+      "type": "p",
+      "text": "Fill in the verb in brackets or the missing word. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Hint"
+      ],
+      "items": [
+        {
+          "q": "Si ______ mañana, me quedaré en casa.",
+          "hint": "llover",
+          "a": "llueve",
+          "full": "Si llueve mañana, me quedaré en casa."
+        },
+        {
+          "q": "Si ______ dinero, viajaría por el mundo.",
+          "hint": "tener (imperfect subj.)",
+          "a": "tuviera",
+          "full": "Si tuviera dinero, viajaría por el mundo."
+        },
+        {
+          "q": "Si yo ______ tú, hablaría con ella.",
+          "hint": "ser (imperfect subj.)",
+          "a": "fuera",
+          "full": "Si yo fuera tú, hablaría con ella."
+        },
+        {
+          "q": "Si ______ la lotería, compraría una casa.",
+          "hint": "ganar (imperfect subj.)",
+          "a": "ganara",
+          "full": "Si ganara la lotería, compraría una casa."
+        },
+        {
+          "q": "Si estudias, ______ el examen.",
+          "hint": "aprobar (future)",
+          "a": "aprobarás",
+          "full": "Si estudias, aprobarás el examen."
+        },
+        {
+          "q": "Habla como si ______ el jefe.",
+          "hint": "ser (imperfect subj.)",
+          "a": "fuera",
+          "full": "Habla como si fuera el jefe."
+        },
+        {
+          "q": "Dijo que ______ hambre.",
+          "hint": "tener (imperfect)",
+          "a": "tenía",
+          "full": "Dijo que tenía hambre."
+        },
+        {
+          "q": "Dijo que ______ al día siguiente.",
+          "hint": "ir (conditional)",
+          "a": "iría",
+          "full": "Dijo que iría al día siguiente."
+        },
+        {
+          "q": "Dijo que ya ______ comprado el billete.",
+          "hint": "haber (past perfect)",
+          "a": "había",
+          "full": "Dijo que ya había comprado el billete."
+        },
+        {
+          "q": "Me preguntó ______ tenía hambre.",
+          "hint": "if",
+          "a": "si",
+          "full": "Me preguntó si tenía hambre."
+        },
+        {
+          "q": "Me dijo que ______ la puerta.",
+          "hint": "cerrar (imperfect subj.)",
+          "a": "cerrara",
+          "full": "Me dijo que cerrara la puerta."
+        },
+        {
+          "q": "Si ______ más tiempo, aprendería chino.",
+          "hint": "tener (imperfect subj.)",
+          "a": "tuviera",
+          "full": "Si tuviera más tiempo, aprendería chino."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish:</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "If it rains, we will stay at home.",
+          "a": "Si llueve, nos quedaremos en casa."
+        },
+        {
+          "q": "If I had a car, I would travel more.",
+          "a": "Si tuviera coche, viajaría más."
+        },
+        {
+          "q": "She said she was tired.",
+          "a": "Dijo que estaba cansada."
+        },
+        {
+          "q": "He asked me where I lived.",
+          "a": "Me preguntó dónde vivía."
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

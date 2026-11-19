@@ -1,0 +1,248 @@
+{
+  "meta": {
+    "level": "A1",
+    "section": "Verbs",
+    "number": 4,
+    "total_in_level": 9,
+    "title": "Ser, Estar, Hay and Tener",
+    "subtitle": "Four essential verbs: to be (twice), there is / there are, and to have",
+    "footer": "Spanish Learning Program · A1 · Verbs · Ser, estar, hay, tener",
+    "next": "Next: A1 · PDF 5 — Nouns, articles and adjectives"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "choose correctly between ser and estar",
+        "say that something exists with hay, and when to use estar instead",
+        "give your age and say how you feel with tener",
+        "use tener que + infinitive for obligations"
+      ]
+    },
+
+    { "type": "h1", "text": "1. The big picture" },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [2.6, 6.2, 8.2],
+      "head": ["Verb", "Main job", "Example"],
+      "rows": [
+        ["ser", "what someone or something is: identity, origin, profession, characteristics, time", "Soy estudiante. Es de Sevilla. Son las tres."],
+        ["estar", "where something is and how someone is right now", "Estoy en casa. Está cansado."],
+        ["hay", "there is, there are: something exists", "Hay un banco en la calle."],
+        ["tener", "to have: possessions, age, feelings, obligations", "Tengo un coche. Tengo 20 años. Tengo hambre."]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "dutch",
+      "title": "Dutch has one verb, Spanish has two",
+      "text": "Dutch <b>zijn</b> becomes <b>ser</b> or <b>estar</b>. Ask yourself: am I saying <b>what it is</b> (identity, characteristic) or <b>where or how it is right now</b> (location, temporary state)? The first is <b>ser</b>, the second <b>estar</b>."
+    },
+
+    { "type": "h1", "text": "2. Ser" },
+    {
+      "type": "conj",
+      "verb": "ser",
+      "meaning": "to be",
+      "label": "irregular · what something is",
+      "forms": ["*soy*", "*eres*", "*es*", "*somos*", "*sois*", "*son*"],
+      "examples": [
+        ["Soy estudiante.", "I am a student."],
+        ["Eres muy simpático.", "You are very nice."],
+        ["Ella es de Sevilla.", "She is from Seville."],
+        ["Somos amigos.", "We are friends."],
+        ["¿Sois hermanos?", "Are you (all) siblings?"],
+        ["Son las tres.", "It is three o'clock."]
+      ]
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [1.6, 4.0, 6.0, 5.4],
+      "head": ["", "Use ser for", "Example", "English"],
+      "rows": [
+        ["D", "Description", "Mi hermano es alto.", "My brother is tall."],
+        ["O", "Occupation", "Soy profesor.", "I am a teacher."],
+        ["C", "Characteristic", "Ella es simpática.", "She is nice."],
+        ["T", "Time and date", "Hoy es lunes. Son las dos.", "Today is Monday. It is two o'clock."],
+        ["O", "Origin and nationality", "Somos de España.", "We are from Spain."],
+        ["R", "Relationship and possession", "Ella es mi madre. Es de Pedro.", "She is my mother. It is Pedro's."]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "Memory trick: DOCTOR",
+      "text": "The six uses spell <b>DOCTOR</b>: Description, Occupation, Characteristic, Time, Origin, Relationship. Jobs take <b>no article</b> after ser: <i>Soy médico</i>, not Soy un médico (unless you add an adjective: <i>Soy un buen médico</i>)."
+    },
+
+    { "type": "h1", "text": "3. Estar" },
+    {
+      "type": "conj",
+      "verb": "estar",
+      "meaning": "to be",
+      "label": "irregular · where and how something is",
+      "forms": ["est*oy*", "est*ás*", "est*á*", "estamos", "est*áis*", "est*án*"],
+      "examples": [
+        ["Estoy en casa.", "I am at home."],
+        ["¿Cómo estás?", "How are you?"],
+        ["Está cansada.", "She is tired."],
+        ["Estamos en el parque.", "We are in the park."],
+        ["¿Estáis listos?", "Are you (all) ready?"],
+        ["Están de vacaciones.", "They are on holiday."]
+      ]
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [1.6, 4.0, 6.0, 5.4],
+      "head": ["", "Use estar for", "Example", "English"],
+      "rows": [
+        ["P", "Position", "Mi madre está sentada.", "My mother is sitting."],
+        ["L", "Location", "Madrid está en España.", "Madrid is in Spain."],
+        ["A", "Action in progress (A2 preview)", "Estoy comiendo.", "I am eating."],
+        ["C", "Condition: health, state", "El café está frío.", "The coffee is cold."],
+        ["E", "Emotion", "Estoy contento.", "I am happy."]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "Memory trick: PLACE",
+      "text": "<b>PLACE</b>: Position, Location, Action, Condition, Emotion. If you ask <b>¿Dónde está…?</b> (where is…?) you always use estar: <i>¿Dónde está el baño? Está al fondo.</i>"
+    },
+
+    { "type": "h1", "text": "4. Ser or estar? The same adjective, a different meaning" },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [8.5, 8.5],
+      "head": ["ser: what it is like", "estar: how it is right now"],
+      "rows": [
+        ["Soy nervioso. (I am a nervous person.)", "Estoy nervioso. (I feel nervous now.)"],
+        ["Es aburrido. (He is boring.)", "Está aburrido. (He is bored.)"],
+        ["Es listo. (He is clever.)", "Está listo. (He is ready.)"],
+        ["Es guapa. (She is beautiful.)", "Está guapa. (She looks beautiful today.)"]
+      ]
+    },
+
+    { "type": "h1", "text": "5. Hay" },
+    {
+      "type": "p",
+      "text": "<b>Hay</b> means <b>there is</b> and <b>there are</b>. It never changes, for singular and plural alike (Dutch: <i>er is / er zijn</i>). It introduces something new or indefinite: <i>un, una, unos, unas</i>, a number, <i>mucho</i>, <i>algún</i> or no article at all."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [8.5, 8.5],
+      "head": ["Example", "English"],
+      "rows": [
+        ["Hay un museo en la ciudad.", "There is a museum in the city."],
+        ["Hay tres chicos en la puerta.", "There are three boys at the door."],
+        ["¿Hay un banco por aquí?", "Is there a bank around here?"],
+        ["No hay problema.", "There is no problem."],
+        ["¿Cuántos estudiantes hay?", "How many students are there?"]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "warn",
+      "title": "Hay or está?",
+      "text": "<b>hay</b> = a new or indefinite thing: <i>Hay un banco en la calle Mayor.</i><br/><b>estar</b> = a known or definite thing (el, la, mi, este…): <i>El banco está en la calle Mayor.</i><br/>Never combine hay with el, la, mi or este: <i>Hay el banco</i> is wrong."
+    },
+
+    { "type": "h1", "text": "6. Tener" },
+    {
+      "type": "conj",
+      "verb": "tener",
+      "meaning": "to have",
+      "label": "irregular · have, age, feelings, obligation",
+      "forms": ["ten*g*o", "t*ie*nes", "t*ie*ne", "tenemos", "tenéis", "t*ie*nen"],
+      "examples": [
+        ["Tengo dos hermanos.", "I have two brothers."],
+        ["¿Tienes tiempo?", "Do you have time?"],
+        ["Ella tiene veinte años.", "She is twenty years old."],
+        ["Tenemos un perro.", "We have a dog."],
+        ["¿Tenéis hambre?", "Are you (all) hungry?"],
+        ["Tienen que trabajar.", "They have to work."]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "dutch",
+      "title": "Age: Spanish says “have”, not “be”",
+      "text": "Dutch says <i>ik ben 20</i>. Spanish says <b>Tengo 20 años</b> (literally: I have 20 years). Always include <b>años</b>. To ask: <i>¿Cuántos años tienes?</i>"
+    },
+    {
+      "type": "verbpairs",
+      "title": "Common expressions with tener",
+      "items": [
+        ["tener hambre", "to be hungry"], ["tener sed", "to be thirsty"], ["tener frío", "to be cold"], ["tener calor", "to be hot"],
+        ["tener sueño", "to be sleepy"], ["tener miedo", "to be afraid"], ["tener prisa", "to be in a hurry"], ["tener razón", "to be right"],
+        ["tener suerte", "to be lucky"], ["tener ganas de + inf.", "to feel like (doing)"], ["tener que + inf.", "to have to (do)"], ["tener … años", "to be … years old"]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<i>Tengo que estudiar esta noche.</i> (I have to study tonight.) &nbsp;·&nbsp; <i>Tenemos ganas de viajar.</i> (We feel like travelling.)"
+    },
+
+    { "type": "h1", "text": "7. Common mistakes" },
+    {
+      "type": "mistakes",
+      "rows": [
+        ["Soy 20 años.", "Tengo 20 años.", "Spanish gives age with tener, and always says años."],
+        ["Estoy profesor.", "Soy profesor.", "A profession is what someone is: ser."],
+        ["Soy cansado.", "Estoy cansado.", "Tiredness is a temporary state: estar."],
+        ["Soy en Madrid.", "Estoy en Madrid.", "Location always takes estar."],
+        ["Estoy de España.", "Soy de España.", "Origin and nationality take ser."],
+        ["Estoy hambre.", "Tengo hambre.", "Hunger, thirst, cold and heat use tener, not estar."],
+        ["Hay el libro en la mesa.", "Hay un libro en la mesa. / El libro está en la mesa.", "Hay needs an indefinite noun. A definite noun takes estar."],
+        ["Están dos libros en la mesa.", "Hay dos libros en la mesa.", "To say that something exists, use hay."]
+      ]
+    },
+
+    { "type": "pagebreak" },
+    { "type": "h1", "text": "8. Self-check" },
+    {
+      "type": "p",
+      "text": "Complete each sentence with ser, estar, hay or tener in the right form. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "items": [
+        { "q": "Mi madre ______ profesora.", "hint": "ser", "a": "es", "full": "Mi madre es profesora." },
+        { "q": "¿Dónde ______ el baño?", "hint": "estar", "a": "está", "full": "¿Dónde está el baño?" },
+        { "q": "Ellos ______ 20 años.", "hint": "tener", "a": "tienen", "full": "Ellos tienen 20 años." },
+        { "q": "En mi ciudad ______ un museo grande.", "hint": "hay", "a": "hay", "full": "En mi ciudad hay un museo grande." },
+        { "q": "Nosotros ______ de España.", "hint": "ser", "a": "somos", "full": "Nosotros somos de España." },
+        { "q": "Hoy yo ______ muy cansado.", "hint": "estar", "a": "estoy", "full": "Hoy yo estoy muy cansado." },
+        { "q": "¿______ hambre?", "hint": "tener (vosotros)", "a": "Tenéis", "full": "¿Tenéis hambre?" },
+        { "q": "Ellos ______ en el parque.", "hint": "estar", "a": "están", "full": "Ellos están en el parque." },
+        { "q": "Tú ______ muy simpático.", "hint": "ser", "a": "eres", "full": "Tú eres muy simpático." },
+        { "q": "______ las cinco de la tarde.", "hint": "ser", "a": "Son", "full": "Son las cinco de la tarde." },
+        { "q": "Marta ______ en casa.", "hint": "estar", "a": "está", "full": "Marta está en casa." },
+        { "q": "Nosotros ______ que estudiar.", "hint": "tener", "a": "tenemos", "full": "Nosotros tenemos que estudiar." }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish:</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        { "q": "I am a student.", "a": "Soy estudiante." },
+        { "q": "There are two books on the table.", "a": "Hay dos libros en la mesa." },
+        { "q": "She is 25 years old.", "a": "Tiene 25 años." },
+        { "q": "The keys are in the kitchen.", "a": "Las llaves están en la cocina." }
+      ]
+    },
+
+    { "type": "pagebreak" },
+    { "type": "answers" }
+  ]
+}

@@ -1,0 +1,743 @@
+{
+  "meta": {
+    "level": "A2",
+    "section": "Verbs",
+    "number": 3,
+    "total_in_level": 10,
+    "title": "The Imperfect Tense",
+    "subtitle": "Habits, descriptions and scenes in the past: all endings, the three irregular verbs and the time words",
+    "footer": "Spanish Learning Program · A2 · Verbs · Imperfect",
+    "next": "Next: A2 · PDF 4 — Preterite vs imperfect"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "describe how things used to be and what you used to do",
+        "conjugate every regular verb in the imperfect, plus the only three irregular verbs: ser, ir and ver",
+        "describe people, places, weather, age and time in the past",
+        "recognise the time words that point to the imperfect"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "1. What the imperfect does"
+    },
+    {
+      "type": "p",
+      "text": "The imperfect (<i>pretérito imperfecto</i>) describes the past as a <b>scene in progress</b>: how things were, what used to happen, what was going on. It does not say when something started or ended. Think of a film shot that keeps running."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.6,
+        7.4,
+        5.0
+      ],
+      "head": [
+        "Use",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "Habits in the past",
+          "De niño jugaba al fútbol cada día.",
+          "As a child I used to play football every day."
+        ],
+        [
+          "Description",
+          "La casa era grande y tenía un jardín.",
+          "The house was big and had a garden."
+        ],
+        [
+          "Age",
+          "Tenía diez años.",
+          "I was ten years old."
+        ],
+        [
+          "Time",
+          "Eran las tres de la tarde.",
+          "It was three in the afternoon."
+        ],
+        [
+          "Weather",
+          "Hacía frío y llovía.",
+          "It was cold and raining."
+        ],
+        [
+          "Feelings and states",
+          "Estaba cansado y quería dormir.",
+          "I was tired and wanted to sleep."
+        ],
+        [
+          "Action in progress",
+          "Veía la tele cuando llegó mi hermano.",
+          "I was watching TV when my brother arrived."
+        ],
+        [
+          "Polite request",
+          "Quería pedir una información.",
+          "I wanted to ask for some information."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "dutch",
+      "title": "Dutch ik werkte covers both",
+      "bullets": [
+        "Dutch <i>ik werkte</i> can mean a repeated past (<i>vroeger werkte ik elke dag</i>) or a single past. Spanish splits them: <b>trabajaba</b> for the habit, <b>trabajé</b> for the single finished event (PDF 4).",
+        "Test: if the English can be <b>used to</b>, <b>would</b> or <b>was ...ing</b> (Dutch: <i>vroeger</i>, <i>altijd</i>, <i>was aan het</i>), use the imperfect."
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "2. Time words that signal the imperfect"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.6,
+        4.0,
+        8.4
+      ],
+      "head": [
+        "Spanish",
+        "English",
+        "Example"
+      ],
+      "rows": [
+        [
+          "siempre",
+          "always",
+          "Siempre comíamos en casa."
+        ],
+        [
+          "todos los días / cada día",
+          "every day",
+          "Todos los días caminaba al trabajo."
+        ],
+        [
+          "a menudo / a veces",
+          "often / sometimes",
+          "A veces veía a mis primos."
+        ],
+        [
+          "normalmente / generalmente",
+          "usually",
+          "Normalmente me levantaba a las siete."
+        ],
+        [
+          "de niño / de joven",
+          "as a child / when young",
+          "De joven vivía en Bilbao."
+        ],
+        [
+          "antes",
+          "before, in the past",
+          "Antes fumaba mucho."
+        ],
+        [
+          "en aquella época",
+          "at that time",
+          "En aquella época no había móviles."
+        ],
+        [
+          "mientras",
+          "while",
+          "Mientras cocinaba, escuchaba música."
+        ],
+        [
+          "los domingos",
+          "on Sundays (habitually)",
+          "Los domingos íbamos al campo."
+        ]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<b>soler + infinitive</b> says \"to usually do\": <i>Suelo desayunar a las ocho. Solía desayunar a las ocho</i> (I used to have breakfast at eight)."
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "3. The endings"
+    },
+    {
+      "type": "table",
+      "style": "endings",
+      "widths": [
+        5.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "head": [
+        "Person",
+        "-ar  (hablar)",
+        "-er  (comer)",
+        "-ir  (vivir)"
+      ],
+      "rows": [
+        [
+          "yo",
+          "-aba",
+          "-ía",
+          "-ía"
+        ],
+        [
+          "tú",
+          "-abas",
+          "-ías",
+          "-ías"
+        ],
+        [
+          "él / ella / usted",
+          "-aba",
+          "-ía",
+          "-ía"
+        ],
+        [
+          "nosotros / nosotras",
+          "-ábamos",
+          "-íamos",
+          "-íamos"
+        ],
+        [
+          "vosotros / vosotras",
+          "-abais",
+          "-íais",
+          "-íais"
+        ],
+        [
+          "ellos / ellas / ustedes",
+          "-aban",
+          "-ían",
+          "-ían"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "What to remember",
+      "bullets": [
+        "<b>-er</b> and <b>-ir</b> verbs share the same endings, all with <b>í</b>.",
+        "<b>yo</b> and <b>él/ella/usted</b> have the same form: <i>hablaba</i>, <i>comía</i>. Use a pronoun or the context when it is not clear.",
+        "The only accent on an -ar verb is in <b>nosotros</b>: hablábamos."
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "4. Full conjugations"
+    },
+    {
+      "type": "conj",
+      "tense": "imperfect",
+      "verb": "hablar",
+      "meaning": "to speak, to talk",
+      "group": "-ar",
+      "stem": "habl",
+      "endings": [
+        "aba",
+        "abas",
+        "aba",
+        "ábamos",
+        "abais",
+        "aban"
+      ],
+      "examples": [
+        [
+          "Hablaba con mi abuela todos los días.",
+          "I used to talk to my grandmother every day."
+        ],
+        [
+          "¿Hablabas inglés de niño?",
+          "Did you speak English as a child?"
+        ],
+        [
+          "Ella hablaba muy rápido.",
+          "She used to speak very fast."
+        ],
+        [
+          "Hablábamos por teléfono cada noche.",
+          "We used to talk on the phone every night."
+        ],
+        [
+          "¿Hablabais mucho en clase?",
+          "Did you (all) talk a lot in class?"
+        ],
+        [
+          "Mis padres hablaban alemán en casa.",
+          "My parents spoke German at home."
+        ]
+      ]
+    },
+    {
+      "type": "conj",
+      "tense": "imperfect",
+      "verb": "comer",
+      "meaning": "to eat",
+      "group": "-er",
+      "stem": "com",
+      "endings": [
+        "ía",
+        "ías",
+        "ía",
+        "íamos",
+        "íais",
+        "ían"
+      ],
+      "examples": [
+        [
+          "Comía en casa de mis abuelos.",
+          "I used to eat at my grandparents' house."
+        ],
+        [
+          "¿Comías mucha fruta?",
+          "Did you eat a lot of fruit?"
+        ],
+        [
+          "Mi padre comía muy tarde.",
+          "My father used to eat very late."
+        ],
+        [
+          "Comíamos juntos los domingos.",
+          "We used to eat together on Sundays."
+        ],
+        [
+          "¿Comíais en el patio?",
+          "Did you (all) eat in the yard?"
+        ],
+        [
+          "Mis primos comían siempre pasta.",
+          "My cousins always ate pasta."
+        ]
+      ]
+    },
+    {
+      "type": "conj",
+      "tense": "imperfect",
+      "verb": "vivir",
+      "meaning": "to live",
+      "group": "-ir",
+      "stem": "viv",
+      "endings": [
+        "ía",
+        "ías",
+        "ía",
+        "íamos",
+        "íais",
+        "ían"
+      ],
+      "examples": [
+        [
+          "Vivía cerca del mar.",
+          "I lived near the sea."
+        ],
+        [
+          "¿Vivías en un pueblo?",
+          "Did you live in a village?"
+        ],
+        [
+          "Mi tía vivía en Sevilla.",
+          "My aunt lived in Seville."
+        ],
+        [
+          "Vivíamos en un piso pequeño.",
+          "We lived in a small flat."
+        ],
+        [
+          "¿Vivíais en el centro?",
+          "Did you (all) live in the centre?"
+        ],
+        [
+          "Mis abuelos vivían con nosotros.",
+          "My grandparents lived with us."
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "5. The only three irregular verbs"
+    },
+    {
+      "type": "p",
+      "text": "<b>Ser</b>, <b>ir</b> and <b>ver</b> are the only irregular verbs in the imperfect. Every other verb, including stem-changers and verbs with irregular present or preterite forms, is regular here."
+    },
+    {
+      "type": "conj",
+      "tense": "imperfect",
+      "verb": "ser",
+      "meaning": "to be",
+      "label": "irregular verb",
+      "forms": [
+        "*era*",
+        "*eras*",
+        "*era*",
+        "*éramos*",
+        "*erais*",
+        "*eran*"
+      ],
+      "examples": [
+        [
+          "Era muy tímido de niño.",
+          "I was very shy as a child."
+        ],
+        [
+          "¿Eras feliz en el colegio?",
+          "Were you happy at school?"
+        ],
+        [
+          "La casa era muy grande.",
+          "The house was very big."
+        ],
+        [
+          "Éramos buenos amigos.",
+          "We were good friends."
+        ],
+        [
+          "¿Erais vecinos?",
+          "Were you (all) neighbours?"
+        ],
+        [
+          "Los veranos eran largos.",
+          "The summers were long."
+        ]
+      ]
+    },
+    {
+      "type": "conj",
+      "tense": "imperfect",
+      "verb": "ir",
+      "meaning": "to go",
+      "label": "irregular verb",
+      "forms": [
+        "*iba*",
+        "*ibas*",
+        "*iba*",
+        "*íbamos*",
+        "*ibais*",
+        "*iban*"
+      ],
+      "examples": [
+        [
+          "Iba al colegio en autobús.",
+          "I used to go to school by bus."
+        ],
+        [
+          "¿Ibas a la playa en verano?",
+          "Did you go to the beach in summer?"
+        ],
+        [
+          "Mi madre iba al mercado cada sábado.",
+          "My mother went to the market every Saturday."
+        ],
+        [
+          "Íbamos a casa de mis abuelos.",
+          "We used to go to my grandparents' house."
+        ],
+        [
+          "¿Ibais en bici?",
+          "Did you (all) go by bike?"
+        ],
+        [
+          "Mis amigos iban al gimnasio.",
+          "My friends used to go to the gym."
+        ]
+      ]
+    },
+    {
+      "type": "conj",
+      "tense": "imperfect",
+      "verb": "ver",
+      "meaning": "to see, to watch",
+      "label": "irregular verb",
+      "forms": [
+        "*veía*",
+        "*veías*",
+        "*veía*",
+        "*veíamos*",
+        "*veíais*",
+        "*veían*"
+      ],
+      "examples": [
+        [
+          "Veía la tele después de cenar.",
+          "I used to watch TV after dinner."
+        ],
+        [
+          "¿Veías dibujos animados?",
+          "Did you watch cartoons?"
+        ],
+        [
+          "Mi abuelo veía el fútbol.",
+          "My grandfather used to watch football."
+        ],
+        [
+          "Veíamos películas los viernes.",
+          "We watched films on Fridays."
+        ],
+        [
+          "¿Veíais a vuestros primos?",
+          "Did you (all) see your cousins?"
+        ],
+        [
+          "Los niños veían series.",
+          "The children watched series."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "No stem changes, no spelling changes",
+      "text": "Verbs that change in the present or preterite are regular in the imperfect: <b>pensaba</b> (not <i>piensaba</i>), <b>volvía</b>, <b>jugaba</b>, <b>tenía</b>, <b>hacía</b>."
+    },
+    {
+      "type": "conjgrid",
+      "tense": "imperfect",
+      "verbs": [
+        {
+          "inf": "tener",
+          "meaning": "to have",
+          "forms": [
+            "tenía",
+            "tenías",
+            "tenía",
+            "teníamos",
+            "teníais",
+            "tenían"
+          ]
+        },
+        {
+          "inf": "hacer",
+          "meaning": "to do, make",
+          "forms": [
+            "hacía",
+            "hacías",
+            "hacía",
+            "hacíamos",
+            "hacíais",
+            "hacían"
+          ]
+        },
+        {
+          "inf": "poder",
+          "meaning": "to be able to",
+          "forms": [
+            "podía",
+            "podías",
+            "podía",
+            "podíamos",
+            "podíais",
+            "podían"
+          ]
+        },
+        {
+          "inf": "querer",
+          "meaning": "to want",
+          "forms": [
+            "quería",
+            "querías",
+            "quería",
+            "queríamos",
+            "queríais",
+            "querían"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<b>Reflexive verbs</b> keep their pronoun: <i>Me levantaba a las siete. Nos acostábamos tarde.</i>",
+        "<b>hay</b> becomes <b>había</b> (one form for singular and plural): <i>Había un parque. Había muchos coches.</i>",
+        "<b>Hours:</b> <i>Era la una. Eran las tres.</i> <b>Age:</b> <i>Tenía quince años.</i>"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "6. Common mistakes"
+    },
+    {
+      "type": "mistakes",
+      "rows": [
+        [
+          "Cuando era niño, jugué al fútbol cada día.",
+          "Cuando era niño, jugaba al fútbol cada día.",
+          "A repeated habit in the past takes the imperfect."
+        ],
+        [
+          "Siempre fui a la playa en verano.",
+          "Siempre iba a la playa en verano.",
+          "siempre + a repeated past action: imperfect."
+        ],
+        [
+          "Nosotros hablabamos mucho.",
+          "Nosotros hablábamos mucho.",
+          "The nosotros form of -ar verbs has an accent: hablábamos."
+        ],
+        [
+          "Yo ía al colegio.",
+          "Yo iba al colegio.",
+          "Ir uses -ba endings in the imperfect: iba, ibas, iba."
+        ],
+        [
+          "Yo vía la tele.",
+          "Yo veía la tele.",
+          "Ver keeps its e: veía, veías, veía."
+        ],
+        [
+          "Yo piensaba en ti.",
+          "Yo pensaba en ti.",
+          "The imperfect has no stem change."
+        ],
+        [
+          "Era las tres.",
+          "Eran las tres.",
+          "Plural for every hour except one: Era la una, Eran las dos."
+        ],
+        [
+          "Yo era diez años.",
+          "Yo tenía diez años.",
+          "Age uses tener, not ser."
+        ],
+        [
+          "Él comíba mucho.",
+          "Él comía mucho.",
+          "-er and -ir verbs take -ía, never -iba."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "7. Self-check"
+    },
+    {
+      "type": "p",
+      "text": "Fill in the imperfect of the verb in brackets. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Verb"
+      ],
+      "items": [
+        {
+          "q": "De niño, yo ______ al fútbol cada tarde.",
+          "hint": "jugar (yo)",
+          "a": "jugaba",
+          "full": "De niño, yo jugaba al fútbol cada tarde."
+        },
+        {
+          "q": "Mi abuela ______ en un pueblo pequeño.",
+          "hint": "vivir (ella)",
+          "a": "vivía",
+          "full": "Mi abuela vivía en un pueblo pequeño."
+        },
+        {
+          "q": "Nosotros ______ al colegio andando.",
+          "hint": "ir (nosotros)",
+          "a": "íbamos",
+          "full": "Nosotros íbamos al colegio andando."
+        },
+        {
+          "q": "Cuando yo ______ joven, trabajaba mucho.",
+          "hint": "ser (yo)",
+          "a": "era",
+          "full": "Cuando yo era joven, trabajaba mucho."
+        },
+        {
+          "q": "______ las cinco de la tarde.",
+          "hint": "ser",
+          "a": "Eran",
+          "full": "Eran las cinco de la tarde."
+        },
+        {
+          "q": "Tú siempre ______ la tele por la noche.",
+          "hint": "ver (tú)",
+          "a": "veías",
+          "full": "Tú siempre veías la tele por la noche."
+        },
+        {
+          "q": "Ellos ______ mucho en aquella época.",
+          "hint": "viajar (ellos)",
+          "a": "viajaban",
+          "full": "Ellos viajaban mucho en aquella época."
+        },
+        {
+          "q": "¿Vosotros ______ juntos en Valencia?",
+          "hint": "vivir (vosotros)",
+          "a": "vivíais",
+          "full": "¿Vosotros vivíais juntos en Valencia?"
+        },
+        {
+          "q": "Yo ______ diez años entonces.",
+          "hint": "tener (yo)",
+          "a": "tenía",
+          "full": "Yo tenía diez años entonces."
+        },
+        {
+          "q": "Cuando llegué, mi madre ______ la cena.",
+          "hint": "preparar (ella)",
+          "a": "preparaba",
+          "full": "Cuando llegué, mi madre preparaba la cena."
+        },
+        {
+          "q": "Mis primos ______ a la playa todos los veranos.",
+          "hint": "ir (ellos)",
+          "a": "iban",
+          "full": "Mis primos iban a la playa todos los veranos."
+        },
+        {
+          "q": "Antes ______ mucho café.",
+          "hint": "beber (yo)",
+          "a": "bebía",
+          "full": "Antes bebía mucho café."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish:</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "As a child I played in the street.",
+          "a": "De niño jugaba en la calle."
+        },
+        {
+          "q": "It was raining and I was tired.",
+          "a": "Llovía y estaba cansado."
+        },
+        {
+          "q": "We always ate at home.",
+          "a": "Siempre comíamos en casa."
+        },
+        {
+          "q": "She was twenty years old.",
+          "a": "Tenía veinte años."
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

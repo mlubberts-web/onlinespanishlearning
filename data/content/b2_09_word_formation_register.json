@@ -1,0 +1,632 @@
+{
+  "meta": {
+    "level": "B2",
+    "section": "Grammar",
+    "number": 9,
+    "total_in_level": 10,
+    "title": "Word Formation and Register",
+    "subtitle": "prefixes, suffixes, informal versus formal Spanish and writing formal emails and letters",
+    "footer": "Spanish Learning Program · B2 · Grammar · Word formation and register",
+    "next": "Next: B2 · PDF 10 — Vocabulary and set phrases"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "build new words with common prefixes and suffixes",
+        "form nouns from verbs and adjectives (-ción, -miento, -dad, -ura, -ez)",
+        "switch register between informal and formal Spanish",
+        "write a formal email or letter with the correct openings, requests and closings"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "1. Prefixes"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        3.0,
+        4.0,
+        5.4,
+        4.6
+      ],
+      "head": [
+        "Prefix",
+        "Meaning",
+        "Examples",
+        "English"
+      ],
+      "rows": [
+        [
+          "des- / in- / im- / i-",
+          "negative, opposite",
+          "hacer: deshacer; posible: imposible; legal: ilegal",
+          "undo; impossible; illegal"
+        ],
+        [
+          "re-",
+          "again, intensive",
+          "hacer: rehacer; leer: releer",
+          "redo; reread"
+        ],
+        [
+          "pre- / ante-",
+          "before",
+          "histórico: prehistórico; ayer: anteayer",
+          "prehistoric; the day before yesterday"
+        ],
+        [
+          "post- / pos-",
+          "after",
+          "guerra: posguerra",
+          "post-war"
+        ],
+        [
+          "sobre-",
+          "over",
+          "estimar: sobrestimar; vivir: sobrevivir",
+          "overestimate; survive"
+        ],
+        [
+          "sub- / infra-",
+          "under",
+          "marino: submarino",
+          "submarine"
+        ],
+        [
+          "inter-",
+          "between",
+          "nacional: internacional",
+          "international"
+        ],
+        [
+          "anti-",
+          "against",
+          "social: antisocial",
+          "antisocial"
+        ],
+        [
+          "contra-",
+          "against",
+          "decir: contradecir",
+          "contradict"
+        ],
+        [
+          "co- / con-",
+          "together",
+          "operar: cooperar; vivir: convivir",
+          "cooperate; live together"
+        ],
+        [
+          "auto-",
+          "self",
+          "estima: autoestima",
+          "self-esteem"
+        ],
+        [
+          "mal- / bien-",
+          "bad / good",
+          "tratar: maltratar; venir: bienvenido",
+          "mistreat; welcome"
+        ],
+        [
+          "multi- / semi-",
+          "many / half",
+          "cultural: multicultural",
+          "multicultural"
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "2. Noun suffixes"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        3.0,
+        4.0,
+        5.4,
+        4.6
+      ],
+      "head": [
+        "Suffix",
+        "Forms",
+        "Examples",
+        "English"
+      ],
+      "rows": [
+        [
+          "-ción / -sión",
+          "nouns from verbs (f.)",
+          "comunicar: comunicación; decidir: decisión",
+          "communication; decision"
+        ],
+        [
+          "-miento",
+          "nouns from verbs (m.)",
+          "mover: movimiento; pensar: pensamiento",
+          "movement; thought"
+        ],
+        [
+          "-dad / -tad",
+          "nouns from adjectives (f.)",
+          "feliz: felicidad; libre: libertad",
+          "happiness; freedom"
+        ],
+        [
+          "-ez / -eza",
+          "nouns from adjectives (f.)",
+          "pobre: pobreza; tímido: timidez",
+          "poverty; shyness"
+        ],
+        [
+          "-ura",
+          "nouns from adjectives (f.)",
+          "alto: altura; abrir: apertura",
+          "height; opening"
+        ],
+        [
+          "-ismo / -ista",
+          "doctrine / follower",
+          "social: socialismo; arte: artista",
+          "socialism; artist"
+        ],
+        [
+          "-dor / -dora",
+          "agent (person or machine)",
+          "trabajar: trabajador; lavar: lavadora",
+          "worker; washing machine"
+        ],
+        [
+          "-ero / -era",
+          "profession / container",
+          "pan: panadero; ensalada: ensaladera",
+          "baker; salad bowl"
+        ],
+        [
+          "-ería",
+          "shop / place",
+          "libro: librería; pan: panadería",
+          "bookshop; bakery"
+        ],
+        [
+          "-aje / -anza",
+          "result, action",
+          "viajar: viaje; enseñar: enseñanza",
+          "journey; teaching"
+        ],
+        [
+          "-ncia / -nza",
+          "state, quality",
+          "paciente: paciencia; confiar: confianza",
+          "patience; trust"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "warn",
+      "title": "Gender follows the suffix",
+      "text": "-ción, -sión, -dad, -tad, -ez, -eza, -ura, -ería, -ncia are <b>feminine</b>. -miento, -aje, -or and -ismo are <b>masculine</b>. Exceptions: <i>el avión, el corazón, la sartén</i> (no suffix rule)."
+    },
+    {
+      "type": "h1",
+      "text": "3. Adjective and adverb suffixes"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        3.4,
+        4.6,
+        5.2,
+        3.8
+      ],
+      "head": [
+        "Suffix",
+        "Meaning",
+        "Examples",
+        "English"
+      ],
+      "rows": [
+        [
+          "-ble",
+          "can be done",
+          "comprar: comprable; creer: creíble",
+          "buyable; credible"
+        ],
+        [
+          "-oso / -osa",
+          "full of",
+          "peligro: peligroso; gracia: gracioso",
+          "dangerous; funny"
+        ],
+        [
+          "-ico / -al / -ar",
+          "relating to",
+          "teoría: teórico; ciudad: urbano",
+          "theoretical; urban"
+        ],
+        [
+          "-ivo / -ivo",
+          "tending to",
+          "decidir: decisivo; actuar: activo",
+          "decisive; active"
+        ],
+        [
+          "-ado / -ido",
+          "participle adjective",
+          "cansar: cansado; vivir: vivido",
+          "tired; lived"
+        ],
+        [
+          "-mente",
+          "adverb of manner",
+          "rápida: rápidamente; fácil: fácilmente",
+          "quickly; easily"
+        ],
+        [
+          "-ísimo",
+          "very",
+          "alto: altísimo",
+          "very tall"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "-mente",
+      "text": "Take the <b>feminine</b> adjective and add -mente: <i>lento: lentamente, claro: claramente, fácil: fácilmente</i>. The accent of the adjective is kept: <i>rápida: rápidamente</i>. With two adverbs in a row, only the last has -mente: <i>lenta y claramente</i>."
+    },
+    {
+      "type": "h1",
+      "text": "4. Register: informal and formal"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.0,
+        6.0,
+        6.0
+      ],
+      "head": [
+        "Informal (friends)",
+        "Formal (work, official)",
+        "English"
+      ],
+      "rows": [
+        [
+          "tú",
+          "usted",
+          "you"
+        ],
+        [
+          "Hola, ¿qué tal?",
+          "Buenos días / Buenas tardes",
+          "greeting"
+        ],
+        [
+          "Quiero pedirte un favor.",
+          "Me gustaría solicitarle un favor.",
+          "request"
+        ],
+        [
+          "¿Puedes ayudarme?",
+          "¿Podría ayudarme?",
+          "polite request"
+        ],
+        [
+          "Dime lo que necesitas.",
+          "Indíqueme lo que necesita.",
+          "imperative"
+        ],
+        [
+          "Te llamo mañana.",
+          "Me pondré en contacto con usted mañana.",
+          "contact"
+        ],
+        [
+          "Lo siento.",
+          "Le pido disculpas.",
+          "apology"
+        ],
+        [
+          "Vale, genial.",
+          "De acuerdo, perfecto.",
+          "agreement"
+        ],
+        [
+          "Mira, ...",
+          "Cabe señalar que ...",
+          "introducing a point"
+        ],
+        [
+          "Qué rollo.",
+          "Resulta molesto.",
+          "complaint"
+        ],
+        [
+          "Nos vemos.",
+          "Quedo a su disposición.",
+          "closing"
+        ]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<b>Formal Spanish</b> prefers <i>podría / le agradecería que + imperfect subjunctive</i>: <i>Le agradecería que me enviara la factura.</i>",
+        "<b>Avoid contractions and slang</b>: use <i>para, estar, hacer</i>, not <i>pa, tar</i> etc.",
+        "<b>Passive and se constructions</b> sound formal: <i>Se ruega puntualidad. Se ha producido un error.</i>",
+        "<b>Vocabulary level:</b> <i>comprar</i> (neutral) / <i>adquirir</i> (formal), <i>empezar</i> / <i>iniciar</i>, <i>decir</i> / <i>indicar</i>, <i>pedir</i> / <i>solicitar</i>, <i>ver</i> / <i>observar</i>."
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "5. Writing a formal email or letter"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.0,
+        12.0
+      ],
+      "head": [
+        "Part",
+        "Useful phrases"
+      ],
+      "rows": [
+        [
+          "Greeting",
+          "Estimado señor López: / Estimada señora García: / Estimados señores: / Muy señor mío:"
+        ],
+        [
+          "Opening",
+          "Me dirijo a usted para + inf. / Le escribo con motivo de ... / En relación con su anuncio ..."
+        ],
+        [
+          "Request",
+          "Le agradecería que + imperf. subj. / Quisiera solicitar ... / Les ruego que + subj."
+        ],
+        [
+          "Complaint",
+          "Lamento comunicarle que ... / No estoy conforme con ... / Exijo una solución."
+        ],
+        [
+          "Giving information",
+          "Le informo de que ... / Adjunto le envío ... / Como le comenté por teléfono ..."
+        ],
+        [
+          "Closing",
+          "Quedo a su disposición para cualquier duda. / A la espera de su respuesta, ..."
+        ],
+        [
+          "Sign-off",
+          "Atentamente, / Un cordial saludo, / Reciba un cordial saludo. / Cordialmente,"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Model: complaint email"
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "Asunto: Reclamación del pedido número 4582",
+      "text": "Estimados señores:<br/><br/>Me dirijo a ustedes para comunicarles que el pedido que realicé el 3 de octubre todavía no ha llegado. Según su página web, el plazo máximo de entrega era de cinco días.<br/><br/>Les agradecería que me informaran del estado del envío y que, en caso de que no pudiera entregarse, me devolvieran el importe.<br/><br/>A la espera de su respuesta, reciban un cordial saludo.<br/><br/>Mark de Vries"
+    },
+    {
+      "type": "h2",
+      "text": "Informal email (to a friend)"
+    },
+    {
+      "type": "callout",
+      "kind": "spain",
+      "title": "Asunto: ¡Nos vemos el sábado!",
+      "text": "Hola, Ana:<br/><br/>¿Qué tal todo? Te escribo para decirte que al final puedo ir el sábado. ¿Quedamos a las ocho en la plaza? Si quieres, llevo yo algo de beber.<br/><br/>Un abrazo, y hasta pronto.<br/>Mark"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.0,
+        6.0,
+        6.0
+      ],
+      "head": [
+        "Informal closings",
+        "Neutral",
+        "Formal"
+      ],
+      "rows": [
+        [
+          "Un abrazo, / Besos, / Hasta pronto,",
+          "Saludos, / Un saludo,",
+          "Atentamente, / Reciba un cordial saludo,"
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "6. Common mistakes"
+    },
+    {
+      "type": "mistakes",
+      "rows": [
+        [
+          "Estimado Sr. López, quiero que me mandas la factura.",
+          "Estimado señor López: Le agradecería que me enviara la factura.",
+          "formal request: imperfect subjunctive."
+        ],
+        [
+          "Un abrazo, Atentamente.",
+          "Un abrazo. / Atentamente.",
+          "Choose one sign-off."
+        ],
+        [
+          "Es muy imposible.",
+          "Es imposible.",
+          "im- already negates."
+        ],
+        [
+          "Rápida mente.",
+          "Rápidamente.",
+          "one word."
+        ],
+        [
+          "La pobreza es muy grande, pobresa.",
+          "La pobreza.",
+          "-eza, not -esa."
+        ],
+        [
+          "La felicitad.",
+          "La felicidad.",
+          "-dad: felicidad."
+        ],
+        [
+          "Lentomente.",
+          "Lentamente.",
+          "feminine form + -mente."
+        ],
+        [
+          "Hola Señor López.",
+          "Estimado señor López:",
+          "formal greeting + colon."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "7. Self-check"
+    },
+    {
+      "type": "p",
+      "text": "Build the word or choose the correct formal form. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Hint"
+      ],
+      "items": [
+        {
+          "q": "El contrario de posible es ______.",
+          "hint": "im- + posible",
+          "a": "imposible",
+          "full": "El contrario de posible es imposible."
+        },
+        {
+          "q": "La ______ es el período anterior a la historia.",
+          "hint": "pre- + historia",
+          "a": "prehistoria",
+          "full": "La prehistoria es el período anterior a la historia."
+        },
+        {
+          "q": "Feliz: la ______.",
+          "hint": "noun with -dad",
+          "a": "felicidad",
+          "full": "Feliz: la felicidad."
+        },
+        {
+          "q": "Pobre: la ______.",
+          "hint": "noun with -eza",
+          "a": "pobreza",
+          "full": "Pobre: la pobreza."
+        },
+        {
+          "q": "Rápido: ______.",
+          "hint": "adverb",
+          "a": "rápidamente",
+          "full": "Rápido: rápidamente."
+        },
+        {
+          "q": "Comunicar: la ______.",
+          "hint": "noun with -ción",
+          "a": "comunicación",
+          "full": "Comunicar: la comunicación."
+        },
+        {
+          "q": "Pan: la ______.",
+          "hint": "shop, -ería",
+          "a": "panadería",
+          "full": "Pan: la panadería."
+        },
+        {
+          "q": "Formal: Le ______ que me enviara la factura.",
+          "hint": "agradecer: conditional, yo",
+          "a": "agradecería",
+          "full": "Formal: Le agradecería que me enviara la factura."
+        },
+        {
+          "q": "Le agradecería que me ______ la factura.",
+          "hint": "enviar: usted, imperfect subjunctive",
+          "a": "enviara",
+          "full": "Le agradecería que me enviara la factura."
+        },
+        {
+          "q": "______ a su disposición.",
+          "hint": "quedar: yo, present (formal closing)",
+          "a": "Quedo",
+          "full": "Quedo a su disposición."
+        },
+        {
+          "q": "______ un cordial saludo.",
+          "hint": "recibir: usted, imperative (formal)",
+          "a": "Reciba",
+          "full": "Reciba un cordial saludo."
+        },
+        {
+          "q": "Trabajar: el ______.",
+          "hint": "agent noun in -dor",
+          "a": "trabajador",
+          "full": "Trabajar: el trabajador."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish (formal):</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "I would be grateful if you could send me the invoice.",
+          "a": "Le agradecería que me enviara la factura."
+        },
+        {
+          "q": "I am writing to you about your advertisement.",
+          "a": "Le escribo en relación con su anuncio."
+        },
+        {
+          "q": "I remain at your disposal.",
+          "a": "Quedo a su disposición."
+        },
+        {
+          "q": "Yours sincerely (formal sign-off).",
+          "a": "Atentamente."
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

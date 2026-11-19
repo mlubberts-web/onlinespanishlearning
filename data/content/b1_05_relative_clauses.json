@@ -1,0 +1,503 @@
+{
+  "meta": {
+    "level": "B1",
+    "section": "Grammar",
+    "number": 5,
+    "total_in_level": 10,
+    "title": "Relative Clauses",
+    "subtitle": "que, quien, el que, lo que, donde, cuyo, and the indicative or subjunctive in relative clauses",
+    "footer": "Spanish Learning Program · B1 · Grammar · Relative clauses",
+    "next": "Next: B1 · PDF 6 — Passive voice and se constructions"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "link sentences with que, quien, el que, lo que, donde and cuyo",
+        "choose the right relative word after prepositions (en la que, con quien)",
+        "use the indicative or the subjunctive in relative clauses (busco un piso que tiene / tenga)",
+        "avoid the most common Dutch-influenced mistakes with relative clauses"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "1. Que: the all-purpose relative"
+    },
+    {
+      "type": "p",
+      "text": "A relative clause adds information about a noun. <b>Que</b> is the most common relative word: it works for people and things, for subject and object, singular and plural. It never changes and it is <b>never left out</b>, unlike English <i>the book (that) I read</i>."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        6.2,
+        6.4,
+        4.4
+      ],
+      "head": [
+        "Spanish",
+        "English",
+        "Note"
+      ],
+      "rows": [
+        [
+          "El libro que leí es muy bueno.",
+          "The book (that) I read is very good.",
+          "object, thing"
+        ],
+        [
+          "La chica que vive aquí es mi prima.",
+          "The girl who lives here is my cousin.",
+          "subject, person"
+        ],
+        [
+          "Los amigos que invité no vinieron.",
+          "The friends (that) I invited didn't come.",
+          "object, people"
+        ],
+        [
+          "Es la película que más me gusta.",
+          "It is the film I like best.",
+          "que cannot be left out"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "dutch",
+      "title": "die, dat, wat, dat",
+      "text": "Dutch chooses between <i>die</i> and <i>dat</i> depending on the gender of the noun, and uses <i>wat</i> for general things. Spanish is simpler: <b>que</b> for nouns (<i>het boek dat</i> = el libro que, <i>de man die</i> = el hombre que) and <b>lo que</b> for \"what\" (<i>wat je zegt</i> = lo que dices)."
+    },
+    {
+      "type": "h1",
+      "text": "2. After a preposition"
+    },
+    {
+      "type": "p",
+      "text": "After <b>a, con, de, en, por, para, sin ...</b> use <b>el que, la que, los que, las que</b> (the article agrees with the noun) or <b>quien / quienes</b> for people."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        6.0,
+        6.4,
+        4.6
+      ],
+      "head": [
+        "Spanish",
+        "English",
+        "Pattern"
+      ],
+      "rows": [
+        [
+          "La casa en la que vivo es pequeña.",
+          "The house I live in is small.",
+          "en + la que"
+        ],
+        [
+          "El restaurante al que fuimos era caro.",
+          "The restaurant we went to was expensive.",
+          "a + el que = al que"
+        ],
+        [
+          "Las razones por las que no vino son claras.",
+          "The reasons why he didn't come are clear.",
+          "por + las que"
+        ],
+        [
+          "La chica con quien hablé es de Chile.",
+          "The girl I talked to is from Chile.",
+          "con + quien (people)"
+        ],
+        [
+          "Los amigos con los que viajo son holandeses.",
+          "The friends I travel with are Dutch.",
+          "con + los que"
+        ],
+        [
+          "Es un tema del que sé poco.",
+          "It is a topic I know little about.",
+          "de + el que = del que"
+        ]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<b>Quien / quienes</b> only refers to people, and it agrees only in number: <i>la persona con quien, las personas con quienes</i>. In everyday Spain <b>con la que</b> is just as common.",
+        "<b>Quien</b> also means \"he who / whoever\": <i>Quien quiera venir, que me llame.</i> (Whoever wants to come should call me.)",
+        "<b>Donde</b> replaces <i>en el que</i> for places: <i>La ciudad donde nací</i> = <i>la ciudad en la que nací</i>.",
+        "<b>El cual / la cual</b> is a formal alternative (written language): <i>la razón por la cual ...</i>"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "3. Lo que and lo cual"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        6.2,
+        6.4,
+        4.4
+      ],
+      "head": [
+        "Spanish",
+        "English",
+        "Use"
+      ],
+      "rows": [
+        [
+          "No entiendo lo que dices.",
+          "I don't understand what you say.",
+          "what = the thing that"
+        ],
+        [
+          "Todo lo que dijo es verdad.",
+          "Everything he said is true.",
+          "todo lo que"
+        ],
+        [
+          "Lo que más me gusta es viajar.",
+          "What I like most is travelling.",
+          "subject of the sentence"
+        ],
+        [
+          "Llegó tarde, lo que me molestó.",
+          "He arrived late, which annoyed me.",
+          "refers to a whole idea"
+        ],
+        [
+          "No sé lo que quiero.",
+          "I don't know what I want.",
+          "indirect question"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "warn",
+      "title": "que vs lo que",
+      "text": "<b>Que</b> needs a noun before it (<i>el libro que</i>). When there is no noun, or you mean \"what\", use <b>lo que</b>: <i>No sé lo que dices</i>, never <i>No sé que dices</i>."
+    },
+    {
+      "type": "h1",
+      "text": "4. Donde, cuando, como and cuyo"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.6,
+        6.4,
+        5.0
+      ],
+      "head": [
+        "Spanish",
+        "English",
+        "Notes"
+      ],
+      "rows": [
+        [
+          "La ciudad donde nací es preciosa.",
+          "The city where I was born is beautiful.",
+          "place"
+        ],
+        [
+          "El día en que nos conocimos fue sábado.",
+          "The day we met was a Saturday.",
+          "time: en que"
+        ],
+        [
+          "La forma en que habla me encanta.",
+          "The way he speaks delights me.",
+          "manner: en que"
+        ],
+        [
+          "El hombre cuya hija es médica vive aquí.",
+          "The man whose daughter is a doctor lives here.",
+          "cuyo = whose"
+        ],
+        [
+          "La mujer cuyos hijos estudian fuera es mi vecina.",
+          "The woman whose children study away is my neighbour.",
+          "agrees with the noun after it"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "Cuyo agrees with the thing owned",
+      "text": "<b>cuyo, cuya, cuyos, cuyas</b> agrees with the noun that <b>follows</b> it, not with the owner: <i>el hombre cuya hija</i> (hija is feminine). It is common in writing and less common in speech, where <i>que su</i> is sometimes heard (avoid it in careful Spanish)."
+    },
+    {
+      "type": "h1",
+      "text": "5. Indicative or subjunctive?"
+    },
+    {
+      "type": "p",
+      "text": "In a relative clause, use the <b>indicative</b> when the noun is <b>specific and exists</b>, and the <b>subjunctive</b> when it is <b>unknown, hypothetical or does not exist</b>."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        6.0,
+        6.0,
+        5.0
+      ],
+      "head": [
+        "Indicative (specific)",
+        "Subjunctive (unknown or nonexistent)",
+        "English"
+      ],
+      "rows": [
+        [
+          "Busco un piso que tiene balcón.",
+          "Busco un piso que tenga balcón.",
+          "I'm looking for the flat that has a balcony. / for any flat with a balcony."
+        ],
+        [
+          "Tengo un amigo que habla chino.",
+          "¿Tienes algún amigo que hable chino?",
+          "I have a friend who speaks Chinese. / Do you have a friend who speaks Chinese?"
+        ],
+        [
+          "Hay alguien que sabe la respuesta.",
+          "No hay nadie que sepa la respuesta.",
+          "There is someone who knows. / There is no one who knows."
+        ],
+        [
+          "Quiero el libro que me recomendaste.",
+          "Quiero un libro que me ayude.",
+          "I want the book you recommended. / I want a book that helps me."
+        ]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<b>Personal a</b> returns for people: <i>Busco a un médico que hable inglés.</i> / <i>Busco a mi médico.</i> But <i>No hay nadie</i> and <i>Busco a alguien</i> keep their forms.",
+        "Triggers: <i>buscar, necesitar, querer</i> + nonspecific noun, <i>no hay ningún / nadie / nada que</i>, questions with <i>algún / alguien que</i>."
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "6. Punctuation"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        6.4,
+        6.0,
+        4.6
+      ],
+      "head": [
+        "Spanish",
+        "English",
+        "Rule"
+      ],
+      "rows": [
+        [
+          "Los alumnos que estudian aprueban.",
+          "The pupils who study pass.",
+          "no commas: restricts (only those who study)"
+        ],
+        [
+          "Los alumnos, que estudian mucho, aprueban.",
+          "The pupils, who study a lot, pass.",
+          "commas: extra information about all"
+        ],
+        [
+          "Mi hermano, que vive en Madrid, es médico.",
+          "My brother, who lives in Madrid, is a doctor.",
+          "commas for extra information"
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "7. Common mistakes"
+    },
+    {
+      "type": "mistakes",
+      "rows": [
+        [
+          "El libro lo que leí es bueno.",
+          "El libro que leí es bueno.",
+          "After a noun use que, not lo que."
+        ],
+        [
+          "La casa que vivo es pequeña.",
+          "La casa en la que vivo es pequeña.",
+          "Keep the preposition: en la que."
+        ],
+        [
+          "La chica que con hablé es de Chile.",
+          "La chica con la que hablé es de Chile.",
+          "The preposition comes before the relative word."
+        ],
+        [
+          "No entiendo que dices.",
+          "No entiendo lo que dices.",
+          "\"What\" is lo que."
+        ],
+        [
+          "El hombre que su hija es médica vive aquí.",
+          "El hombre cuya hija es médica vive aquí.",
+          "\"Whose\" is cuyo, agreeing with the thing owned."
+        ],
+        [
+          "Busco una casa que tiene jardín (cualquiera).",
+          "Busco una casa que tenga jardín.",
+          "Unknown or any house: subjunctive."
+        ],
+        [
+          "No hay nadie que sabe.",
+          "No hay nadie que sepa.",
+          "Nonexistent antecedent: subjunctive."
+        ],
+        [
+          "La persona quien llamó.",
+          "La persona que llamó.",
+          "Quien is not used as the subject of a restrictive clause in everyday Spanish."
+        ],
+        [
+          "Todo que dijo es verdad.",
+          "Todo lo que dijo es verdad.",
+          "todo + lo que."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "8. Self-check"
+    },
+    {
+      "type": "p",
+      "text": "Fill in the relative word, or the verb in brackets. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Hint"
+      ],
+      "items": [
+        {
+          "q": "El libro ______ leí es muy bueno.",
+          "hint": "that",
+          "a": "que",
+          "full": "El libro que leí es muy bueno."
+        },
+        {
+          "q": "La casa en ______ vivo es pequeña.",
+          "hint": "which",
+          "a": "la que",
+          "full": "La casa en la que vivo es pequeña."
+        },
+        {
+          "q": "La chica con ______ hablé es de Chile.",
+          "hint": "whom (person)",
+          "a": "quien",
+          "full": "La chica con quien hablé es de Chile."
+        },
+        {
+          "q": "No entiendo ______ dices.",
+          "hint": "what",
+          "a": "lo que",
+          "full": "No entiendo lo que dices."
+        },
+        {
+          "q": "El hombre ______ hija es médica vive aquí.",
+          "hint": "whose",
+          "a": "cuya",
+          "full": "El hombre cuya hija es médica vive aquí."
+        },
+        {
+          "q": "La ciudad ______ nací es preciosa.",
+          "hint": "where",
+          "a": "donde",
+          "full": "La ciudad donde nací es preciosa."
+        },
+        {
+          "q": "Todo ______ dijo es verdad.",
+          "hint": "everything he said",
+          "a": "lo que",
+          "full": "Todo lo que dijo es verdad."
+        },
+        {
+          "q": "Busco un piso que ______ balcón.",
+          "hint": "tener (any flat)",
+          "a": "tenga",
+          "full": "Busco un piso que tenga balcón."
+        },
+        {
+          "q": "Tengo un amigo que ______ en Londres.",
+          "hint": "vivir (specific)",
+          "a": "vive",
+          "full": "Tengo un amigo que vive en Londres."
+        },
+        {
+          "q": "No hay nadie que ______ la respuesta.",
+          "hint": "saber",
+          "a": "sepa",
+          "full": "No hay nadie que sepa la respuesta."
+        },
+        {
+          "q": "______ quieran venir pueden apuntarse.",
+          "hint": "whoever (plural)",
+          "a": "Quienes",
+          "full": "Quienes quieran venir pueden apuntarse."
+        },
+        {
+          "q": "El día en ______ nos conocimos fue sábado.",
+          "hint": "which",
+          "a": "que",
+          "full": "El día en que nos conocimos fue sábado."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish:</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "The film that I saw was great.",
+          "a": "La película que vi fue genial."
+        },
+        {
+          "q": "I don't understand what you say.",
+          "a": "No entiendo lo que dices."
+        },
+        {
+          "q": "I'm looking for someone who speaks German.",
+          "a": "Busco a alguien que hable alemán."
+        },
+        {
+          "q": "That is the woman whose son studies in Madrid.",
+          "a": "Esa es la mujer cuyo hijo estudia en Madrid."
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

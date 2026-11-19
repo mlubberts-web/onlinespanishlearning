@@ -1,0 +1,5 @@
+# Let Git handle line endings, but Windows batch files must keep Windows line endings
+* text=auto
+*.bat text eol=crlf
+*.pdf binary
+*.png binary

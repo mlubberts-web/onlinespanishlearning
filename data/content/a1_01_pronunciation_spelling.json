@@ -1,0 +1,224 @@
+{
+  "meta": {
+    "level": "A1",
+    "section": "Pronunciation",
+    "number": 1,
+    "total_in_level": 9,
+    "title": "Pronunciation, Spelling and Accents",
+    "subtitle": "The Spanish alphabet, sounds, stress rules and written accents (Spain Spanish)",
+    "footer": "Spanish Learning Program · A1 · Pronunciation, spelling and accents",
+    "next": "Next: A1 · PDF 2 — Regular verbs: present tense"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "name every letter and spell words aloud",
+        "pronounce the five vowels and the tricky consonants (c, z, g, j, h, ll, ñ, r, rr)",
+        "know which syllable to stress, and when a written accent is needed",
+        "use ¿ and ¡ and the basic Spanish capitalisation rules"
+      ]
+    },
+
+    { "type": "h1", "text": "1. The alphabet" },
+    {
+      "type": "p",
+      "text": "Spanish has <b>27 letters</b>. The combinations <b>ch</b> and <b>ll</b> used to count as separate letters but no longer do. Spanish spelling is very regular: once you know the rules, you can read any word aloud."
+    },
+    {
+      "type": "verbpairs",
+      "title": "Letter and name",
+      "items": [
+        ["A a", "a — agua"], ["B b", "be — bien"], ["C c", "ce — casa"], ["D d", "de — día"],
+        ["E e", "e — escuela"], ["F f", "efe — familia"], ["G g", "ge — gato"], ["H h", "hache — hola"],
+        ["I i", "i — isla"], ["J j", "jota — jamón"], ["K k", "ka — kilo"], ["L l", "ele — leche"],
+        ["M m", "eme — madre"], ["N n", "ene — nada"], ["Ñ ñ", "eñe — año"], ["O o", "o — ojo"],
+        ["P p", "pe — padre"], ["Q q", "cu — queso"], ["R r", "erre — rojo"], ["S s", "ese — sol"],
+        ["T t", "te — tarde"], ["U u", "u — uno"], ["V v", "uve — vino"], ["W w", "uve doble — web"],
+        ["X x", "equis — taxi"], ["Y y", "i griega — yo"], ["Z z", "zeta — zapato"]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "spain",
+      "title": "Spain vs Latin America",
+      "text": "In Spain the letters v and w are called <b>uve</b> and <b>uve doble</b>. Latin America often says ve and doble ve. To spell a name: C-A-R-L-O-S = ce, a, erre, ele, o, ese."
+    },
+
+    { "type": "h1", "text": "2. The five vowels" },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [2.2, 7.8, 7.0],
+      "head": ["Vowel", "Sound (approximate)", "Examples"],
+      "rows": [
+        ["a", "like the a in father, but shorter", "casa, mano, agua"],
+        ["e", "like the e in bed", "mesa, leche, ella"],
+        ["i", "like the ee in see, but shorter", "sí, mi, isla"],
+        ["o", "like the o in more, short and without a glide", "solo, ocho, ojo"],
+        ["u", "like the oo in too, but shorter", "uno, luna, mucho"]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "dutch",
+      "title": "Tips for Dutch speakers",
+      "bullets": [
+        "Keep each vowel <b>short and pure</b>. In many Dutch accents the long ee and oo glide a little (zee, boot). Spanish e and o never glide.",
+        "Say <b>every vowel clearly</b>, also when it is unstressed: ca-sa, not ca-suh. Spanish has no weak “schwa” sound."
+      ]
+    },
+
+    { "type": "h1", "text": "3. Consonants" },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [2.7, 6.0, 3.7, 4.6],
+      "head": ["Spelling", "Sound in Spain", "Examples", "Hint"],
+      "rows": [
+        ["b, v", "the same sound for both, like b in bed (softer between vowels)", "bien, vino, lavar", "vino starts with a b sound, not a v"],
+        ["c before a, o, u", "k", "casa, color, cuando", ""],
+        ["c before e, i; z", "th as in think", "cena, cielo, zapato, zumo", "Latin America says s here"],
+        ["qu", "k (the u is silent)", "queso, quiero", "never spelled keso"],
+        ["g before a, o, u", "hard g, as in go", "gato, goma, gusto", ""],
+        ["g before e, i; j", "harsh h, like the Dutch ch in acht", "gente, jamón, hijo, rojo", "Dutch speakers already have this sound"],
+        ["gu before e, i", "hard g (the u is silent)", "guerra, guitarra", "gü = the u is pronounced: pingüino"],
+        ["h", "silent", "hola, hombre, hijo", "never pronounced"],
+        ["ll", "like the y in yes (Dutch j)", "calle, llave, ella", ""],
+        ["y", "like the y in yes (Dutch j); the word y (and) sounds like ee", "yo, playa, y", ""],
+        ["ñ", "ny, as in canyon (Dutch nj in oranje)", "año, español, mañana", "the tilde changes the word"],
+        ["r (single)", "one quick tap of the tongue", "pero, cara, hora", ""],
+        ["rr, and r at the start of a word", "rolled r, several taps", "perro, rojo, rápido", "practise the roll slowly"],
+        ["s", "always a sharp s, as in sun", "casa, mesa, rosa", "never voiced like a z"],
+        ["d", "like d in dog at the start; a soft th (as in this) between vowels", "dos, nada, ciudad", ""],
+        ["ch", "like the ch in church (Dutch tsj)", "chico, noche", ""],
+        ["x", "ks", "taxi, examen", ""]
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "Practise aloud (stressed syllable in capitals)",
+      "items": [
+        ["queso", "KEH-so · cheese"], ["cena", "THEH-na · dinner"], ["gente", "HEN-te · people"], ["jamón", "ha-MON · ham"],
+        ["hijo", "EE-ho · son"], ["guerra", "GEH-rra · war"], ["llave", "YA-be · key"], ["año", "A-nyo · year"],
+        ["perro", "PEH-rro · dog"], ["zapato", "tha-PA-to · shoe"], ["ciudad", "thiu-DAD · city"], ["gracias", "GRA-thias · thank you"]
+      ]
+    },
+    {
+      "type": "bullets",
+      "latam_ok": true,
+      "items": [
+        "<b>pero</b> (but) and <b>perro</b> (dog): one tap against a rolled r.",
+        "<b>caro</b> (expensive) and <b>carro</b> (cart): the same difference.",
+        "<b>casa</b> (house) and <b>caza</b> (hunt): s against th, in Spain."
+      ]
+    },
+
+    { "type": "h1", "text": "4. Syllables and stress" },
+    {
+      "type": "p",
+      "text": "Every Spanish word has one stressed syllable. Two simple rules tell you which one, and a written accent marks every exception."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [4.6, 4.4, 3.2, 4.8],
+      "head": ["The word ends in", "Stress falls on", "Written accent?", "Examples"],
+      "rows": [
+        ["a vowel, n or s", "the second-to-last syllable", "no", "CAsa, haBLAN, LUnes"],
+        ["any other consonant", "the last syllable", "no", "haBLAR, ciuDAD, esPAÑOL"],
+        ["(an exception to the rules above)", "the syllable with the accent mark", "yes", "caFÉ, canCIÓN, teLÉfono, ÁRbol"]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "What an accent does and does not do",
+      "text": "A written accent only shows <b>where to stress</b> the word. It never changes the sound of the vowel. Words stressed on the third-to-last syllable always carry one: <i>teléfono, música, sábado</i>."
+    },
+    {
+      "type": "p",
+      "text": "<b>Strong vowels</b> are a, e, o. <b>Weak vowels</b> are i, u. Two strong vowels are two syllables (le-o). A strong and a weak vowel, or two weak vowels, form one syllable: <i>bue-no, tiem-po, ciu-dad</i>. An accent on the weak vowel splits them: <i>dí-a, pa-ís</i>."
+    },
+
+    { "type": "h1", "text": "5. Written accents and spelling" },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [3.2, 4.8, 3.2, 5.8],
+      "head": ["Without accent", "Meaning", "With accent", "Meaning"],
+      "rows": [
+        ["tu", "your", "tú", "you"],
+        ["el", "the", "él", "he"],
+        ["mi", "my", "mí", "me (after a preposition)"],
+        ["si", "if", "sí", "yes"],
+        ["te", "you (object), to you", "té", "tea"],
+        ["se", "himself, herself, themselves", "sé", "I know"]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<b>Question words</b> always carry an accent, in questions and exclamations: <i>qué, quién, dónde, cuándo, cómo, cuánto, cuál</i> (<i>¡Qué bien!</i>).",
+        "<b>Opening marks:</b> questions start with <b>¿</b> and exclamations with <b>¡</b>, as well as ending with ? and !",
+        "<b>Lower case:</b> days, months, languages and nationalities have no capital: <i>lunes, enero, español, holandés</i>.",
+        "<b>Titles</b> capitalise only the first word: <i>Cien años de soledad</i>.",
+        "<b>Double letters</b> are rare: mostly <b>ll</b> and <b>rr</b> (and sometimes <b>cc</b> or <b>nn</b>). Never double a vowel the way Dutch does: <i>hablar</i>, not hablaar."
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "dutch",
+      "title": "Free vocabulary: Dutch endings that match Spanish",
+      "bullets": [
+        "Dutch <b>-tie</b> = Spanish <b>-ción</b>: natie / nación, informatie / información, situatie / situación.",
+        "Dutch <b>-teit</b> = Spanish <b>-dad</b>: universiteit / universidad, activiteit / actividad.",
+        "Dutch <b>-logie</b> = Spanish <b>-logía</b>: biologie / biología, tecnologie / tecnología."
+      ]
+    },
+
+    { "type": "h1", "text": "6. Common mistakes" },
+    {
+      "type": "mistakes",
+      "rows": [
+        ["telefono", "teléfono", "Stress is on the third-to-last syllable, so it needs a written accent."],
+        ["estacion", "estación", "Ends in n, so the rule says stress the second-to-last syllable. The stress is on the last, so it takes an accent."],
+        ["Donde vives?", "¿Dónde vives?", "Questions open with ¿ and the question word carries an accent."],
+        ["Tu eres mi amigo.", "Tú eres mi amigo.", "tú (you) has an accent; tu (your) does not."],
+        ["Hablo Español.", "Hablo español.", "Languages are written in lower case."],
+        ["keso", "queso", "The k sound before e or i is spelled qu."],
+        ["gerra", "guerra", "A hard g before e or i needs a silent u: gue, gui."]
+      ]
+    },
+
+    { "type": "h1", "text": "7. Self-check" },
+    {
+      "type": "p",
+      "text": "Add the written accent where it is needed. If the word is already correct, copy it. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": ["Word or sentence", "Task"],
+      "answer_titles": ["Answer", "Why"],
+      "items": [
+        { "q": "telefono", "hint": "add accent if needed", "a": "teléfono", "full": "teléfono", "why": "Stress on the third-to-last syllable always takes an accent." },
+        { "q": "cancion", "hint": "add accent if needed", "a": "canción", "full": "canción", "why": "Ends in n, but the stress is on the last syllable." },
+        { "q": "arbol", "hint": "add accent if needed", "a": "árbol", "full": "árbol", "why": "Ends in l, so the rule gives the last syllable; the stress is on the first." },
+        { "q": "cafe", "hint": "add accent if needed", "a": "café", "full": "café", "why": "Ends in a vowel, so the rule gives the second-to-last; the stress is on the last." },
+        { "q": "facil", "hint": "add accent if needed", "a": "fácil", "full": "fácil", "why": "Ends in l, so the rule gives the last syllable; the stress is on the first." },
+        { "q": "pais", "hint": "add accent if needed", "a": "país", "full": "país", "why": "The accent on the weak vowel í splits a-í into two syllables and marks the stress." },
+        { "q": "estudiante", "hint": "add accent if needed", "a": "estudiante", "full": "estudiante", "why": "Ends in a vowel and the stress is on the second-to-last syllable: no accent." },
+        { "q": "¿Donde vives?", "hint": "add accent if needed", "a": "¿Dónde vives?", "full": "¿Dónde vives?", "why": "Question words carry an accent." },
+        { "q": "Tu eres mi amigo.", "hint": "add accent if needed", "a": "Tú eres mi amigo.", "full": "Tú eres mi amigo.", "why": "Here tú means you." },
+        { "q": "Es para tu madre.", "hint": "add accent if needed", "a": "Es para tu madre.", "full": "Es para tu madre.", "why": "Here tu means your: no accent." },
+        { "q": "¿Como estas?", "hint": "add accent if needed", "a": "¿Cómo estás?", "full": "¿Cómo estás?", "why": "Question word accent, and estás (you are) stresses the last syllable." },
+        { "q": "lapiz", "hint": "add accent if needed", "a": "lápiz", "full": "lápiz", "why": "Ends in z, so the rule gives the last syllable; the stress is on the first." }
+      ]
+    },
+
+    { "type": "pagebreak" },
+    { "type": "answers" }
+  ]
+}

@@ -1,0 +1,784 @@
+{
+  "meta": {
+    "level": "A2",
+    "section": "Grammar",
+    "number": 9,
+    "total_in_level": 10,
+    "title": "Comparisons, Negatives and Prepositions",
+    "subtitle": "Comparatives and superlatives, negative words, por vs para, obligation and fixed prepositions",
+    "footer": "Spanish Learning Program · A2 · Grammar · Comparisons and prepositions",
+    "next": "Next: A2 · PDF 10 — Vocabulary and set phrases"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "compare people and things (más que, tan como, el mejor de)",
+        "use the full set of negative and positive words (nada, nadie, nunca, ningún, ni ... ni)",
+        "choose between por and para in the most common situations",
+        "express obligation (tener que, hay que, deber) and use the right preposition after common verbs"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "1. Comparisons"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.8,
+        6.2,
+        6.0
+      ],
+      "head": [
+        "Structure",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "más + adjective + que",
+          "Madrid es más grande que Sevilla.",
+          "Madrid is bigger than Seville."
+        ],
+        [
+          "menos + adjective + que",
+          "Este libro es menos caro que ese.",
+          "This book is cheaper than that one."
+        ],
+        [
+          "tan + adjective + como",
+          "Ella es tan alta como su padre.",
+          "She is as tall as her father."
+        ],
+        [
+          "más / menos + noun + que",
+          "Tengo más libros que tú.",
+          "I have more books than you."
+        ],
+        [
+          "tanto/a/os/as + noun + como",
+          "Tengo tantos libros como tú.",
+          "I have as many books as you."
+        ],
+        [
+          "verb + más / menos que",
+          "Trabajo más que antes.",
+          "I work more than before."
+        ],
+        [
+          "verb + tanto como",
+          "Estudio tanto como mi hermano.",
+          "I study as much as my brother."
+        ],
+        [
+          "más / menos de + number",
+          "Hay más de cien personas.",
+          "There are more than a hundred people."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "warn",
+      "title": "que vs de",
+      "text": "Use <b>que</b> to compare two things. Use <b>de</b> instead of <i>que</i> before a <b>number</b>: <i>más de diez</i>, <i>menos de cinco euros</i>. <b>Tanto</b> agrees with the noun: tanto dinero, tanta agua, tantos libros, tantas cosas."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.0,
+        4.0,
+        4.0,
+        5.0
+      ],
+      "head": [
+        "Adjective",
+        "Comparative",
+        "Superlative",
+        "Example"
+      ],
+      "rows": [
+        [
+          "bueno / bien",
+          "mejor",
+          "el / la mejor",
+          "Es la mejor idea."
+        ],
+        [
+          "malo / mal",
+          "peor",
+          "el / la peor",
+          "Fue el peor día."
+        ],
+        [
+          "grande (age)",
+          "mayor",
+          "el / la mayor",
+          "Mi hermana es mayor que yo."
+        ],
+        [
+          "pequeño (age)",
+          "menor",
+          "el / la menor",
+          "Soy el menor de tres hermanos."
+        ]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<b>mejor</b> and <b>peor</b> are used for quality: <i>Este vino es mejor que ese.</i> Do not say <i>más bueno</i>.",
+        "<b>mayor</b> and <b>menor</b> are used for age: <i>mi hermano mayor</i> (my older brother). For size use <b>más grande</b> and <b>más pequeño</b>.",
+        "Equal quality: <i>igual de + adjective + que</i>: <i>Es igual de rápido que tú.</i>"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "2. Superlatives"
+    },
+    {
+      "type": "p",
+      "text": "The most / the least: <b>el / la / los / las + más / menos + adjective + de</b>. The word after the superlative is <b>de</b>, not <i>in</i>."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        7.4,
+        5.0,
+        4.6
+      ],
+      "head": [
+        "Example",
+        "English",
+        "Note"
+      ],
+      "rows": [
+        [
+          "Es la ciudad más grande de España.",
+          "It is the biggest city in Spain.",
+          "de, not en"
+        ],
+        [
+          "Es el alumno más inteligente de la clase.",
+          "He is the cleverest pupil in the class.",
+          ""
+        ],
+        [
+          "Son los coches menos caros de la tienda.",
+          "They are the cheapest cars in the shop.",
+          ""
+        ],
+        [
+          "Este es el mejor restaurante del barrio.",
+          "This is the best restaurant in the area.",
+          "de + el = del"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "-ísimo: very, very",
+      "text": "Add <b>-ísimo</b> (drop the final vowel) for an extreme degree: <i>grande</i> gives <b>grandísimo</b>, <i>caro</i> gives <b>carísimo</b>, <i>muy bueno</i> gives <b>buenísimo</b>, <i>rico</i> gives <b>riquísimo</b> (c becomes qu). It agrees: <i>buenísima, buenísimos</i>."
+    },
+    {
+      "type": "callout",
+      "kind": "dutch",
+      "title": "Dutch dan, als and in",
+      "text": "<i>groter dan</i> = <b>más grande que</b>. <i>zo groot als</i> = <b>tan grande como</b>. <i>de grootste in Spanje</i> = <b>el más grande de España</b>."
+    },
+    {
+      "type": "h1",
+      "text": "3. Negative and positive words"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        3.2,
+        3.2,
+        3.2,
+        3.2,
+        4.2
+      ],
+      "head": [
+        "Positive",
+        "Negative",
+        "Positive",
+        "Negative",
+        "Example"
+      ],
+      "rows": [
+        [
+          "algo",
+          "nada",
+          "alguien",
+          "nadie",
+          "No veo nada. No veo a nadie."
+        ],
+        [
+          "siempre",
+          "nunca / jamás",
+          "también",
+          "tampoco",
+          "Nunca llego tarde. Yo tampoco."
+        ],
+        [
+          "algún / alguno",
+          "ningún / ninguno",
+          "o ... o",
+          "ni ... ni",
+          "No tengo ningún problema."
+        ]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<b>After the verb</b>, you need <b>no</b> in front: <i>No veo nada.</i> <b>Before the verb</b>, no <i>no</i>: <i>Nada veo. Nadie habla. Nunca llego tarde.</i>",
+        "<b>ningún</b> / <b>ninguna</b> is used with a singular noun, even when the idea is plural: <i>No tengo ningún amigo aquí. No hay ninguna solución.</i> <b>Ninguno</b> stands alone: <i>¿Tienes hermanos? No, ninguno.</i>",
+        "<b>ni ... ni</b>: <i>No tengo ni tiempo ni dinero.</i> / <i>Ni él ni ella hablan francés.</i>",
+        "<b>jamás</b> is a stronger <i>nunca</i>: <i>Jamás lo olvidaré.</i>"
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "4. Por and para"
+    },
+    {
+      "type": "p",
+      "text": "Both can mean \"for\", which makes them hard for Dutch speakers (<i>voor</i>). The basic idea: <b>para</b> points forward to a goal, a destination or a recipient. <b>Por</b> looks back to the cause or passes through."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        2.0,
+        5.0,
+        5.4,
+        4.6
+      ],
+      "head": [
+        "",
+        "Use",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "para",
+          "purpose (in order to)",
+          "Estudio para aprender.",
+          "I study in order to learn."
+        ],
+        [
+          "para",
+          "recipient",
+          "Este regalo es para ti.",
+          "This present is for you."
+        ],
+        [
+          "para",
+          "destination",
+          "Salgo para Madrid.",
+          "I am leaving for Madrid."
+        ],
+        [
+          "para",
+          "deadline",
+          "Lo necesito para el lunes.",
+          "I need it by Monday."
+        ],
+        [
+          "para",
+          "opinion",
+          "Para mí, es muy difícil.",
+          "For me, it is very difficult."
+        ],
+        [
+          "para",
+          "employer",
+          "Trabajo para una empresa grande.",
+          "I work for a big company."
+        ],
+        [
+          "por",
+          "cause, reason",
+          "Lo hago por ti.",
+          "I do it because of you / for you."
+        ],
+        [
+          "por",
+          "thanks, sorry",
+          "Gracias por la ayuda.",
+          "Thanks for the help."
+        ],
+        [
+          "por",
+          "exchange, price",
+          "Pagué diez euros por el libro.",
+          "I paid ten euros for the book."
+        ],
+        [
+          "por",
+          "means",
+          "Hablamos por teléfono.",
+          "We talk by phone."
+        ],
+        [
+          "por",
+          "through, along",
+          "Paseo por el parque.",
+          "I walk through the park."
+        ],
+        [
+          "por",
+          "time of day",
+          "Trabajo por la mañana.",
+          "I work in the morning."
+        ],
+        [
+          "por",
+          "frequency",
+          "Voy al gimnasio tres veces por semana.",
+          "I go to the gym three times a week."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "dutch",
+      "title": "voor and door",
+      "text": "Dutch <i>voor</i> becomes <b>para</b> (recipient, purpose) or <b>por</b> (reason, price, in exchange). <i>door</i> (through, because of) is mostly <b>por</b>."
+    },
+    {
+      "type": "h1",
+      "text": "5. Obligation and necessity"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.4,
+        6.6,
+        6.0
+      ],
+      "head": [
+        "Structure",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "tener que + infinitive",
+          "Tengo que estudiar hoy.",
+          "I have to study today."
+        ],
+        [
+          "hay que + infinitive",
+          "Hay que llegar pronto.",
+          "One has to arrive early."
+        ],
+        [
+          "deber + infinitive",
+          "Debes descansar más.",
+          "You should rest more."
+        ],
+        [
+          "necesitar + infinitive",
+          "Necesito comprar pan.",
+          "I need to buy bread."
+        ],
+        [
+          "hace falta + noun / infinitive",
+          "Hace falta paciencia.",
+          "Patience is needed."
+        ],
+        [
+          "se puede / no se puede",
+          "Aquí no se puede fumar.",
+          "You can't smoke here."
+        ],
+        [
+          "está prohibido + infinitive",
+          "Está prohibido aparcar aquí.",
+          "Parking is forbidden here."
+        ]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<b>tener que</b> is personal and conjugates (tengo que, tienes que ...). <b>hay que</b> is impersonal and never changes.",
+        "<b>Negative:</b> <i>No tienes que venir</i> = you do not have to. <i>No debes venir</i> = you should not."
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "6. More prepositions"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        3.2,
+        4.0,
+        9.8
+      ],
+      "head": [
+        "Preposition",
+        "Meaning",
+        "Example"
+      ],
+      "rows": [
+        [
+          "antes de / después de",
+          "before / after",
+          "Antes de comer, me lavo las manos. Después de cenar, veo la tele."
+        ],
+        [
+          "durante",
+          "during",
+          "Durante el verano trabajo en un bar."
+        ],
+        [
+          "desde",
+          "since, from",
+          "Estudio español desde 2023."
+        ],
+        [
+          "desde hace",
+          "for (up to now)",
+          "Vivo aquí desde hace tres años."
+        ],
+        [
+          "hasta",
+          "until, as far as",
+          "Trabajo hasta las seis. Voy hasta la plaza."
+        ],
+        [
+          "hacia",
+          "towards",
+          "Caminamos hacia el centro."
+        ],
+        [
+          "según",
+          "according to",
+          "Según el profesor, el examen es fácil."
+        ],
+        [
+          "sobre",
+          "about, on top of",
+          "Un libro sobre España. Está sobre la mesa."
+        ],
+        [
+          "contra",
+          "against",
+          "Juegan contra el Real Madrid."
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Verbs with a fixed preposition"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.6,
+        4.6,
+        7.8
+      ],
+      "head": [
+        "Spanish",
+        "Dutch",
+        "Example"
+      ],
+      "rows": [
+        [
+          "pensar en",
+          "denken aan",
+          "Pienso en ti."
+        ],
+        [
+          "soñar con",
+          "dromen van",
+          "Sueño con viajar."
+        ],
+        [
+          "enamorarse de",
+          "verliefd worden op",
+          "Se enamoró de Ana."
+        ],
+        [
+          "acordarse de",
+          "zich herinneren",
+          "Me acuerdo de ti."
+        ],
+        [
+          "preocuparse por",
+          "zich zorgen maken over",
+          "Me preocupo por mis padres."
+        ],
+        [
+          "casarse con",
+          "trouwen met",
+          "Se casó con un médico."
+        ],
+        [
+          "confiar en",
+          "vertrouwen op",
+          "Confío en ti."
+        ],
+        [
+          "depender de",
+          "afhangen van",
+          "Depende del tiempo."
+        ],
+        [
+          "reírse de",
+          "lachen om",
+          "Se ríen de mí."
+        ],
+        [
+          "tener ganas de",
+          "zin hebben in",
+          "Tengo ganas de salir."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.6,
+        4.6,
+        7.8
+      ],
+      "head": [
+        "No preposition",
+        "Dutch",
+        "Example"
+      ],
+      "rows": [
+        [
+          "esperar",
+          "wachten op",
+          "Espero el autobús."
+        ],
+        [
+          "buscar",
+          "zoeken naar",
+          "Busco mis llaves."
+        ],
+        [
+          "mirar",
+          "kijken naar",
+          "Miro la tele."
+        ],
+        [
+          "escuchar",
+          "luisteren naar",
+          "Escucho música."
+        ],
+        [
+          "pedir",
+          "vragen om",
+          "Pido un café."
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "7. Common mistakes"
+    },
+    {
+      "type": "mistakes",
+      "rows": [
+        [
+          "Es más grande de mi casa.",
+          "Es más grande que mi casa.",
+          "Comparisons use que. Use de only before a number."
+        ],
+        [
+          "Es tan alto que su padre.",
+          "Es tan alto como su padre.",
+          "tan ... como, never tan ... que (that means \"so ... that\")."
+        ],
+        [
+          "Tengo tan libros como tú.",
+          "Tengo tantos libros como tú.",
+          "Before a noun use tanto, which agrees."
+        ],
+        [
+          "Es el más bueno.",
+          "Es el mejor.",
+          "bueno has an irregular comparative: mejor."
+        ],
+        [
+          "Nadie no habla.",
+          "Nadie habla.",
+          "Before the verb there is no \"no\"."
+        ],
+        [
+          "No tengo algún problema.",
+          "No tengo ningún problema.",
+          "A negative sentence needs ningún, not algún."
+        ],
+        [
+          "Estudio por aprender.",
+          "Estudio para aprender.",
+          "para + infinitive for purpose."
+        ],
+        [
+          "Gracias para tu ayuda.",
+          "Gracias por tu ayuda.",
+          "Thanks FOR something: por."
+        ],
+        [
+          "Pienso de ti.",
+          "Pienso en ti.",
+          "pensar takes en."
+        ],
+        [
+          "Espero por el autobús.",
+          "Espero el autobús.",
+          "esperar needs no preposition."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "8. Self-check"
+    },
+    {
+      "type": "p",
+      "text": "Complete each sentence. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Hint"
+      ],
+      "items": [
+        {
+          "q": "Madrid es más grande ______ Sevilla.",
+          "hint": "than",
+          "a": "que",
+          "full": "Madrid es más grande que Sevilla."
+        },
+        {
+          "q": "Mi hermana es ______ alta como yo.",
+          "hint": "as",
+          "a": "tan",
+          "full": "Mi hermana es tan alta como yo."
+        },
+        {
+          "q": "Tengo ______ libros como tú.",
+          "hint": "as many",
+          "a": "tantos",
+          "full": "Tengo tantos libros como tú."
+        },
+        {
+          "q": "Este es ______ restaurante del barrio.",
+          "hint": "the best",
+          "a": "el mejor",
+          "full": "Este es el mejor restaurante del barrio."
+        },
+        {
+          "q": "Mi coche es ______ que el tuyo.",
+          "hint": "worse",
+          "a": "peor",
+          "full": "Mi coche es peor que el tuyo."
+        },
+        {
+          "q": "No tengo ______ problema.",
+          "hint": "no / not any",
+          "a": "ningún",
+          "full": "No tengo ningún problema."
+        },
+        {
+          "q": "______ habla alemán en mi familia.",
+          "hint": "nobody",
+          "a": "Nadie",
+          "full": "Nadie habla alemán en mi familia."
+        },
+        {
+          "q": "Estudio ______ aprender español.",
+          "hint": "por / para",
+          "a": "para",
+          "full": "Estudio para aprender español."
+        },
+        {
+          "q": "Gracias ______ tu ayuda.",
+          "hint": "por / para",
+          "a": "por",
+          "full": "Gracias por tu ayuda."
+        },
+        {
+          "q": "Trabajo ______ la mañana.",
+          "hint": "por / para",
+          "a": "por",
+          "full": "Trabajo por la mañana."
+        },
+        {
+          "q": "______ comer, me lavo las manos.",
+          "hint": "before",
+          "a": "Antes de",
+          "full": "Antes de comer, me lavo las manos."
+        },
+        {
+          "q": "Vivo aquí ______ hace tres años.",
+          "hint": "since / for",
+          "a": "desde",
+          "full": "Vivo aquí desde hace tres años."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish:</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "She is taller than her brother.",
+          "a": "Es más alta que su hermano."
+        },
+        {
+          "q": "This is for you.",
+          "a": "Esto es para ti."
+        },
+        {
+          "q": "We have to work.",
+          "a": "Tenemos que trabajar."
+        },
+        {
+          "q": "I am thinking of you.",
+          "a": "Pienso en ti."
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

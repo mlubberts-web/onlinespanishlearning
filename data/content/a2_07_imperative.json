@@ -1,0 +1,831 @@
+{
+  "meta": {
+    "level": "A2",
+    "section": "Verbs",
+    "number": 7,
+    "total_in_level": 10,
+    "title": "The Imperative (Basic)",
+    "subtitle": "Commands to tú, usted, nosotros, vosotros and ustedes, affirmative and negative, with pronouns",
+    "footer": "Spanish Learning Program · A2 · Verbs · Imperative",
+    "next": "Next: A2 · PDF 8 — Object pronouns"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "give commands, instructions and invitations to tú, usted, nosotros, vosotros and ustedes",
+        "form affirmative and negative commands, including the 8 irregular tú forms",
+        "put object and reflexive pronouns in the right place (dímelo, no me lo digas)",
+        "sound polite or friendly with the most common command phrases"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "1. What the imperative does"
+    },
+    {
+      "type": "p",
+      "text": "The imperative is used for orders, instructions, advice, requests and invitations: <i>Abre la puerta. Come más verdura. Pasa, por favor.</i> It is used far more in Spanish than in English, and with <i>por favor</i> it is perfectly polite."
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<b>Instructions</b> (recipes, directions): <i>Corta la cebolla y añade sal. Gira a la derecha.</i>",
+        "<b>Invitations</b>: <i>Pasa. Siéntate. Come algo.</i>",
+        "<b>Suggestions with nosotros</b>: <i>Vamos. Comamos ya. Hablemos mañana.</i>"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "2. Tú: affirmative"
+    },
+    {
+      "type": "p",
+      "text": "The affirmative tú command is simply the <b>él / ella form of the present tense</b>: <i>(tú) hablas, (él) habla</i>, so the command is <b>habla</b>. The same for <b>come</b> and <b>vive</b>."
+    },
+    {
+      "type": "p",
+      "text": "Eight common verbs have an irregular tú command. Learn these by heart:"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        2.1,
+        2.1,
+        2.1,
+        2.1,
+        2.1,
+        2.1,
+        2.1,
+        2.1
+      ],
+      "head": [
+        "decir",
+        "hacer",
+        "ir",
+        "poner",
+        "salir",
+        "ser",
+        "tener",
+        "venir"
+      ],
+      "rows": [
+        [
+          "di",
+          "haz",
+          "ve",
+          "pon",
+          "sal",
+          "sé",
+          "ten",
+          "ven"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Examples: <i>Dime la verdad. Haz los deberes. Ve a casa. Pon la mesa. Sal de aquí. Sé amable. Ten cuidado. Ven aquí.</i>"
+    },
+    {
+      "type": "h1",
+      "text": "3. Usted, nosotros, ustedes and all negative commands"
+    },
+    {
+      "type": "p",
+      "text": "Take the <b>yo</b> form of the present, remove the <b>-o</b> and add the \"opposite vowel\": <b>-ar</b> verbs take <b>-e</b>, <b>-er / -ir</b> verbs take <b>-a</b>."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.6,
+        4.2,
+        4.2,
+        4.0
+      ],
+      "head": [
+        "Command to",
+        "-ar (hablar)",
+        "-er / -ir (comer, vivir)",
+        "Used for"
+      ],
+      "rows": [
+        [
+          "tú (negative)",
+          "-es: no hables",
+          "-as: no comas",
+          "friend, family"
+        ],
+        [
+          "usted",
+          "-e: hable",
+          "-a: coma",
+          "formal, one person"
+        ],
+        [
+          "nosotros",
+          "-emos: hablemos",
+          "-amos: comamos",
+          "let's ..."
+        ],
+        [
+          "vosotros (negative)",
+          "-éis: no habléis",
+          "-áis: no comáis",
+          "friends, family, group"
+        ],
+        [
+          "ustedes",
+          "-en: hablen",
+          "-an: coman",
+          "formal, group"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "Verbs with irregular yo forms keep that irregularity",
+      "text": "Because the command starts from the yo form, <i>hago</i> gives <b>haga, hagas, hagamos, hagáis, hagan</b>; <i>pongo</i> gives <b>ponga</b>; <i>salgo</i> gives <b>salga</b>; <i>tengo</i> gives <b>tenga</b>; <i>vengo</i> gives <b>venga</b>; <i>digo</i> gives <b>diga</b>. Exceptions: <b>ser</b> (sea) and <b>ir</b> (vaya)."
+    },
+    {
+      "type": "h2",
+      "text": "Vosotros: affirmative"
+    },
+    {
+      "type": "p",
+      "text": "Replace the final <b>-r</b> of the infinitive with <b>-d</b>: <b>hablad, comed, vivid</b>, and irregular verbs are regular here too: <b>id, venid, haced, decid, poned, salid, tened</b>. (<i>ser</i> is <b>sed</b>.) With a reflexive pronoun, the d disappears: <b>levantaos</b>, but <b>idos</b> for irse."
+    },
+    {
+      "type": "callout",
+      "kind": "spain",
+      "title": "Spain vs Latin America",
+      "text": "The vosotros command (<i>hablad, comed, venid</i>) exists only where vosotros is used: Spain. In Latin America ustedes is used for every group, so you would hear <b>hablen, coman, vengan</b>. Both are shown in all the tables below."
+    },
+    {
+      "type": "h1",
+      "text": "4. All regular forms"
+    },
+    {
+      "type": "conjgrid",
+      "tense": "imperative",
+      "title": "Affirmative commands: regular verbs",
+      "persons": [
+        "tú",
+        "usted",
+        "nosotros",
+        "vosotros",
+        "ustedes"
+      ],
+      "person_title": "Command to",
+      "verbs": [
+        {
+          "inf": "hablar",
+          "meaning": "to speak",
+          "forms": [
+            "*habla*",
+            "hable",
+            "hablemos",
+            "hablad",
+            "hablen"
+          ]
+        },
+        {
+          "inf": "comer",
+          "meaning": "to eat",
+          "forms": [
+            "*come*",
+            "coma",
+            "comamos",
+            "comed",
+            "coman"
+          ]
+        },
+        {
+          "inf": "vivir",
+          "meaning": "to live",
+          "forms": [
+            "*vive*",
+            "viva",
+            "vivamos",
+            "vivid",
+            "vivan"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conjgrid",
+      "tense": "imperative negative",
+      "title": "Negative commands: regular verbs",
+      "persons": [
+        "tú",
+        "usted",
+        "nosotros",
+        "vosotros",
+        "ustedes"
+      ],
+      "person_title": "Command to",
+      "verbs": [
+        {
+          "inf": "hablar",
+          "meaning": "to speak",
+          "forms": [
+            "no hables",
+            "no hable",
+            "no hablemos",
+            "no habléis",
+            "no hablen"
+          ]
+        },
+        {
+          "inf": "comer",
+          "meaning": "to eat",
+          "forms": [
+            "no comas",
+            "no coma",
+            "no comamos",
+            "no comáis",
+            "no coman"
+          ]
+        },
+        {
+          "inf": "vivir",
+          "meaning": "to live",
+          "forms": [
+            "no vivas",
+            "no viva",
+            "no vivamos",
+            "no viváis",
+            "no vivan"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "5. Irregular verbs"
+    },
+    {
+      "type": "conjgrid",
+      "tense": "imperative",
+      "title": "Affirmative commands: irregular verbs (1)",
+      "persons": [
+        "tú",
+        "usted",
+        "nosotros",
+        "vosotros",
+        "ustedes"
+      ],
+      "person_title": "Command to",
+      "verbs": [
+        {
+          "inf": "ser",
+          "meaning": "to be",
+          "forms": [
+            "*sé*",
+            "sea",
+            "seamos",
+            "sed",
+            "sean"
+          ]
+        },
+        {
+          "inf": "ir",
+          "meaning": "to go",
+          "forms": [
+            "*ve*",
+            "vaya",
+            "vamos",
+            "id",
+            "vayan"
+          ]
+        },
+        {
+          "inf": "hacer",
+          "meaning": "to do, make",
+          "forms": [
+            "*haz*",
+            "haga",
+            "hagamos",
+            "haced",
+            "hagan"
+          ]
+        },
+        {
+          "inf": "poner",
+          "meaning": "to put",
+          "forms": [
+            "*pon*",
+            "ponga",
+            "pongamos",
+            "poned",
+            "pongan"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conjgrid",
+      "tense": "imperative",
+      "title": "Affirmative commands: irregular verbs (2)",
+      "persons": [
+        "tú",
+        "usted",
+        "nosotros",
+        "vosotros",
+        "ustedes"
+      ],
+      "person_title": "Command to",
+      "verbs": [
+        {
+          "inf": "salir",
+          "meaning": "to leave, go out",
+          "forms": [
+            "*sal*",
+            "salga",
+            "salgamos",
+            "salid",
+            "salgan"
+          ]
+        },
+        {
+          "inf": "tener",
+          "meaning": "to have",
+          "forms": [
+            "*ten*",
+            "tenga",
+            "tengamos",
+            "tened",
+            "tengan"
+          ]
+        },
+        {
+          "inf": "venir",
+          "meaning": "to come",
+          "forms": [
+            "*ven*",
+            "venga",
+            "vengamos",
+            "venid",
+            "vengan"
+          ]
+        },
+        {
+          "inf": "decir",
+          "meaning": "to say, tell",
+          "forms": [
+            "*di*",
+            "diga",
+            "digamos",
+            "decid",
+            "digan"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conjgrid",
+      "tense": "imperative negative",
+      "title": "Negative commands: irregular verbs (1)",
+      "persons": [
+        "tú",
+        "usted",
+        "nosotros",
+        "vosotros",
+        "ustedes"
+      ],
+      "person_title": "Command to",
+      "verbs": [
+        {
+          "inf": "ser",
+          "meaning": "to be",
+          "forms": [
+            "no seas",
+            "no sea",
+            "no seamos",
+            "no seáis",
+            "no sean"
+          ]
+        },
+        {
+          "inf": "ir",
+          "meaning": "to go",
+          "forms": [
+            "no vayas",
+            "no vaya",
+            "no vayamos",
+            "no vayáis",
+            "no vayan"
+          ]
+        },
+        {
+          "inf": "hacer",
+          "meaning": "to do, make",
+          "forms": [
+            "no hagas",
+            "no haga",
+            "no hagamos",
+            "no hagáis",
+            "no hagan"
+          ]
+        },
+        {
+          "inf": "poner",
+          "meaning": "to put",
+          "forms": [
+            "no pongas",
+            "no ponga",
+            "no pongamos",
+            "no pongáis",
+            "no pongan"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conjgrid",
+      "tense": "imperative negative",
+      "title": "Negative commands: irregular verbs (2)",
+      "persons": [
+        "tú",
+        "usted",
+        "nosotros",
+        "vosotros",
+        "ustedes"
+      ],
+      "person_title": "Command to",
+      "verbs": [
+        {
+          "inf": "salir",
+          "meaning": "to leave, go out",
+          "forms": [
+            "no salgas",
+            "no salga",
+            "no salgamos",
+            "no salgáis",
+            "no salgan"
+          ]
+        },
+        {
+          "inf": "tener",
+          "meaning": "to have",
+          "forms": [
+            "no tengas",
+            "no tenga",
+            "no tengamos",
+            "no tengáis",
+            "no tengan"
+          ]
+        },
+        {
+          "inf": "venir",
+          "meaning": "to come",
+          "forms": [
+            "no vengas",
+            "no venga",
+            "no vengamos",
+            "no vengáis",
+            "no vengan"
+          ]
+        },
+        {
+          "inf": "decir",
+          "meaning": "to say, tell",
+          "forms": [
+            "no digas",
+            "no diga",
+            "no digamos",
+            "no digáis",
+            "no digan"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "dutch",
+      "title": "Negative commands are different",
+      "text": "Dutch uses the same verb form: <i>Praat!</i> / <i>Niet praten!</i>. In Spanish a negative tú command cannot use the affirmative form: <b>Habla</b> but <b>No hables</b> (never <i>No habla</i>). The same goes for vosotros: <b>Hablad</b>, but <b>No habléis</b>."
+    },
+    {
+      "type": "h1",
+      "text": "6. Pronouns and commands"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<b>Affirmative:</b> pronouns attach to the end of the verb. A written accent keeps the stress in place when needed: <i>levántate, siéntese, dímelo, cómpralo</i>. No accent for short forms: <i>dime, hazlo, ponlo</i>.",
+        "<b>Negative:</b> pronouns go before the verb, as separate words: <i>no te levantes, no me lo digas, no lo hagas</i>.",
+        "<b>With a reflexive verb</b>, the vosotros command loses its d: <i>levantaos</i>, <i>sentaos</i>."
+      ]
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.2,
+        5.6,
+        6.2
+      ],
+      "head": [
+        "Affirmative",
+        "Negative",
+        "English"
+      ],
+      "rows": [
+        [
+          "Levántate.",
+          "No te levantes.",
+          "Get up. / Don't get up."
+        ],
+        [
+          "Siéntate.",
+          "No te sientes.",
+          "Sit down. / Don't sit down."
+        ],
+        [
+          "Dime la verdad.",
+          "No me digas mentiras.",
+          "Tell me the truth. / Don't tell me lies."
+        ],
+        [
+          "Hazlo ahora.",
+          "No lo hagas.",
+          "Do it now. / Don't do it."
+        ],
+        [
+          "Ponlo aquí.",
+          "No lo pongas ahí.",
+          "Put it here. / Don't put it there."
+        ],
+        [
+          "Siéntese, por favor.",
+          "No se preocupe.",
+          "Sit down, please (formal). / Don't worry (formal)."
+        ],
+        [
+          "Levantaos.",
+          "No os levantéis.",
+          "Get up (all). / Don't get up (all)."
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "7. Useful command phrases"
+    },
+    {
+      "type": "verbpairs",
+      "title": "Everyday commands",
+      "widths": [
+        3.6,
+        4.9,
+        3.6,
+        4.9
+      ],
+      "items": [
+        [
+          "¡Ten cuidado!",
+          "Be careful!"
+        ],
+        [
+          "¡Mira!",
+          "Look!"
+        ],
+        [
+          "¡Oye!",
+          "Hey, listen!"
+        ],
+        [
+          "¡Dime!",
+          "Tell me! (What's up?)"
+        ],
+        [
+          "¡Venga!",
+          "Come on! (Spain)"
+        ],
+        [
+          "¡Vamos!",
+          "Let's go!"
+        ],
+        [
+          "¡Espera!",
+          "Wait!"
+        ],
+        [
+          "¡Cállate!",
+          "Shut up! (rude)"
+        ],
+        [
+          "Pasa / Pase",
+          "Come in"
+        ],
+        [
+          "Siéntate / Siéntese",
+          "Sit down"
+        ],
+        [
+          "Perdona / Perdone",
+          "Excuse me, sorry"
+        ],
+        [
+          "Oiga",
+          "Excuse me (to get attention, formal)"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "Sounding polite",
+      "text": "Add <b>por favor</b>: <i>Cierra la ventana, por favor.</i> Or turn the command into a question: <i>¿Puedes cerrar la ventana?</i> (informal) / <i>¿Puede cerrar la ventana?</i> (formal)."
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<b>Signs and written instructions</b> often use the infinitive: <i>No fumar. Empujar. Tirar. Agitar antes de usar.</i>"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "8. Common mistakes"
+    },
+    {
+      "type": "mistakes",
+      "rows": [
+        [
+          "No habla tan rápido.",
+          "No hables tan rápido.",
+          "Negative tú commands use the -es / -as form, not the él form."
+        ],
+        [
+          "Haces la tarea, por favor.",
+          "Haz la tarea, por favor.",
+          "A command is not the present tense. hacer has the irregular tú command haz."
+        ],
+        [
+          "Di me la verdad.",
+          "Dime la verdad.",
+          "Affirmative pronouns attach to the verb."
+        ],
+        [
+          "No me dime nada.",
+          "No me digas nada.",
+          "A negative command uses the negative form: no digas."
+        ],
+        [
+          "Pon lo aquí.",
+          "Ponlo aquí.",
+          "Write pronouns and verb as one word in affirmative commands."
+        ],
+        [
+          "Levanta te.",
+          "Levántate.",
+          "One word, with a written accent on the stressed syllable."
+        ],
+        [
+          "Sientate.",
+          "Siéntate.",
+          "Keep the stress on the stem: Siéntate."
+        ],
+        [
+          "No lo haz.",
+          "No lo hagas.",
+          "Negative commands never use the affirmative form."
+        ],
+        [
+          "Habláis más despacio, por favor.",
+          "Hablad más despacio, por favor.",
+          "A vosotros command: infinitive -r becomes -d."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "9. Self-check"
+    },
+    {
+      "type": "p",
+      "text": "Write the command. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Verb"
+      ],
+      "items": [
+        {
+          "q": "______ la puerta, por favor.",
+          "hint": "abrir (tú)",
+          "a": "Abre",
+          "full": "Abre la puerta, por favor."
+        },
+        {
+          "q": "______ más despacio.",
+          "hint": "hablar (tú)",
+          "a": "Habla",
+          "full": "Habla más despacio."
+        },
+        {
+          "q": "______ la verdad.",
+          "hint": "decir (tú)",
+          "a": "Di",
+          "full": "Di la verdad."
+        },
+        {
+          "q": "______ aquí, por favor.",
+          "hint": "venir (tú)",
+          "a": "Ven",
+          "full": "Ven aquí, por favor."
+        },
+        {
+          "q": "______ los deberes ahora.",
+          "hint": "hacer (tú)",
+          "a": "Haz",
+          "full": "Haz los deberes ahora."
+        },
+        {
+          "q": "No ______ tan tarde.",
+          "hint": "llegar (tú)",
+          "a": "llegues",
+          "full": "No llegues tan tarde."
+        },
+        {
+          "q": "No ______ eso.",
+          "hint": "hacer (tú)",
+          "a": "hagas",
+          "full": "No hagas eso."
+        },
+        {
+          "q": "______ el menú, por favor.",
+          "hint": "mirar (usted)",
+          "a": "Mire",
+          "full": "Mire el menú, por favor."
+        },
+        {
+          "q": "______, por favor.",
+          "hint": "sentarse (usted)",
+          "a": "Siéntese",
+          "full": "Siéntese, por favor."
+        },
+        {
+          "q": "______ en silencio, niños.",
+          "hint": "comer (vosotros)",
+          "a": "Comed",
+          "full": "Comed en silencio, niños."
+        },
+        {
+          "q": "No ______ tarde, chicos.",
+          "hint": "llegar (vosotros)",
+          "a": "lleguéis",
+          "full": "No lleguéis tarde, chicos."
+        },
+        {
+          "q": "______ con cuidado.",
+          "hint": "ir (tú)",
+          "a": "Ve",
+          "full": "Ve con cuidado."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish:</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "Be careful!",
+          "a": "¡Ten cuidado!"
+        },
+        {
+          "q": "Don't tell me that.",
+          "a": "No me digas eso."
+        },
+        {
+          "q": "Sit down, please (formal).",
+          "a": "Siéntese, por favor."
+        },
+        {
+          "q": "Let's go to the beach!",
+          "a": "¡Vamos a la playa!"
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

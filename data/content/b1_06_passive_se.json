@@ -1,0 +1,536 @@
+{
+  "meta": {
+    "level": "B1",
+    "section": "Grammar",
+    "number": 6,
+    "total_in_level": 10,
+    "title": "Passive Voice and se Constructions",
+    "subtitle": "ser + participle, estar + participle, se passive, impersonal se and accidents (se me cayó)",
+    "footer": "Spanish Learning Program · B1 · Grammar · Passive and se",
+    "next": "Next: B1 · PDF 7 — If-clauses and reported speech"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "form the passive with ser + participle and know when it is used",
+        "describe a result with estar + participle",
+        "use se for passive and impersonal statements (se habla español, se dice que)",
+        "talk about accidents with se me ... (se me olvidó, se me cayó)"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "1. Passive voice: ser + participle"
+    },
+    {
+      "type": "p",
+      "text": "In an active sentence the subject does the action (<i>Cervantes escribió el libro</i>). In a passive sentence the object becomes the subject: <b>ser</b> (in any tense) + <b>past participle</b>, which <b>agrees with the new subject</b>. The doer is introduced by <b>por</b>."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.6,
+        6.4,
+        6.0
+      ],
+      "head": [
+        "Tense",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "Present",
+          "La casa es limpiada cada semana.",
+          "The house is cleaned every week."
+        ],
+        [
+          "Preterite",
+          "El libro fue escrito por Cervantes.",
+          "The book was written by Cervantes."
+        ],
+        [
+          "Imperfect",
+          "Las cartas eran enviadas por correo.",
+          "The letters were sent by post."
+        ],
+        [
+          "Future",
+          "La puerta será abierta mañana.",
+          "The door will be opened tomorrow."
+        ],
+        [
+          "Present perfect",
+          "El problema ha sido resuelto.",
+          "The problem has been solved."
+        ]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<b>Agreement:</b> <i>la casa fue construida, los edificios fueron construidos, las casas fueron construidas</i>.",
+        "The passive with <b>ser</b> is common in <b>written</b> Spanish (news, history, formal texts) and rare in speech. In speech Spanish uses the active voice or <b>se</b> (section 3).",
+        "Use it when the <b>doer is mentioned</b> or when the focus is on the receiver: <i>Fue elegida presidenta por los socios.</i>"
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "dutch",
+      "title": "worden vs ser",
+      "text": "Dutch <i>worden</i> (het huis wordt schoongemaakt) and <i>zijn</i> (het huis is schoon) both exist. Spanish uses <b>ser + participle</b> for the action (<i>es limpiada</i>) and <b>estar + participle</b> for the result (<i>está limpia</i>). Dutch <i>werd</i> = <b>fue</b>."
+    },
+    {
+      "type": "h1",
+      "text": "2. Resulting state: estar + participle"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.6,
+        6.2,
+        5.2
+      ],
+      "head": [
+        "Action (ser)",
+        "Result (estar)",
+        "English"
+      ],
+      "rows": [
+        [
+          "La puerta fue cerrada por el portero.",
+          "La puerta está cerrada.",
+          "The door was closed by the porter. / The door is closed."
+        ],
+        [
+          "La cena fue preparada por mi madre.",
+          "La cena está preparada.",
+          "The dinner was prepared by my mother. / The dinner is ready."
+        ],
+        [
+          "Las ventanas fueron rotas por la tormenta.",
+          "Las ventanas están rotas.",
+          "The windows were broken by the storm. / The windows are broken."
+        ],
+        [
+          "La carta fue escrita por mi abuelo.",
+          "La carta está escrita a mano.",
+          "The letter was written by my grandfather. / The letter is handwritten."
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<i>Estar + participle</i> also works with adjectives: <i>cansado, abierto, ocupado, preocupado, sentado, enamorado</i>. The participle always agrees: <i>Los museos están cerrados. Ana está sentada.</i>"
+    },
+    {
+      "type": "h1",
+      "text": "3. Pasiva refleja: se + verb"
+    },
+    {
+      "type": "p",
+      "text": "When the doer does not matter, Spanish prefers <b>se + third person</b>. The verb agrees with the thing (the real subject): singular for one thing, plural for several."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        6.0,
+        6.0,
+        5.0
+      ],
+      "head": [
+        "Spanish",
+        "English",
+        "Agreement"
+      ],
+      "rows": [
+        [
+          "Se vende casa.",
+          "House for sale.",
+          "singular"
+        ],
+        [
+          "Se venden pisos.",
+          "Flats for sale.",
+          "plural"
+        ],
+        [
+          "Aquí se habla español.",
+          "Spanish is spoken here.",
+          "singular"
+        ],
+        [
+          "Se necesitan camareros.",
+          "Waiters wanted.",
+          "plural"
+        ],
+        [
+          "Se cerró el museo a las ocho.",
+          "The museum was closed at eight.",
+          "singular"
+        ],
+        [
+          "Estas cosas no se hacen.",
+          "These things are not done.",
+          "plural"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "warn",
+      "title": "No agent with se",
+      "text": "You cannot add <b>por + person</b> to a se sentence. For a named doer use ser + participle: <i>Fue construido por los romanos</i>, not <i>Se construyó por los romanos</i>."
+    },
+    {
+      "type": "h1",
+      "text": "4. Impersonal se (\"one\")"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        6.0,
+        6.0,
+        5.0
+      ],
+      "head": [
+        "Spanish",
+        "English",
+        "Pattern"
+      ],
+      "rows": [
+        [
+          "Se vive bien en España.",
+          "One lives well in Spain.",
+          "se + verb, no subject"
+        ],
+        [
+          "En España se cena tarde.",
+          "In Spain people have dinner late.",
+          "se + verb"
+        ],
+        [
+          "Se dice que va a llover.",
+          "They say it is going to rain.",
+          "se dice que"
+        ],
+        [
+          "¿Cómo se dice \"hello\" en español?",
+          "How do you say \"hello\" in Spanish?",
+          "question"
+        ],
+        [
+          "Se busca a un empleado.",
+          "An employee is wanted.",
+          "personal a + singular verb"
+        ],
+        [
+          "Se puede entrar.",
+          "You can come in.",
+          "se + modal"
+        ]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Another way to be impersonal is the <b>third person plural</b>: <i>Dicen que va a llover. Llaman a la puerta. Aquí hablan muy rápido.</i> (\"they\")",
+        "Or <b>tú</b> in speech: <i>Si pagas con tarjeta, tienes descuento.</i> (\"if you pay ...\")",
+        "<b>uno</b> is more formal: <i>Uno nunca sabe.</i> (You never know.)"
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "5. Accidents: se me ..."
+    },
+    {
+      "type": "p",
+      "text": "For things that <b>happen to you by accident</b> (not on purpose), Spanish uses <b>se + indirect pronoun + verb</b>. The verb agrees with the thing, and the person becomes the indirect object."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.2,
+        6.4,
+        5.4
+      ],
+      "head": [
+        "Spanish",
+        "Literal idea",
+        "English"
+      ],
+      "rows": [
+        [
+          "Se me olvidó la llave.",
+          "The key forgot itself to me.",
+          "I forgot the key."
+        ],
+        [
+          "Se me olvidaron las llaves.",
+          "The keys forgot themselves to me.",
+          "I forgot the keys."
+        ],
+        [
+          "Se me cayó el vaso.",
+          "The glass fell to me.",
+          "I dropped the glass."
+        ],
+        [
+          "Se te ha roto el móvil.",
+          "The phone broke to you.",
+          "You broke your phone (accidentally)."
+        ],
+        [
+          "Se le perdió el pasaporte.",
+          "The passport got lost to him.",
+          "He lost his passport."
+        ],
+        [
+          "Se nos acabó el tiempo.",
+          "The time ran out to us.",
+          "We ran out of time."
+        ],
+        [
+          "Se les quemó la comida.",
+          "The food burnt to them.",
+          "They burnt the food."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        3.6,
+        3.6,
+        3.6,
+        3.6,
+        2.6
+      ],
+      "head": [
+        "Pronoun",
+        "Person",
+        "Pronoun",
+        "Person",
+        "Verbs"
+      ],
+      "rows": [
+        [
+          "se me",
+          "to me",
+          "se nos",
+          "to us",
+          "olvidar"
+        ],
+        [
+          "se te",
+          "to you",
+          "se os",
+          "to you (all)",
+          "caer"
+        ],
+        [
+          "se le",
+          "to him / her / you (usted)",
+          "se les",
+          "to them / you (ustedes)",
+          "romper, perder, acabar, quemar"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "dutch",
+      "title": "Dutch: per ongeluk",
+      "text": "Dutch says <i>ik heb het laten vallen</i> (I dropped it); Spanish prefers <i>se me cayó</i> (it fell to me) when it is an accident. The sentence with <b>Rompí el móvil</b> sounds like you did it on purpose, whereas <b>Se me rompió el móvil</b> says it just happened."
+    },
+    {
+      "type": "h1",
+      "text": "6. Common mistakes"
+    },
+    {
+      "type": "mistakes",
+      "rows": [
+        [
+          "La casa fue construido en 1990.",
+          "La casa fue construida en 1990.",
+          "The participle agrees with the subject."
+        ],
+        [
+          "Se vende pisos.",
+          "Se venden pisos.",
+          "The verb agrees with the thing: plural."
+        ],
+        [
+          "El libro es escrito en 1605.",
+          "El libro fue escrito en 1605.",
+          "A finished past event: fue."
+        ],
+        [
+          "La tienda es cerrada ahora.",
+          "La tienda está cerrada ahora.",
+          "A state needs estar."
+        ],
+        [
+          "Aquí se hablan español.",
+          "Aquí se habla español.",
+          "español is singular."
+        ],
+        [
+          "Se olvidó las llaves.",
+          "Se me olvidaron las llaves.",
+          "Add me and make the verb plural."
+        ],
+        [
+          "Se me cayó los libros.",
+          "Se me cayeron los libros.",
+          "The verb agrees with the thing that fell."
+        ],
+        [
+          "Se construyó por los romanos.",
+          "Fue construido por los romanos.",
+          "se sentences cannot have a por agent."
+        ],
+        [
+          "Se dicen que va a llover.",
+          "Se dice que va a llover.",
+          "se dice que: always singular."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "7. Self-check"
+    },
+    {
+      "type": "p",
+      "text": "Fill in the missing word or the verb in brackets. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Hint"
+      ],
+      "items": [
+        {
+          "q": "La catedral ______ construida en el siglo XIII.",
+          "hint": "ser (preterite)",
+          "a": "fue",
+          "full": "La catedral fue construida en el siglo XIII."
+        },
+        {
+          "q": "Ya son las once: la tienda ______ cerrada.",
+          "hint": "state: estar",
+          "a": "está",
+          "full": "Ya son las once: la tienda está cerrada."
+        },
+        {
+          "q": "Se ______ pisos en el centro.",
+          "hint": "vender",
+          "a": "venden",
+          "full": "Se venden pisos en el centro."
+        },
+        {
+          "q": "Aquí se ______ español.",
+          "hint": "hablar",
+          "a": "habla",
+          "full": "Aquí se habla español."
+        },
+        {
+          "q": "Se ______ que va a llover.",
+          "hint": "decir",
+          "a": "dice",
+          "full": "Se dice que va a llover."
+        },
+        {
+          "q": "La novela fue escrita ______ Cervantes.",
+          "hint": "by",
+          "a": "por",
+          "full": "La novela fue escrita por Cervantes."
+        },
+        {
+          "q": "¿Cómo se ______ esto en español?",
+          "hint": "decir",
+          "a": "dice",
+          "full": "¿Cómo se dice esto en español?"
+        },
+        {
+          "q": "Se me ______ las llaves.",
+          "hint": "olvidar (preterite)",
+          "a": "olvidaron",
+          "full": "Se me olvidaron las llaves."
+        },
+        {
+          "q": "Se le ______ el vaso.",
+          "hint": "caer (preterite)",
+          "a": "cayó",
+          "full": "Se le cayó el vaso."
+        },
+        {
+          "q": "Se nos ______ el tiempo.",
+          "hint": "acabar (preterite)",
+          "a": "acabó",
+          "full": "Se nos acabó el tiempo."
+        },
+        {
+          "q": "Las cartas ______ enviadas ayer.",
+          "hint": "ser (preterite)",
+          "a": "fueron",
+          "full": "Las cartas fueron enviadas ayer."
+        },
+        {
+          "q": "En España se ______ tarde.",
+          "hint": "cenar",
+          "a": "cena",
+          "full": "En España se cena tarde."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish:</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "Spanish is spoken here.",
+          "a": "Aquí se habla español."
+        },
+        {
+          "q": "The windows were broken by the storm.",
+          "a": "Las ventanas fueron rotas por la tormenta."
+        },
+        {
+          "q": "I forgot my keys (accident).",
+          "a": "Se me olvidaron las llaves."
+        },
+        {
+          "q": "Flats for sale.",
+          "a": "Se venden pisos."
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

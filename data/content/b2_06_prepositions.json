@@ -1,0 +1,754 @@
+{
+  "meta": {
+    "level": "B2",
+    "section": "Grammar",
+    "number": 6,
+    "total_in_level": 10,
+    "title": "Prepositions and Verb + Preposition",
+    "subtitle": "por vs para, the personal a, verbs with fixed prepositions, dequeísmo and queísmo",
+    "footer": "Spanish Learning Program · B2 · Grammar · Prepositions",
+    "next": "Next: B2 · PDF 7 — Advanced pronouns"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "choose between por and para in all main uses",
+        "use verbs with fixed prepositions (depender de, soñar con, fijarse en, ...)",
+        "use the personal a correctly",
+        "avoid dequeísmo and queísmo (pienso que, me doy cuenta de que)"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "1. Por and para"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        3.0,
+        7.0,
+        7.0
+      ],
+      "head": [
+        "",
+        "POR",
+        "PARA"
+      ],
+      "rows": [
+        [
+          "Cause / reason",
+          "Lo hizo por amor. (because of)",
+          ""
+        ],
+        [
+          "Purpose",
+          "",
+          "Estudio para aprobar. (in order to)"
+        ],
+        [
+          "Recipient",
+          "",
+          "El regalo es para ti."
+        ],
+        [
+          "Deadline",
+          "",
+          "Lo necesito para el lunes."
+        ],
+        [
+          "Direction",
+          "Pasamos por el centro. (through)",
+          "Salgo para Madrid. (towards)"
+        ],
+        [
+          "Exchange / price",
+          "Lo compré por diez euros.",
+          ""
+        ],
+        [
+          "Means",
+          "Hablamos por teléfono. / por correo",
+          ""
+        ],
+        [
+          "Duration",
+          "Estuve allí por tres meses.",
+          ""
+        ],
+        [
+          "Agent (passive)",
+          "Escrito por Cervantes.",
+          ""
+        ],
+        [
+          "Opinion",
+          "",
+          "Para mí, es difícil."
+        ],
+        [
+          "Comparison",
+          "",
+          "Para ser extranjero, habla muy bien."
+        ],
+        [
+          "On behalf of",
+          "Lo hizo por mí. (for my sake)",
+          ""
+        ],
+        [
+          "Frequency / rate",
+          "Dos veces por semana. 100 km por hora.",
+          ""
+        ],
+        [
+          "Not yet done",
+          "La carta está por escribir.",
+          ""
+        ],
+        [
+          "About to",
+          "",
+          "Está para llover. (rare)"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "Core idea",
+      "text": "<b>por</b> looks <b>back</b> (cause, origin, exchange, route). <b>para</b> looks <b>forward</b> (goal, destination, deadline, recipient). <i>Trabajo por mi familia</i> (for their sake) vs <i>Trabajo para mi familia</i> (I work for them, e.g. in the family business)."
+    },
+    {
+      "type": "h2",
+      "text": "Set phrases"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.6,
+        5.6,
+        5.8
+      ],
+      "head": [
+        "With por",
+        "With para",
+        "English"
+      ],
+      "rows": [
+        [
+          "por eso",
+          "para eso",
+          "that is why / for that"
+        ],
+        [
+          "por favor",
+          "para siempre",
+          "please / for ever"
+        ],
+        [
+          "por ejemplo",
+          "para colmo",
+          "for example / to top it off"
+        ],
+        [
+          "por fin, por lo menos",
+          "para nada",
+          "finally, at least / not at all"
+        ],
+        [
+          "por si acaso",
+          "para variar",
+          "just in case / for a change"
+        ],
+        [
+          "por cierto",
+          "no ser para tanto",
+          "by the way / not be that bad"
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "2. Personal a"
+    },
+    {
+      "type": "p",
+      "text": "The direct object takes <b>a</b> when it is a <b>specific person</b> (or a pet / personified thing)."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        6.0,
+        5.6,
+        5.4
+      ],
+      "head": [
+        "With a",
+        "Without a",
+        "Note"
+      ],
+      "rows": [
+        [
+          "Veo a Ana.",
+          "Veo la casa.",
+          "person vs thing"
+        ],
+        [
+          "Conozco a tu hermano.",
+          "Conozco Madrid.",
+          "person vs place"
+        ],
+        [
+          "Quiero a mi perro.",
+          "Quiero un coche.",
+          "pet vs thing"
+        ],
+        [
+          "Busco a mi hermano.",
+          "Busco un hermano que sepa inglés.",
+          "specific vs unspecific"
+        ],
+        [
+          "Necesito a mi madre.",
+          "Necesito un médico.",
+          "specific person vs any"
+        ],
+        [
+          "No conozco a nadie.",
+          "No tengo hermanos.",
+          "nadie / alguien: a"
+        ]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<b>Alguien, nadie, alguno, ninguno</b> as objects take <i>a</i>: <i>¿Has visto a alguien? No vi a nadie.</i>",
+        "<b>Tener</b> usually takes no personal a: <i>Tengo dos hermanos.</i>",
+        "<b>Ser</b> and <b>haber</b> never take it: <i>Hay mucha gente.</i>"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "3. Verbs with fixed prepositions"
+    },
+    {
+      "type": "verbpairs",
+      "title": "Verbs + a",
+      "items": [
+        [
+          "aprender a",
+          "to learn to"
+        ],
+        [
+          "ayudar a",
+          "to help to"
+        ],
+        [
+          "atreverse a",
+          "to dare to"
+        ],
+        [
+          "dedicarse a",
+          "to devote oneself to"
+        ],
+        [
+          "negarse a",
+          "to refuse to"
+        ],
+        [
+          "acostumbrarse a",
+          "to get used to"
+        ],
+        [
+          "asistir a",
+          "to attend"
+        ],
+        [
+          "oler a",
+          "to smell of"
+        ],
+        [
+          "jugar a",
+          "to play (a game)"
+        ],
+        [
+          "llegar a",
+          "to arrive at"
+        ],
+        [
+          "parecerse a",
+          "to look like"
+        ],
+        [
+          "renunciar a",
+          "to give up"
+        ]
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "Verbs + de",
+      "items": [
+        [
+          "depender de",
+          "to depend on"
+        ],
+        [
+          "acordarse de",
+          "to remember"
+        ],
+        [
+          "olvidarse de",
+          "to forget"
+        ],
+        [
+          "darse cuenta de",
+          "to realize"
+        ],
+        [
+          "quejarse de",
+          "to complain about"
+        ],
+        [
+          "arrepentirse de",
+          "to regret"
+        ],
+        [
+          "alegrarse de",
+          "to be glad about"
+        ],
+        [
+          "enamorarse de",
+          "to fall in love with"
+        ],
+        [
+          "burlarse de",
+          "to make fun of"
+        ],
+        [
+          "tratar de",
+          "to try to"
+        ],
+        [
+          "tratarse de",
+          "to be about"
+        ],
+        [
+          "dudar de",
+          "to doubt"
+        ]
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "Verbs + en",
+      "items": [
+        [
+          "pensar en",
+          "to think of / about"
+        ],
+        [
+          "confiar en",
+          "to trust"
+        ],
+        [
+          "fijarse en",
+          "to notice"
+        ],
+        [
+          "insistir en",
+          "to insist on"
+        ],
+        [
+          "consistir en",
+          "to consist of"
+        ],
+        [
+          "tardar en",
+          "to take long to"
+        ],
+        [
+          "quedar en",
+          "to agree to"
+        ],
+        [
+          "basarse en",
+          "to be based on"
+        ],
+        [
+          "convertirse en",
+          "to turn into"
+        ],
+        [
+          "especializarse en",
+          "to specialise in"
+        ],
+        [
+          "influir en",
+          "to influence"
+        ],
+        [
+          "participar en",
+          "to take part in"
+        ]
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "Verbs + con",
+      "items": [
+        [
+          "soñar con",
+          "to dream of"
+        ],
+        [
+          "contar con",
+          "to count on"
+        ],
+        [
+          "casarse con",
+          "to marry"
+        ],
+        [
+          "encontrarse con",
+          "to run into"
+        ],
+        [
+          "salir con",
+          "to go out with"
+        ],
+        [
+          "comprometerse con",
+          "to commit to"
+        ],
+        [
+          "conformarse con",
+          "to settle for"
+        ],
+        [
+          "quedarse con",
+          "to keep"
+        ],
+        [
+          "enfadarse con",
+          "to get angry with"
+        ],
+        [
+          "tener que ver con",
+          "to have to do with"
+        ],
+        [
+          "acabar con",
+          "to put an end to"
+        ],
+        [
+          "bastar con",
+          "to be enough"
+        ]
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "Verbs + por / para",
+      "items": [
+        [
+          "preocuparse por",
+          "to worry about"
+        ],
+        [
+          "interesarse por",
+          "to be interested in"
+        ],
+        [
+          "luchar por",
+          "to fight for"
+        ],
+        [
+          "esforzarse por",
+          "to strive to"
+        ],
+        [
+          "optar por",
+          "to opt for"
+        ],
+        [
+          "felicitar por",
+          "to congratulate on"
+        ],
+        [
+          "preguntar por",
+          "to ask after"
+        ],
+        [
+          "votar por",
+          "to vote for"
+        ],
+        [
+          "servir para",
+          "to be used for"
+        ],
+        [
+          "estar para",
+          "to be about to / in the mood"
+        ],
+        [
+          "prepararse para",
+          "to get ready for"
+        ],
+        [
+          "trabajar para",
+          "to work for"
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "4. Dequeísmo and queísmo"
+    },
+    {
+      "type": "p",
+      "text": "The preposition stays with the verb that needs it. If the verb needs <b>de</b>, keep <b>de que</b>; if not, use plain <b>que</b>."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.6,
+        5.6,
+        5.8
+      ],
+      "head": [
+        "Wrong",
+        "Right",
+        "Reason"
+      ],
+      "rows": [
+        [
+          "Pienso de que es verdad.",
+          "Pienso que es verdad.",
+          "pensar que: no de"
+        ],
+        [
+          "Dijo de que vendría.",
+          "Dijo que vendría.",
+          "decir que"
+        ],
+        [
+          "Creo de que tienes razón.",
+          "Creo que tienes razón.",
+          "creer que"
+        ],
+        [
+          "Me alegro que vengas.",
+          "Me alegro de que vengas.",
+          "alegrarse DE que"
+        ],
+        [
+          "Me di cuenta que era tarde.",
+          "Me di cuenta de que era tarde.",
+          "darse cuenta DE que"
+        ],
+        [
+          "Estoy seguro que vendrá.",
+          "Estoy seguro de que vendrá.",
+          "estar seguro DE que"
+        ],
+        [
+          "Me acuerdo que dijo eso.",
+          "Me acuerdo de que dijo eso.",
+          "acordarse DE que"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "Quick test",
+      "text": "Turn the clause into a question with <b>qué</b>: <i>¿Qué piensas?</i> (no preposition) gives <i>pienso que</i>. <i>¿De qué te alegras?</i> (with de) gives <i>me alegro de que</i>."
+    },
+    {
+      "type": "h1",
+      "text": "5. Common mistakes"
+    },
+    {
+      "type": "mistakes",
+      "rows": [
+        [
+          "El regalo es por ti.",
+          "El regalo es para ti.",
+          "recipient: para"
+        ],
+        [
+          "Estudio por aprobar.",
+          "Estudio para aprobar.",
+          "purpose: para"
+        ],
+        [
+          "Gracias para tu ayuda.",
+          "Gracias por tu ayuda.",
+          "thanks FOR: por"
+        ],
+        [
+          "Lo compré para diez euros.",
+          "Lo compré por diez euros.",
+          "price: por"
+        ],
+        [
+          "Veo Ana.",
+          "Veo a Ana.",
+          "personal a"
+        ],
+        [
+          "Llegué en Madrid.",
+          "Llegué a Madrid.",
+          "llegar a"
+        ],
+        [
+          "Sueño de ti.",
+          "Sueño contigo.",
+          "soñar con"
+        ],
+        [
+          "Depende en ti.",
+          "Depende de ti.",
+          "depender de"
+        ],
+        [
+          "Me casé a mi pareja.",
+          "Me casé con mi pareja.",
+          "casarse con"
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "6. Self-check"
+    },
+    {
+      "type": "p",
+      "text": "Fill in the correct preposition. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Hint"
+      ],
+      "items": [
+        {
+          "q": "Este regalo es ______ ti.",
+          "hint": "por / para",
+          "a": "para",
+          "full": "Este regalo es para ti."
+        },
+        {
+          "q": "Gracias ______ tu ayuda.",
+          "hint": "por / para",
+          "a": "por",
+          "full": "Gracias por tu ayuda."
+        },
+        {
+          "q": "Lo compré ______ diez euros.",
+          "hint": "price",
+          "a": "por",
+          "full": "Lo compré por diez euros."
+        },
+        {
+          "q": "Lo necesito ______ el lunes.",
+          "hint": "deadline",
+          "a": "para",
+          "full": "Lo necesito para el lunes."
+        },
+        {
+          "q": "Veo ______ Ana.",
+          "hint": "personal a",
+          "a": "a",
+          "full": "Veo a Ana."
+        },
+        {
+          "q": "Depende ______ ti.",
+          "hint": "preposition",
+          "a": "de",
+          "full": "Depende de ti."
+        },
+        {
+          "q": "Sueño ______.",
+          "hint": "con + ti: one word",
+          "a": "contigo",
+          "full": "Sueño contigo."
+        },
+        {
+          "q": "Me alegro ______ que vengas.",
+          "hint": "preposition",
+          "a": "de",
+          "full": "Me alegro de que vengas."
+        },
+        {
+          "q": "Me casé ______ mi pareja.",
+          "hint": "preposition",
+          "a": "con",
+          "full": "Me casé con mi pareja."
+        },
+        {
+          "q": "No me fijé ______ el cartel.",
+          "hint": "preposition",
+          "a": "en",
+          "full": "No me fijé en el cartel."
+        },
+        {
+          "q": "Salgo ______ Madrid mañana.",
+          "hint": "towards",
+          "a": "para",
+          "full": "Salgo para Madrid mañana."
+        },
+        {
+          "q": "Hablamos ______ teléfono.",
+          "hint": "means",
+          "a": "por",
+          "full": "Hablamos por teléfono."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish:</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "I am studying to pass the exam.",
+          "a": "Estudio para aprobar el examen."
+        },
+        {
+          "q": "Thanks for your help.",
+          "a": "Gracias por tu ayuda."
+        },
+        {
+          "q": "I realized that it was late.",
+          "a": "Me di cuenta de que era tarde."
+        },
+        {
+          "q": "I am looking for my brother.",
+          "a": "Busco a mi hermano."
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

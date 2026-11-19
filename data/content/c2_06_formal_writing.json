@@ -1,0 +1,506 @@
+{
+  "meta": {
+    "level": "C2",
+    "section": "Writing",
+    "number": 6,
+    "total_in_level": 10,
+    "title": "Formal and Administrative Writing",
+    "subtitle": "letters and emails, requests and complaints, legal and official phrases, report language and Spanish bureaucracy",
+    "footer": "Spanish Learning Program · C2 · Writing · Formal writing",
+    "next": "Next: C2 · PDF 7 — Idioms, slang and colloquial Spain"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "write formal letters and emails in correct register",
+        "make polite requests and complaints",
+        "recognise legal and administrative phrases",
+        "find your way through Spanish paperwork"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "1. Formal letters and emails"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.0,
+        6.4,
+        5.6
+      ],
+      "head": [
+        "Part",
+        "Phrase",
+        "English"
+      ],
+      "rows": [
+        [
+          "greeting (known person)",
+          "Estimado señor López:",
+          "Dear Mr López,"
+        ],
+        [
+          "greeting (unknown)",
+          "Muy señor mío: / A quien corresponda:",
+          "Dear Sir / To whom it may concern"
+        ],
+        [
+          "opening",
+          "Me dirijo a usted para solicitar información.",
+          "I am writing to ask for information."
+        ],
+        [
+          "reference",
+          "En respuesta a su carta del 3 de mayo...",
+          "In reply to your letter of 3 May..."
+        ],
+        [
+          "attachment",
+          "Adjunto le envío mi currículum.",
+          "I attach my CV."
+        ],
+        [
+          "request",
+          "Le agradecería que me enviara el documento.",
+          "I would be grateful if you sent the document."
+        ],
+        [
+          "closing",
+          "Quedo a su disposición para cualquier consulta.",
+          "I remain at your disposal."
+        ],
+        [
+          "sign-off",
+          "Atentamente, / Un cordial saludo,",
+          "Yours sincerely, / Kind regards,"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "spain",
+      "title": "Spain conventions",
+      "text": "In formal Spanish, <b>usted</b> is the norm and the date goes at the top. Emails to companies often end with <i>Un cordial saludo</i>; letters to authorities with <i>Le saluda atentamente</i>."
+    },
+    {
+      "type": "h1",
+      "text": "2. Requests, complaints, replies"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.6,
+        6.0,
+        5.4
+      ],
+      "head": [
+        "Function",
+        "Phrase",
+        "Register"
+      ],
+      "rows": [
+        [
+          "request",
+          "Le ruego que me confirme la recepción.",
+          "very formal"
+        ],
+        [
+          "request",
+          "Quisiera solicitar una cita.",
+          "formal"
+        ],
+        [
+          "complaint",
+          "Lamento comunicarle mi disconformidad con...",
+          "formal"
+        ],
+        [
+          "complaint",
+          "Presento una reclamación por el retraso.",
+          "official"
+        ],
+        [
+          "thanks",
+          "Le agradezco de antemano su atención.",
+          "formal"
+        ],
+        [
+          "apology",
+          "Le pedimos disculpas por las molestias.",
+          "formal"
+        ],
+        [
+          "reply",
+          "Le informamos de que su solicitud ha sido aprobada.",
+          "official"
+        ],
+        [
+          "end",
+          "Sin otro particular, le saluda atentamente.",
+          "traditional closing"
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "3. Administrative and legal phrases"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.2,
+        6.0,
+        5.8
+      ],
+      "head": [
+        "Phrase",
+        "Meaning",
+        "Example"
+      ],
+      "rows": [
+        [
+          "por la presente",
+          "by this letter",
+          "Por la presente solicito una copia."
+        ],
+        [
+          "el abajo firmante",
+          "the undersigned",
+          "El abajo firmante declara..."
+        ],
+        [
+          "hacer constar",
+          "to state officially",
+          "Se hace constar que..."
+        ],
+        [
+          "a efectos de",
+          "for the purposes of",
+          "A efectos de este informe, el plazo es de un mes."
+        ],
+        [
+          "de conformidad con",
+          "in accordance with",
+          "De conformidad con la ley, el contrato es válido."
+        ],
+        [
+          "en virtud de",
+          "by virtue of",
+          "En virtud del artículo 5, se concede."
+        ],
+        [
+          "en el plazo de",
+          "within the period of",
+          "En el plazo de diez días."
+        ],
+        [
+          "se estipula que",
+          "it is stipulated that",
+          "Se estipula que el pago será mensual."
+        ],
+        [
+          "quedar sin efecto",
+          "to become void",
+          "El contrato quedará sin efecto."
+        ],
+        [
+          "a tenor de",
+          "in accordance with",
+          "A tenor de lo dispuesto..."
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "4. Report and essay language"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.2,
+        6.2,
+        5.6
+      ],
+      "head": [
+        "Phrase",
+        "Use",
+        "Example"
+      ],
+      "rows": [
+        [
+          "cabe señalar que",
+          "to add a point",
+          "Cabe señalar que los datos son provisionales."
+        ],
+        [
+          "todo parece indicar que",
+          "hedging",
+          "Todo parece indicar que subirán los precios."
+        ],
+        [
+          "a la luz de",
+          "in view of",
+          "A la luz de estos datos, se recomienda esperar."
+        ],
+        [
+          "se desprende que",
+          "it follows that",
+          "De ello se desprende que hay un error."
+        ],
+        [
+          "en suma / en conclusión",
+          "summarising",
+          "En suma, el proyecto es viable."
+        ],
+        [
+          "no obstante",
+          "however",
+          "No obstante, hay riesgos."
+        ],
+        [
+          "cabe esperar que",
+          "to expect",
+          "Cabe esperar que mejore la situación."
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "5. Spanish administration"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.6,
+        6.4,
+        6.0
+      ],
+      "head": [
+        "Term",
+        "Meaning",
+        "Note"
+      ],
+      "rows": [
+        [
+          "el padrón / empadronamiento",
+          "town registration",
+          "needed for most procedures"
+        ],
+        [
+          "el NIE",
+          "foreigner ID number",
+          "for non-Spanish residents"
+        ],
+        [
+          "el DNI",
+          "national ID card",
+          "for Spanish citizens"
+        ],
+        [
+          "la Seguridad Social",
+          "social security",
+          "health, pensions"
+        ],
+        [
+          "Hacienda",
+          "tax authority",
+          "declaración de la renta"
+        ],
+        [
+          "la gestoría",
+          "administrative agency",
+          "handles paperwork"
+        ],
+        [
+          "la instancia",
+          "official request form",
+          "\"presentar una instancia\""
+        ],
+        [
+          "la cita previa",
+          "appointment",
+          "required at most offices"
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "6. Common mistakes"
+    },
+    {
+      "type": "mistakes",
+      "rows": [
+        [
+          "Querido señor López:",
+          "Estimado señor López:",
+          "querido is too personal."
+        ],
+        [
+          "Te escribo para solicitar información.",
+          "Me dirijo a usted para solicitar información.",
+          "formal register: usted."
+        ],
+        [
+          "Quiero que me envíes el documento.",
+          "Le agradecería que me enviara el documento.",
+          "polite subjunctive."
+        ],
+        [
+          "Hasta luego, Pedro.",
+          "Atentamente, Pedro López.",
+          "formal sign-off."
+        ],
+        [
+          "Le agradezco que me envía el documento.",
+          "Le agradezco que me envíe el documento.",
+          "agradecer que + subjunctive."
+        ],
+        [
+          "Adjunto os envío el informe.",
+          "Adjunto le envío el informe.",
+          "usted in formal letters."
+        ],
+        [
+          "En el abajo firmante...",
+          "El abajo firmante...",
+          "fixed phrase with el."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "7. Self-check"
+    },
+    {
+      "type": "p",
+      "text": "Fill in the blank. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Hint"
+      ],
+      "items": [
+        {
+          "q": "Me ______ a usted para solicitar información.",
+          "hint": "dirigir: present, yo",
+          "a": "dirijo",
+          "full": "Me dirijo a usted para solicitar información."
+        },
+        {
+          "q": "Le ______ que me enviara el documento.",
+          "hint": "agradecer: conditional",
+          "a": "agradecería",
+          "full": "Le agradecería que me enviara el documento."
+        },
+        {
+          "q": "Adjunto le ______ mi currículum.",
+          "hint": "enviar: present, yo",
+          "a": "envío",
+          "full": "Adjunto le envío mi currículum."
+        },
+        {
+          "q": "Quedo a su ______.",
+          "hint": "at your service",
+          "a": "disposición",
+          "full": "Quedo a su disposición."
+        },
+        {
+          "q": "______ otro particular, le saluda atentamente.",
+          "hint": "without",
+          "a": "Sin",
+          "full": "Sin otro particular, le saluda atentamente."
+        },
+        {
+          "q": "En ______ a su carta, le informo de lo siguiente.",
+          "hint": "reply",
+          "a": "respuesta",
+          "full": "En respuesta a su carta, le informo de lo siguiente."
+        },
+        {
+          "q": "El abajo ______ declara que los datos son ciertos.",
+          "hint": "signer",
+          "a": "firmante",
+          "full": "El abajo firmante declara que los datos son ciertos."
+        },
+        {
+          "q": "______ la presente, solicito una copia.",
+          "hint": "by",
+          "a": "Por",
+          "full": "Por la presente, solicito una copia."
+        },
+        {
+          "q": "De ______ con la ley, el contrato es válido.",
+          "hint": "accordance",
+          "a": "conformidad",
+          "full": "De conformidad con la ley, el contrato es válido."
+        },
+        {
+          "q": "______ señalar que los datos son provisionales.",
+          "hint": "it is fitting",
+          "a": "Cabe",
+          "full": "Cabe señalar que los datos son provisionales."
+        },
+        {
+          "q": "A los ______ de este informe, el plazo es de un mes.",
+          "hint": "purposes",
+          "a": "efectos",
+          "full": "A los efectos de este informe, el plazo es de un mes."
+        },
+        {
+          "q": "Le ______ atentamente.",
+          "hint": "saludar: present, él/ella",
+          "a": "saluda",
+          "full": "Le saluda atentamente."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish (Spain):</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "I am writing to ask for information.",
+          "a": "Me dirijo a usted para solicitar información."
+        },
+        {
+          "q": "I would be grateful if you could confirm receipt.",
+          "a": "Le agradecería que me confirmara la recepción."
+        },
+        {
+          "q": "I attach my CV.",
+          "a": "Adjunto le envío mi currículum."
+        },
+        {
+          "q": "Everything seems to indicate that prices will rise.",
+          "a": "Todo parece indicar que subirán los precios."
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

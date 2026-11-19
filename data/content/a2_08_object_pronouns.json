@@ -1,0 +1,614 @@
+{
+  "meta": {
+    "level": "A2",
+    "section": "Grammar",
+    "number": 8,
+    "total_in_level": 10,
+    "title": "Object Pronouns",
+    "subtitle": "Direct and indirect pronouns, double pronouns, placement and pronouns after prepositions",
+    "footer": "Spanish Learning Program · A2 · Grammar · Object pronouns",
+    "next": "Next: A2 · PDF 9 — Comparisons, negatives and prepositions"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "replace nouns with direct and indirect object pronouns (lo, la, le, les, me, te, nos, os)",
+        "put the pronouns in the right place with conjugated verbs, infinitives, gerunds, the perfect and commands",
+        "combine two pronouns correctly (se lo doy, dímelo)",
+        "use the pronouns after prepositions (para mí, conmigo)"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "1. The pronouns"
+    },
+    {
+      "type": "p",
+      "text": "A <b>direct object</b> answers <i>what / whom?</i> (<i>Compro el pan</i>: what do I buy? the bread). An <b>indirect object</b> answers <i>to / for whom?</i> (<i>Doy el pan a Ana</i>: to whom? to Ana). Pronouns replace them so you do not have to repeat the noun."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.6,
+        4.2,
+        4.2,
+        4.0
+      ],
+      "head": [
+        "Person",
+        "Direct",
+        "Indirect",
+        "Reflexive"
+      ],
+      "rows": [
+        [
+          "yo",
+          "me",
+          "me",
+          "me"
+        ],
+        [
+          "tú",
+          "te",
+          "te",
+          "te"
+        ],
+        [
+          "él / ella / usted",
+          "lo / la",
+          "le",
+          "se"
+        ],
+        [
+          "nosotros / nosotras",
+          "nos",
+          "nos",
+          "nos"
+        ],
+        [
+          "vosotros / vosotras",
+          "os",
+          "os",
+          "os"
+        ],
+        [
+          "ellos / ellas / ustedes",
+          "los / las",
+          "les",
+          "se"
+        ]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Only the third person differs between direct and indirect: <b>lo, la, los, las</b> (direct) and <b>le, les</b> (indirect).",
+        "<b>Lo</b> replaces a masculine noun (<i>el libro</i>) or a general idea; <b>la</b> a feminine noun (<i>la casa</i>); <b>los / las</b> the plurals.",
+        "<b>Le</b> and <b>les</b> are the same for masculine and feminine."
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "spain",
+      "title": "le for a man in Spain",
+      "text": "In Spain you will often hear <b>le</b> instead of <b>lo</b> for a man: <i>Le veo</i> instead of <i>Lo veo</i>. This is accepted in Spain (<i>leísmo</i>), but this course uses lo / la."
+    },
+    {
+      "type": "callout",
+      "kind": "dutch",
+      "title": "No \"it\" as a subject",
+      "text": "Dutch <i>het</i> often has no Spanish equivalent: <i>Het regent</i> = <b>Llueve</b>. As an <b>object</b>, <i>het</i> becomes <b>lo / la</b>: <i>Ik zie het</i> = <b>Lo veo</b>."
+    },
+    {
+      "type": "h1",
+      "text": "2. Direct object pronouns"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.0,
+        6.0,
+        6.0
+      ],
+      "head": [
+        "Noun version",
+        "Pronoun version",
+        "English"
+      ],
+      "rows": [
+        [
+          "Compro el pan.",
+          "Lo compro.",
+          "I buy it (the bread)."
+        ],
+        [
+          "Veo la casa.",
+          "La veo.",
+          "I see it (the house)."
+        ],
+        [
+          "Tengo los billetes.",
+          "Los tengo.",
+          "I have them (the tickets)."
+        ],
+        [
+          "Compro las entradas.",
+          "Las compro.",
+          "I buy them (the tickets)."
+        ],
+        [
+          "Veo a Ana.",
+          "La veo.",
+          "I see her."
+        ],
+        [
+          "Conozco a tus padres.",
+          "Los conozco.",
+          "I know them (your parents)."
+        ],
+        [
+          "¿Me ves?",
+          "Sí, te veo.",
+          "Do you see me? Yes, I see you."
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "3. Indirect object pronouns"
+    },
+    {
+      "type": "p",
+      "text": "The indirect object pronoun is used with <b>dar, decir, escribir, enviar, mandar, regalar, prestar, enseñar, ofrecer, preguntar, explicar, comprar</b> (for someone) and other verbs of giving, telling and showing. In Spanish it is normal to use the pronoun even when the person is named: <b>Le doy el libro a Ana.</b>"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.4,
+        5.8,
+        5.8
+      ],
+      "head": [
+        "Spanish",
+        "Pronoun version",
+        "English"
+      ],
+      "rows": [
+        [
+          "Doy el libro a Ana.",
+          "Le doy el libro (a Ana).",
+          "I give Ana the book."
+        ],
+        [
+          "Escribo a mis padres.",
+          "Les escribo.",
+          "I write to my parents."
+        ],
+        [
+          "Compro un regalo para ti.",
+          "Te compro un regalo.",
+          "I buy you a present."
+        ],
+        [
+          "¿Me dices la hora?",
+          "Sí, te digo la hora.",
+          "Will you tell me the time? Yes."
+        ],
+        [
+          "Explico la regla a los alumnos.",
+          "Les explico la regla.",
+          "I explain the rule to the pupils."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.4,
+        7.0,
+        4.6
+      ],
+      "head": [
+        "Verbs like gustar",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "encantar",
+          "Me encanta el cine.",
+          "I love the cinema."
+        ],
+        [
+          "interesar",
+          "Me interesan las ciencias.",
+          "I am interested in science."
+        ],
+        [
+          "doler",
+          "Me duele la cabeza.",
+          "I have a headache."
+        ],
+        [
+          "parecer",
+          "Me parece buena idea.",
+          "It seems a good idea to me."
+        ],
+        [
+          "faltar",
+          "Me falta tiempo.",
+          "I lack time."
+        ],
+        [
+          "quedar bien",
+          "Esa chaqueta te queda bien.",
+          "That jacket suits you."
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "4. Where do the pronouns go?"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.6,
+        6.4,
+        6.0
+      ],
+      "head": [
+        "Situation",
+        "Position",
+        "Example"
+      ],
+      "rows": [
+        [
+          "Conjugated verb",
+          "before the verb",
+          "Lo compro. No lo compro."
+        ],
+        [
+          "Infinitive",
+          "before the first verb or attached to the infinitive",
+          "Lo voy a comprar. / Voy a comprarlo."
+        ],
+        [
+          "Gerund",
+          "before estar or attached to the gerund (accent)",
+          "Lo estoy leyendo. / Estoy leyéndolo."
+        ],
+        [
+          "Present perfect",
+          "before haber (never between he and participle)",
+          "Lo he visto."
+        ],
+        [
+          "Affirmative command",
+          "attached to the verb",
+          "Cómpralo. Dímelo."
+        ],
+        [
+          "Negative command",
+          "before the verb",
+          "No lo compres. No me lo digas."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "Written accents",
+      "text": "When you attach a pronoun, the stress must stay where it was. If that would put it on the third-last syllable or earlier, add an accent: <i>comprar</i> gives <b>comprarlo</b> (no accent), but <i>leyendo</i> gives <b>leyéndolo</b>, <i>compra</i> gives <b>cómpralo</b> and <i>di + me + lo</i> gives <b>dímelo</b>."
+    },
+    {
+      "type": "h1",
+      "text": "5. Two pronouns together"
+    },
+    {
+      "type": "p",
+      "text": "Put the <b>indirect</b> before the <b>direct</b>: <b>me lo, te la, nos las</b>. When <b>le</b> or <b>les</b> would come before <b>lo, la, los, las</b>, it becomes <b>se</b>: <i>Le doy el libro</i> gives <b>Se lo doy</b>."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.4,
+        5.8,
+        5.8
+      ],
+      "head": [
+        "Spanish",
+        "Replaces",
+        "English"
+      ],
+      "rows": [
+        [
+          "Me lo das.",
+          "me + el libro",
+          "You give it to me."
+        ],
+        [
+          "Te la compro.",
+          "te + la camisa",
+          "I buy it for you."
+        ],
+        [
+          "Nos las envía.",
+          "nos + las fotos",
+          "He sends them to us."
+        ],
+        [
+          "Se lo digo.",
+          "a ella / a él + lo",
+          "I tell it to her / him."
+        ],
+        [
+          "Se los explico.",
+          "a ellos + los problemas",
+          "I explain them to them."
+        ],
+        [
+          "Voy a dárselo.",
+          "dar + a ellos + lo",
+          "I am going to give it to them."
+        ],
+        [
+          "Dámelo.",
+          "da + me + lo",
+          "Give it to me."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "dutch",
+      "title": "Order differs from Dutch",
+      "text": "Dutch puts the thing first: <i>Ik geef het hem</i>. Spanish puts the person first: <b>Se lo doy</b> (to him / it). Remember: <b>indirect before direct</b>."
+    },
+    {
+      "type": "h1",
+      "text": "6. Pronouns after prepositions"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.6,
+        5.4,
+        7.0
+      ],
+      "head": [
+        "Person",
+        "After a preposition",
+        "Example"
+      ],
+      "rows": [
+        [
+          "yo",
+          "mí (conmigo)",
+          "Es para mí. Ven conmigo."
+        ],
+        [
+          "tú",
+          "ti (contigo)",
+          "Voy sin ti. Quiero ir contigo."
+        ],
+        [
+          "él / ella / usted",
+          "él / ella / usted",
+          "Hablo de ella."
+        ],
+        [
+          "nosotros / nosotras",
+          "nosotros / nosotras",
+          "Vienen con nosotros."
+        ],
+        [
+          "vosotros / vosotras",
+          "vosotros / vosotras",
+          "Esto es para vosotros."
+        ],
+        [
+          "ellos / ellas / ustedes",
+          "ellos / ellas / ustedes",
+          "Voy sin ellos."
+        ]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<b>para mí</b>, <b>a ti</b>, <b>de él</b>, <b>con nosotros</b>, <b>sin ellos</b>: <i>Esto es para mí. Voy sin ti. Hablo de ellos.</i>",
+        "<b>conmigo</b> and <b>contigo</b> are single words: <i>¿Vienes conmigo? Quiero ir contigo.</i>",
+        "After <b>entre</b>, <b>según</b> and <b>excepto</b> use <b>yo / tú</b>: <i>entre tú y yo, según tú</i>.",
+        "<b>A mí</b>, <b>a ti</b> ... add emphasis: <i>A mí me gusta el té, pero a ti te gusta el café.</i>"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "7. Common mistakes"
+    },
+    {
+      "type": "mistakes",
+      "rows": [
+        [
+          "Veo lo.",
+          "Lo veo.",
+          "The pronoun goes before a conjugated verb."
+        ],
+        [
+          "Voy a lo comprar.",
+          "Voy a comprarlo. / Lo voy a comprar.",
+          "Attach to the infinitive or put before the first verb, not between."
+        ],
+        [
+          "He lo visto.",
+          "Lo he visto.",
+          "Pronoun before haber."
+        ],
+        [
+          "Le lo doy.",
+          "Se lo doy.",
+          "le / les become se before lo, la, los, las."
+        ],
+        [
+          "Lo compro un regalo.",
+          "Le compro un regalo.",
+          "The person you buy it for is an indirect object: le."
+        ],
+        [
+          "Estoy comiendolo.",
+          "Estoy comiéndolo.",
+          "Add an accent when attaching a pronoun to a gerund."
+        ],
+        [
+          "Damelo.",
+          "Dámelo.",
+          "Two pronouns on a command need an accent."
+        ],
+        [
+          "Ven con yo.",
+          "Ven conmigo.",
+          "con + mí = conmigo."
+        ],
+        [
+          "Es para yo.",
+          "Es para mí.",
+          "After a preposition, use mí, ti, él ..."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "8. Self-check"
+    },
+    {
+      "type": "p",
+      "text": "Replace the noun with a pronoun, or complete the sentence. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Task"
+      ],
+      "items": [
+        {
+          "q": "¿Compras el pan? Sí, ______ compro.",
+          "hint": "direct pronoun",
+          "a": "lo",
+          "full": "¿Compras el pan? Sí, lo compro."
+        },
+        {
+          "q": "¿Ves a Ana? Sí, ______ veo.",
+          "hint": "direct pronoun",
+          "a": "la",
+          "full": "¿Ves a Ana? Sí, la veo."
+        },
+        {
+          "q": "¿Tienes las llaves? Sí, ______ tengo.",
+          "hint": "direct pronoun",
+          "a": "las",
+          "full": "¿Tienes las llaves? Sí, las tengo."
+        },
+        {
+          "q": "¿Conoces a mis padres? Sí, ______ conozco.",
+          "hint": "direct pronoun",
+          "a": "los",
+          "full": "¿Conoces a mis padres? Sí, los conozco."
+        },
+        {
+          "q": "Doy un regalo a Marta. = ______ doy un regalo.",
+          "hint": "indirect pronoun",
+          "a": "Le",
+          "full": "Doy un regalo a Marta. = Le doy un regalo."
+        },
+        {
+          "q": "Escribo una carta a mis padres. = ______ escribo una carta.",
+          "hint": "indirect pronoun",
+          "a": "Les",
+          "full": "Escribo una carta a mis padres. = Les escribo una carta."
+        },
+        {
+          "q": "¿Me das el libro? Sí, ______ doy.",
+          "hint": "two pronouns",
+          "a": "te lo",
+          "full": "¿Me das el libro? Sí, te lo doy."
+        },
+        {
+          "q": "Doy el libro a Pablo. = ______ doy.",
+          "hint": "two pronouns",
+          "a": "Se lo",
+          "full": "Doy el libro a Pablo. = Se lo doy."
+        },
+        {
+          "q": "Voy a comprar el coche. = Voy a ______.",
+          "hint": "attached",
+          "a": "comprarlo",
+          "full": "Voy a comprar el coche. = Voy a comprarlo."
+        },
+        {
+          "q": "Estoy leyendo el libro. = Estoy ______.",
+          "hint": "attached",
+          "a": "leyéndolo",
+          "full": "Estoy leyendo el libro. = Estoy leyéndolo."
+        },
+        {
+          "q": "¿Has visto la película? Sí, ______ he visto.",
+          "hint": "direct pronoun",
+          "a": "la",
+          "full": "¿Has visto la película? Sí, la he visto."
+        },
+        {
+          "q": "Trae el café. = ______, por favor.",
+          "hint": "command + pronoun",
+          "a": "Tráelo",
+          "full": "Trae el café. = Tráelo, por favor."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish:</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "I see it (the house).",
+          "a": "La veo."
+        },
+        {
+          "q": "Do you give it to me?",
+          "a": "¿Me lo das?"
+        },
+        {
+          "q": "I am going to tell it to her.",
+          "a": "Voy a decírselo."
+        },
+        {
+          "q": "Come with me.",
+          "a": "Ven conmigo."
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

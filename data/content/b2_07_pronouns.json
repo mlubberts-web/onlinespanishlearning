@@ -1,0 +1,664 @@
+{
+  "meta": {
+    "level": "B2",
+    "section": "Grammar",
+    "number": 7,
+    "total_in_level": 10,
+    "title": "Advanced Pronouns",
+    "subtitle": "double object pronouns, placement, redundant pronouns, verbs like gustar, neutral lo, prepositional pronouns, leísmo",
+    "footer": "Spanish Learning Program · B2 · Grammar · Advanced pronouns",
+    "next": "Next: B2 · PDF 8 — Emphasis, word order and suffixes"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "combine two object pronouns (se lo, me lo, te la) in the right order",
+        "place pronouns with infinitives, gerunds, imperatives and periphrases",
+        "use redundant pronouns (A mí me gusta, Le di el libro a Ana)",
+        "use the neutral lo (lo bueno, lo que, lo de) and prepositional pronouns (conmigo, entre tú y yo)"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "1. Double object pronouns"
+    },
+    {
+      "type": "p",
+      "text": "Order: <b>indirect (me, te, le, nos, os, les) + direct (lo, la, los, las)</b>. Indirect before direct, both before the verb."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.6,
+        5.8,
+        5.6
+      ],
+      "head": [
+        "Sentence",
+        "With pronouns",
+        "English"
+      ],
+      "rows": [
+        [
+          "Doy el libro a ti.",
+          "Te lo doy.",
+          "I give it to you."
+        ],
+        [
+          "Mandó la carta a nosotros.",
+          "Nos la mandó.",
+          "He sent it to us."
+        ],
+        [
+          "Explicaré las reglas a vosotros.",
+          "Os las explicaré.",
+          "I will explain them to you."
+        ],
+        [
+          "Dije la verdad a Ana.",
+          "Se la dije.",
+          "I told it to her."
+        ],
+        [
+          "Compré flores a mis padres.",
+          "Se las compré.",
+          "I bought them for them."
+        ],
+        [
+          "Presté mi coche a él.",
+          "Se lo presté.",
+          "I lent it to him."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "warn",
+      "title": "le / les + lo = se lo",
+      "text": "When <b>le</b> or <b>les</b> comes before <b>lo, la, los, las</b>, it becomes <b>se</b>: <i>Le doy el libro</i> gives <i>Se lo doy</i>, never <i>Le lo doy</i>. To make it clear who, add <b>a él / a ella / a usted / a ellos</b>: <i>Se lo doy a ella.</i>"
+    },
+    {
+      "type": "h2",
+      "text": "Placement"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.0,
+        6.2,
+        5.8
+      ],
+      "head": [
+        "Verb form",
+        "Example",
+        "Rule"
+      ],
+      "rows": [
+        [
+          "Finite verb",
+          "Me lo dijo.",
+          "before the verb"
+        ],
+        [
+          "Infinitive",
+          "Voy a decírtelo. / Te lo voy a decir.",
+          "after (attached) or before auxiliary"
+        ],
+        [
+          "Gerund",
+          "Estoy explicándotelo. / Te lo estoy explicando.",
+          "after (attached) or before auxiliary"
+        ],
+        [
+          "Positive imperative",
+          "Dímelo. / Dáselo.",
+          "after, attached"
+        ],
+        [
+          "Negative imperative",
+          "No me lo digas. / No se lo des.",
+          "before the verb"
+        ],
+        [
+          "Compound tense",
+          "Me lo ha dicho.",
+          "before haber, never between"
+        ],
+        [
+          "Perfect gerund",
+          "Habiéndotelo dicho, me fui.",
+          "attached to habiendo"
+        ]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<b>Written accents</b> keep stress when pronouns are added: <i>dime, dímelo, dándoselo, escríbemelo</i>.",
+        "<b>Reflexive + object:</b> <i>Me lo pongo. Se lo quitó.</i> (the reflexive comes first: se, me, te, nos, os).",
+        "In the positive imperative with nosotros, drop the -s of the verb before <b>se / nos</b>: <i>Sentémonos</i> (not sentemosnos), <i>Démoselo</i>."
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "2. Redundant pronouns"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        6.0,
+        5.6,
+        5.4
+      ],
+      "head": [
+        "Spanish",
+        "English",
+        "Why"
+      ],
+      "rows": [
+        [
+          "A mí me gusta el café.",
+          "I like coffee.",
+          "emphasis / clarity"
+        ],
+        [
+          "A Ana le encantan los gatos.",
+          "Ana loves cats.",
+          "name + le"
+        ],
+        [
+          "Le di el libro a Ana.",
+          "I gave Ana the book.",
+          "le is always present"
+        ],
+        [
+          "¿A ti te parece bien?",
+          "Does it seem fine to you?",
+          "emphasis"
+        ],
+        [
+          "A nosotros nos tocó ganar.",
+          "It was our turn to win.",
+          "emphasis"
+        ],
+        [
+          "El libro lo compré ayer.",
+          "I bought the book yesterday.",
+          "topic repeated by lo"
+        ],
+        [
+          "A María la vi ayer.",
+          "I saw María yesterday.",
+          "topic repeated by la"
+        ],
+        [
+          "Dáselo a ellos.",
+          "Give it to them.",
+          "clarifies se"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "Rule",
+      "text": "If the indirect object appears as a noun, <b>le / les</b> is still required: <i>Escribí a mi madre</i> is possible, but <i>Le escribí a mi madre</i> is more natural. <i>Le di el libro a Ana</i> is the normal order."
+    },
+    {
+      "type": "h1",
+      "text": "3. Verbs like gustar"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.4,
+        6.4,
+        6.2
+      ],
+      "head": [
+        "Verb",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "encantar",
+          "Me encanta el cine.",
+          "I love cinema."
+        ],
+        [
+          "importar",
+          "No me importa.",
+          "I do not mind."
+        ],
+        [
+          "molestar",
+          "Me molesta el ruido.",
+          "The noise bothers me."
+        ],
+        [
+          "apetecer",
+          "¿Te apetece un café?",
+          "Do you fancy a coffee?"
+        ],
+        [
+          "parecer",
+          "Me parece buena idea.",
+          "It seems a good idea to me."
+        ],
+        [
+          "doler",
+          "Me duele la cabeza.",
+          "My head hurts."
+        ],
+        [
+          "faltar",
+          "Me falta tiempo.",
+          "I lack time."
+        ],
+        [
+          "sobrar",
+          "Nos sobra comida.",
+          "We have food left over."
+        ],
+        [
+          "quedar",
+          "Me quedan dos euros.",
+          "I have two euros left."
+        ],
+        [
+          "hacer falta",
+          "Me hace falta ayuda.",
+          "I need help."
+        ],
+        [
+          "interesar",
+          "Me interesa la política.",
+          "Politics interests me."
+        ],
+        [
+          "sorprender",
+          "Me sorprende que llegue.",
+          "It surprises me that he comes."
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "The verb agrees with the <b>thing</b> that pleases / hurts / is lacking: <i>Me gustan los libros. Me duelen los pies. Le faltan dos páginas.</i>"
+    },
+    {
+      "type": "h1",
+      "text": "4. The neutral lo"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.0,
+        6.2,
+        5.8
+      ],
+      "head": [
+        "Use",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "lo + adjective",
+          "Lo bueno es que es barato.",
+          "The good thing is that it is cheap."
+        ],
+        [
+          "lo + adj. + que",
+          "No sabes lo difícil que es.",
+          "You do not know how hard it is."
+        ],
+        [
+          "lo que",
+          "Lo que dices es verdad.",
+          "What you say is true."
+        ],
+        [
+          "lo de",
+          "Lo de ayer fue un error.",
+          "That thing yesterday was a mistake."
+        ],
+        [
+          "lo + adverb + que",
+          "Corre lo más rápido que puede.",
+          "He runs as fast as he can."
+        ],
+        [
+          "lo mismo",
+          "Quiero lo mismo.",
+          "I want the same."
+        ],
+        [
+          "a lo mejor",
+          "A lo mejor viene.",
+          "Maybe he comes."
+        ],
+        [
+          "por lo menos",
+          "Por lo menos llamó.",
+          "At least he called."
+        ],
+        [
+          "lo cual",
+          "No vino, lo cual me molestó.",
+          "He did not come, which annoyed me."
+        ],
+        [
+          "lo + participle",
+          "Lo hecho, hecho está.",
+          "What is done is done."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "Lo for a whole idea",
+      "text": "<b>Lo</b> can replace an idea: <i>¿Está cansado? Sí, lo está.</i> / <i>Lo sé.</i> / <i>No lo creo.</i> After <b>ser, estar, parecer</b> with adjectives it refers to the adjective: <i>Ella es lista y su hermano también lo es.</i>"
+    },
+    {
+      "type": "h1",
+      "text": "5. Prepositional and reflexive pronouns"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.4,
+        4.4,
+        4.2,
+        4.0
+      ],
+      "head": [
+        "Person",
+        "After a preposition",
+        "With con",
+        "Example"
+      ],
+      "rows": [
+        [
+          "yo",
+          "mí",
+          "conmigo",
+          "Es para mí. Ven conmigo."
+        ],
+        [
+          "tú",
+          "ti",
+          "contigo",
+          "Es para ti. Voy contigo."
+        ],
+        [
+          "él / ella / usted",
+          "él / ella / usted",
+          "con él",
+          "Hablo con ella."
+        ],
+        [
+          "reflexive (3rd)",
+          "sí",
+          "consigo",
+          "Lo trajo consigo."
+        ],
+        [
+          "nosotros",
+          "nosotros",
+          "con nosotros",
+          "Vienen con nosotros."
+        ],
+        [
+          "vosotros",
+          "vosotros",
+          "con vosotros",
+          "Voy con vosotros."
+        ]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<b>Entre, según, excepto, salvo, menos, incluso</b> take <b>subject</b> pronouns: <i>entre tú y yo, según tú, excepto yo, hasta yo</i>.",
+        "<b>Mismo</b> adds emphasis: <i>yo mismo, ella misma, nosotros mismos, por sí mismo</i>.",
+        "<b>Uno / una</b> is the general \"one\": <i>Uno nunca sabe.</i>"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "6. Leísmo, laísmo and loísmo"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.6,
+        5.6,
+        5.8
+      ],
+      "head": [
+        "Usage",
+        "Example",
+        "Status"
+      ],
+      "rows": [
+        [
+          "Standard (Latin America, most of Spain)",
+          "A Juan lo vi. A María la vi.",
+          "correct"
+        ],
+        [
+          "Leísmo (male people)",
+          "A Juan le vi.",
+          "accepted in Spain"
+        ],
+        [
+          "Laísmo",
+          "A María la di un libro.",
+          "not accepted"
+        ],
+        [
+          "Loísmo",
+          "A Juan lo di un libro.",
+          "not accepted"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "For the indirect object always use <b>le / les</b>: <i>Le di un libro a María.</i> For safe, standard Spanish, use <b>lo</b> for masculine direct objects (<i>Lo vi</i>)."
+    },
+    {
+      "type": "h1",
+      "text": "7. Common mistakes"
+    },
+    {
+      "type": "mistakes",
+      "rows": [
+        [
+          "Le lo dije.",
+          "Se lo dije.",
+          "le + lo: se lo."
+        ],
+        [
+          "Lo me dijo.",
+          "Me lo dijo.",
+          "indirect before direct."
+        ],
+        [
+          "Quiero decirlo te.",
+          "Quiero decírtelo.",
+          "indirect first, attached in order."
+        ],
+        [
+          "Me ha lo dicho.",
+          "Me lo ha dicho.",
+          "pronouns before haber."
+        ],
+        [
+          "Dame lo.",
+          "Dámelo.",
+          "attached imperative."
+        ],
+        [
+          "Entre tú y mí.",
+          "Entre tú y yo.",
+          "entre takes subject pronouns."
+        ],
+        [
+          "Voy con mí.",
+          "Voy conmigo.",
+          "conmigo."
+        ],
+        [
+          "A mí gusta el café.",
+          "A mí me gusta el café.",
+          "keep me with a mí."
+        ],
+        [
+          "Me gusta los libros.",
+          "Me gustan los libros.",
+          "gustar agrees with the thing."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "8. Self-check"
+    },
+    {
+      "type": "p",
+      "text": "Fill in the gap using the cue in the hint column. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Hint"
+      ],
+      "items": [
+        {
+          "q": "______ doy.",
+          "hint": "Doy el libro a ti: pronouns",
+          "a": "Te lo",
+          "full": "Te lo doy."
+        },
+        {
+          "q": "______ dije.",
+          "hint": "Dije la verdad a Ana: two words",
+          "a": "Se la",
+          "full": "Se la dije."
+        },
+        {
+          "q": "Voy a ______.",
+          "hint": "decir + lo + a ti: attached, one word",
+          "a": "decírtelo",
+          "full": "Voy a decírtelo."
+        },
+        {
+          "q": "¡______!",
+          "hint": "Dime + lo: written with accent",
+          "a": "Dímelo",
+          "full": "¡Dímelo!"
+        },
+        {
+          "q": "No ______ digas.",
+          "hint": "a mí + lo: negative imperative",
+          "a": "me lo",
+          "full": "No me lo digas."
+        },
+        {
+          "q": "______ ha dicho.",
+          "hint": "Ha dicho a mí: me, lo",
+          "a": "Me lo",
+          "full": "Me lo ha dicho."
+        },
+        {
+          "q": "Es para ______.",
+          "hint": "yo: pronoun",
+          "a": "mí",
+          "full": "Es para mí."
+        },
+        {
+          "q": "Voy ______.",
+          "hint": "con + tú: with you",
+          "a": "contigo",
+          "full": "Voy contigo."
+        },
+        {
+          "q": "Entre ______ y yo, no me gusta.",
+          "hint": "you",
+          "a": "tú",
+          "full": "Entre tú y yo, no me gusta."
+        },
+        {
+          "q": "Me ______ los pies.",
+          "hint": "doler: present",
+          "a": "duelen",
+          "full": "Me duelen los pies."
+        },
+        {
+          "q": "No sabes ______ difícil que es.",
+          "hint": "neutral article",
+          "a": "lo",
+          "full": "No sabes lo difícil que es."
+        },
+        {
+          "q": "______ que dices es verdad.",
+          "hint": "what",
+          "a": "Lo",
+          "full": "Lo que dices es verdad."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish:</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "I will tell it to you tomorrow.",
+          "a": "Te lo diré mañana. / Voy a decírtelo mañana."
+        },
+        {
+          "q": "Give it to him!",
+          "a": "¡Dáselo!"
+        },
+        {
+          "q": "Do you fancy a coffee?",
+          "a": "¿Te apetece un café?"
+        },
+        {
+          "q": "The good thing is that it is cheap.",
+          "a": "Lo bueno es que es barato."
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

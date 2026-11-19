@@ -1,0 +1,2909 @@
+{
+  "meta": {
+    "level": "A2",
+    "section": "Vocabulary",
+    "number": 10,
+    "total_in_level": 10,
+    "title": "Vocabulary and Set Phrases",
+    "subtitle": "Travel, hotels, shopping, health, the city, weather, work, free time, technology, education, feelings and everyday phrases",
+    "footer": "Spanish Learning Program · A2 · Vocabulary and set phrases",
+    "next": "Next: B1 · PDF 1"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "How to use these lists",
+      "bullets": [
+        "Nouns have their <b>article</b> (el / la). Learn them together: el billete, la maleta.",
+        "Cover one column and test yourself in both directions, then write sentences with the preterite, imperfect and perfect you learnt in this level.",
+        "All words are Spain Spanish. The table in section 14 shows where Latin America differs.",
+        "Brackets after a verb show a stem change in the present tense: <i>recordar (ue)</i> gives <i>recuerdo</i>."
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "1. Travel and holidays"
+    },
+    {
+      "type": "verbpairs",
+      "title": "Travel",
+      "items": [
+        [
+          "el viaje",
+          "trip, journey"
+        ],
+        [
+          "las vacaciones",
+          "holidays"
+        ],
+        [
+          "el billete",
+          "ticket (train, plane)"
+        ],
+        [
+          "el billete de ida",
+          "single ticket"
+        ],
+        [
+          "el billete de ida y vuelta",
+          "return ticket"
+        ],
+        [
+          "el pasaporte",
+          "passport"
+        ],
+        [
+          "el equipaje",
+          "luggage"
+        ],
+        [
+          "la maleta",
+          "suitcase"
+        ],
+        [
+          "la mochila",
+          "backpack"
+        ],
+        [
+          "el vuelo",
+          "flight"
+        ],
+        [
+          "el aeropuerto",
+          "airport"
+        ],
+        [
+          "la estación",
+          "station"
+        ],
+        [
+          "el andén",
+          "platform"
+        ],
+        [
+          "la salida",
+          "departure, exit"
+        ],
+        [
+          "la llegada",
+          "arrival"
+        ],
+        [
+          "el retraso",
+          "delay"
+        ],
+        [
+          "la reserva",
+          "booking"
+        ],
+        [
+          "el destino",
+          "destination"
+        ],
+        [
+          "la aduana",
+          "customs"
+        ],
+        [
+          "la frontera",
+          "border"
+        ],
+        [
+          "la tarjeta de embarque",
+          "boarding pass"
+        ],
+        [
+          "la puerta de embarque",
+          "gate"
+        ],
+        [
+          "el extranjero",
+          "abroad"
+        ],
+        [
+          "el turista",
+          "tourist"
+        ],
+        [
+          "la playa",
+          "beach"
+        ],
+        [
+          "la montaña",
+          "mountain"
+        ],
+        [
+          "el campo",
+          "countryside"
+        ],
+        [
+          "el mapa",
+          "map"
+        ],
+        [
+          "la excursión",
+          "trip, outing"
+        ],
+        [
+          "la visita guiada",
+          "guided tour"
+        ],
+        [
+          "el recuerdo",
+          "souvenir, memory"
+        ],
+        [
+          "la isla",
+          "island"
+        ]
+      ],
+      "widths": [
+        4.6,
+        3.9,
+        4.6,
+        3.9
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "Travel verbs",
+      "items": [
+        [
+          "viajar",
+          "to travel"
+        ],
+        [
+          "reservar",
+          "to book"
+        ],
+        [
+          "facturar",
+          "to check in luggage"
+        ],
+        [
+          "despegar",
+          "to take off"
+        ],
+        [
+          "aterrizar",
+          "to land"
+        ],
+        [
+          "perder el tren",
+          "to miss the train"
+        ],
+        [
+          "hacer la maleta",
+          "to pack"
+        ],
+        [
+          "alquilar un coche",
+          "to rent a car"
+        ],
+        [
+          "tomar el sol",
+          "to sunbathe"
+        ],
+        [
+          "hacer turismo",
+          "to go sightseeing"
+        ],
+        [
+          "cambiar de tren",
+          "to change trains"
+        ],
+        [
+          "hacer cola",
+          "to queue"
+        ]
+      ],
+      "widths": [
+        4.6,
+        3.9,
+        4.6,
+        3.9
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "2. Hotel and accommodation"
+    },
+    {
+      "type": "verbpairs",
+      "title": "Hotel",
+      "items": [
+        [
+          "el hotel",
+          "hotel"
+        ],
+        [
+          "la pensión",
+          "guesthouse"
+        ],
+        [
+          "el albergue",
+          "hostel"
+        ],
+        [
+          "el camping",
+          "campsite"
+        ],
+        [
+          "la habitación individual",
+          "single room"
+        ],
+        [
+          "la habitación doble",
+          "double room"
+        ],
+        [
+          "la recepción",
+          "reception"
+        ],
+        [
+          "el recepcionista",
+          "receptionist"
+        ],
+        [
+          "la llave",
+          "key"
+        ],
+        [
+          "la cama",
+          "bed"
+        ],
+        [
+          "la almohada",
+          "pillow"
+        ],
+        [
+          "la toalla",
+          "towel"
+        ],
+        [
+          "el baño",
+          "bathroom"
+        ],
+        [
+          "la ducha",
+          "shower"
+        ],
+        [
+          "el ascensor",
+          "lift"
+        ],
+        [
+          "la escalera",
+          "stairs"
+        ],
+        [
+          "el aire acondicionado",
+          "air conditioning"
+        ],
+        [
+          "la calefacción",
+          "heating"
+        ],
+        [
+          "la piscina",
+          "swimming pool"
+        ],
+        [
+          "el wifi",
+          "wifi"
+        ],
+        [
+          "la contraseña",
+          "password"
+        ],
+        [
+          "el desayuno incluido",
+          "breakfast included"
+        ],
+        [
+          "la media pensión",
+          "half board"
+        ],
+        [
+          "la pensión completa",
+          "full board"
+        ],
+        [
+          "el check-in",
+          "check-in"
+        ],
+        [
+          "el check-out",
+          "check-out"
+        ],
+        [
+          "la vista al mar",
+          "sea view"
+        ],
+        [
+          "el servicio de habitaciones",
+          "room service"
+        ]
+      ],
+      "widths": [
+        4.6,
+        3.9,
+        4.6,
+        3.9
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "3. Shopping and money"
+    },
+    {
+      "type": "verbpairs",
+      "title": "Shopping",
+      "items": [
+        [
+          "la tienda",
+          "shop"
+        ],
+        [
+          "el supermercado",
+          "supermarket"
+        ],
+        [
+          "el mercado",
+          "market"
+        ],
+        [
+          "el centro comercial",
+          "shopping centre"
+        ],
+        [
+          "el escaparate",
+          "shop window"
+        ],
+        [
+          "las rebajas",
+          "sales"
+        ],
+        [
+          "la oferta",
+          "special offer"
+        ],
+        [
+          "el precio",
+          "price"
+        ],
+        [
+          "el descuento",
+          "discount"
+        ],
+        [
+          "el dinero",
+          "money"
+        ],
+        [
+          "el efectivo",
+          "cash"
+        ],
+        [
+          "la tarjeta de crédito",
+          "credit card"
+        ],
+        [
+          "el cajero automático",
+          "cash machine"
+        ],
+        [
+          "el cambio",
+          "change"
+        ],
+        [
+          "la moneda",
+          "coin"
+        ],
+        [
+          "el billete",
+          "banknote"
+        ],
+        [
+          "el ticket / el recibo",
+          "receipt"
+        ],
+        [
+          "la factura",
+          "invoice"
+        ],
+        [
+          "la talla",
+          "size (clothes)"
+        ],
+        [
+          "el número",
+          "size (shoes)"
+        ],
+        [
+          "el probador",
+          "fitting room"
+        ],
+        [
+          "la bolsa",
+          "bag"
+        ],
+        [
+          "la caja",
+          "checkout"
+        ],
+        [
+          "el dependiente / la dependienta",
+          "shop assistant"
+        ],
+        [
+          "el cliente",
+          "customer"
+        ],
+        [
+          "barato",
+          "cheap"
+        ],
+        [
+          "caro",
+          "expensive"
+        ],
+        [
+          "gratis",
+          "free"
+        ]
+      ],
+      "widths": [
+        4.6,
+        3.9,
+        4.6,
+        3.9
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "Shopping verbs",
+      "items": [
+        [
+          "gastar",
+          "to spend"
+        ],
+        [
+          "pagar",
+          "to pay"
+        ],
+        [
+          "costar (ue)",
+          "to cost"
+        ],
+        [
+          "devolver (ue)",
+          "to return, give back"
+        ],
+        [
+          "probarse (ue)",
+          "to try on"
+        ],
+        [
+          "regalar",
+          "to give as a present"
+        ],
+        [
+          "quedar bien",
+          "to suit, to fit well"
+        ],
+        [
+          "ahorrar",
+          "to save (money)"
+        ],
+        [
+          "cambiar",
+          "to change, exchange"
+        ],
+        [
+          "pagar en efectivo",
+          "to pay cash"
+        ],
+        [
+          "pagar con tarjeta",
+          "to pay by card"
+        ],
+        [
+          "ir de compras",
+          "to go shopping"
+        ]
+      ],
+      "widths": [
+        4.6,
+        3.9,
+        4.6,
+        3.9
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "4. Restaurant and food"
+    },
+    {
+      "type": "verbpairs",
+      "title": "At the restaurant",
+      "items": [
+        [
+          "la carta",
+          "menu"
+        ],
+        [
+          "el menú del día",
+          "set lunch menu"
+        ],
+        [
+          "el camarero / la camarera",
+          "waiter / waitress"
+        ],
+        [
+          "la cuenta",
+          "bill"
+        ],
+        [
+          "la propina",
+          "tip"
+        ],
+        [
+          "el plato",
+          "plate, dish"
+        ],
+        [
+          "el primer plato",
+          "starter"
+        ],
+        [
+          "el segundo plato",
+          "main course"
+        ],
+        [
+          "el postre",
+          "dessert"
+        ],
+        [
+          "la bebida",
+          "drink"
+        ],
+        [
+          "la tapa",
+          "small snack"
+        ],
+        [
+          "la ración",
+          "large portion to share"
+        ],
+        [
+          "la caña",
+          "small draught beer"
+        ],
+        [
+          "el vaso",
+          "glass"
+        ],
+        [
+          "la copa",
+          "wine glass, drink"
+        ],
+        [
+          "la botella",
+          "bottle"
+        ],
+        [
+          "la servilleta",
+          "napkin"
+        ],
+        [
+          "el tenedor",
+          "fork"
+        ],
+        [
+          "el cuchillo",
+          "knife"
+        ],
+        [
+          "la cuchara",
+          "spoon"
+        ],
+        [
+          "el bocadillo",
+          "sandwich (in a baguette)"
+        ],
+        [
+          "la ensalada",
+          "salad"
+        ],
+        [
+          "el pescado",
+          "fish"
+        ],
+        [
+          "la carne",
+          "meat"
+        ],
+        [
+          "el marisco",
+          "seafood"
+        ],
+        [
+          "las patatas fritas",
+          "chips"
+        ],
+        [
+          "la tortilla de patatas",
+          "Spanish omelette"
+        ],
+        [
+          "la sal / la pimienta",
+          "salt / pepper"
+        ]
+      ],
+      "widths": [
+        4.6,
+        3.9,
+        4.6,
+        3.9
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "spain",
+      "title": "Menú del día",
+      "text": "Most Spanish restaurants offer a <b>menú del día</b> at lunchtime: a starter, a main course, a dessert or coffee, bread and a drink for a fixed price (often 10 to 15 euros). Asking for <b>la cuenta</b> is normal: waiters do not bring it unless you ask."
+    },
+    {
+      "type": "h1",
+      "text": "5. Health and the body"
+    },
+    {
+      "type": "verbpairs",
+      "title": "The body",
+      "items": [
+        [
+          "la cabeza",
+          "head"
+        ],
+        [
+          "el pelo",
+          "hair"
+        ],
+        [
+          "la cara",
+          "face"
+        ],
+        [
+          "el ojo",
+          "eye"
+        ],
+        [
+          "la nariz",
+          "nose"
+        ],
+        [
+          "la boca",
+          "mouth"
+        ],
+        [
+          "el diente",
+          "tooth"
+        ],
+        [
+          "la oreja",
+          "ear (outer)"
+        ],
+        [
+          "el oído",
+          "ear (inner), hearing"
+        ],
+        [
+          "el cuello",
+          "neck"
+        ],
+        [
+          "el hombro",
+          "shoulder"
+        ],
+        [
+          "el brazo",
+          "arm"
+        ],
+        [
+          "la mano",
+          "hand"
+        ],
+        [
+          "el dedo",
+          "finger"
+        ],
+        [
+          "la espalda",
+          "back"
+        ],
+        [
+          "el pecho",
+          "chest"
+        ],
+        [
+          "el estómago",
+          "stomach"
+        ],
+        [
+          "la barriga",
+          "belly"
+        ],
+        [
+          "la pierna",
+          "leg"
+        ],
+        [
+          "la rodilla",
+          "knee"
+        ],
+        [
+          "el pie",
+          "foot"
+        ],
+        [
+          "el corazón",
+          "heart"
+        ],
+        [
+          "la piel",
+          "skin"
+        ],
+        [
+          "la garganta",
+          "throat"
+        ]
+      ],
+      "widths": [
+        4.6,
+        3.9,
+        4.6,
+        3.9
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "Health",
+      "items": [
+        [
+          "la salud",
+          "health"
+        ],
+        [
+          "el médico / la médica",
+          "doctor"
+        ],
+        [
+          "el enfermero / la enfermera",
+          "nurse"
+        ],
+        [
+          "el hospital",
+          "hospital"
+        ],
+        [
+          "el centro de salud",
+          "health centre"
+        ],
+        [
+          "la farmacia",
+          "chemist's"
+        ],
+        [
+          "la receta",
+          "prescription"
+        ],
+        [
+          "la medicina",
+          "medicine"
+        ],
+        [
+          "la pastilla",
+          "pill"
+        ],
+        [
+          "la cita",
+          "appointment"
+        ],
+        [
+          "la urgencia",
+          "emergency"
+        ],
+        [
+          "la ambulancia",
+          "ambulance"
+        ],
+        [
+          "la fiebre",
+          "fever"
+        ],
+        [
+          "la gripe",
+          "flu"
+        ],
+        [
+          "el resfriado",
+          "cold"
+        ],
+        [
+          "la tos",
+          "cough"
+        ],
+        [
+          "el dolor",
+          "pain"
+        ],
+        [
+          "el dolor de cabeza",
+          "headache"
+        ],
+        [
+          "el dolor de estómago",
+          "stomach ache"
+        ],
+        [
+          "la alergia",
+          "allergy"
+        ],
+        [
+          "la herida",
+          "wound"
+        ],
+        [
+          "la tirita",
+          "plaster"
+        ],
+        [
+          "el seguro médico",
+          "health insurance"
+        ],
+        [
+          "la sangre",
+          "blood"
+        ]
+      ],
+      "widths": [
+        4.6,
+        3.9,
+        4.6,
+        3.9
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "Health verbs",
+      "items": [
+        [
+          "doler (ue)",
+          "to hurt"
+        ],
+        [
+          "toser",
+          "to cough"
+        ],
+        [
+          "sentirse (ie)",
+          "to feel"
+        ],
+        [
+          "estar resfriado",
+          "to have a cold"
+        ],
+        [
+          "tener fiebre",
+          "to have a fever"
+        ],
+        [
+          "pedir cita",
+          "to make an appointment"
+        ],
+        [
+          "tomar una pastilla",
+          "to take a pill"
+        ],
+        [
+          "quedarse en cama",
+          "to stay in bed"
+        ],
+        [
+          "mejorar",
+          "to get better"
+        ],
+        [
+          "cuidarse",
+          "to look after yourself"
+        ],
+        [
+          "romperse",
+          "to break (a bone)"
+        ],
+        [
+          "torcerse (ue)",
+          "to twist, sprain"
+        ]
+      ],
+      "widths": [
+        4.6,
+        3.9,
+        4.6,
+        3.9
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "dutch",
+      "title": "oreja or oído?",
+      "text": "Dutch <i>oor</i> has two Spanish words: <b>la oreja</b> is the outside of the ear, <b>el oído</b> is the inner ear and the sense of hearing. <i>Me duele el oído</i> (my ear hurts, inside), <i>Tiene las orejas grandes</i> (he has big ears)."
+    },
+    {
+      "type": "p",
+      "text": "To say that something hurts, use <b>doler</b> with an indirect pronoun, like <i>gustar</i>: <i>Me duele la cabeza. Me duelen los pies.</i> Or: <i>Tengo dolor de cabeza.</i>"
+    },
+    {
+      "type": "h1",
+      "text": "6. The city and directions"
+    },
+    {
+      "type": "verbpairs",
+      "title": "Streets and places",
+      "items": [
+        [
+          "la calle",
+          "street"
+        ],
+        [
+          "la avenida",
+          "avenue"
+        ],
+        [
+          "la plaza",
+          "square"
+        ],
+        [
+          "la esquina",
+          "corner"
+        ],
+        [
+          "el cruce",
+          "junction"
+        ],
+        [
+          "el semáforo",
+          "traffic light"
+        ],
+        [
+          "el paso de cebra",
+          "zebra crossing"
+        ],
+        [
+          "la acera",
+          "pavement"
+        ],
+        [
+          "el puente",
+          "bridge"
+        ],
+        [
+          "la parada de autobús",
+          "bus stop"
+        ],
+        [
+          "el metro",
+          "underground"
+        ],
+        [
+          "la línea",
+          "line"
+        ],
+        [
+          "el taxi",
+          "taxi"
+        ],
+        [
+          "el aparcamiento",
+          "car park"
+        ],
+        [
+          "la gasolinera",
+          "petrol station"
+        ],
+        [
+          "el ayuntamiento",
+          "town hall"
+        ],
+        [
+          "la oficina de turismo",
+          "tourist office"
+        ],
+        [
+          "el museo",
+          "museum"
+        ],
+        [
+          "la iglesia",
+          "church"
+        ],
+        [
+          "la catedral",
+          "cathedral"
+        ],
+        [
+          "el castillo",
+          "castle"
+        ],
+        [
+          "el parque",
+          "park"
+        ],
+        [
+          "la biblioteca",
+          "library"
+        ],
+        [
+          "la comisaría",
+          "police station"
+        ],
+        [
+          "correos",
+          "post office"
+        ],
+        [
+          "el banco",
+          "bank"
+        ],
+        [
+          "el barrio",
+          "neighbourhood"
+        ],
+        [
+          "las afueras",
+          "outskirts"
+        ]
+      ],
+      "widths": [
+        4.6,
+        3.9,
+        4.6,
+        3.9
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "Giving and following directions",
+      "items": [
+        [
+          "seguir recto",
+          "to go straight on"
+        ],
+        [
+          "girar a la derecha",
+          "to turn right"
+        ],
+        [
+          "girar a la izquierda",
+          "to turn left"
+        ],
+        [
+          "cruzar",
+          "to cross"
+        ],
+        [
+          "subir / bajar",
+          "to go up / down"
+        ],
+        [
+          "tomar la primera calle",
+          "to take the first street"
+        ],
+        [
+          "al final de la calle",
+          "at the end of the street"
+        ],
+        [
+          "a la vuelta de la esquina",
+          "round the corner"
+        ],
+        [
+          "a cinco minutos andando",
+          "five minutes on foot"
+        ],
+        [
+          "está lejos / cerca",
+          "it is far / near"
+        ],
+        [
+          "está al lado de",
+          "it is next to"
+        ],
+        [
+          "en la esquina",
+          "on the corner"
+        ]
+      ],
+      "widths": [
+        4.6,
+        3.9,
+        4.6,
+        3.9
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "7. Weather and nature"
+    },
+    {
+      "type": "verbpairs",
+      "title": "Weather",
+      "items": [
+        [
+          "el tiempo",
+          "weather"
+        ],
+        [
+          "el clima",
+          "climate"
+        ],
+        [
+          "la temperatura",
+          "temperature"
+        ],
+        [
+          "los grados",
+          "degrees"
+        ],
+        [
+          "el sol",
+          "sun"
+        ],
+        [
+          "la nube",
+          "cloud"
+        ],
+        [
+          "la lluvia",
+          "rain"
+        ],
+        [
+          "la nieve",
+          "snow"
+        ],
+        [
+          "el viento",
+          "wind"
+        ],
+        [
+          "la tormenta",
+          "storm"
+        ],
+        [
+          "la niebla",
+          "fog"
+        ],
+        [
+          "el cielo",
+          "sky"
+        ]
+      ],
+      "widths": [
+        4.6,
+        3.9,
+        4.6,
+        3.9
+      ]
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.8,
+        5.6,
+        5.6
+      ],
+      "head": [
+        "Expression",
+        "English",
+        "Example"
+      ],
+      "rows": [
+        [
+          "Hace sol.",
+          "It is sunny.",
+          "Hoy hace sol."
+        ],
+        [
+          "Hace calor / frío.",
+          "It is hot / cold.",
+          "En agosto hace mucho calor."
+        ],
+        [
+          "Hace viento.",
+          "It is windy.",
+          "Hace viento en la costa."
+        ],
+        [
+          "Llueve. (llover)",
+          "It is raining.",
+          "Ayer llovió todo el día."
+        ],
+        [
+          "Nieva. (nevar)",
+          "It is snowing.",
+          "En enero nieva en la sierra."
+        ],
+        [
+          "Está nublado.",
+          "It is cloudy.",
+          "Hoy está nublado."
+        ],
+        [
+          "Hay niebla / tormenta.",
+          "It is foggy / stormy.",
+          "Hay tormenta esta noche."
+        ],
+        [
+          "¿Qué tiempo hace?",
+          "What is the weather like?",
+          "¿Qué tiempo hace en Sevilla?"
+        ]
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "Nature and animals",
+      "items": [
+        [
+          "el mar",
+          "sea"
+        ],
+        [
+          "el río",
+          "river"
+        ],
+        [
+          "el lago",
+          "lake"
+        ],
+        [
+          "el bosque",
+          "forest"
+        ],
+        [
+          "el árbol",
+          "tree"
+        ],
+        [
+          "la flor",
+          "flower"
+        ],
+        [
+          "el animal",
+          "animal"
+        ],
+        [
+          "el perro",
+          "dog"
+        ],
+        [
+          "el gato",
+          "cat"
+        ],
+        [
+          "el pájaro",
+          "bird"
+        ],
+        [
+          "el caballo",
+          "horse"
+        ],
+        [
+          "la vaca",
+          "cow"
+        ]
+      ],
+      "widths": [
+        4.6,
+        3.9,
+        4.6,
+        3.9
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "8. Work and jobs"
+    },
+    {
+      "type": "verbpairs",
+      "title": "Work",
+      "items": [
+        [
+          "el trabajo",
+          "work, job"
+        ],
+        [
+          "el empleo",
+          "employment"
+        ],
+        [
+          "la empresa",
+          "company"
+        ],
+        [
+          "la oficina",
+          "office"
+        ],
+        [
+          "el jefe / la jefa",
+          "boss"
+        ],
+        [
+          "el compañero de trabajo",
+          "colleague"
+        ],
+        [
+          "el sueldo",
+          "salary"
+        ],
+        [
+          "el horario",
+          "schedule, hours"
+        ],
+        [
+          "el contrato",
+          "contract"
+        ],
+        [
+          "la entrevista",
+          "interview"
+        ],
+        [
+          "el currículum",
+          "CV"
+        ],
+        [
+          "la reunión",
+          "meeting"
+        ],
+        [
+          "el paro",
+          "unemployment"
+        ],
+        [
+          "la jornada completa",
+          "full-time"
+        ],
+        [
+          "la media jornada",
+          "part-time"
+        ],
+        [
+          "las vacaciones",
+          "holidays (leave)"
+        ]
+      ],
+      "widths": [
+        4.6,
+        3.9,
+        4.6,
+        3.9
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "Jobs",
+      "items": [
+        [
+          "el ingeniero / la ingeniera",
+          "engineer"
+        ],
+        [
+          "el profesor / la profesora",
+          "teacher"
+        ],
+        [
+          "el médico / la médica",
+          "doctor"
+        ],
+        [
+          "el abogado / la abogada",
+          "lawyer"
+        ],
+        [
+          "el arquitecto / la arquitecta",
+          "architect"
+        ],
+        [
+          "el camarero / la camarera",
+          "waiter"
+        ],
+        [
+          "el cocinero / la cocinera",
+          "cook"
+        ],
+        [
+          "el conductor / la conductora",
+          "driver"
+        ],
+        [
+          "el policía / la policía",
+          "police officer"
+        ],
+        [
+          "el bombero / la bombera",
+          "firefighter"
+        ],
+        [
+          "el vendedor / la vendedora",
+          "salesperson"
+        ],
+        [
+          "el programador / la programadora",
+          "programmer"
+        ],
+        [
+          "el estudiante / la estudiante",
+          "student"
+        ],
+        [
+          "el empleado / la empleada",
+          "employee"
+        ],
+        [
+          "el obrero / la obrera",
+          "worker"
+        ],
+        [
+          "el funcionario / la funcionaria",
+          "civil servant"
+        ]
+      ],
+      "widths": [
+        5.6,
+        2.9,
+        5.6,
+        2.9
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "Work verbs",
+      "items": [
+        [
+          "trabajar",
+          "to work"
+        ],
+        [
+          "ganar",
+          "to earn"
+        ],
+        [
+          "contratar",
+          "to hire"
+        ],
+        [
+          "despedir (i)",
+          "to fire"
+        ],
+        [
+          "dimitir",
+          "to resign"
+        ],
+        [
+          "jubilarse",
+          "to retire"
+        ],
+        [
+          "estar en paro",
+          "to be unemployed"
+        ],
+        [
+          "buscar trabajo",
+          "to look for work"
+        ]
+      ],
+      "widths": [
+        4.6,
+        3.9,
+        4.6,
+        3.9
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Jobs do not take an article after <b>ser</b>: <i>Soy ingeniero industrial. Mi madre es médica.</i> With an adjective you do use it: <i>Es un buen ingeniero.</i>",
+        "Many jobs have a feminine form in <b>-a</b> (<i>la médica</i>, <i>la abogada</i>, <i>la ingeniera</i>); nouns in <b>-ista</b> and <b>-e</b> stay the same (<i>el / la dentista</i>, <i>el / la estudiante</i>)."
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "9. Hobbies and free time"
+    },
+    {
+      "type": "verbpairs",
+      "title": "Free time",
+      "items": [
+        [
+          "el tiempo libre",
+          "free time"
+        ],
+        [
+          "la afición",
+          "hobby"
+        ],
+        [
+          "el deporte",
+          "sport"
+        ],
+        [
+          "el fútbol",
+          "football"
+        ],
+        [
+          "el baloncesto",
+          "basketball"
+        ],
+        [
+          "el tenis",
+          "tennis"
+        ],
+        [
+          "la natación",
+          "swimming"
+        ],
+        [
+          "el ciclismo",
+          "cycling"
+        ],
+        [
+          "el senderismo",
+          "hiking"
+        ],
+        [
+          "la música",
+          "music"
+        ],
+        [
+          "la película",
+          "film"
+        ],
+        [
+          "la serie",
+          "series"
+        ],
+        [
+          "el libro",
+          "book"
+        ],
+        [
+          "el videojuego",
+          "video game"
+        ],
+        [
+          "el concierto",
+          "concert"
+        ],
+        [
+          "la fiesta",
+          "party"
+        ],
+        [
+          "el gimnasio",
+          "gym"
+        ],
+        [
+          "el equipo",
+          "team"
+        ],
+        [
+          "el partido",
+          "match"
+        ],
+        [
+          "el cine",
+          "cinema"
+        ],
+        [
+          "el teatro",
+          "theatre"
+        ],
+        [
+          "el museo",
+          "museum"
+        ],
+        [
+          "la discoteca",
+          "club"
+        ],
+        [
+          "el bar",
+          "bar"
+        ]
+      ],
+      "widths": [
+        4.6,
+        3.9,
+        4.6,
+        3.9
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "Free-time verbs",
+      "items": [
+        [
+          "jugar (ue) al fútbol",
+          "to play football"
+        ],
+        [
+          "tocar la guitarra",
+          "to play the guitar"
+        ],
+        [
+          "bailar",
+          "to dance"
+        ],
+        [
+          "cantar",
+          "to sing"
+        ],
+        [
+          "pintar",
+          "to paint"
+        ],
+        [
+          "cocinar",
+          "to cook"
+        ],
+        [
+          "leer",
+          "to read"
+        ],
+        [
+          "hacer deporte",
+          "to do sport"
+        ],
+        [
+          "hacer senderismo",
+          "to go hiking"
+        ],
+        [
+          "quedar con amigos",
+          "to meet up with friends"
+        ],
+        [
+          "salir de copas",
+          "to go out for drinks"
+        ],
+        [
+          "ir de tapas",
+          "to go for tapas"
+        ]
+      ],
+      "widths": [
+        4.6,
+        3.9,
+        4.6,
+        3.9
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "jugar a, tocar",
+      "text": "Sports and games take <b>jugar a</b> (<i>jugar al tenis, jugar a las cartas</i>), musical instruments take <b>tocar</b> (<i>tocar el piano</i>)."
+    },
+    {
+      "type": "h1",
+      "text": "10. Technology and communication"
+    },
+    {
+      "type": "verbpairs",
+      "title": "Technology",
+      "items": [
+        [
+          "el ordenador",
+          "computer"
+        ],
+        [
+          "el portátil",
+          "laptop"
+        ],
+        [
+          "el móvil",
+          "mobile phone"
+        ],
+        [
+          "la tableta",
+          "tablet"
+        ],
+        [
+          "la pantalla",
+          "screen"
+        ],
+        [
+          "el teclado",
+          "keyboard"
+        ],
+        [
+          "el ratón",
+          "mouse"
+        ],
+        [
+          "el cargador",
+          "charger"
+        ],
+        [
+          "la batería",
+          "battery"
+        ],
+        [
+          "internet",
+          "internet"
+        ],
+        [
+          "la aplicación",
+          "app"
+        ],
+        [
+          "el correo electrónico",
+          "email"
+        ],
+        [
+          "el mensaje",
+          "message"
+        ],
+        [
+          "el archivo",
+          "file"
+        ],
+        [
+          "el enlace",
+          "link"
+        ],
+        [
+          "la red social",
+          "social network"
+        ],
+        [
+          "el sitio web",
+          "website"
+        ],
+        [
+          "la foto",
+          "photo"
+        ],
+        [
+          "el vídeo",
+          "video"
+        ],
+        [
+          "la impresora",
+          "printer"
+        ]
+      ],
+      "widths": [
+        4.6,
+        3.9,
+        4.6,
+        3.9
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "Technology verbs",
+      "items": [
+        [
+          "descargar",
+          "to download"
+        ],
+        [
+          "subir",
+          "to upload"
+        ],
+        [
+          "enviar",
+          "to send"
+        ],
+        [
+          "guardar",
+          "to save"
+        ],
+        [
+          "imprimir",
+          "to print"
+        ],
+        [
+          "conectarse",
+          "to connect"
+        ],
+        [
+          "navegar por internet",
+          "to browse the web"
+        ],
+        [
+          "hacer clic",
+          "to click"
+        ],
+        [
+          "mandar un mensaje",
+          "to send a message"
+        ],
+        [
+          "llamar por teléfono",
+          "to phone"
+        ],
+        [
+          "chatear",
+          "to chat online"
+        ],
+        [
+          "apagar / encender",
+          "to switch off / on"
+        ]
+      ],
+      "widths": [
+        4.6,
+        3.9,
+        4.6,
+        3.9
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "11. Education"
+    },
+    {
+      "type": "verbpairs",
+      "title": "School and university",
+      "items": [
+        [
+          "la escuela",
+          "school (primary)"
+        ],
+        [
+          "el colegio",
+          "school"
+        ],
+        [
+          "el instituto",
+          "secondary school"
+        ],
+        [
+          "la universidad",
+          "university"
+        ],
+        [
+          "la facultad",
+          "faculty"
+        ],
+        [
+          "la clase",
+          "class, lesson"
+        ],
+        [
+          "el curso",
+          "course, school year"
+        ],
+        [
+          "la asignatura",
+          "subject"
+        ],
+        [
+          "el examen",
+          "exam"
+        ],
+        [
+          "la nota",
+          "mark, grade"
+        ],
+        [
+          "el título",
+          "degree, certificate"
+        ],
+        [
+          "la carrera",
+          "university degree"
+        ],
+        [
+          "el grado",
+          "bachelor's degree"
+        ],
+        [
+          "el máster",
+          "master's degree"
+        ],
+        [
+          "la beca",
+          "grant, scholarship"
+        ],
+        [
+          "el alumno / la alumna",
+          "pupil"
+        ],
+        [
+          "los deberes",
+          "homework"
+        ],
+        [
+          "el trabajo",
+          "assignment, paper"
+        ],
+        [
+          "la biblioteca",
+          "library"
+        ],
+        [
+          "la matrícula",
+          "enrolment"
+        ]
+      ],
+      "widths": [
+        4.6,
+        3.9,
+        4.6,
+        3.9
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "Education verbs",
+      "items": [
+        [
+          "aprobar (ue)",
+          "to pass"
+        ],
+        [
+          "suspender",
+          "to fail"
+        ],
+        [
+          "sacar buenas notas",
+          "to get good marks"
+        ],
+        [
+          "estudiar una carrera",
+          "to study a degree"
+        ],
+        [
+          "matricularse",
+          "to enrol"
+        ],
+        [
+          "graduarse",
+          "to graduate"
+        ],
+        [
+          "repasar",
+          "to revise"
+        ],
+        [
+          "hacer un examen",
+          "to take an exam"
+        ]
+      ],
+      "widths": [
+        4.6,
+        3.9,
+        4.6,
+        3.9
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "spain",
+      "title": "Spain: aprobar and suspender",
+      "text": "In Spain you <b>aprobar</b> (pass) or <b>suspender</b> (fail) an exam, and a pass mark is a <b>cinco</b> out of ten. <i>He suspendido matemáticas</i> = I failed maths. In some Latin American countries <i>reprobar</i> is used for failing."
+    },
+    {
+      "type": "h1",
+      "text": "12. Feelings and character"
+    },
+    {
+      "type": "verbpairs",
+      "title": "Feelings (with estar)",
+      "items": [
+        [
+          "alegre",
+          "cheerful"
+        ],
+        [
+          "contento / contenta",
+          "happy"
+        ],
+        [
+          "triste",
+          "sad"
+        ],
+        [
+          "enfadado / enfadada",
+          "angry"
+        ],
+        [
+          "nervioso / nerviosa",
+          "nervous"
+        ],
+        [
+          "tranquilo / tranquila",
+          "calm"
+        ],
+        [
+          "preocupado / preocupada",
+          "worried"
+        ],
+        [
+          "cansado / cansada",
+          "tired"
+        ],
+        [
+          "sorprendido / sorprendida",
+          "surprised"
+        ],
+        [
+          "asustado / asustada",
+          "scared"
+        ],
+        [
+          "emocionado / emocionada",
+          "excited, moved"
+        ],
+        [
+          "orgulloso / orgullosa",
+          "proud"
+        ]
+      ],
+      "widths": [
+        4.8,
+        3.7,
+        4.8,
+        3.7
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "Character (with ser)",
+      "items": [
+        [
+          "simpático / simpática",
+          "nice, friendly"
+        ],
+        [
+          "antipático / antipática",
+          "unpleasant"
+        ],
+        [
+          "amable",
+          "kind"
+        ],
+        [
+          "sincero / sincera",
+          "honest"
+        ],
+        [
+          "trabajador / trabajadora",
+          "hard-working"
+        ],
+        [
+          "perezoso / perezosa",
+          "lazy"
+        ],
+        [
+          "inteligente",
+          "clever"
+        ],
+        [
+          "divertido / divertida",
+          "fun"
+        ],
+        [
+          "serio / seria",
+          "serious"
+        ],
+        [
+          "generoso / generosa",
+          "generous"
+        ],
+        [
+          "tímido / tímida",
+          "shy"
+        ],
+        [
+          "abierto / abierta",
+          "open, outgoing"
+        ]
+      ],
+      "widths": [
+        4.8,
+        3.7,
+        4.8,
+        3.7
+      ]
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        3.2,
+        6.9,
+        6.9
+      ],
+      "head": [
+        "Adjective",
+        "with ser",
+        "with estar"
+      ],
+      "rows": [
+        [
+          "aburrido",
+          "Es aburrido. (He is boring.)",
+          "Está aburrido. (He is bored.)"
+        ],
+        [
+          "listo",
+          "Es listo. (He is clever.)",
+          "Está listo. (He is ready.)"
+        ],
+        [
+          "malo",
+          "Es malo. (He is bad / evil.)",
+          "Está malo. (He is ill.)"
+        ],
+        [
+          "despierto",
+          "Es despierto. (He is bright.)",
+          "Está despierto. (He is awake.)"
+        ],
+        [
+          "atento",
+          "Es atento. (He is considerate.)",
+          "Está atento. (He is paying attention.)"
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "13. Useful verbs and frequency words"
+    },
+    {
+      "type": "verbpairs",
+      "title": "Useful verbs",
+      "items": [
+        [
+          "echar de menos",
+          "to miss"
+        ],
+        [
+          "recordar (ue)",
+          "to remember"
+        ],
+        [
+          "olvidar",
+          "to forget"
+        ],
+        [
+          "encontrar (ue)",
+          "to find"
+        ],
+        [
+          "perder (ie)",
+          "to lose"
+        ],
+        [
+          "llevar",
+          "to carry, wear, take"
+        ],
+        [
+          "traer",
+          "to bring"
+        ],
+        [
+          "dejar",
+          "to leave, let"
+        ],
+        [
+          "prestar",
+          "to lend"
+        ],
+        [
+          "conseguir (i)",
+          "to manage, get"
+        ],
+        [
+          "intentar",
+          "to try"
+        ],
+        [
+          "esperar",
+          "to wait, hope"
+        ],
+        [
+          "preguntar",
+          "to ask (a question)"
+        ],
+        [
+          "contestar",
+          "to answer"
+        ],
+        [
+          "enseñar",
+          "to teach, show"
+        ],
+        [
+          "cuidar",
+          "to look after"
+        ],
+        [
+          "quedar",
+          "to arrange to meet"
+        ],
+        [
+          "quedarse",
+          "to stay"
+        ],
+        [
+          "parecer",
+          "to seem"
+        ],
+        [
+          "ocurrir",
+          "to happen"
+        ]
+      ],
+      "widths": [
+        4.6,
+        3.9,
+        4.6,
+        3.9
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "Frequency and time words",
+      "items": [
+        [
+          "a menudo",
+          "often"
+        ],
+        [
+          "con frecuencia",
+          "frequently"
+        ],
+        [
+          "de vez en cuando",
+          "from time to time"
+        ],
+        [
+          "a veces",
+          "sometimes"
+        ],
+        [
+          "casi nunca",
+          "hardly ever"
+        ],
+        [
+          "casi siempre",
+          "almost always"
+        ],
+        [
+          "todos los días",
+          "every day"
+        ],
+        [
+          "una vez al mes",
+          "once a month"
+        ],
+        [
+          "ya",
+          "already, now"
+        ],
+        [
+          "todavía / aún",
+          "still, yet"
+        ],
+        [
+          "pronto",
+          "soon, early"
+        ],
+        [
+          "tarde / temprano",
+          "late / early"
+        ],
+        [
+          "enseguida",
+          "straight away"
+        ],
+        [
+          "luego",
+          "later, then"
+        ],
+        [
+          "mientras",
+          "while"
+        ],
+        [
+          "de repente",
+          "suddenly"
+        ]
+      ],
+      "widths": [
+        4.6,
+        3.9,
+        4.6,
+        3.9
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "14. Spain or Latin America?"
+    },
+    {
+      "type": "p",
+      "latam_ok": true,
+      "text": "This course uses Spain Spanish. You will meet the words in the right-hand column in films, series and apps from Latin America."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "latam_ok": true,
+      "widths": [
+        4.6,
+        6.0,
+        6.4
+      ],
+      "head": [
+        "Spain",
+        "Latin America (common)",
+        "English"
+      ],
+      "rows": [
+        [
+          "el ordenador",
+          "la computadora",
+          "computer"
+        ],
+        [
+          "el móvil",
+          "el celular",
+          "mobile phone"
+        ],
+        [
+          "el coche",
+          "el carro, el auto",
+          "car"
+        ],
+        [
+          "conducir",
+          "manejar",
+          "to drive"
+        ],
+        [
+          "aparcar",
+          "estacionar",
+          "to park"
+        ],
+        [
+          "coger (el autobús)",
+          "tomar (el camión)",
+          "to take (the bus)"
+        ],
+        [
+          "el billete",
+          "el boleto",
+          "ticket"
+        ],
+        [
+          "el zumo",
+          "el jugo",
+          "juice"
+        ],
+        [
+          "la patata",
+          "la papa",
+          "potato"
+        ],
+        [
+          "el melocotón",
+          "el durazno",
+          "peach"
+        ],
+        [
+          "las gafas",
+          "los lentes",
+          "glasses"
+        ],
+        [
+          "el piso",
+          "el apartamento",
+          "flat"
+        ],
+        [
+          "el grifo",
+          "la llave",
+          "tap"
+        ],
+        [
+          "la nevera",
+          "el refrigerador, la heladera",
+          "fridge"
+        ],
+        [
+          "el cacahuete",
+          "el maní",
+          "peanut"
+        ],
+        [
+          "¿vale?",
+          "¿okay? / ¿listo?",
+          "OK?"
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "15. Set phrases"
+    },
+    {
+      "type": "h2",
+      "text": "At the airport or station"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        8.5,
+        8.5
+      ],
+      "head": [
+        "Spanish",
+        "English"
+      ],
+      "rows": [
+        [
+          "¿A qué hora sale el tren a Valencia?",
+          "What time does the train to Valencia leave?"
+        ],
+        [
+          "Un billete de ida y vuelta a Sevilla, por favor.",
+          "A return ticket to Seville, please."
+        ],
+        [
+          "¿De qué andén sale?",
+          "Which platform does it leave from?"
+        ],
+        [
+          "He perdido mi maleta.",
+          "I have lost my suitcase."
+        ],
+        [
+          "El vuelo lleva retraso.",
+          "The flight is delayed."
+        ],
+        [
+          "¿Dónde puedo facturar el equipaje?",
+          "Where can I check in my luggage?"
+        ],
+        [
+          "¿Es este el tren para Madrid?",
+          "Is this the train for Madrid?"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "At the hotel"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        8.5,
+        8.5
+      ],
+      "head": [
+        "Spanish",
+        "English"
+      ],
+      "rows": [
+        [
+          "Tengo una reserva a nombre de ...",
+          "I have a booking in the name of ..."
+        ],
+        [
+          "¿Tienen una habitación libre?",
+          "Do you have a free room?"
+        ],
+        [
+          "¿El desayuno está incluido?",
+          "Is breakfast included?"
+        ],
+        [
+          "¿A qué hora es el check-out?",
+          "What time is check-out?"
+        ],
+        [
+          "¿Cuál es la contraseña del wifi?",
+          "What is the wifi password?"
+        ],
+        [
+          "No funciona el aire acondicionado.",
+          "The air conditioning is not working."
+        ],
+        [
+          "¿Me puede dar otra toalla, por favor?",
+          "Could you give me another towel, please?"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "At the doctor and the pharmacy"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        8.5,
+        8.5
+      ],
+      "head": [
+        "Spanish",
+        "English"
+      ],
+      "rows": [
+        [
+          "No me encuentro bien.",
+          "I do not feel well."
+        ],
+        [
+          "Me duele la garganta.",
+          "I have a sore throat."
+        ],
+        [
+          "Tengo fiebre y tos desde ayer.",
+          "I have had a fever and a cough since yesterday."
+        ],
+        [
+          "Soy alérgico a la penicilina.",
+          "I am allergic to penicillin."
+        ],
+        [
+          "¿Cuántas veces al día tengo que tomarlo?",
+          "How many times a day do I have to take it?"
+        ],
+        [
+          "¿Tiene algo para el dolor de cabeza?",
+          "Do you have something for a headache?"
+        ],
+        [
+          "Necesito pedir cita con el médico.",
+          "I need to make an appointment with the doctor."
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "On the phone"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        8.5,
+        8.5
+      ],
+      "head": [
+        "Spanish",
+        "English"
+      ],
+      "rows": [
+        [
+          "Diga. / Dígame. / ¿Sí?",
+          "Hello (answering the phone)."
+        ],
+        [
+          "Soy Menno. ¿Está Ana, por favor?",
+          "This is Menno. Is Ana there, please?"
+        ],
+        [
+          "¿Puede repetirlo, por favor?",
+          "Could you repeat that, please?"
+        ],
+        [
+          "Un momento, por favor.",
+          "One moment, please."
+        ],
+        [
+          "Le paso con el director.",
+          "I will put you through to the director."
+        ],
+        [
+          "Te llamo luego.",
+          "I will call you later."
+        ],
+        [
+          "Se ha cortado la llamada.",
+          "We got cut off."
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Making plans and inviting"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        8.5,
+        8.5
+      ],
+      "head": [
+        "Spanish",
+        "English"
+      ],
+      "rows": [
+        [
+          "¿Qué vas a hacer este fin de semana?",
+          "What are you going to do this weekend?"
+        ],
+        [
+          "¿Quedamos el sábado?",
+          "Shall we meet on Saturday?"
+        ],
+        [
+          "¿Te apetece ir al cine?",
+          "Do you fancy going to the cinema?"
+        ],
+        [
+          "Me encantaría, pero no puedo.",
+          "I would love to, but I can't."
+        ],
+        [
+          "¿A qué hora quedamos?",
+          "What time shall we meet?"
+        ],
+        [
+          "Nos vemos allí.",
+          "See you there."
+        ],
+        [
+          "Vale, perfecto.",
+          "OK, perfect."
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Opinions, agreeing and disagreeing"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        8.5,
+        8.5
+      ],
+      "head": [
+        "Spanish",
+        "English"
+      ],
+      "rows": [
+        [
+          "Creo que tienes razón.",
+          "I think you are right."
+        ],
+        [
+          "Estoy de acuerdo.",
+          "I agree."
+        ],
+        [
+          "No estoy de acuerdo.",
+          "I do not agree."
+        ],
+        [
+          "Para mí, es muy interesante.",
+          "For me, it is very interesting."
+        ],
+        [
+          "Depende.",
+          "It depends."
+        ],
+        [
+          "Tal vez / quizás tengas razón.",
+          "Perhaps you are right."
+        ],
+        [
+          "No lo sé, la verdad.",
+          "I really don't know."
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Apologising, thanking and reacting"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        8.5,
+        8.5
+      ],
+      "head": [
+        "Spanish",
+        "English"
+      ],
+      "rows": [
+        [
+          "Lo siento mucho.",
+          "I am very sorry."
+        ],
+        [
+          "Perdona, no te había visto.",
+          "Sorry, I had not seen you."
+        ],
+        [
+          "No pasa nada.",
+          "It does not matter."
+        ],
+        [
+          "Gracias por todo. De nada.",
+          "Thanks for everything. You are welcome."
+        ],
+        [
+          "¡Qué bien! / ¡Qué pena! / ¡Qué rollo!",
+          "How nice! / What a shame! / What a drag!"
+        ],
+        [
+          "¡Madre mía! / ¡Anda!",
+          "Good heavens! / Wow!"
+        ],
+        [
+          "Es que no tengo tiempo.",
+          "It's just that I have no time."
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "16. Self-check"
+    },
+    {
+      "type": "p",
+      "text": "Say or write the Spanish. Cover the answers on the last page first."
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "English",
+        "Task"
+      ],
+      "answer_titles": [
+        "Spanish",
+        "Note"
+      ],
+      "answer_widths": [
+        1.0,
+        8.0,
+        8.0
+      ],
+      "items": [
+        {
+          "q": "A return ticket, please.",
+          "hint": "translate",
+          "a": "Un billete de ida y vuelta, por favor.",
+          "full": "Un billete de ida y vuelta, por favor.",
+          "why": "ida y vuelta = there and back."
+        },
+        {
+          "q": "I have a headache.",
+          "hint": "translate",
+          "a": "Me duele la cabeza.",
+          "full": "Me duele la cabeza.",
+          "why": "doler works like gustar. Or: Tengo dolor de cabeza."
+        },
+        {
+          "q": "How much is the bill?",
+          "hint": "translate",
+          "a": "¿Cuánto es la cuenta?",
+          "full": "¿Cuánto es la cuenta?",
+          "why": "la cuenta = the bill (restaurant, hotel)."
+        },
+        {
+          "q": "I failed the exam.",
+          "hint": "translate",
+          "a": "He suspendido el examen.",
+          "full": "He suspendido el examen.",
+          "why": "suspender = to fail (Spain). Perfect for something recent."
+        },
+        {
+          "q": "It is raining and it is cold.",
+          "hint": "translate",
+          "a": "Llueve y hace frío.",
+          "full": "Llueve y hace frío.",
+          "why": "hace + frío / calor / sol / viento."
+        },
+        {
+          "q": "Turn left at the corner.",
+          "hint": "translate",
+          "a": "Gira a la izquierda en la esquina.",
+          "full": "Gira a la izquierda en la esquina.",
+          "why": "Tú command of girar: gira."
+        },
+        {
+          "q": "I am an engineer.",
+          "hint": "translate",
+          "a": "Soy ingeniero.",
+          "full": "Soy ingeniero.",
+          "why": "No article after ser with a job. Women: ingeniera."
+        },
+        {
+          "q": "Do you fancy going to the cinema?",
+          "hint": "translate",
+          "a": "¿Te apetece ir al cine?",
+          "full": "¿Te apetece ir al cine?",
+          "why": "apetecer works like gustar."
+        },
+        {
+          "q": "The flight is delayed.",
+          "hint": "translate",
+          "a": "El vuelo lleva retraso.",
+          "full": "El vuelo lleva retraso.",
+          "why": "llevar retraso = to be delayed."
+        },
+        {
+          "q": "I am bored.",
+          "hint": "translate",
+          "a": "Estoy aburrido.",
+          "full": "Estoy aburrido.",
+          "why": "estar aburrido = bored; ser aburrido = boring."
+        },
+        {
+          "q": "Could you repeat that, please?",
+          "hint": "translate",
+          "a": "¿Puede repetirlo, por favor?",
+          "full": "¿Puede repetirlo, por favor?",
+          "why": "Formal: usted, so puede."
+        },
+        {
+          "q": "I miss my family.",
+          "hint": "translate",
+          "a": "Echo de menos a mi familia.",
+          "full": "Echo de menos a mi familia.",
+          "why": "echar de menos + personal a for people."
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

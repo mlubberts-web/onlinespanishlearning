@@ -1,0 +1,798 @@
+{
+  "meta": {
+    "level": "C1",
+    "section": "Vocabulary",
+    "number": 10,
+    "total_in_level": 10,
+    "title": "Vocabulary and Set Phrases",
+    "subtitle": "abstract nouns, academic verbs, collocations, discussion phrases and false friends",
+    "footer": "Spanish Learning Program · C1 · Vocabulary · Abstract and academic",
+    "next": "Next: C2 · PDF 1"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "use abstract and academic vocabulary in discussion and writing",
+        "combine verbs and nouns into natural collocations",
+        "use set phrases for opinion, argument and evaluation",
+        "avoid common false friends and confusing pairs"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "1. Abstract nouns"
+    },
+    {
+      "type": "verbpairs",
+      "title": "Society and politics",
+      "items": [
+        [
+          "la desigualdad",
+          "inequality"
+        ],
+        [
+          "la ciudadanía",
+          "citizenship, citizens"
+        ],
+        [
+          "el desarrollo",
+          "development"
+        ],
+        [
+          "la sostenibilidad",
+          "sustainability"
+        ],
+        [
+          "el desempleo",
+          "unemployment"
+        ],
+        [
+          "la brecha",
+          "gap"
+        ],
+        [
+          "el compromiso",
+          "commitment"
+        ],
+        [
+          "la gobernanza",
+          "governance"
+        ],
+        [
+          "el bienestar",
+          "well-being"
+        ],
+        [
+          "la convivencia",
+          "coexistence"
+        ],
+        [
+          "el rechazo",
+          "rejection"
+        ],
+        [
+          "la reforma",
+          "reform"
+        ],
+        [
+          "el impuesto",
+          "tax"
+        ],
+        [
+          "la ley",
+          "law"
+        ]
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "Thinking and argument",
+      "items": [
+        [
+          "la hipótesis",
+          "hypothesis"
+        ],
+        [
+          "el argumento",
+          "argument"
+        ],
+        [
+          "la premisa",
+          "premise"
+        ],
+        [
+          "la conclusión",
+          "conclusion"
+        ],
+        [
+          "el enfoque",
+          "approach"
+        ],
+        [
+          "la postura",
+          "stance"
+        ],
+        [
+          "el matiz",
+          "nuance"
+        ],
+        [
+          "la tendencia",
+          "trend"
+        ],
+        [
+          "el criterio",
+          "criterion"
+        ],
+        [
+          "la prueba",
+          "evidence, test"
+        ],
+        [
+          "el alcance",
+          "scope, reach"
+        ],
+        [
+          "el supuesto",
+          "assumption"
+        ],
+        [
+          "el planteamiento",
+          "approach, statement"
+        ],
+        [
+          "el balance",
+          "balance, assessment"
+        ],
+        [
+          "el rasgo",
+          "trait"
+        ],
+        [
+          "la paradoja",
+          "paradox"
+        ]
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "Economy and work",
+      "items": [
+        [
+          "la plantilla",
+          "staff"
+        ],
+        [
+          "el beneficio",
+          "profit, benefit"
+        ],
+        [
+          "la inversión",
+          "investment"
+        ],
+        [
+          "el ahorro",
+          "saving"
+        ],
+        [
+          "la deuda",
+          "debt"
+        ],
+        [
+          "la rentabilidad",
+          "profitability"
+        ],
+        [
+          "la jornada",
+          "working day"
+        ],
+        [
+          "el convenio",
+          "agreement"
+        ],
+        [
+          "la huelga",
+          "strike"
+        ],
+        [
+          "la quiebra",
+          "bankruptcy"
+        ],
+        [
+          "el gasto",
+          "expense"
+        ],
+        [
+          "los ingresos",
+          "income"
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "2. Abstract and academic verbs"
+    },
+    {
+      "type": "verbpairs",
+      "title": "Verbs of analysis",
+      "items": [
+        [
+          "abordar",
+          "to tackle, address"
+        ],
+        [
+          "plantear",
+          "to raise, pose"
+        ],
+        [
+          "suponer",
+          "to assume, imply"
+        ],
+        [
+          "destacar",
+          "to highlight"
+        ],
+        [
+          "cuestionar",
+          "to question"
+        ],
+        [
+          "justificar",
+          "to justify"
+        ],
+        [
+          "refutar",
+          "to refute"
+        ],
+        [
+          "demostrar",
+          "to prove"
+        ],
+        [
+          "matizar",
+          "to qualify, nuance"
+        ],
+        [
+          "sostener",
+          "to maintain"
+        ],
+        [
+          "revelar",
+          "to reveal"
+        ],
+        [
+          "desprenderse",
+          "to follow (from)"
+        ],
+        [
+          "avalar",
+          "to endorse"
+        ],
+        [
+          "rebatir",
+          "to rebut"
+        ],
+        [
+          "constatar",
+          "to establish, note"
+        ],
+        [
+          "reivindicar",
+          "to demand, claim"
+        ]
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "Verbs of change and effect",
+      "items": [
+        [
+          "agravar",
+          "to worsen"
+        ],
+        [
+          "mitigar",
+          "to mitigate"
+        ],
+        [
+          "desencadenar",
+          "to trigger"
+        ],
+        [
+          "fomentar",
+          "to promote"
+        ],
+        [
+          "frenar",
+          "to slow down"
+        ],
+        [
+          "impulsar",
+          "to drive forward"
+        ],
+        [
+          "repercutir",
+          "to affect"
+        ],
+        [
+          "acarrear",
+          "to bring about"
+        ],
+        [
+          "paliar",
+          "to alleviate"
+        ],
+        [
+          "erradicar",
+          "to eradicate"
+        ],
+        [
+          "potenciar",
+          "to boost"
+        ],
+        [
+          "debilitar",
+          "to weaken"
+        ],
+        [
+          "engendrar",
+          "to engender"
+        ],
+        [
+          "menoscabar",
+          "to undermine"
+        ],
+        [
+          "agudizar",
+          "to sharpen"
+        ],
+        [
+          "atenuar",
+          "to reduce"
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "3. Collocations"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.8,
+        6.0,
+        6.2
+      ],
+      "head": [
+        "Verb + noun",
+        "English",
+        "Example"
+      ],
+      "rows": [
+        [
+          "adoptar una medida",
+          "to take a measure",
+          "El gobierno adoptó medidas urgentes."
+        ],
+        [
+          "alcanzar un acuerdo",
+          "to reach an agreement",
+          "Alcanzaron un acuerdo tras horas."
+        ],
+        [
+          "asumir un riesgo",
+          "to take a risk",
+          "Asumió el riesgo sin dudar."
+        ],
+        [
+          "cumplir un requisito",
+          "to meet a requirement",
+          "No cumple los requisitos."
+        ],
+        [
+          "dar lugar a",
+          "to give rise to",
+          "Esto dio lugar a un conflicto."
+        ],
+        [
+          "hacer frente a",
+          "to face, cope with",
+          "Hay que hacer frente a la crisis."
+        ],
+        [
+          "llevar a cabo",
+          "to carry out",
+          "Se llevó a cabo un estudio."
+        ],
+        [
+          "poner de manifiesto",
+          "to make clear",
+          "El informe pone de manifiesto un problema."
+        ],
+        [
+          "tener en cuenta",
+          "to take into account",
+          "Hay que tener en cuenta los costes."
+        ],
+        [
+          "tomar una decisión",
+          "to make a decision",
+          "Tomamos la decisión ayer."
+        ],
+        [
+          "sacar conclusiones",
+          "to draw conclusions",
+          "Saquemos conclusiones."
+        ],
+        [
+          "rendir cuentas",
+          "to be accountable",
+          "Deben rendir cuentas."
+        ],
+        [
+          "ejercer presión",
+          "to exert pressure",
+          "Ejercieron presión sobre el alcalde."
+        ],
+        [
+          "cobrar importancia",
+          "to gain importance",
+          "El tema ha cobrado importancia."
+        ],
+        [
+          "plantear un problema",
+          "to raise a problem",
+          "Plantea un problema ético."
+        ],
+        [
+          "emitir un juicio",
+          "to pass judgment",
+          "No quiero emitir un juicio."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "4. Set phrases for discussion"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        6.2,
+        4.8,
+        6.0
+      ],
+      "head": [
+        "Phrase",
+        "Use",
+        "Example"
+      ],
+      "rows": [
+        [
+          "a mi modo de ver",
+          "opinion",
+          "A mi modo de ver, es un error."
+        ],
+        [
+          "en cuanto a",
+          "topic",
+          "En cuanto a los costes, son altos."
+        ],
+        [
+          "cabe destacar que",
+          "emphasis",
+          "Cabe destacar que no hubo heridos."
+        ],
+        [
+          "no cabe duda de que",
+          "certainty",
+          "No cabe duda de que es útil."
+        ],
+        [
+          "a pesar de que",
+          "concession",
+          "A pesar de que llovía, salimos."
+        ],
+        [
+          "si bien",
+          "concession",
+          "Si bien es caro, vale la pena."
+        ],
+        [
+          "por un lado... por otro",
+          "contrast",
+          "Por un lado gano, por otro pierdo."
+        ],
+        [
+          "en definitiva",
+          "summary",
+          "En definitiva, hay que esperar."
+        ],
+        [
+          "de ahí que + subj.",
+          "consequence",
+          "De ahí que sea tan popular."
+        ],
+        [
+          "a tenor de",
+          "judging by",
+          "A tenor de los datos, mejora."
+        ],
+        [
+          "en aras de",
+          "for the sake of",
+          "En aras de la paz, cedió."
+        ],
+        [
+          "al hilo de",
+          "in connection with",
+          "Al hilo de lo dicho, añado esto."
+        ],
+        [
+          "tener por objeto",
+          "to aim at",
+          "La ley tiene por objeto proteger."
+        ],
+        [
+          "a raíz de",
+          "following, as a result of",
+          "A raíz de la crisis, cerraron."
+        ],
+        [
+          "cuestión de",
+          "a matter of",
+          "Es cuestión de tiempo."
+        ],
+        [
+          "lo cierto es que",
+          "in fact",
+          "Lo cierto es que nadie sabe."
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "5. Confusing pairs"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.2,
+        4.2,
+        4.3,
+        4.3
+      ],
+      "head": [
+        "Word 1",
+        "Word 2",
+        "Difference",
+        "Example"
+      ],
+      "rows": [
+        [
+          "actual (current)",
+          "real (actual, real)",
+          "actual is not actual",
+          "la situación actual"
+        ],
+        [
+          "eventualmente (possibly)",
+          "finalmente (finally)",
+          "eventual = possible",
+          "un trabajo eventual"
+        ],
+        [
+          "asistir (attend)",
+          "ayudar (help)",
+          "asistir a = attend",
+          "Asistí a la clase."
+        ],
+        [
+          "realizar (carry out)",
+          "darse cuenta (realise)",
+          "realizar is not to realise",
+          "Me di cuenta."
+        ],
+        [
+          "sensible (sensitive)",
+          "sensato (sensible)",
+          "different meanings",
+          "una persona sensata"
+        ],
+        [
+          "pretender (aim)",
+          "fingir (pretend)",
+          "pretender = to try",
+          "Pretende ganar."
+        ],
+        [
+          "constipado (a cold)",
+          "estreñido (constipated)",
+          "common false friend",
+          "Estoy constipado."
+        ],
+        [
+          "molestar (bother)",
+          "molestarse (take offence)",
+          "reflexive changes",
+          "No te molestes."
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "6. Common mistakes"
+    },
+    {
+      "type": "mistakes",
+      "rows": [
+        [
+          "Realicé que estaba equivocado.",
+          "Me di cuenta de que estaba equivocado.",
+          "realizar = to carry out."
+        ],
+        [
+          "Asistí a mi amigo.",
+          "Ayudé a mi amigo.",
+          "asistir a = attend."
+        ],
+        [
+          "Estoy constipado (no puedo ir al baño).",
+          "Estoy estreñido.",
+          "constipado = has a cold."
+        ],
+        [
+          "Es una persona muy sensible, piensa bien.",
+          "Es una persona muy sensata.",
+          "sensible = sensitive."
+        ],
+        [
+          "La situación real es difícil. (current)",
+          "La situación actual es difícil.",
+          "actual = current."
+        ],
+        [
+          "Pretendo estar enfermo. (I pretend)",
+          "Finjo estar enfermo.",
+          "pretender = to aim."
+        ],
+        [
+          "Hacemos una decisión.",
+          "Tomamos una decisión.",
+          "decisión: tomar."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "7. Self-check"
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Hint"
+      ],
+      "items": [
+        {
+          "q": "Hay que ______ en cuenta los costes.",
+          "hint": "tener: infinitive",
+          "a": "tener",
+          "full": "Hay que tener en cuenta los costes."
+        },
+        {
+          "q": "El gobierno ______ medidas urgentes.",
+          "hint": "adoptar: pretérito, él",
+          "a": "adoptó",
+          "full": "El gobierno adoptó medidas urgentes."
+        },
+        {
+          "q": "Este informe pone de ______ un problema.",
+          "hint": "visible",
+          "a": "manifiesto",
+          "full": "Este informe pone de manifiesto un problema."
+        },
+        {
+          "q": "Las empresas deben ______ cuentas.",
+          "hint": "to give, accountable",
+          "a": "rendir",
+          "full": "Las empresas deben rendir cuentas."
+        },
+        {
+          "q": "No ______ duda de que es útil.",
+          "hint": "caber: present, él",
+          "a": "cabe",
+          "full": "No cabe duda de que es útil."
+        },
+        {
+          "q": "______ que llovía, salimos.",
+          "hint": "although",
+          "a": "A pesar de",
+          "full": "A pesar de que llovía, salimos."
+        },
+        {
+          "q": "Me ______ cuenta de que estaba equivocado.",
+          "hint": "dar: pretérito, yo",
+          "a": "di",
+          "full": "Me di cuenta de que estaba equivocado."
+        },
+        {
+          "q": "Esto ______ lugar a un conflicto.",
+          "hint": "dar: pretérito, él",
+          "a": "dio",
+          "full": "Esto dio lugar a un conflicto."
+        },
+        {
+          "q": "Hay que ______ frente a la crisis.",
+          "hint": "to face",
+          "a": "hacer",
+          "full": "Hay que hacer frente a la crisis."
+        },
+        {
+          "q": "______ que sea tan popular.",
+          "hint": "hence",
+          "a": "De ahí",
+          "full": "De ahí que sea tan popular."
+        },
+        {
+          "q": "Se ______ a cabo un estudio.",
+          "hint": "llevar: pretérito, se",
+          "a": "llevó",
+          "full": "Se llevó a cabo un estudio."
+        },
+        {
+          "q": "Esa medida podría ______ el desempleo.",
+          "hint": "to reduce",
+          "a": "paliar",
+          "full": "Esa medida podría paliar el desempleo."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish:</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "The report makes a serious problem clear.",
+          "a": "El informe pone de manifiesto un problema grave."
+        },
+        {
+          "q": "We have to take the costs into account.",
+          "a": "Tenemos que tener en cuenta los costes."
+        },
+        {
+          "q": "I realised I was wrong.",
+          "a": "Me di cuenta de que estaba equivocado."
+        },
+        {
+          "q": "Although it is expensive, it is worth it.",
+          "a": "Si bien es caro, vale la pena."
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

@@ -1,0 +1,565 @@
+{
+  "meta": {
+    "level": "B2",
+    "section": "Grammar",
+    "number": 3,
+    "total_in_level": 10,
+    "title": "Advanced Subjunctive",
+    "subtitle": "concession, indefinites (whoever, whatever), probability, and fixed subjunctive constructions",
+    "footer": "Spanish Learning Program · B2 · Grammar · Advanced subjunctive",
+    "next": "Next: B2 · PDF 4 — Verb periphrases"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "express concession with por mucho que, por muy ... que, así, ni que",
+        "use indefinite forms (cualquiera que, quienquiera que, dondequiera que, sea lo que sea)",
+        "choose between indicative and subjunctive after quizá, tal vez, a lo mejor, puede que",
+        "use the subjunctive in fixed constructions (que yo sepa, no es que, sin que, el hecho de que)"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "1. Concession: even though, however much"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.0,
+        6.2,
+        5.8
+      ],
+      "head": [
+        "Structure",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "aunque + indicative",
+          "Aunque está cansado, sigue.",
+          "Although he is tired, he goes on."
+        ],
+        [
+          "aunque + subjunctive",
+          "Aunque esté cansado, seguirá.",
+          "Even if he is tired, he will go on."
+        ],
+        [
+          "a pesar de que + indicative",
+          "A pesar de que llovía, salimos.",
+          "Even though it was raining, we went out."
+        ],
+        [
+          "por mucho que + subjunctive",
+          "Por mucho que estudie, no aprueba.",
+          "However much he studies, he does not pass."
+        ],
+        [
+          "por más que + subjunctive",
+          "Por más que lo intento, no puedo.",
+          "However hard I try, I cannot."
+        ],
+        [
+          "por muy + adj. + que + subjunctive",
+          "Por muy caro que sea, lo compraré.",
+          "However expensive it is, I will buy it."
+        ],
+        [
+          "así + subjunctive",
+          "No lo haré, así me paguen.",
+          "I will not do it, even if they pay me."
+        ],
+        [
+          "ni que + imperfect subj.",
+          "¡Ni que fueras rico!",
+          "As if you were rich! (you are not)"
+        ],
+        [
+          "si bien + indicative",
+          "Si bien es caro, es bueno.",
+          "While it is expensive, it is good."
+        ],
+        [
+          "con todo y + noun",
+          "Con todo y eso, fuimos.",
+          "Despite all that, we went."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "Known fact or not?",
+      "text": "<b>Aunque + indicative</b>: the speaker accepts the fact. <b>Aunque + subjunctive</b>: not a fact, or the speaker does not care about it. <i>Por mucho que + subjunctive</i> is always subjunctive: the effort is open-ended."
+    },
+    {
+      "type": "h1",
+      "text": "2. Indefinites: whoever, wherever, whatever"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.6,
+        5.8,
+        5.6
+      ],
+      "head": [
+        "Form",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "quienquiera que + subj.",
+          "Quienquiera que llame, no abras.",
+          "Whoever calls, do not open."
+        ],
+        [
+          "cualquiera que + subj.",
+          "Cualquiera que sea la razón, lo haré.",
+          "Whatever the reason, I will do it."
+        ],
+        [
+          "dondequiera que + subj.",
+          "Dondequiera que vayas, te seguiré.",
+          "Wherever you go, I will follow you."
+        ],
+        [
+          "comoquiera que + subj.",
+          "Comoquiera que lo hagas, saldrá bien.",
+          "However you do it, it will turn out well."
+        ],
+        [
+          "lo que + subj. + que sea",
+          "Lo que sea, avísame.",
+          "Whatever it is, let me know."
+        ],
+        [
+          "sea lo que sea",
+          "Sea lo que sea, no cambiaré.",
+          "Whatever it is, I will not change."
+        ],
+        [
+          "sea como sea",
+          "Sea como sea, lo conseguiré.",
+          "One way or another, I will manage."
+        ],
+        [
+          "pase lo que pase",
+          "Pase lo que pase, estaré allí.",
+          "Whatever happens, I will be there."
+        ],
+        [
+          "digan lo que digan",
+          "Digan lo que digan, voy a ir.",
+          "Whatever they say, I am going."
+        ],
+        [
+          "sea ... sea ...",
+          "Sea hoy, sea mañana, llámame.",
+          "Whether today or tomorrow, call me."
+        ],
+        [
+          "ya sea ... o ...",
+          "Ya sea por dinero o por amor, lo hará.",
+          "Whether for money or love, he will do it."
+        ]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "The pattern <b>verb + lo que + same verb</b> (subjunctive) means \"whatever\": <i>pase lo que pase, haga lo que haga, digas lo que digas, pienses lo que pienses</i>.",
+        "<b>Cualquiera</b> becomes <b>cualquier</b> before a noun: <i>cualquier día, cualquier persona</i>."
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "3. Probability: quizá, tal vez, a lo mejor"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.6,
+        6.2,
+        6.2
+      ],
+      "head": [
+        "Expression",
+        "Mood",
+        "Example"
+      ],
+      "rows": [
+        [
+          "a lo mejor",
+          "indicative only",
+          "A lo mejor viene mañana."
+        ],
+        [
+          "quizá(s), tal vez",
+          "indicative = more sure; subjunctive = less sure",
+          "Quizá viene. / Quizá venga."
+        ],
+        [
+          "acaso",
+          "subjunctive (or indicative)",
+          "Acaso lo sepa ella."
+        ],
+        [
+          "puede que",
+          "subjunctive",
+          "Puede que llueva."
+        ],
+        [
+          "es posible / probable que",
+          "subjunctive",
+          "Es probable que llegue tarde."
+        ],
+        [
+          "posiblemente, probablemente",
+          "indicative or subjunctive",
+          "Probablemente llegue / llegará tarde."
+        ],
+        [
+          "igual, a saber",
+          "informal, indicative",
+          "Igual no vienen."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "spain",
+      "title": "A lo mejor",
+      "text": "<b>A lo mejor</b> is the everyday way to say \"maybe\" in Spain. It never takes the subjunctive: <i>A lo mejor no puede.</i>"
+    },
+    {
+      "type": "h1",
+      "text": "4. Fixed subjunctive constructions"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.6,
+        6.0,
+        5.4
+      ],
+      "head": [
+        "Expression",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "que yo sepa",
+          "Que yo sepa, no ha llegado.",
+          "As far as I know, he has not arrived."
+        ],
+        [
+          "que yo recuerde",
+          "Que yo recuerde, nunca lo dijo.",
+          "As far as I remember, he never said it."
+        ],
+        [
+          "no es que + subj.",
+          "No es que no quiera, es que no puedo.",
+          "It is not that I do not want to, I cannot."
+        ],
+        [
+          "no porque + subj.",
+          "No lo hice porque me obligaran.",
+          "I did not do it because they forced me."
+        ],
+        [
+          "sin que + subj.",
+          "Salió sin que lo viéramos.",
+          "He left without us seeing him."
+        ],
+        [
+          "con tal de que + subj.",
+          "Con tal de que vengas, me da igual.",
+          "As long as you come, I do not mind."
+        ],
+        [
+          "el hecho de que + subj.",
+          "El hecho de que llegue tarde me molesta.",
+          "The fact that he arrives late annoys me."
+        ],
+        [
+          "mientras + subj. (as long as)",
+          "Mientras tú quieras, me quedo.",
+          "As long as you want, I will stay."
+        ],
+        [
+          "cada vez que + indicative",
+          "Cada vez que viene, trae flores.",
+          "Every time he comes, he brings flowers."
+        ],
+        [
+          "apenas",
+          "Apenas llegó, se fue.",
+          "He had barely arrived when he left."
+        ],
+        [
+          "en cuanto a",
+          "En cuanto a mí, estoy de acuerdo.",
+          "As for me, I agree."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "warn",
+      "title": "Fact with el hecho de que",
+      "text": "Real facts normally take the indicative, but after <b>el hecho de que</b> Spanish uses the subjunctive when the speaker reacts to the fact: <i>El hecho de que sea tu amigo no importa.</i> The indicative is possible when the fact is simply informative: <i>El hecho de que llegó tarde se notó.</i>"
+    },
+    {
+      "type": "h1",
+      "text": "5. Emotion, evaluation and denial (recap and extension)"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.6,
+        6.0,
+        5.4
+      ],
+      "head": [
+        "Pattern",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "lamentar / sentir que",
+          "Siento que no puedas venir.",
+          "I am sorry you cannot come."
+        ],
+        [
+          "molestar, extrañar, sorprender que",
+          "Me sorprende que sepa tanto.",
+          "It surprises me that he knows so much."
+        ],
+        [
+          "no negar que + indicative",
+          "No niego que tiene razón.",
+          "I do not deny that he is right."
+        ],
+        [
+          "negar que + subjunctive",
+          "Niego que sea verdad.",
+          "I deny that it is true."
+        ],
+        [
+          "no es verdad / cierto que + subj.",
+          "No es verdad que lo haya dicho.",
+          "It is not true that he said it."
+        ],
+        [
+          "es verdad / evidente que + ind.",
+          "Es evidente que tiene razón.",
+          "It is obvious that he is right."
+        ],
+        [
+          "tener miedo de que + subj.",
+          "Temo que llegue tarde.",
+          "I fear he will arrive late."
+        ],
+        [
+          "parecer que (affirm) / no parecer que",
+          "Parece que llueve. / No parece que llueva.",
+          "It looks like rain. / It does not look like rain."
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "6. Common mistakes"
+    },
+    {
+      "type": "mistakes",
+      "rows": [
+        [
+          "Por mucho que estudia, no aprueba.",
+          "Por mucho que estudie, no aprueba.",
+          "por mucho que + subjunctive."
+        ],
+        [
+          "A lo mejor venga.",
+          "A lo mejor viene.",
+          "a lo mejor + indicative."
+        ],
+        [
+          "Puede que viene.",
+          "Puede que venga.",
+          "puede que + subjunctive."
+        ],
+        [
+          "Que yo sé, no ha venido.",
+          "Que yo sepa, no ha venido.",
+          "Fixed phrase: sepa."
+        ],
+        [
+          "Salió sin que lo vimos.",
+          "Salió sin que lo viéramos.",
+          "sin que: subjunctive."
+        ],
+        [
+          "Cualquiera persona puede.",
+          "Cualquier persona puede.",
+          "cualquier before a noun."
+        ],
+        [
+          "Por muy cansado es, trabaja.",
+          "Por muy cansado que esté, trabaja.",
+          "por muy + adj + que + subj."
+        ],
+        [
+          "No es que no quiero.",
+          "No es que no quiera.",
+          "no es que: subjunctive."
+        ],
+        [
+          "Pase lo que pasa, iré.",
+          "Pase lo que pase, iré.",
+          "Repeat the verb in the subjunctive."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "7. Self-check"
+    },
+    {
+      "type": "p",
+      "text": "Fill in the correct form. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Hint"
+      ],
+      "items": [
+        {
+          "q": "Por mucho que ______, no aprueba.",
+          "hint": "estudiar: él, subjunctive",
+          "a": "estudie",
+          "full": "Por mucho que estudie, no aprueba."
+        },
+        {
+          "q": "Por muy caro que ______, lo compraré.",
+          "hint": "ser: subjunctive",
+          "a": "sea",
+          "full": "Por muy caro que sea, lo compraré."
+        },
+        {
+          "q": "A lo mejor ______ mañana.",
+          "hint": "venir: él, present",
+          "a": "viene",
+          "full": "A lo mejor viene mañana."
+        },
+        {
+          "q": "Puede que ______ mañana.",
+          "hint": "llover: subjunctive",
+          "a": "llueva",
+          "full": "Puede que llueva mañana."
+        },
+        {
+          "q": "Que yo ______, no ha llegado.",
+          "hint": "saber: subjunctive",
+          "a": "sepa",
+          "full": "Que yo sepa, no ha llegado."
+        },
+        {
+          "q": "Salió sin que lo ______.",
+          "hint": "ver, nosotros: imperfect subj.",
+          "a": "viéramos",
+          "full": "Salió sin que lo viéramos."
+        },
+        {
+          "q": "Pase lo que ______, estaré allí.",
+          "hint": "pasar: subjunctive",
+          "a": "pase",
+          "full": "Pase lo que pase, estaré allí."
+        },
+        {
+          "q": "______ la razón, lo haré.",
+          "hint": "cualquiera que: + subjunctive of ser",
+          "a": "Cualquiera que sea",
+          "full": "Cualquiera que sea la razón, lo haré."
+        },
+        {
+          "q": "No es que no ______, es que no puedo.",
+          "hint": "querer: yo, subjunctive",
+          "a": "quiera",
+          "full": "No es que no quiera, es que no puedo."
+        },
+        {
+          "q": "______ que llame, no abras.",
+          "hint": "whoever: one word",
+          "a": "Quienquiera",
+          "full": "Quienquiera que llame, no abras."
+        },
+        {
+          "q": "Dondequiera que ______, te seguiré.",
+          "hint": "ir: tú, subjunctive",
+          "a": "vayas",
+          "full": "Dondequiera que vayas, te seguiré."
+        },
+        {
+          "q": "Cada vez que ______, trae flores.",
+          "hint": "venir: él, present",
+          "a": "viene",
+          "full": "Cada vez que viene, trae flores."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish:</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "However hard I try, I cannot.",
+          "a": "Por más que lo intento, no puedo."
+        },
+        {
+          "q": "Whatever happens, I will be there.",
+          "a": "Pase lo que pase, estaré allí."
+        },
+        {
+          "q": "Maybe he will come.",
+          "a": "A lo mejor viene. / Quizá venga."
+        },
+        {
+          "q": "As far as I know, he has not called.",
+          "a": "Que yo sepa, no ha llamado."
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

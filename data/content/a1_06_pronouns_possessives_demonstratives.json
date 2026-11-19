@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "level": "A1",
+    "section": "Grammar",
+    "number": 6,
+    "total_in_level": 9,
+    "title": "Possessives, Demonstratives and Question Words",
+    "subtitle": "my, your, this, that — plus pronouns after prepositions and the question words you need every day",
+    "footer": "Spanish Learning Program · A1 · Grammar · Possessives, demonstratives, questions",
+    "next": "Next: A1 · PDF 7 — Reflexive verbs and gustar"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "say my, your, his, her, our and their correctly",
+        "point out things with este, ese and aquel",
+        "use pronouns after a preposition (para mí, conmigo)",
+        "ask all the basic questions: what, who, where, when, how, how much, which, why"
+      ]
+    },
+
+    { "type": "h1", "text": "1. Possessive adjectives" },
+    {
+      "type": "p",
+      "text": "Possessives go <b>before</b> the noun and agree with the <b>thing owned</b>, not with the owner: <i>mi hermano, mis hermanas</i>. Only <b>nuestro</b> and <b>vuestro</b> also change for gender."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [4.4, 3.6, 4.4, 4.6],
+      "head": ["Owner", "Singular noun", "Plural noun", "Example"],
+      "rows": [
+        ["yo (my)", "mi", "mis", "mi casa, mis libros"],
+        ["tú (your)", "tu", "tus", "tu madre, tus llaves"],
+        ["él / ella / usted (his, her, your)", "su", "sus", "su coche, sus amigos"],
+        ["nosotros (our)", "nuestro / nuestra", "nuestros / nuestras", "nuestro piso, nuestras vacaciones"],
+        ["vosotros (your)", "vuestro / vuestra", "vuestros / vuestras", "vuestro perro, vuestras maletas"],
+        ["ellos / ellas / ustedes (their, your)", "su", "sus", "su casa, sus hijos"]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "One word, many owners: su",
+      "text": "<b>su</b> can mean his, her, your (formal) or their. If it is unclear, say who: <i>la casa de él, la casa de ella, la casa de ustedes, la casa de ellos</i>. Also note: <b>tu</b> (your) has no accent, but <b>tú</b> (you) does."
+    },
+
+    { "type": "h1", "text": "2. Demonstratives: this, that, that over there" },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [5.0, 2.6, 2.6, 3.0, 3.8],
+      "head": ["Distance", "m. sing.", "f. sing.", "m. / f. pl.", "Place word"],
+      "rows": [
+        ["close to me (this, these)", "este", "esta", "estos / estas", "aquí (here)"],
+        ["close to you (that, those)", "ese", "esa", "esos / esas", "ahí (there)"],
+        ["far from both (that, those over there)", "aquel", "aquella", "aquellos / aquellas", "allí (over there)"]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "They agree with the noun: <i>este libro, esta casa, estos libros, estas casas</i>.",
+        "<b>esto, eso, aquello</b> are neutral. Use them for an unknown thing or an idea: <i>¿Qué es esto? Eso es verdad.</i>",
+        "Spanish has <b>three</b> distances, Dutch has two (dit / dat). <b>ese</b> is “that, near you”, <b>aquel</b> is “that, far away”."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<i>Este coche es nuevo, ese coche es viejo y aquel coche es muy caro.</i> (This car is new, that car is old and that car over there is very expensive.)"
+    },
+
+    { "type": "h1", "text": "3. Pronouns after a preposition" },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [4.2, 3.6, 9.2],
+      "head": ["Person", "After a preposition", "Example"],
+      "rows": [
+        ["yo", "mí", "Es para mí."],
+        ["tú", "ti", "Es para ti."],
+        ["él / ella / usted", "él / ella / usted", "Voy con él. Hablo de ella."],
+        ["nosotros / nosotras", "nosotros / nosotras", "Es para nosotros."],
+        ["vosotros / vosotras", "vosotros / vosotras", "Voy sin vosotros."],
+        ["ellos / ellas / ustedes", "ellos / ellas / ustedes", "Pienso en ellos."]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "warn",
+      "title": "Two special forms",
+      "text": "<b>con + mí = conmigo</b> and <b>con + ti = contigo</b>: <i>¿Vienes conmigo? Sí, voy contigo.</i> Never write con mí or con ti. After para, a, de, en and sin use <b>mí</b> and <b>ti</b>, not <i>yo</i> and <i>tú</i>."
+    },
+
+    { "type": "h1", "text": "4. Question words" },
+    {
+      "type": "p",
+      "text": "Question words always carry a written accent and the whole question is wrapped in ¿ ?."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [3.4, 3.6, 10.0],
+      "head": ["Spanish", "English", "Example"],
+      "rows": [
+        ["qué", "what", "¿Qué es esto? ¿Qué hora es?"],
+        ["quién / quiénes", "who", "¿Quién es ella? ¿Quiénes son ellos?"],
+        ["dónde", "where", "¿Dónde vives?"],
+        ["adónde", "where to", "¿Adónde vas?"],
+        ["de dónde", "where from", "¿De dónde eres?"],
+        ["cuándo", "when", "¿Cuándo llegas?"],
+        ["cómo", "how", "¿Cómo estás? ¿Cómo te llamas?"],
+        ["cuánto / cuánta / cuántos / cuántas", "how much / how many", "¿Cuánto cuesta? ¿Cuántos años tienes?"],
+        ["cuál / cuáles", "which (one)", "¿Cuál es tu teléfono?"],
+        ["por qué", "why", "¿Por qué estudias español?"],
+        ["a qué hora", "at what time", "¿A qué hora llegas?"],
+        ["de quién", "whose", "¿De quién es este libro?"]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<b>cuánto</b> agrees with the noun that follows: <i>¿Cuánta agua? ¿Cuántas personas?</i>",
+        "<b>qué</b> or <b>cuál</b>? Use <b>qué es</b> to ask for a definition (<i>¿Qué es esto?</i>) and <b>qué + noun</b> to choose (<i>¿Qué libro prefieres?</i>). Use <b>cuál es</b> to ask for a specific piece of information (<i>¿Cuál es tu número?</i>).",
+        "<b>por qué</b> (two words, accent) asks <i>why?</i>. <b>porque</b> (one word, no accent) answers <i>because</i>: <i>¿Por qué estudias español? Porque quiero viajar.</i>"
+      ]
+    },
+
+    { "type": "h1", "text": "5. Common mistakes" },
+    {
+      "type": "mistakes",
+      "rows": [
+        ["Mi amigos son simpáticos.", "Mis amigos son simpáticos.", "A possessive agrees with the noun, so plural nouns take mis, tus, sus."],
+        ["Nuestro casa es grande.", "Nuestra casa es grande.", "Nuestro and vuestro also change for gender."],
+        ["Esta libro es interesante.", "Este libro es interesante.", "libro is masculine, so este."],
+        ["¿Que hora es?", "¿Qué hora es?", "Question words carry an accent."],
+        ["¿Porque estudias?", "¿Por qué estudias?", "A question uses the two-word form por qué. Porque (one word) answers."],
+        ["¿Cuanto años tienes?", "¿Cuántos años tienes?", "Cuánto agrees with años and carries an accent."],
+        ["Es para yo.", "Es para mí.", "After a preposition use mí, not yo."],
+        ["Voy con mí.", "Voy conmigo.", "con + mí = conmigo."]
+      ]
+    },
+
+    { "type": "h1", "text": "6. Self-check" },
+    {
+      "type": "p",
+      "text": "Complete each sentence. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "items": [
+        { "q": "______ hermana es alta.", "hint": "my", "a": "Mi", "full": "Mi hermana es alta." },
+        { "q": "______ padres viven en Madrid.", "hint": "your (tú)", "a": "Tus", "full": "Tus padres viven en Madrid." },
+        { "q": "Es ______ casa.", "hint": "our", "a": "nuestra", "full": "Es nuestra casa." },
+        { "q": "¿Dónde están ______ llaves?", "hint": "your (vosotros)", "a": "vuestras", "full": "¿Dónde están vuestras llaves?" },
+        { "q": "______ libro es interesante.", "hint": "this", "a": "Este", "full": "Este libro es interesante." },
+        { "q": "Quiero ______ camisas.", "hint": "those (near you)", "a": "esas", "full": "Quiero esas camisas." },
+        { "q": "______ montañas son muy altas.", "hint": "those over there", "a": "Aquellas", "full": "Aquellas montañas son muy altas." },
+        { "q": "¿______ años tienes?", "hint": "how many", "a": "Cuántos", "full": "¿Cuántos años tienes?" },
+        { "q": "¿______ vives?", "hint": "where", "a": "Dónde", "full": "¿Dónde vives?" },
+        { "q": "¿______ estudias español?", "hint": "why", "a": "Por qué", "full": "¿Por qué estudias español?" },
+        { "q": "Estudio español ______ quiero viajar.", "hint": "because", "a": "porque", "full": "Estudio español porque quiero viajar." },
+        { "q": "¿______ es tu número de teléfono?", "hint": "which", "a": "Cuál", "full": "¿Cuál es tu número de teléfono?" }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish:</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        { "q": "These are my friends.", "a": "Estos son mis amigos." },
+        { "q": "Where is your house? (tú)", "a": "¿Dónde está tu casa?" },
+        { "q": "What time is it?", "a": "¿Qué hora es?" },
+        { "q": "Who is that woman?", "a": "¿Quién es esa mujer?" }
+      ]
+    },
+
+    { "type": "pagebreak" },
+    { "type": "answers" }
+  ]
+}

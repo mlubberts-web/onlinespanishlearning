@@ -1,0 +1,475 @@
+{
+  "meta": {
+    "level": "C2",
+    "section": "Grammar",
+    "number": 3,
+    "total_in_level": 10,
+    "title": "Advanced Syntax and Word Order",
+    "subtitle": "marked word order, adjective position, cleft sentences, absolute constructions, exclamatives and ellipsis",
+    "footer": "Spanish Learning Program · C2 · Grammar · Advanced syntax",
+    "next": "Next: C2 · PDF 4 — Dequeísmo, queísmo and verb government"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "move words around for emphasis without breaking the grammar",
+        "choose the right adjective position when it changes the meaning",
+        "build cleft sentences and absolute constructions",
+        "use exclamatives and ellipsis like a native writer"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "1. Marked word order"
+    },
+    {
+      "type": "p",
+      "text": "Spanish word order is flexible. The neutral order is subject-verb-object, but moving a word to the front or the end puts <b>focus</b> on it."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.4,
+        6.4,
+        6.2
+      ],
+      "head": [
+        "Effect",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "subject after verb (new info)",
+          "Llegó Juan.",
+          "Juan arrived. (news)"
+        ],
+        [
+          "subject after verb (question)",
+          "¿Qué dijo el director?",
+          "What did the director say?"
+        ],
+        [
+          "object fronted + pronoun",
+          "El libro lo compré ayer.",
+          "The book, I bought it yesterday."
+        ],
+        [
+          "object fronted for contrast",
+          "Eso no lo sé.",
+          "That I do not know."
+        ],
+        [
+          "focus without pronoun",
+          "DINERO necesito, no consejos.",
+          "Money is what I need, not advice."
+        ],
+        [
+          "verb first (narrative)",
+          "Era una noche oscura y fría.",
+          "It was a dark, cold night."
+        ],
+        [
+          "adverb fronted",
+          "Ayer por la noche vimos una película.",
+          "Last night we watched a film."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "dutch",
+      "title": "Dutch learners",
+      "text": "Dutch uses verb-second order after an adverb (<i>Gisteren zag ik hem</i>). Spanish does not invert: <i>Ayer lo vi</i>, not *Ayer vi yo lo."
+    },
+    {
+      "type": "h1",
+      "text": "2. Adjectives that change meaning with position"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        3.4,
+        5.6,
+        5.6,
+        2.4
+      ],
+      "head": [
+        "Adjective",
+        "Before the noun",
+        "After the noun",
+        ""
+      ],
+      "rows": [
+        [
+          "grande",
+          "un gran hombre (great)",
+          "un hombre grande (big)",
+          ""
+        ],
+        [
+          "pobre",
+          "un pobre hombre (pitiful)",
+          "un hombre pobre (no money)",
+          ""
+        ],
+        [
+          "nuevo",
+          "un nuevo coche (another one)",
+          "un coche nuevo (brand new)",
+          ""
+        ],
+        [
+          "antiguo",
+          "mi antiguo jefe (former)",
+          "un edificio antiguo (old)",
+          ""
+        ],
+        [
+          "cierto",
+          "cierto problema (a certain)",
+          "un dato cierto (true)",
+          ""
+        ],
+        [
+          "simple",
+          "un simple error (mere)",
+          "un hombre simple (simple-minded)",
+          ""
+        ],
+        [
+          "único",
+          "mi único hijo (only)",
+          "una obra única (unique)",
+          ""
+        ],
+        [
+          "viejo",
+          "un viejo amigo (long-standing)",
+          "un amigo viejo (aged)",
+          ""
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "3. Cleft sentences"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.6,
+        6.4,
+        6.0
+      ],
+      "head": [
+        "Structure",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "ser + subject + quien",
+          "Fue Juan quien lo hizo.",
+          "It was Juan who did it."
+        ],
+        [
+          "ser + place + donde",
+          "Es en Madrid donde vivo.",
+          "It is in Madrid that I live."
+        ],
+        [
+          "ser + time + cuando",
+          "Fue ayer cuando lo supe.",
+          "It was yesterday that I found out."
+        ],
+        [
+          "lo que + verb + es",
+          "Lo que necesito es descanso.",
+          "What I need is rest."
+        ],
+        [
+          "lo que pasa es que",
+          "Lo que pasa es que no tengo tiempo.",
+          "The thing is that I have no time."
+        ],
+        [
+          "por eso... es que",
+          "Por eso es que no vino.",
+          "That is why he did not come."
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "4. Absolute constructions"
+    },
+    {
+      "type": "p",
+      "text": "Participle + noun, with the participle agreeing in gender and number. They replace a subordinate clause (time, cause, condition) and give a written, compact style."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.2,
+        6.2,
+        5.6
+      ],
+      "head": [
+        "Structure",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "participle + noun",
+          "Hechas las compras, volvimos a casa.",
+          "Once the shopping was done, we went home."
+        ],
+        [
+          "una vez + participle",
+          "Una vez terminada la clase, salimos.",
+          "Once class was over, we left."
+        ],
+        [
+          "dicho esto",
+          "Dicho esto, terminamos la reunión.",
+          "That said, we ended the meeting."
+        ],
+        [
+          "llegado el momento",
+          "Llegado el momento, actuaremos.",
+          "When the time comes, we will act."
+        ],
+        [
+          "dadas las circunstancias",
+          "Dadas las circunstancias, no podemos.",
+          "Given the circumstances, we cannot."
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "5. Exclamatives and ellipsis"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.0,
+        6.0,
+        6.0
+      ],
+      "head": [
+        "Pattern",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "qué + adjective",
+          "¡Qué bonito es!",
+          "How beautiful it is!"
+        ],
+        [
+          "qué + noun + más/tan",
+          "¡Qué día más largo!",
+          "What a long day!"
+        ],
+        [
+          "cuánto + verb",
+          "¡Cuánto has crecido!",
+          "How you have grown!"
+        ],
+        [
+          "vaya + noun",
+          "¡Vaya sorpresa!",
+          "What a surprise!"
+        ],
+        [
+          "ellipsis: shared verb",
+          "Yo como carne y ella, pescado.",
+          "I eat meat and she, fish."
+        ],
+        [
+          "ellipsis: answer",
+          "¿Café? Sí, con leche.",
+          "Coffee? Yes, with milk."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "6. Common mistakes"
+    },
+    {
+      "type": "mistakes",
+      "rows": [
+        [
+          "Ayer vi yo la película.",
+          "Ayer vi la película.",
+          "no Dutch-style inversion."
+        ],
+        [
+          "Era un hombre grande, todos lo admiraban. (great)",
+          "Era un gran hombre, todos lo admiraban.",
+          "gran before noun = great."
+        ],
+        [
+          "Es un pobre hombre, no tiene dinero. (poor)",
+          "Es un hombre pobre, no tiene dinero.",
+          "pobre after = without money."
+        ],
+        [
+          "Hecho las compras, volvimos.",
+          "Hechas las compras, volvimos.",
+          "participle agrees with the noun."
+        ],
+        [
+          "Fue Juan que lo hizo.",
+          "Fue Juan quien lo hizo.",
+          "persons: quien."
+        ],
+        [
+          "Qué bonito que es!",
+          "¡Qué bonito es!",
+          "no que after the adjective; add ¡ at the start."
+        ],
+        [
+          "Lo libro compré ayer.",
+          "El libro lo compré ayer.",
+          "lo is the pronoun, not the article."
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "7. Self-check"
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Hint"
+      ],
+      "items": [
+        {
+          "q": "______ las compras, volvimos a casa.",
+          "hint": "hacer: participle, feminine plural, capital",
+          "a": "Hechas",
+          "full": "Hechas las compras, volvimos a casa."
+        },
+        {
+          "q": "Es en Madrid ______ vivo.",
+          "hint": "relative",
+          "a": "donde",
+          "full": "Es en Madrid donde vivo."
+        },
+        {
+          "q": "Fue Juan ______ lo hizo.",
+          "hint": "relative for people",
+          "a": "quien",
+          "full": "Fue Juan quien lo hizo."
+        },
+        {
+          "q": "¡______ bonito es!",
+          "hint": "exclamative",
+          "a": "Qué",
+          "full": "¡Qué bonito es!"
+        },
+        {
+          "q": "¡______ has crecido!",
+          "hint": "how much",
+          "a": "Cuánto",
+          "full": "¡Cuánto has crecido!"
+        },
+        {
+          "q": "Era un ______ hombre, admirado por todos.",
+          "hint": "grande: great, before the noun",
+          "a": "gran",
+          "full": "Era un gran hombre, admirado por todos."
+        },
+        {
+          "q": "Es un hombre ______, no tiene dinero.",
+          "hint": "pobre: without money",
+          "a": "pobre",
+          "full": "Es un hombre pobre, no tiene dinero."
+        },
+        {
+          "q": "Mi ______ jefe se jubiló.",
+          "hint": "antiguo: former",
+          "a": "antiguo",
+          "full": "Mi antiguo jefe se jubiló."
+        },
+        {
+          "q": "Eso no ______ sé.",
+          "hint": "object pronoun",
+          "a": "lo",
+          "full": "Eso no lo sé."
+        },
+        {
+          "q": "Llegado ______ momento, actuaremos.",
+          "hint": "article",
+          "a": "el",
+          "full": "Llegado el momento, actuaremos."
+        },
+        {
+          "q": "Lo ______ pasa es que no tengo tiempo.",
+          "hint": "that",
+          "a": "que",
+          "full": "Lo que pasa es que no tengo tiempo."
+        },
+        {
+          "q": "Dicho ______, terminamos la reunión.",
+          "hint": "this",
+          "a": "esto",
+          "full": "Dicho esto, terminamos la reunión."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish (Spain):</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "It was Ana who told me.",
+          "a": "Fue Ana quien me lo dijo."
+        },
+        {
+          "q": "Once the work was finished, we left.",
+          "a": "Una vez terminado el trabajo, nos fuimos."
+        },
+        {
+          "q": "He was a great man.",
+          "a": "Era un gran hombre."
+        },
+        {
+          "q": "What a long day!",
+          "a": "¡Qué día más largo!"
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

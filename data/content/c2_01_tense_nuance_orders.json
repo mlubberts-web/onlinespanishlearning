@@ -1,0 +1,412 @@
+{
+  "meta": {
+    "level": "C2",
+    "section": "Grammar",
+    "number": 1,
+    "total_in_level": 10,
+    "title": "Tense Nuance and Ways of Giving Orders",
+    "subtitle": "special uses of the present, imperfect, future and conditional, plus every way to give an order",
+    "footer": "Spanish Learning Program · C2 · Grammar · Tense nuance",
+    "next": "Next: C2 · PDF 2 — The many values of se and clitics"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "recognise and use the special uses of the present, imperfect, future and conditional",
+        "give orders in many ways besides the normal imperative",
+        "read and write narrative Spanish with a deliberate choice of tense",
+        "avoid the typical learner mistakes with vosotros imperatives"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "1. Special uses of the present"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.2,
+        6.6,
+        6.2
+      ],
+      "head": [
+        "Use",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "historic present",
+          "En 1492 Colón llega a América.",
+          "In 1492 Columbus reaches America."
+        ],
+        [
+          "near future",
+          "Mañana tenemos reunión a las nueve.",
+          "Tomorrow we have a meeting at nine."
+        ],
+        [
+          "order (informal)",
+          "Tú te callas y me escuchas.",
+          "You be quiet and listen to me."
+        ],
+        [
+          "general truth",
+          "El agua hierve a cien grados.",
+          "Water boils at a hundred degrees."
+        ],
+        [
+          "narrative vividness",
+          "Entro en el bar y veo a mi ex.",
+          "I walk into the bar and see my ex."
+        ],
+        [
+          "conditions (si)",
+          "Si llueve, nos quedamos en casa.",
+          "If it rains, we stay home."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "Why it matters",
+      "text": "The <b>historic present</b> is typical of journalism, biographies and storytelling. Using it in an essay about history sounds natural and confident at C2 level."
+    },
+    {
+      "type": "h1",
+      "text": "2. Special uses of the imperfect"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.4,
+        6.6,
+        6.0
+      ],
+      "head": [
+        "Use",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "attempt, about to (conato)",
+          "Ya salía cuando sonó el teléfono.",
+          "I was just leaving when the phone rang."
+        ],
+        [
+          "play, make-believe (lúdico)",
+          "Yo era el policía y tú el ladrón.",
+          "I was the policeman and you the thief."
+        ],
+        [
+          "dream (onírico)",
+          "Soñé que volaba y todos me aplaudían.",
+          "I dreamt I flew and everyone applauded."
+        ],
+        [
+          "narrative (journalistic)",
+          "Dos días después, el presidente dimitía.",
+          "Two days later the president resigned."
+        ],
+        [
+          "planned future in the past",
+          "Me dijo que al día siguiente salía.",
+          "He told me he was leaving the next day."
+        ],
+        [
+          "politeness",
+          "Quería pedirle un favor.",
+          "I wanted to ask you a favour."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "3. Special uses of the future and conditional"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.4,
+        6.6,
+        6.0
+      ],
+      "head": [
+        "Use",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "command (futuro de mandato)",
+          "Te quedarás aquí hasta que vuelva.",
+          "You will stay here until I return."
+        ],
+        [
+          "surprise, indignation",
+          "¡Tendrá cara!",
+          "What a nerve he has!"
+        ],
+        [
+          "concession",
+          "Serán ricos, pero no son felices.",
+          "They may be rich, but they are not happy."
+        ],
+        [
+          "polite request (conditional)",
+          "¿Podría ayudarme, por favor?",
+          "Could you help me, please?"
+        ],
+        [
+          "concession in the past",
+          "Sería rico, pero era muy tacaño.",
+          "He may have been rich, but he was very stingy."
+        ],
+        [
+          "future in the past",
+          "Dijo que llegaría tarde.",
+          "He said he would arrive late."
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "4. Ways of giving orders"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.4,
+        5.6,
+        7.0
+      ],
+      "head": [
+        "Form",
+        "Example",
+        "Where you meet it"
+      ],
+      "rows": [
+        [
+          "imperative",
+          "Cierra la puerta.",
+          "everyday speech"
+        ],
+        [
+          "infinitive (rules, signs)",
+          "No fumar en la sala.",
+          "signs, instructions, recipes"
+        ],
+        [
+          "a + infinitive",
+          "¡A callar!",
+          "strong, abrupt order to a group"
+        ],
+        [
+          "que + subjunctive",
+          "¡Que te vaya bien!",
+          "wishes and indirect orders"
+        ],
+        [
+          "participle",
+          "¡Callados!",
+          "army, teachers, short sharp orders"
+        ],
+        [
+          "gerund (rare)",
+          "¡Andando!",
+          "get going"
+        ],
+        [
+          "present indicative",
+          "Tú te sientas ahí.",
+          "firm but informal"
+        ],
+        [
+          "future",
+          "Harás lo que te digo.",
+          "authoritative, formal"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "warn",
+      "title": "Vosotros imperative",
+      "text": "Standard: <b>sentaos</b>, <b>callaos</b> (the final -d drops before os). Very common in Spain, but considered non-standard: <b>sentaros</b>, <b>callaros</b>. In writing use the standard form."
+    },
+    {
+      "type": "h1",
+      "text": "5. Common mistakes"
+    },
+    {
+      "type": "mistakes",
+      "rows": [
+        [
+          "Mañana vamos a tener reunión a las nueve en punto.",
+          "Mañana tenemos reunión a las nueve.",
+          "fixed plans: the plain present is more natural."
+        ],
+        [
+          "Ya salí cuando sonó el teléfono.",
+          "Ya salía cuando sonó el teléfono.",
+          "an action not completed needs the imperfect."
+        ],
+        [
+          "Serían ricos, pero no son felices.",
+          "Serán ricos, pero no son felices.",
+          "present concession needs the future."
+        ],
+        [
+          "¡Sentaros!",
+          "¡Sentaos!",
+          "the standard imperative drops the -d."
+        ],
+        [
+          "Sentaros, niños.",
+          "Sentaos, niños.",
+          "the standard form drops the -d before os."
+        ],
+        [
+          "Dijo que llegará tarde.",
+          "Dijo que llegaría tarde.",
+          "future in the past is the conditional."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "6. Self-check"
+    },
+    {
+      "type": "p",
+      "text": "Fill in the correct form. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Hint"
+      ],
+      "items": [
+        {
+          "q": "En 1492 Colón ______ a América.",
+          "hint": "llegar: historic present",
+          "a": "llega",
+          "full": "En 1492 Colón llega a América."
+        },
+        {
+          "q": "Ya ______ cuando sonó el teléfono.",
+          "hint": "salir: imperfect, yo",
+          "a": "salía",
+          "full": "Ya salía cuando sonó el teléfono."
+        },
+        {
+          "q": "Yo ______ el policía y tú el ladrón.",
+          "hint": "ser: imperfect",
+          "a": "era",
+          "full": "Yo era el policía y tú el ladrón."
+        },
+        {
+          "q": "Te ______ aquí hasta que yo vuelva.",
+          "hint": "quedar: future, order",
+          "a": "quedarás",
+          "full": "Te quedarás aquí hasta que yo vuelva."
+        },
+        {
+          "q": "¡______ cara!",
+          "hint": "tener: future, indignation",
+          "a": "Tendrá",
+          "full": "¡Tendrá cara!"
+        },
+        {
+          "q": "Serán ricos, pero no ______ felices.",
+          "hint": "ser: present",
+          "a": "son",
+          "full": "Serán ricos, pero no son felices."
+        },
+        {
+          "q": "¡A ______!",
+          "hint": "callar: infinitive order",
+          "a": "callar",
+          "full": "¡A callar!"
+        },
+        {
+          "q": "No ______ en la sala.",
+          "hint": "fumar: infinitive sign",
+          "a": "fumar",
+          "full": "No fumar en la sala."
+        },
+        {
+          "q": "¡______ te vaya bien!",
+          "hint": "wish",
+          "a": "Que",
+          "full": "¡Que te vaya bien!"
+        },
+        {
+          "q": "El agua ______ a cien grados.",
+          "hint": "hervir: present, general truth",
+          "a": "hierve",
+          "full": "El agua hierve a cien grados."
+        },
+        {
+          "q": "Mañana ______ reunión a las nueve.",
+          "hint": "tener: nosotros, present",
+          "a": "tenemos",
+          "full": "Mañana tenemos reunión a las nueve."
+        },
+        {
+          "q": "¡______!",
+          "hint": "callado: participle order",
+          "a": "Callados",
+          "full": "¡Callados!"
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish (Spain):</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "In 1936 the war begins.",
+          "a": "En 1936 empieza la guerra."
+        },
+        {
+          "q": "He was just leaving when you called.",
+          "a": "Salía justo cuando llamaste."
+        },
+        {
+          "q": "They may be rich, but they are not happy.",
+          "a": "Serán ricos, pero no son felices."
+        },
+        {
+          "q": "Sit down, kids!",
+          "a": "¡Sentaos, niños!"
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

@@ -1,0 +1,636 @@
+{
+  "meta": {
+    "level": "B1",
+    "section": "Grammar",
+    "number": 9,
+    "total_in_level": 10,
+    "title": "Connectors and Discourse Markers",
+    "subtitle": "linking ideas, conjunctions with indicative or subjunctive, structuring a text and speaking naturally",
+    "footer": "Spanish Learning Program · B1 · Grammar · Connectors and discourse markers",
+    "next": "Next: B1 · PDF 10 — Vocabulary and set phrases"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "link ideas with connectors for addition, contrast, cause, consequence and purpose",
+        "choose indicative or subjunctive after conjunctions (aunque, cuando, para que, antes de que)",
+        "structure a text or talk (en primer lugar, por último, en resumen)",
+        "use spoken discourse markers (bueno, pues, o sea, por cierto, de hecho)"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "1. Addition and contrast"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.6,
+        6.2,
+        6.2
+      ],
+      "head": [
+        "Connector",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "además",
+          "Es barato; además, está cerca.",
+          "It is cheap; besides, it is close."
+        ],
+        [
+          "también / tampoco",
+          "Yo también voy. Yo tampoco voy.",
+          "I am going too. I am not going either."
+        ],
+        [
+          "incluso / hasta",
+          "Incluso mi abuelo vino.",
+          "Even my grandfather came."
+        ],
+        [
+          "pero",
+          "Quiero ir, pero no puedo.",
+          "I want to go, but I cannot."
+        ],
+        [
+          "sin embargo",
+          "Es caro. Sin embargo, lo compraré.",
+          "It is expensive. However, I will buy it."
+        ],
+        [
+          "no obstante",
+          "Es difícil; no obstante, lo intentaré.",
+          "It is difficult; nevertheless, I will try."
+        ],
+        [
+          "en cambio",
+          "Yo trabajo; mi hermano, en cambio, descansa.",
+          "I work; my brother, on the other hand, rests."
+        ],
+        [
+          "mientras que",
+          "Ana es seria, mientras que Eva es divertida.",
+          "Ana is serious, whereas Eva is fun."
+        ],
+        [
+          "por el contrario",
+          "No es fácil; por el contrario, es muy difícil.",
+          "It is not easy; on the contrary, it is very hard."
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "2. Cause and consequence"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.6,
+        6.2,
+        6.2
+      ],
+      "head": [
+        "Connector",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "porque",
+          "No voy porque estoy enfermo.",
+          "I am not going because I am ill."
+        ],
+        [
+          "ya que / puesto que",
+          "Ya que estás aquí, ayúdame.",
+          "Since you are here, help me."
+        ],
+        [
+          "como (at the start)",
+          "Como llovía, nos quedamos.",
+          "As it was raining, we stayed."
+        ],
+        [
+          "debido a / a causa de + noun",
+          "Debido a la lluvia, cancelaron el partido.",
+          "Due to the rain, the match was cancelled."
+        ],
+        [
+          "gracias a + noun",
+          "Gracias a ti, aprobé.",
+          "Thanks to you, I passed."
+        ],
+        [
+          "así que",
+          "Estaba cansado, así que me acosté.",
+          "I was tired, so I went to bed."
+        ],
+        [
+          "por eso",
+          "Llovía; por eso me quedé.",
+          "It was raining; that is why I stayed."
+        ],
+        [
+          "por lo tanto",
+          "Pagué; por lo tanto, puedo entrar.",
+          "I paid; therefore I may enter."
+        ],
+        [
+          "de modo que",
+          "Hablé claro, de modo que lo entendieron.",
+          "I spoke clearly, so they understood."
+        ],
+        [
+          "entonces",
+          "No hay tiempo; entonces, vámonos.",
+          "There is no time; then, let us go."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "warn",
+      "title": "porque / por qué / porqué / por que",
+      "bullets": [
+        "<b>porque</b> (one word) = because: <i>No vino porque estaba enfermo.</i>",
+        "<b>por qué</b> (two words, accent) = why in a question: <i>¿Por qué no viniste?</i>",
+        "<b>el porqué</b> = the reason (noun): <i>No sé el porqué.</i>",
+        "<b>por que</b> = preposition + relative: <i>La razón por que...</i> (rare)"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "3. Purpose, condition and concession"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.6,
+        5.0,
+        7.4
+      ],
+      "head": [
+        "Connector",
+        "Followed by",
+        "Example"
+      ],
+      "rows": [
+        [
+          "para + infinitive",
+          "infinitive (same subject)",
+          "Estudio para aprobar."
+        ],
+        [
+          "para que",
+          "subjunctive (different subject)",
+          "Te llamo para que vengas."
+        ],
+        [
+          "a menos que",
+          "subjunctive",
+          "Iré a menos que llueva."
+        ],
+        [
+          "con tal de que",
+          "subjunctive",
+          "Te ayudo con tal de que me lo pidas."
+        ],
+        [
+          "siempre que",
+          "subjunctive (condition)",
+          "Puedes venir siempre que avises."
+        ],
+        [
+          "a condición de que",
+          "subjunctive",
+          "Lo hago a condición de que me pagues."
+        ],
+        [
+          "aunque",
+          "indicative (a fact)",
+          "Aunque llueve, salgo."
+        ],
+        [
+          "aunque",
+          "subjunctive (hypothetical)",
+          "Aunque llueva, saldré."
+        ],
+        [
+          "a pesar de que",
+          "indicative",
+          "A pesar de que está cansado, trabaja."
+        ],
+        [
+          "a pesar de + noun / inf.",
+          "noun / infinitive",
+          "A pesar de la lluvia, salimos."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "aunque: fact or maybe?",
+      "text": "<b>Aunque + indicative</b> = a fact you know: <i>Aunque llueve, voy.</i> (It is raining, but I go.) <b>Aunque + subjunctive</b> = not known or not important: <i>Aunque llueva, iré.</i> (Even if it rains, I will go.)"
+    },
+    {
+      "type": "h1",
+      "text": "4. Time connectors"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.6,
+        5.0,
+        7.4
+      ],
+      "head": [
+        "Connector",
+        "Mood for the future",
+        "Example"
+      ],
+      "rows": [
+        [
+          "cuando",
+          "subjunctive",
+          "Cuando llegues, llámame."
+        ],
+        [
+          "en cuanto / tan pronto como",
+          "subjunctive",
+          "En cuanto termine, te aviso."
+        ],
+        [
+          "hasta que",
+          "subjunctive",
+          "Espera hasta que vuelva."
+        ],
+        [
+          "antes de que",
+          "subjunctive (always)",
+          "Salimos antes de que llueva."
+        ],
+        [
+          "después de que",
+          "subjunctive (future)",
+          "Después de que comas, saldremos."
+        ],
+        [
+          "mientras",
+          "indicative (ongoing)",
+          "Mientras cocino, escucho música."
+        ],
+        [
+          "siempre que",
+          "indicative (every time)",
+          "Siempre que viene, trae flores."
+        ],
+        [
+          "antes de / después de + inf.",
+          "infinitive (same subject)",
+          "Antes de salir, cierra la puerta."
+        ]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "For <b>past or habitual</b> events these take the indicative: <i>Cuando llegó, cenamos. Cuando llego, saludo.</i>",
+        "For the <b>future</b> use the subjunctive after cuando, en cuanto, hasta que (not the future tense): <i>Cuando tenga tiempo, te llamaré.</i>"
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "5. Structuring a text or talk"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.0,
+        12.0
+      ],
+      "head": [
+        "Function",
+        "Phrases"
+      ],
+      "rows": [
+        [
+          "Introducing",
+          "en primer lugar, para empezar, ante todo, lo primero"
+        ],
+        [
+          "Continuing",
+          "en segundo lugar, además, asimismo, también, por otro lado"
+        ],
+        [
+          "Giving an example",
+          "por ejemplo, es decir, en concreto, como"
+        ],
+        [
+          "Opinion",
+          "en mi opinión, a mi parecer, creo que, desde mi punto de vista, me parece que"
+        ],
+        [
+          "Agreeing",
+          "estoy de acuerdo, tienes razón, exacto, por supuesto"
+        ],
+        [
+          "Disagreeing",
+          "no estoy de acuerdo, no creo que + subjunctive, al contrario"
+        ],
+        [
+          "Contrasting sides",
+          "por un lado ... por otro (lado), mientras que"
+        ],
+        [
+          "Concluding",
+          "por último, finalmente, en resumen, en conclusión, para terminar"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "warn",
+      "title": "creer que vs no creer que",
+      "text": "<b>Creo que</b> + indicative: <i>Creo que tiene razón.</i> <b>No creo que</b> + subjunctive: <i>No creo que tenga razón.</i> (Same for pensar, parecer.)"
+    },
+    {
+      "type": "h1",
+      "text": "6. Speaking: discourse markers"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.6,
+        6.4,
+        6.0
+      ],
+      "head": [
+        "Marker",
+        "Use",
+        "Example"
+      ],
+      "rows": [
+        [
+          "bueno",
+          "start an answer, hesitate",
+          "Bueno, la verdad es que no sé."
+        ],
+        [
+          "pues",
+          "continue, pause",
+          "Pues no lo sé."
+        ],
+        [
+          "o sea",
+          "rephrase, \"I mean\"",
+          "Llegó tarde, o sea, a las diez."
+        ],
+        [
+          "es decir",
+          "rephrase (more formal)",
+          "Es ingeniero, es decir, trabaja con máquinas."
+        ],
+        [
+          "vale",
+          "OK (Spain)",
+          "¿Quedamos a las ocho? Vale."
+        ],
+        [
+          "por cierto",
+          "by the way",
+          "Por cierto, ¿has visto a Luis?"
+        ],
+        [
+          "a propósito",
+          "by the way (more formal)",
+          "A propósito, mañana hay reunión."
+        ],
+        [
+          "la verdad es que",
+          "to be honest",
+          "La verdad es que no me gusta."
+        ],
+        [
+          "de hecho",
+          "in fact",
+          "De hecho, ya lo sabía."
+        ],
+        [
+          "en realidad",
+          "actually",
+          "En realidad, no es tan caro."
+        ],
+        [
+          "total",
+          "so, in the end",
+          "Total, que no fuimos."
+        ],
+        [
+          "¿no?, ¿verdad?",
+          "tag question, \"right?\"",
+          "Hace calor, ¿verdad?"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "spain",
+      "title": "Spanish fillers",
+      "text": "Spaniards constantly use <b>bueno, pues, vale, o sea, ¿sabes?, ¿vale?</b> in conversation. <b>Vale</b> means \"OK\" in Spain; Latin Americans say <i>okay</i> or <i>dale</i> or <i>de acuerdo</i>."
+    },
+    {
+      "type": "h1",
+      "text": "7. Common mistakes"
+    },
+    {
+      "type": "mistakes",
+      "rows": [
+        [
+          "Cuando llegaré, te llamo.",
+          "Cuando llegue, te llamo.",
+          "Subjunctive after cuando for the future."
+        ],
+        [
+          "Voy para que verte.",
+          "Voy para verte.",
+          "Same subject: para + infinitive."
+        ],
+        [
+          "Te llamo para que vienes.",
+          "Te llamo para que vengas.",
+          "para que + subjunctive."
+        ],
+        [
+          "Salimos antes de que llueve.",
+          "Salimos antes de que llueva.",
+          "antes de que: always subjunctive."
+        ],
+        [
+          "Debido que llovía, me quedé.",
+          "Debido a que llovía, me quedé.",
+          "debido a (que)."
+        ],
+        [
+          "Porque no viniste?",
+          "¿Por qué no viniste?",
+          "Question: por qué."
+        ],
+        [
+          "No creo que tiene razón.",
+          "No creo que tenga razón.",
+          "no creer que + subjunctive."
+        ],
+        [
+          "Aunque llueve, iré mañana.",
+          "Aunque llueva, iré mañana.",
+          "Unknown future event: subjunctive."
+        ],
+        [
+          "Estoy cansado, pero por eso me acuesto.",
+          "Estoy cansado, por eso me acuesto.",
+          "Do not mix pero and por eso."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "8. Self-check"
+    },
+    {
+      "type": "p",
+      "text": "Fill in the verb in brackets or the missing connector. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Hint"
+      ],
+      "items": [
+        {
+          "q": "Cuando ______ a casa, te llamaré.",
+          "hint": "llegar (yo, subjunctive)",
+          "a": "llegue",
+          "full": "Cuando llegue a casa, te llamaré."
+        },
+        {
+          "q": "Te llamo para que ______.",
+          "hint": "venir (tú, subjunctive)",
+          "a": "vengas",
+          "full": "Te llamo para que vengas."
+        },
+        {
+          "q": "Estudio ______ aprobar el examen.",
+          "hint": "purpose, same subject",
+          "a": "para",
+          "full": "Estudio para aprobar el examen."
+        },
+        {
+          "q": "Salimos antes de que ______.",
+          "hint": "llover (subjunctive)",
+          "a": "llueva",
+          "full": "Salimos antes de que llueva."
+        },
+        {
+          "q": "Estaba cansado, ______ me acosté.",
+          "hint": "so",
+          "a": "así que",
+          "full": "Estaba cansado, así que me acosté."
+        },
+        {
+          "q": "______ la lluvia, cancelaron el partido.",
+          "hint": "due to",
+          "a": "Debido a",
+          "full": "Debido a la lluvia, cancelaron el partido."
+        },
+        {
+          "q": "¿______ no viniste ayer?",
+          "hint": "why",
+          "a": "Por qué",
+          "full": "¿Por qué no viniste ayer?"
+        },
+        {
+          "q": "No creo que ______ razón.",
+          "hint": "tener (él, subjunctive)",
+          "a": "tenga",
+          "full": "No creo que tenga razón."
+        },
+        {
+          "q": "Aunque ______, saldré.",
+          "hint": "llover (maybe, subjunctive)",
+          "a": "llueva",
+          "full": "Aunque llueva, saldré."
+        },
+        {
+          "q": "Ana es seria, ______ que Eva es divertida.",
+          "hint": "whereas",
+          "a": "mientras",
+          "full": "Ana es seria, mientras que Eva es divertida."
+        },
+        {
+          "q": "En ______, no hay mucho tiempo.",
+          "hint": "to sum up",
+          "a": "resumen",
+          "full": "En resumen, no hay mucho tiempo."
+        },
+        {
+          "q": "Espera hasta que ______.",
+          "hint": "volver (yo, subjunctive)",
+          "a": "vuelva",
+          "full": "Espera hasta que vuelva."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish:</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "When you arrive, call me.",
+          "a": "Cuando llegues, llámame."
+        },
+        {
+          "q": "It was raining, so we stayed at home.",
+          "a": "Llovía, así que nos quedamos en casa."
+        },
+        {
+          "q": "Even if it rains, I will go.",
+          "a": "Aunque llueva, iré."
+        },
+        {
+          "q": "By the way, have you seen Luis?",
+          "a": "Por cierto, ¿has visto a Luis?"
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

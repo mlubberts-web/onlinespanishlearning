@@ -1,0 +1,419 @@
+{
+  "meta": {
+    "level": "A1",
+    "section": "Vocabulary",
+    "number": 9,
+    "total_in_level": 9,
+    "title": "Vocabulary and Set Phrases",
+    "subtitle": "Themed word lists with articles (Spain Spanish), plus phrases for introductions, cafés, directions and shopping",
+    "footer": "Spanish Learning Program · A1 · Vocabulary and set phrases",
+    "next": "Next: A2 · PDF 1 — Preterite: regular verbs"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "How to use these lists",
+      "bullets": [
+        "Nouns are given <b>with their article</b> (el / la). Learn them together: el pan, la leche.",
+        "Cover one column and test yourself in both directions.",
+        "All words are Spain Spanish. The table in section 12 shows where Latin America differs."
+      ]
+    },
+
+    { "type": "h1", "text": "1. Greetings and polite words" },
+    {
+      "type": "verbpairs",
+      "title": "Greetings and politeness",
+      "widths": [4.6, 3.9, 4.6, 3.9],
+      "items": [
+        ["hola", "hello"], ["buenos días", "good morning"], ["buenas tardes", "good afternoon"], ["buenas noches", "good evening, good night"],
+        ["adiós", "goodbye"], ["hasta luego", "see you later"], ["hasta mañana", "see you tomorrow"], ["hasta pronto", "see you soon"],
+        ["por favor", "please"], ["gracias", "thank you"], ["de nada", "you are welcome"], ["perdón", "sorry, excuse me"],
+        ["lo siento", "I am sorry"], ["con permiso", "excuse me (passing)"], ["¿qué tal?", "how is it going?"], ["¿cómo estás?", "how are you?"],
+        ["(muy) bien", "(very) well"], ["así así", "so-so"], ["mal", "bad"], ["mucho gusto", "nice to meet you"],
+        ["encantado / encantada", "pleased to meet you"], ["sí / no", "yes / no"], ["vale", "OK (very common in Spain)"], ["bienvenido / bienvenida", "welcome"]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "spain",
+      "title": "Which greeting when?",
+      "text": "Lunch in Spain is around 2 pm, so <b>buenos días</b> is used until about then. <b>Buenas tardes</b> lasts until it gets dark, then it is <b>buenas noches</b>, also as a way of saying goodnight."
+    },
+
+    { "type": "h1", "text": "2. Numbers" },
+    {
+      "type": "verbpairs",
+      "title": "Numbers",
+      "items": [
+        ["0", "cero"], ["1", "uno"], ["2", "dos"], ["3", "tres"], ["4", "cuatro"], ["5", "cinco"], ["6", "seis"], ["7", "siete"],
+        ["8", "ocho"], ["9", "nueve"], ["10", "diez"], ["11", "once"], ["12", "doce"], ["13", "trece"], ["14", "catorce"], ["15", "quince"],
+        ["16", "dieciséis"], ["17", "diecisiete"], ["18", "dieciocho"], ["19", "diecinueve"], ["20", "veinte"], ["30", "treinta"], ["40", "cuarenta"], ["50", "cincuenta"],
+        ["60", "sesenta"], ["70", "setenta"], ["80", "ochenta"], ["90", "noventa"], ["100", "cien"], ["200", "doscientos"], ["500", "quinientos"], ["1000", "mil"]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<b>16 to 19 and 21 to 29</b> are one word: dieciséis, diecisiete, veintiuno, veintidós, veintitrés, veinticuatro, veinticinco, veintiséis, veintisiete, veintiocho, veintinueve.",
+        "<b>From 31</b> the tens and units are separate words with y: treinta y uno, cuarenta y cinco, noventa y nueve.",
+        "<b>100:</b> <i>cien</i> on its own or before a noun (cien euros), <i>ciento</i> in 101 to 199 (ciento uno, ciento cincuenta).",
+        "<b>uno</b> shortens before a masculine noun and agrees with a feminine one: <i>un euro, veintiún euros, una casa, veintiuna casas</i>. Hundreds agree too: <i>doscientas casas</i>.",
+        "<b>mil</b> never takes un: <i>mil euros</i>."
+      ]
+    },
+
+    { "type": "h1", "text": "3. Days, months and seasons" },
+    {
+      "type": "verbpairs",
+      "title": "Days of the week and time words",
+      "items": [
+        ["lunes", "Monday"], ["martes", "Tuesday"], ["miércoles", "Wednesday"], ["jueves", "Thursday"],
+        ["viernes", "Friday"], ["sábado", "Saturday"], ["domingo", "Sunday"], ["hoy", "today"],
+        ["mañana", "tomorrow (also: morning)"], ["ayer", "yesterday"], ["la semana", "the week"], ["el fin de semana", "the weekend"],
+        ["el mes", "the month"], ["el año", "the year"]
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "Months and seasons",
+      "items": [
+        ["enero", "January"], ["febrero", "February"], ["marzo", "March"], ["abril", "April"],
+        ["mayo", "May"], ["junio", "June"], ["julio", "July"], ["agosto", "August"],
+        ["septiembre", "September"], ["octubre", "October"], ["noviembre", "November"], ["diciembre", "December"],
+        ["la primavera", "spring"], ["el verano", "summer"], ["el otoño", "autumn"], ["el invierno", "winter"]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Days and months are written in lower case. The week starts on Monday. <i>El lunes</i> = on Monday, <i>los lunes</i> = on Mondays. Dates use cardinal numbers: <i>el cinco de mayo</i>, <i>el 1 de enero</i>. Seasons: <i>en verano</i>, <i>en invierno</i>."
+    },
+
+    { "type": "h1", "text": "4. Telling the time" },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [2.6, 7.4, 7.0],
+      "head": ["Time", "Spanish", "English"],
+      "rows": [
+        ["1:00", "Es la una.", "It is one o'clock."],
+        ["2:00", "Son las dos.", "It is two o'clock."],
+        ["2:15", "Son las dos y cuarto.", "It is a quarter past two."],
+        ["2:30", "Son las dos y media.", "It is half past two."],
+        ["2:45", "Son las tres menos cuarto.", "It is a quarter to three."],
+        ["2:10", "Son las dos y diez.", "It is ten past two."],
+        ["2:50", "Son las tres menos diez.", "It is ten to three."],
+        ["12:00", "Es mediodía.", "It is noon."],
+        ["0:00", "Es medianoche.", "It is midnight."]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<b>¿Qué hora es?</b> (What time is it?) <b>¿A qué hora…?</b> (At what time…?) Answer: <i>A las ocho.</i>",
+        "Use <b>es la</b> for one o'clock and <b>son las</b> for every other hour.",
+        "Add <b>de la mañana</b> (morning), <b>de la tarde</b> (afternoon and evening) or <b>de la noche</b> (night): <i>las ocho de la mañana, las diez de la noche</i>."
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "dutch",
+      "title": "Half drie is not “media tres”",
+      "text": "Dutch <i>half drie</i> means 2:30, and so does Spanish <b>las dos y media</b>. Do not translate <i>half drie</i> word for word. Spanish adds the half <b>after</b> the hour that has already started."
+    },
+
+    { "type": "h1", "text": "5. Family and people" },
+    {
+      "type": "verbpairs",
+      "title": "Family and people",
+      "widths": [4.8, 3.7, 4.8, 3.7],
+      "items": [
+        ["la madre", "mother"], ["el padre", "father"], ["los padres", "parents"], ["el hermano / la hermana", "brother / sister"],
+        ["el hijo / la hija", "son / daughter"], ["el abuelo / la abuela", "grandfather / grandmother"], ["el nieto / la nieta", "grandson / granddaughter"], ["el tío / la tía", "uncle / aunt"],
+        ["el sobrino / la sobrina", "nephew / niece"], ["el primo / la prima", "cousin"], ["el marido / la mujer", "husband / wife"], ["el novio / la novia", "boyfriend / girlfriend"],
+        ["el amigo / la amiga", "friend"], ["el vecino / la vecina", "neighbour"], ["el niño / la niña", "child"], ["el chico / la chica", "boy / girl"],
+        ["el hombre", "man"], ["la mujer", "woman, wife"], ["la gente", "people (singular!)"], ["la familia", "family"]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<i>Los padres</i> means <b>parents</b>, <i>los hermanos</i> can mean <b>brothers and sisters</b> (siblings), and <i>la gente</i> takes a singular verb: <i>La gente es simpática.</i>"
+    },
+
+    { "type": "h1", "text": "6. Food and drink" },
+    {
+      "type": "verbpairs",
+      "title": "Food and drink",
+      "items": [
+        ["el pan", "bread"], ["el agua", "water"], ["la leche", "milk"], ["el café", "coffee"],
+        ["el té", "tea"], ["el zumo", "juice"], ["la cerveza", "beer"], ["el vino", "wine"],
+        ["la carne", "meat"], ["el pollo", "chicken"], ["el pescado", "fish"], ["el huevo", "egg"],
+        ["el queso", "cheese"], ["el jamón", "ham"], ["el arroz", "rice"], ["la pasta", "pasta"],
+        ["la patata", "potato"], ["la ensalada", "salad"], ["la sopa", "soup"], ["la fruta", "fruit"],
+        ["la manzana", "apple"], ["el plátano", "banana"], ["la naranja", "orange"], ["el tomate", "tomato"],
+        ["la verdura", "vegetables"], ["el azúcar", "sugar"], ["la sal", "salt"], ["el desayuno", "breakfast"],
+        ["la comida", "lunch, meal"], ["la cena", "dinner"]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "spain",
+      "title": "Meal times in Spain",
+      "text": "<b>El desayuno</b> is small (coffee and toast or a pastry). <b>La comida</b> is the main meal, around 2 to 3 pm. <b>La cena</b> is lighter and is eaten late, often around 9 pm."
+    },
+
+    { "type": "h1", "text": "7. House and furniture" },
+    {
+      "type": "verbpairs",
+      "title": "House and furniture",
+      "items": [
+        ["la casa", "house, home"], ["el piso", "flat"], ["la habitación", "room, bedroom"], ["el dormitorio", "bedroom"],
+        ["la cocina", "kitchen"], ["el baño", "bathroom"], ["el salón", "living room"], ["el jardín", "garden"],
+        ["el balcón", "balcony"], ["la puerta", "door"], ["la ventana", "window"], ["la mesa", "table"],
+        ["la silla", "chair"], ["la cama", "bed"], ["el sofá", "sofa"], ["el armario", "wardrobe, cupboard"],
+        ["la lámpara", "lamp"], ["la nevera", "fridge"], ["la ducha", "shower"], ["el espejo", "mirror"],
+        ["la escalera", "stairs"], ["el ascensor", "lift"], ["la planta", "floor, storey"], ["la llave", "key"]
+      ]
+    },
+
+    { "type": "h1", "text": "8. Clothes" },
+    {
+      "type": "verbpairs",
+      "title": "Clothes",
+      "items": [
+        ["la camisa", "shirt"], ["la camiseta", "T-shirt"], ["los pantalones", "trousers"], ["la falda", "skirt"],
+        ["el vestido", "dress"], ["la chaqueta", "jacket"], ["el abrigo", "coat"], ["el jersey", "jumper"],
+        ["los zapatos", "shoes"], ["las botas", "boots"], ["los calcetines", "socks"], ["las zapatillas", "trainers, slippers"],
+        ["el sombrero", "hat"], ["las gafas", "glasses"], ["el bolso", "handbag"], ["el cinturón", "belt"],
+        ["la bufanda", "scarf"], ["los guantes", "gloves"], ["la ropa", "clothes"], ["la talla", "size"]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "To wear is <b>llevar</b>: <i>Llevo una camisa azul y unos pantalones negros.</i> To put on is <b>ponerse</b>: <i>Me pongo el abrigo.</i>"
+    },
+
+    { "type": "h1", "text": "9. Daily routine" },
+    {
+      "type": "verbpairs",
+      "title": "Daily routine",
+      "widths": [4.6, 3.9, 4.6, 3.9],
+      "items": [
+        ["desayunar", "to have breakfast"], ["comer", "to have lunch, to eat"], ["cenar", "to have dinner"], ["trabajar", "to work"],
+        ["estudiar", "to study"], ["ir al trabajo", "to go to work"], ["ir a clase", "to go to class"], ["hacer la compra", "to do the shopping"],
+        ["hacer los deberes", "to do homework"], ["limpiar la casa", "to clean the house"], ["cocinar", "to cook"], ["ver la tele", "to watch TV"],
+        ["escuchar música", "to listen to music"], ["leer un libro", "to read a book"], ["salir con amigos", "to go out with friends"], ["hacer deporte", "to do sports"],
+        ["dar un paseo", "to go for a walk"], ["llegar a casa", "to arrive home"], ["salir de casa", "to leave the house"], ["dormir", "to sleep"]
+      ]
+    },
+
+    { "type": "h1", "text": "10. Places and transport" },
+    {
+      "type": "verbpairs",
+      "title": "Places in town",
+      "widths": [4.6, 3.9, 4.6, 3.9],
+      "items": [
+        ["la ciudad", "city"], ["el pueblo", "town, village"], ["la calle", "street"], ["la plaza", "square"],
+        ["la tienda", "shop"], ["el supermercado", "supermarket"], ["el mercado", "market"], ["el banco", "bank"],
+        ["la farmacia", "pharmacy"], ["el hospital", "hospital"], ["el colegio", "school"], ["la universidad", "university"],
+        ["la biblioteca", "library"], ["el parque", "park"], ["la estación", "station"], ["el aeropuerto", "airport"],
+        ["la iglesia", "church"], ["el restaurante", "restaurant"], ["el bar", "bar, café"], ["el museo", "museum"],
+        ["el cine", "cinema"], ["correos", "post office"], ["el ayuntamiento", "town hall"], ["la parada de autobús", "bus stop"]
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "Transport and travel",
+      "items": [
+        ["el coche", "car"], ["el autobús", "bus"], ["el tren", "train"], ["el metro", "metro"],
+        ["el taxi", "taxi"], ["la bicicleta", "bicycle"], ["el avión", "plane"], ["el barco", "boat"],
+        ["el billete", "ticket"], ["la maleta", "suitcase"], ["el viaje", "trip"], ["la moto", "motorbike"]
+      ]
+    },
+
+    { "type": "h1", "text": "11. Countries" },
+    {
+      "type": "verbpairs",
+      "title": "Countries (nationalities are in PDF 5)",
+      "items": [
+        ["España", "Spain"], ["los Países Bajos (Holanda)", "the Netherlands"], ["Bélgica", "Belgium"], ["Alemania", "Germany"],
+        ["Francia", "France"], ["Italia", "Italy"], ["Portugal", "Portugal"], ["Inglaterra", "England"],
+        ["el Reino Unido", "the United Kingdom"], ["Irlanda", "Ireland"], ["Estados Unidos", "the United States"], ["México", "Mexico"],
+        ["Argentina", "Argentina"], ["Colombia", "Colombia"]
+      ]
+    },
+
+    { "type": "h1", "text": "12. Spain or Latin America?" },
+    {
+      "type": "p",
+      "text": "This course uses Spain Spanish. You will meet the words in the right-hand column in films, series and apps from Latin America."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "latam_ok": true,
+      "widths": [4.6, 6.0, 6.4],
+      "head": ["Spain", "Latin America (common)", "English"],
+      "rows": [
+        ["el coche", "el carro, el auto", "car"],
+        ["el ordenador", "la computadora", "computer"],
+        ["el móvil", "el celular", "mobile phone"],
+        ["el zumo", "el jugo", "juice"],
+        ["la patata", "la papa", "potato"],
+        ["el piso", "el apartamento, el departamento", "flat"],
+        ["las gafas", "los lentes, los anteojos", "glasses"],
+        ["el billete", "el boleto, el pasaje", "ticket"],
+        ["conducir, aparcar", "manejar, estacionar", "to drive, to park"],
+        ["vosotros", "ustedes", "you (plural, informal)"]
+      ]
+    },
+    {
+      "type": "bullets",
+      "latam_ok": true,
+      "items": [
+        "Careful with <b>coger</b>: in Spain it is the normal verb for taking a bus (<i>coger el autobús</i>), but in parts of Latin America it has a vulgar meaning. There people say <i>tomar</i>.",
+        "Pronunciation also differs: Spain says <i>c</i> and <i>z</i> as th (<i>gracias</i>), Latin America as s."
+      ]
+    },
+
+    { "type": "h1", "text": "13. Set phrases" },
+    {
+      "type": "h2",
+      "text": "Introducing yourself"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [8.5, 8.5],
+      "head": ["Spanish", "English"],
+      "rows": [
+        ["Me llamo…", "My name is…"],
+        ["Soy de… / Soy holandés / holandesa.", "I am from… / I am Dutch."],
+        ["Vivo en…", "I live in…"],
+        ["Tengo … años.", "I am … years old."],
+        ["Soy estudiante. / Trabajo en…", "I am a student. / I work at…"],
+        ["Hablo holandés, inglés y un poco de español.", "I speak Dutch, English and a little Spanish."],
+        ["Mucho gusto. / Encantado. / Encantada.", "Nice to meet you."],
+        ["¿Cómo te llamas? / ¿De dónde eres?", "What is your name? / Where are you from?"],
+        ["¿Cuántos años tienes? / ¿Y tú?", "How old are you? / And you?"],
+        ["¿A qué te dedicas?", "What do you do for a living?"]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "In a café or restaurant"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [8.5, 8.5],
+      "head": ["Spanish", "English"],
+      "rows": [
+        ["Una mesa para dos, por favor.", "A table for two, please."],
+        ["Tengo una reserva.", "I have a reservation."],
+        ["La carta, por favor.", "The menu, please."],
+        ["¿Hay menú del día?", "Is there a set lunch menu?"],
+        ["Quisiera un café con leche, por favor.", "I would like a coffee with milk, please."],
+        ["Para mí, un zumo de naranja.", "For me, an orange juice."],
+        ["Está muy rico.", "It is delicious."],
+        ["La cuenta, por favor.", "The bill, please."],
+        ["¿Cuánto es?", "How much is it?"],
+        ["¿Puedo pagar con tarjeta?", "Can I pay by card?"]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Asking for directions"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [8.5, 8.5],
+      "head": ["Spanish", "English"],
+      "rows": [
+        ["¿Dónde está la estación?", "Where is the station?"],
+        ["¿Hay un banco por aquí?", "Is there a bank around here?"],
+        ["¿Cómo llego a la plaza?", "How do I get to the square?"],
+        ["¿Está lejos? / ¿Está cerca?", "Is it far? / Is it near?"],
+        ["Todo recto.", "Straight on."],
+        ["A la derecha. / A la izquierda.", "To the right. / To the left."],
+        ["Al final de la calle.", "At the end of the street."],
+        ["Está a cinco minutos andando.", "It is five minutes on foot."],
+        ["Gire a la izquierda. / Siga todo recto.", "Turn left. / Keep going straight. (formal; the imperative comes in A2)"]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Shopping"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [8.5, 8.5],
+      "head": ["Spanish", "English"],
+      "rows": [
+        ["¿Cuánto cuesta?", "How much does it cost?"],
+        ["Es muy caro. / Es muy barato.", "It is very expensive. / It is very cheap."],
+        ["Quisiera…", "I would like…"],
+        ["¿Tiene otra talla?", "Do you have another size?"],
+        ["¿Puedo probarlo?", "Can I try it on?"],
+        ["Me lo llevo.", "I will take it."],
+        ["Solo estoy mirando.", "I am just looking."],
+        ["¿Aceptan tarjeta?", "Do you accept cards?"],
+        ["¿A qué hora abre? / ¿A qué hora cierra?", "What time does it open? / close?"],
+        ["Abierto. / Cerrado.", "Open. / Closed."]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "In class, or when you do not understand"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [8.5, 8.5],
+      "head": ["Spanish", "English"],
+      "rows": [
+        ["No entiendo. / No sé.", "I do not understand. / I do not know."],
+        ["¿Puede repetir, por favor?", "Can you repeat, please?"],
+        ["Más despacio, por favor.", "More slowly, please."],
+        ["¿Cómo se dice … en español?", "How do you say … in Spanish?"],
+        ["¿Qué significa…?", "What does … mean?"],
+        ["¿Cómo se escribe?", "How do you spell it?"],
+        ["Hablo un poco de español.", "I speak a little Spanish."],
+        ["¿Habla inglés?", "Do you speak English?"],
+        ["¿Puede ayudarme?", "Can you help me?"],
+        ["Un momento, por favor.", "One moment, please."]
+      ]
+    },
+
+    { "type": "h1", "text": "14. Self-check" },
+    {
+      "type": "p",
+      "text": "Say or write the Spanish. Cover the answers on the last page first."
+    },
+    {
+      "type": "exercises",
+      "titles": ["English", "Task"],
+      "answer_titles": ["Spanish", "Note"],
+      "items": [
+        { "q": "Good morning!", "hint": "translate", "a": "¡Buenos días!", "full": "¡Buenos días!", "why": "Used until lunch, around 2 pm in Spain." },
+        { "q": "I live with my parents.", "hint": "translate", "a": "Vivo con mis padres.", "full": "Vivo con mis padres.", "why": "padres = parents. The possessive is plural: mis." },
+        { "q": "twenty-three", "hint": "translate", "a": "veintitrés", "full": "veintitrés", "why": "One word, with an accent." },
+        { "q": "It is half past four.", "hint": "translate", "a": "Son las cuatro y media.", "full": "Son las cuatro y media.", "why": "son las for every hour except one o'clock." },
+        { "q": "Sunday", "hint": "translate", "a": "domingo", "full": "domingo", "why": "No capital letter." },
+        { "q": "the kitchen", "hint": "translate", "a": "la cocina", "full": "la cocina", "why": "Feminine." },
+        { "q": "I would like a coffee, please.", "hint": "translate", "a": "Quisiera un café, por favor.", "full": "Quisiera un café, por favor.", "why": "Polite request." },
+        { "q": "bread", "hint": "translate", "a": "el pan", "full": "el pan", "why": "Masculine." },
+        { "q": "my grandmother", "hint": "translate", "a": "mi abuela", "full": "mi abuela", "why": "la abuela, so mi abuela." },
+        { "q": "Where is the station?", "hint": "translate", "a": "¿Dónde está la estación?", "full": "¿Dónde está la estación?", "why": "Location question: estar." },
+        { "q": "juice", "hint": "translate (Spain)", "a": "el zumo", "full": "el zumo", "why": "Spain says zumo. See the table in section 12." },
+        { "q": "How much does it cost?", "hint": "translate", "a": "¿Cuánto cuesta?", "full": "¿Cuánto cuesta?", "why": "Cuánto carries an accent." }
+      ]
+    },
+
+    { "type": "pagebreak" },
+    { "type": "answers" }
+  ]
+}

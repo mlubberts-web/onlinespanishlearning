@@ -1,0 +1,539 @@
+{
+  "meta": {
+    "level": "B2",
+    "section": "Grammar",
+    "number": 1,
+    "total_in_level": 10,
+    "title": "Subjunctive: Sequence of Tenses and Imperfect Uses",
+    "subtitle": "choosing the right subjunctive tense, imperfect subjunctive in all clause types, ojalá and the -se forms",
+    "footer": "Spanish Learning Program · B2 · Grammar · Sequence of tenses",
+    "next": "Next: B2 · PDF 2 — Pluperfect subjunctive and complex conditionals"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "choose the correct subjunctive tense after any main verb (sequence of tenses)",
+        "use the imperfect subjunctive in noun, adverbial and relative clauses",
+        "express wishes with ojalá (possible, unlikely and impossible)",
+        "recognise the -se forms of the imperfect subjunctive in written Spanish"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "1. The sequence of tenses"
+    },
+    {
+      "type": "p",
+      "text": "The subjunctive tense depends on the <b>tense of the main verb</b> and on <b>when the subordinate action happens</b>."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.4,
+        5.4,
+        6.2
+      ],
+      "head": [
+        "Main verb",
+        "Subjunctive tense",
+        "Example"
+      ],
+      "rows": [
+        [
+          "present",
+          "present subjunctive",
+          "Quiero que vengas."
+        ],
+        [
+          "present perfect",
+          "present subjunctive",
+          "Me ha pedido que le ayude."
+        ],
+        [
+          "future",
+          "present subjunctive",
+          "Te pedirá que vuelvas."
+        ],
+        [
+          "imperative",
+          "present subjunctive",
+          "Dile que venga."
+        ],
+        [
+          "preterite",
+          "imperfect subjunctive",
+          "Quise que vinieras."
+        ],
+        [
+          "imperfect",
+          "imperfect subjunctive",
+          "Quería que vinieras."
+        ],
+        [
+          "past perfect",
+          "imperfect subjunctive",
+          "Había pedido que vinieran."
+        ],
+        [
+          "conditional",
+          "imperfect subjunctive",
+          "Me gustaría que vinieras."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "Rule of thumb",
+      "text": "Present world, present subjunctive. <b>Past world</b> (preterite, imperfect, past perfect, conditional), <b>imperfect subjunctive</b>. Before the subordinate verb, ask yourself which world the main verb lives in."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        7.0,
+        5.0,
+        5.0
+      ],
+      "head": [
+        "Present",
+        "Past",
+        "English"
+      ],
+      "rows": [
+        [
+          "Quiero que vengas.",
+          "Quería que vinieras.",
+          "I want / wanted you to come."
+        ],
+        [
+          "Dudo que sea verdad.",
+          "Dudaba que fuera verdad.",
+          "I doubt / doubted it is / was true."
+        ],
+        [
+          "Me alegro de que estés aquí.",
+          "Me alegré de que estuvieras aquí.",
+          "I am / was glad you are / were here."
+        ],
+        [
+          "Es importante que lo sepas.",
+          "Era importante que lo supieras.",
+          "It is / was important that you know."
+        ],
+        [
+          "No creo que llegue.",
+          "No creía que llegara.",
+          "I do not / did not think he would arrive."
+        ],
+        [
+          "Pídele que ayude.",
+          "Le pedí que ayudara.",
+          "Ask / I asked him to help."
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "2. Past triggers in practice"
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<b>Wishes and orders:</b> <i>Mi madre quería que estudiara medicina. Nos pidió que esperáramos.</i>",
+        "<b>Emotions:</b> <i>Me molestó que no me llamaras. Sentí que se fuera.</i>",
+        "<b>Doubt and denial:</b> <i>No pensaba que fuera tan caro. Dudaban que ganáramos.</i>",
+        "<b>Impersonal expressions:</b> <i>Era necesario que todos firmaran. Fue una pena que no vinieras.</i>",
+        "<b>Conditional main verb:</b> <i>Sería mejor que te quedaras. Preferiría que no dijeras nada.</i>"
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "warn",
+      "title": "Present subjunctive after a past verb?",
+      "text": "Sometimes a present subjunctive follows a past main verb when the result is <b>still true now</b>: <i>Me pidió que le ayude esta tarde.</i> (He asked me, and the help is still to come.) In most cases, and in exams, use the imperfect: <i>Me pidió que le ayudara.</i>"
+    },
+    {
+      "type": "h1",
+      "text": "3. Imperfect subjunctive in other clauses"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.0,
+        6.4,
+        5.6
+      ],
+      "head": [
+        "Clause type",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "Purpose (para que)",
+          "Lo explicó despacio para que lo entendiéramos.",
+          "He explained slowly so that we would understand."
+        ],
+        [
+          "Time (antes de que)",
+          "Salió antes de que llegáramos.",
+          "He left before we arrived."
+        ],
+        [
+          "Time (hasta que, future in past)",
+          "Esperó hasta que terminaran.",
+          "He waited until they finished."
+        ],
+        [
+          "Time (en cuanto, future in past)",
+          "Dijo que llamaría en cuanto llegara.",
+          "He said he would call as soon as he arrived."
+        ],
+        [
+          "Concession (aunque, hypothetical)",
+          "Aunque lloviera, iríamos.",
+          "Even if it rained, we would go."
+        ],
+        [
+          "Non-existent relative",
+          "No había nadie que lo supiera.",
+          "There was nobody who knew it."
+        ],
+        [
+          "Unknown relative",
+          "Buscaba un piso que tuviera balcón.",
+          "I was looking for a flat with a balcony (any)."
+        ],
+        [
+          "como si",
+          "Hablaba como si lo supiera todo.",
+          "He talked as if he knew everything."
+        ],
+        [
+          "Polite wish",
+          "Quisiera pedir la cuenta.",
+          "I would like to ask for the bill."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "Specific vs unspecific",
+      "text": "<b>Tenía un piso que tenía balcón</b> (I had one, specific: indicative). <b>Buscaba un piso que tuviera balcón</b> (not yet found: subjunctive). The same contrast exists in the present: <i>Busco un piso que tenga balcón.</i>"
+    },
+    {
+      "type": "h1",
+      "text": "4. Ojalá"
+    },
+    {
+      "type": "p",
+      "text": "<b>Ojalá</b> (I hope, if only) always takes the subjunctive. The tense shows how likely the wish is."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.6,
+        6.2,
+        6.2
+      ],
+      "head": [
+        "Tense",
+        "Example",
+        "Meaning"
+      ],
+      "rows": [
+        [
+          "present subjunctive",
+          "Ojalá venga mañana.",
+          "I hope he comes (possible)."
+        ],
+        [
+          "imperfect subjunctive",
+          "Ojalá tuviera más tiempo.",
+          "If only I had more time (unlikely)."
+        ],
+        [
+          "pluperfect subjunctive",
+          "Ojalá hubiera venido.",
+          "If only he had come (too late)."
+        ]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<b>Ojalá que</b> is also correct: <i>Ojalá que no llueva.</i>",
+        "Pluperfect subjunctive is formed with <b>hubiera + participle</b> (more in PDF 2)."
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "5. The -se forms"
+    },
+    {
+      "type": "p",
+      "text": "The imperfect subjunctive has a second set of endings: <b>-se, -ses, -se, -semos, -seis, -sen</b>. It is used in <b>writing and formal speech</b>; in Spain both forms are fully correct. The two forms are interchangeable, except that the polite <i>quisiera</i> / <i>pudiera</i> use only -ra."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        3.4,
+        2.8,
+        2.8,
+        2.8,
+        2.8,
+        2.4
+      ],
+      "head": [
+        "",
+        "hablar",
+        "comer",
+        "vivir",
+        "ser / ir",
+        "tener"
+      ],
+      "rows": [
+        [
+          "yo",
+          "hablase",
+          "comiese",
+          "viviese",
+          "fuese",
+          "tuviese"
+        ],
+        [
+          "tú",
+          "hablases",
+          "comieses",
+          "vivieses",
+          "fueses",
+          "tuvieses"
+        ],
+        [
+          "él / ella / usted",
+          "hablase",
+          "comiese",
+          "viviese",
+          "fuese",
+          "tuviese"
+        ],
+        [
+          "nosotros",
+          "hablásemos",
+          "comiésemos",
+          "viviésemos",
+          "fuésemos",
+          "tuviésemos"
+        ],
+        [
+          "vosotros",
+          "hablaseis",
+          "comieseis",
+          "vivieseis",
+          "fueseis",
+          "tuvieseis"
+        ],
+        [
+          "ellos / ellas / ustedes",
+          "hablasen",
+          "comiesen",
+          "viviesen",
+          "fuesen",
+          "tuviesen"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "spain",
+      "title": "Which one in Spain?",
+      "text": "Both forms are correct in Spain. <b>-ra</b> is the usual choice in speech, and -se appears more in literary and formal writing: <i>Si tuviera / tuviese tiempo, iría.</i> In your own writing, one form is enough: pick -ra and stay consistent."
+    },
+    {
+      "type": "h1",
+      "text": "6. Common mistakes"
+    },
+    {
+      "type": "mistakes",
+      "rows": [
+        [
+          "Quería que vienes.",
+          "Quería que vinieras.",
+          "Past main verb: imperfect subjunctive."
+        ],
+        [
+          "Me pidió que ayudo.",
+          "Me pidió que ayudara.",
+          "Reported order: subjunctive."
+        ],
+        [
+          "Dudaba que es verdad.",
+          "Dudaba que fuera verdad.",
+          "Doubt in the past: imperfect subjunctive."
+        ],
+        [
+          "No había nadie que lo sabía.",
+          "No había nadie que lo supiera.",
+          "Non-existent antecedent: subjunctive."
+        ],
+        [
+          "Buscaba un piso que tenía balcón.",
+          "Buscaba un piso que tuviera balcón.",
+          "Unknown piso: subjunctive."
+        ],
+        [
+          "Ojalá tengo más tiempo.",
+          "Ojalá tuviera más tiempo.",
+          "Ojalá always takes the subjunctive."
+        ],
+        [
+          "Habló como si es el jefe.",
+          "Habló como si fuera el jefe.",
+          "como si: imperfect subjunctive."
+        ],
+        [
+          "Quiero que vinieras.",
+          "Quiero que vengas.",
+          "Present main verb: present subjunctive."
+        ],
+        [
+          "Salió antes de que llegamos.",
+          "Salió antes de que llegáramos.",
+          "antes de que: subjunctive, past: imperfect."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "7. Self-check"
+    },
+    {
+      "type": "p",
+      "text": "Fill in the correct subjunctive form. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Hint"
+      ],
+      "items": [
+        {
+          "q": "Mi madre quería que yo ______ medicina.",
+          "hint": "estudiar",
+          "a": "estudiara",
+          "full": "Mi madre quería que yo estudiara medicina."
+        },
+        {
+          "q": "Nos pidió que ______ en la puerta.",
+          "hint": "esperar",
+          "a": "esperáramos",
+          "full": "Nos pidió que esperáramos en la puerta."
+        },
+        {
+          "q": "Dudaba que ______ verdad.",
+          "hint": "ser",
+          "a": "fuera",
+          "full": "Dudaba que fuera verdad."
+        },
+        {
+          "q": "Me alegré de que ______ en la fiesta.",
+          "hint": "tú, estar",
+          "a": "estuvieras",
+          "full": "Me alegré de que estuvieras en la fiesta."
+        },
+        {
+          "q": "No había nadie que ______ la respuesta.",
+          "hint": "saber",
+          "a": "supiera",
+          "full": "No había nadie que supiera la respuesta."
+        },
+        {
+          "q": "Buscaba un piso que ______ balcón.",
+          "hint": "tener",
+          "a": "tuviera",
+          "full": "Buscaba un piso que tuviera balcón."
+        },
+        {
+          "q": "Ojalá ______ más tiempo.",
+          "hint": "yo, tener: unlikely",
+          "a": "tuviera",
+          "full": "Ojalá tuviera más tiempo."
+        },
+        {
+          "q": "Ojalá ______ mañana.",
+          "hint": "venir: possible",
+          "a": "venga",
+          "full": "Ojalá venga mañana."
+        },
+        {
+          "q": "Hablaba como si lo ______ todo.",
+          "hint": "saber",
+          "a": "supiera",
+          "full": "Hablaba como si lo supiera todo."
+        },
+        {
+          "q": "Sería mejor que te ______ en casa.",
+          "hint": "quedar",
+          "a": "quedaras",
+          "full": "Sería mejor que te quedaras en casa."
+        },
+        {
+          "q": "Salió antes de que nosotros ______.",
+          "hint": "llegar",
+          "a": "llegáramos",
+          "full": "Salió antes de que nosotros llegáramos."
+        },
+        {
+          "q": "Me ha pedido que le ______ esta tarde.",
+          "hint": "ayudar, yo",
+          "a": "ayude",
+          "full": "Me ha pedido que le ayude esta tarde."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish:</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "I wanted you to come.",
+          "a": "Quería que vinieras."
+        },
+        {
+          "q": "If only I had more money.",
+          "a": "Ojalá tuviera más dinero."
+        },
+        {
+          "q": "There was nobody who knew.",
+          "a": "No había nadie que lo supiera."
+        },
+        {
+          "q": "He asked me to wait.",
+          "a": "Me pidió que esperara."
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

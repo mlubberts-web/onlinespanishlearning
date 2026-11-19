@@ -1,0 +1,893 @@
+{
+  "meta": {
+    "level": "B1",
+    "section": "Verbs",
+    "number": 2,
+    "total_in_level": 10,
+    "title": "The Present Subjunctive: Forms",
+    "subtitle": "How to form the present subjunctive: regular verbs, irregular yo forms, stem changes, spelling changes and six irregular verbs",
+    "footer": "Spanish Learning Program · B1 · Verbs · Present subjunctive (forms)",
+    "next": "Next: B1 · PDF 3 — The present subjunctive: uses"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "form the present subjunctive of regular verbs in every person",
+        "form it for verbs with irregular yo forms, stem changes and spelling changes",
+        "recognise the six verbs that are fully irregular (ser, estar, ir, haber, saber, dar)",
+        "see when Spanish needs que + subjunctive (the uses are in PDF 3)"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "1. What is the subjunctive?"
+    },
+    {
+      "type": "p",
+      "text": "So far you have used the <b>indicative</b> (present, preterite, imperfect, future ...), which states facts. The <b>subjunctive</b> is a different <b>mood</b>: it is used in a subordinate clause (after <i>que</i>) for wishes, requests, emotions, doubt and things that are not yet real."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.0,
+        6.0,
+        6.0
+      ],
+      "head": [
+        "Indicative (fact)",
+        "Subjunctive (wish, doubt, emotion)",
+        "English"
+      ],
+      "rows": [
+        [
+          "Sé que vienes.",
+          "Quiero que vengas.",
+          "I know you are coming. / I want you to come."
+        ],
+        [
+          "Creo que tiene tiempo.",
+          "Espero que tenga tiempo.",
+          "I think he has time. / I hope he has time."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "dutch",
+      "title": "Dutch uses the plain present here",
+      "text": "<i>Ik wil dat je komt</i> uses the normal present in Dutch. Spanish needs <b>Quiero que vengas</b>. Whenever you say <i>dat</i> after a verb of wanting, hoping or feeling, think subjunctive."
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "Same subject: infinitive. Different subject: que + subjunctive",
+      "text": "<i>Quiero comer.</i> (I want to eat: same person.) <i>Quiero que comas.</i> (I want you to eat: different person.) This pattern is the key to the next PDF."
+    },
+    {
+      "type": "h1",
+      "text": "2. Forming the present subjunctive"
+    },
+    {
+      "type": "p",
+      "text": "Take the <b>yo</b> form of the present tense, remove <b>-o</b>, and add the <b>opposite vowel</b>: <b>-ar</b> verbs take <b>e</b>, <b>-er / -ir</b> verbs take <b>a</b>. These are the same forms you already know from the usted and negative commands (A2 PDF 7)."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "head": [
+        "Person",
+        "-ar (hablar)",
+        "-er (comer)",
+        "-ir (vivir)"
+      ],
+      "rows": [
+        [
+          "yo",
+          "-e",
+          "-a",
+          "-a"
+        ],
+        [
+          "tú",
+          "-es",
+          "-as",
+          "-as"
+        ],
+        [
+          "él / ella / usted",
+          "-e",
+          "-a",
+          "-a"
+        ],
+        [
+          "nosotros / nosotras",
+          "-emos",
+          "-amos",
+          "-amos"
+        ],
+        [
+          "vosotros / vosotras",
+          "-éis",
+          "-áis",
+          "-áis"
+        ],
+        [
+          "ellos / ellas / ustedes",
+          "-en",
+          "-an",
+          "-an"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "Why the irregular yo forms matter",
+      "text": "Because you start from the yo form, <i>tengo</i> gives <b>tenga</b>, <i>hago</i> gives <b>haga</b>, <i>conozco</i> gives <b>conozca</b>. Yo and él / ella / usted have the <b>same form</b>: <i>que yo hable</i> and <i>que él hable</i>."
+    },
+    {
+      "type": "conj",
+      "tense": "present subjunctive",
+      "verb": "hablar",
+      "meaning": "to speak",
+      "group": "-ar",
+      "stem": "habl",
+      "endings": [
+        "e",
+        "es",
+        "e",
+        "emos",
+        "éis",
+        "en"
+      ],
+      "examples": [
+        [
+          "Quiero que hable con el jefe.",
+          "I want him to speak with the boss."
+        ],
+        [
+          "Espero que hables con Ana.",
+          "I hope you speak with Ana."
+        ],
+        [
+          "Es importante que ella hable despacio.",
+          "It is important that she speaks slowly."
+        ],
+        [
+          "Es mejor que hablemos mañana.",
+          "It is better that we speak tomorrow."
+        ],
+        [
+          "Quiero que habléis con el profesor.",
+          "I want you (all) to speak with the teacher."
+        ],
+        [
+          "Prefiero que hablen ellos.",
+          "I prefer that they speak."
+        ]
+      ]
+    },
+    {
+      "type": "conj",
+      "tense": "present subjunctive",
+      "verb": "comer",
+      "meaning": "to eat",
+      "group": "-er",
+      "stem": "com",
+      "endings": [
+        "a",
+        "as",
+        "a",
+        "amos",
+        "áis",
+        "an"
+      ],
+      "examples": [
+        [
+          "Quiero que coma más fruta.",
+          "I want him to eat more fruit."
+        ],
+        [
+          "Espero que comas bien.",
+          "I hope you eat well."
+        ],
+        [
+          "Es necesario que él coma algo.",
+          "It is necessary that he eats something."
+        ],
+        [
+          "Ojalá comamos juntos.",
+          "I hope we eat together."
+        ],
+        [
+          "Os pido que comáis despacio.",
+          "I ask you (all) to eat slowly."
+        ],
+        [
+          "Dudo que coman tanto.",
+          "I doubt they eat that much."
+        ]
+      ]
+    },
+    {
+      "type": "conj",
+      "tense": "present subjunctive",
+      "verb": "vivir",
+      "meaning": "to live",
+      "group": "-ir",
+      "stem": "viv",
+      "endings": [
+        "a",
+        "as",
+        "a",
+        "amos",
+        "áis",
+        "an"
+      ],
+      "examples": [
+        [
+          "Espero que viva cerca.",
+          "I hope he lives nearby."
+        ],
+        [
+          "Quiero que vivas feliz.",
+          "I want you to live happily."
+        ],
+        [
+          "Es probable que ella viva en Madrid.",
+          "It is likely that she lives in Madrid."
+        ],
+        [
+          "Ojalá vivamos aquí mucho tiempo.",
+          "I hope we live here a long time."
+        ],
+        [
+          "Deseo que viváis bien.",
+          "I wish you (all) a good life."
+        ],
+        [
+          "Dudo que vivan aquí.",
+          "I doubt they live here."
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "3. Irregular yo forms"
+    },
+    {
+      "type": "conjgrid",
+      "tense": "present subjunctive",
+      "verbs": [
+        {
+          "inf": "tener",
+          "meaning": "to have",
+          "forms": [
+            "tenga",
+            "tengas",
+            "tenga",
+            "tengamos",
+            "tengáis",
+            "tengan"
+          ]
+        },
+        {
+          "inf": "hacer",
+          "meaning": "to do, make",
+          "forms": [
+            "haga",
+            "hagas",
+            "haga",
+            "hagamos",
+            "hagáis",
+            "hagan"
+          ]
+        },
+        {
+          "inf": "decir",
+          "meaning": "to say",
+          "forms": [
+            "diga",
+            "digas",
+            "diga",
+            "digamos",
+            "digáis",
+            "digan"
+          ]
+        },
+        {
+          "inf": "poner",
+          "meaning": "to put",
+          "forms": [
+            "ponga",
+            "pongas",
+            "ponga",
+            "pongamos",
+            "pongáis",
+            "pongan"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conjgrid",
+      "tense": "present subjunctive",
+      "verbs": [
+        {
+          "inf": "salir",
+          "meaning": "to leave",
+          "forms": [
+            "salga",
+            "salgas",
+            "salga",
+            "salgamos",
+            "salgáis",
+            "salgan"
+          ]
+        },
+        {
+          "inf": "venir",
+          "meaning": "to come",
+          "forms": [
+            "venga",
+            "vengas",
+            "venga",
+            "vengamos",
+            "vengáis",
+            "vengan"
+          ]
+        },
+        {
+          "inf": "traer",
+          "meaning": "to bring",
+          "forms": [
+            "traiga",
+            "traigas",
+            "traiga",
+            "traigamos",
+            "traigáis",
+            "traigan"
+          ]
+        },
+        {
+          "inf": "oír",
+          "meaning": "to hear",
+          "forms": [
+            "oiga",
+            "oigas",
+            "oiga",
+            "oigamos",
+            "oigáis",
+            "oigan"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conjgrid",
+      "tense": "present subjunctive",
+      "verbs": [
+        {
+          "inf": "conocer",
+          "meaning": "to know (a person)",
+          "forms": [
+            "conozca",
+            "conozcas",
+            "conozca",
+            "conozcamos",
+            "conozcáis",
+            "conozcan"
+          ]
+        },
+        {
+          "inf": "ver",
+          "meaning": "to see",
+          "forms": [
+            "vea",
+            "veas",
+            "vea",
+            "veamos",
+            "veáis",
+            "vean"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "4. Six fully irregular verbs"
+    },
+    {
+      "type": "p",
+      "text": "These do not come from the yo form. Memorise them: <b>ser, estar, ir, haber, saber, dar</b>."
+    },
+    {
+      "type": "conjgrid",
+      "tense": "present subjunctive",
+      "verbs": [
+        {
+          "inf": "ser",
+          "meaning": "to be",
+          "forms": [
+            "sea",
+            "seas",
+            "sea",
+            "seamos",
+            "seáis",
+            "sean"
+          ]
+        },
+        {
+          "inf": "estar",
+          "meaning": "to be",
+          "forms": [
+            "esté",
+            "estés",
+            "esté",
+            "estemos",
+            "estéis",
+            "estén"
+          ]
+        },
+        {
+          "inf": "ir",
+          "meaning": "to go",
+          "forms": [
+            "vaya",
+            "vayas",
+            "vaya",
+            "vayamos",
+            "vayáis",
+            "vayan"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "conjgrid",
+      "tense": "present subjunctive",
+      "verbs": [
+        {
+          "inf": "haber",
+          "meaning": "to have (aux.)",
+          "forms": [
+            "haya",
+            "hayas",
+            "haya",
+            "hayamos",
+            "hayáis",
+            "hayan"
+          ]
+        },
+        {
+          "inf": "saber",
+          "meaning": "to know",
+          "forms": [
+            "sepa",
+            "sepas",
+            "sepa",
+            "sepamos",
+            "sepáis",
+            "sepan"
+          ]
+        },
+        {
+          "inf": "dar",
+          "meaning": "to give",
+          "forms": [
+            "dé",
+            "des",
+            "dé",
+            "demos",
+            "deis",
+            "den"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<b>dar</b> has an accent only in <b>dé</b> (to tell it apart from the preposition <i>de</i>). <b>deis</b> has no accent.",
+        "<b>estar</b> keeps the accents of the present tense: esté, estés, esté, estén. Nosotros and vosotros do not stress the first syllable, but the accent stays on estéis."
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "5. Stem-changing verbs"
+    },
+    {
+      "type": "p",
+      "text": "<b>-ar and -er</b> verbs change exactly as in the present tense (the \"boot\": yo, tú, él, ellos; not nosotros / vosotros)."
+    },
+    {
+      "type": "conjgrid",
+      "tense": "present subjunctive",
+      "verbs": [
+        {
+          "inf": "pensar",
+          "meaning": "to think",
+          "forms": [
+            "p*ie*nse",
+            "p*ie*nses",
+            "p*ie*nse",
+            "pensemos",
+            "penséis",
+            "p*ie*nsen"
+          ]
+        },
+        {
+          "inf": "volver",
+          "meaning": "to return",
+          "forms": [
+            "v*ue*lva",
+            "v*ue*lvas",
+            "v*ue*lva",
+            "volvamos",
+            "volváis",
+            "v*ue*lvan"
+          ]
+        },
+        {
+          "inf": "poder",
+          "meaning": "to be able to",
+          "forms": [
+            "p*ue*da",
+            "p*ue*das",
+            "p*ue*da",
+            "podamos",
+            "podáis",
+            "p*ue*dan"
+          ]
+        },
+        {
+          "inf": "querer",
+          "meaning": "to want",
+          "forms": [
+            "qu*ie*ra",
+            "qu*ie*ras",
+            "qu*ie*ra",
+            "queramos",
+            "queráis",
+            "qu*ie*ran"
+          ]
+        }
+      ],
+      "kind": "boot"
+    },
+    {
+      "type": "p",
+      "text": "<b>-ir</b> verbs also change in <b>nosotros and vosotros</b>: e becomes i and o becomes u (the same change as in the preterite third person)."
+    },
+    {
+      "type": "conjgrid",
+      "tense": "present subjunctive",
+      "verbs": [
+        {
+          "inf": "dormir",
+          "meaning": "to sleep",
+          "forms": [
+            "d*ue*rma",
+            "d*ue*rmas",
+            "d*ue*rma",
+            "d*u*rmamos",
+            "d*u*rmáis",
+            "d*ue*rman"
+          ]
+        },
+        {
+          "inf": "pedir",
+          "meaning": "to ask for",
+          "forms": [
+            "p*i*da",
+            "p*i*das",
+            "p*i*da",
+            "p*i*damos",
+            "p*i*dáis",
+            "p*i*dan"
+          ]
+        },
+        {
+          "inf": "preferir",
+          "meaning": "to prefer",
+          "forms": [
+            "pref*ie*ra",
+            "pref*ie*ras",
+            "pref*ie*ra",
+            "pref*i*ramos",
+            "pref*i*ráis",
+            "pref*ie*ran"
+          ]
+        },
+        {
+          "inf": "sentir",
+          "meaning": "to feel",
+          "forms": [
+            "s*ie*nta",
+            "s*ie*ntas",
+            "s*ie*nta",
+            "s*i*ntamos",
+            "s*i*ntáis",
+            "s*ie*ntan"
+          ]
+        },
+        {
+          "inf": "seguir",
+          "meaning": "to follow",
+          "forms": [
+            "s*i*ga",
+            "s*i*gas",
+            "s*i*ga",
+            "s*i*gamos",
+            "s*i*gáis",
+            "s*i*gan"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "6. Spelling changes"
+    },
+    {
+      "type": "p",
+      "text": "Because the ending now starts with <b>e</b>, verbs ending in -car, -gar and -zar change in <b>all persons</b> to keep the sound (the same as in the yo form of the preterite):"
+    },
+    {
+      "type": "conjgrid",
+      "tense": "present subjunctive",
+      "verbs": [
+        {
+          "inf": "buscar",
+          "meaning": "to look for",
+          "forms": [
+            "bus*qu*e",
+            "bus*qu*es",
+            "bus*qu*e",
+            "bus*qu*emos",
+            "bus*qu*éis",
+            "bus*qu*en"
+          ]
+        },
+        {
+          "inf": "llegar",
+          "meaning": "to arrive",
+          "forms": [
+            "lle*gu*e",
+            "lle*gu*es",
+            "lle*gu*e",
+            "lle*gu*emos",
+            "lle*gu*éis",
+            "lle*gu*en"
+          ]
+        },
+        {
+          "inf": "empezar",
+          "meaning": "to begin",
+          "forms": [
+            "emp*ie*ce",
+            "emp*ie*ces",
+            "emp*ie*ce",
+            "empe*c*emos",
+            "empe*c*éis",
+            "emp*ie*cen"
+          ]
+        },
+        {
+          "inf": "jugar",
+          "meaning": "to play",
+          "forms": [
+            "j*ue*gue",
+            "j*ue*gues",
+            "j*ue*gue",
+            "ju*gu*emos",
+            "ju*gu*éis",
+            "j*ue*guen"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<b>-ger / -gir</b> verbs change g to j before a: <i>coger</i> gives <b>coja</b>, <i>elegir</i> gives <b>elija</b>, <i>dirigir</i> gives <b>dirija</b>.",
+        "<b>-guar</b> verbs: <i>averiguar</i> gives <b>averigüe</b> (with a diaeresis)."
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "7. Common mistakes"
+    },
+    {
+      "type": "mistakes",
+      "rows": [
+        [
+          "Quiero que hablas.",
+          "Quiero que hables.",
+          "After querer que, use the subjunctive, not the present."
+        ],
+        [
+          "Quiero que vienes.",
+          "Quiero que vengas.",
+          "venir: the yo form is vengo, so the subjunctive is venga."
+        ],
+        [
+          "Espero que es feliz.",
+          "Espero que sea feliz.",
+          "ser is irregular: sea, seas, sea ..."
+        ],
+        [
+          "Quiero que vas.",
+          "Quiero que vayas.",
+          "ir is irregular: vaya, vayas, vaya ..."
+        ],
+        [
+          "Quiero que haces la cena.",
+          "Quiero que hagas la cena.",
+          "hacer: hago gives haga."
+        ],
+        [
+          "Espero que tienes tiempo.",
+          "Espero que tengas tiempo.",
+          "tener: tengo gives tenga."
+        ],
+        [
+          "Es importante que sepes.",
+          "Es importante que sepas.",
+          "saber: sepa, sepas, sepa ..."
+        ],
+        [
+          "Quiero que dormamos.",
+          "Quiero que durmamos.",
+          "-ir verbs change o to u in nosotros and vosotros."
+        ],
+        [
+          "Espero que busces las llaves.",
+          "Espero que busques las llaves.",
+          "-car verbs change c to qu."
+        ],
+        [
+          "Quiero que me das el libro.",
+          "Quiero que me des el libro.",
+          "dar: dé, des, dé, demos, deis, den."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "8. Self-check"
+    },
+    {
+      "type": "p",
+      "text": "Write the present subjunctive of the verb in brackets. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Verb"
+      ],
+      "items": [
+        {
+          "q": "Quiero que tú ______ conmigo.",
+          "hint": "hablar (tú)",
+          "a": "hables",
+          "full": "Quiero que tú hables conmigo."
+        },
+        {
+          "q": "Espero que ellos ______ pronto.",
+          "hint": "llegar (ellos)",
+          "a": "lleguen",
+          "full": "Espero que ellos lleguen pronto."
+        },
+        {
+          "q": "Es importante que nosotros ______ temprano.",
+          "hint": "salir (nosotros)",
+          "a": "salgamos",
+          "full": "Es importante que nosotros salgamos temprano."
+        },
+        {
+          "q": "Quiero que vosotros ______ a la fiesta.",
+          "hint": "venir (vosotros)",
+          "a": "vengáis",
+          "full": "Quiero que vosotros vengáis a la fiesta."
+        },
+        {
+          "q": "Ojalá ______ buen tiempo mañana.",
+          "hint": "hacer",
+          "a": "haga",
+          "full": "Ojalá haga buen tiempo mañana."
+        },
+        {
+          "q": "Espero que tú ______ muy feliz.",
+          "hint": "ser (tú)",
+          "a": "seas",
+          "full": "Espero que tú seas muy feliz."
+        },
+        {
+          "q": "Quiero que ella ______ a casa.",
+          "hint": "ir (ella)",
+          "a": "vaya",
+          "full": "Quiero que ella vaya a casa."
+        },
+        {
+          "q": "Es mejor que yo ______ la verdad.",
+          "hint": "saber (yo)",
+          "a": "sepa",
+          "full": "Es mejor que yo sepa la verdad."
+        },
+        {
+          "q": "Espero que tú ______ bien esta noche.",
+          "hint": "dormir (tú)",
+          "a": "duermas",
+          "full": "Espero que tú duermas bien esta noche."
+        },
+        {
+          "q": "Prefiero que ellos ______ pizza.",
+          "hint": "pedir (ellos)",
+          "a": "pidan",
+          "full": "Prefiero que ellos pidan pizza."
+        },
+        {
+          "q": "Quiero que tú me ______ el libro.",
+          "hint": "dar (tú)",
+          "a": "des",
+          "full": "Quiero que tú me des el libro."
+        },
+        {
+          "q": "Dudo que ellos ______ tiempo.",
+          "hint": "tener (ellos)",
+          "a": "tengan",
+          "full": "Dudo que ellos tengan tiempo."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish:</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "I want you to come.",
+          "a": "Quiero que vengas."
+        },
+        {
+          "q": "I hope she is well.",
+          "a": "Espero que ella esté bien."
+        },
+        {
+          "q": "It is important that we speak.",
+          "a": "Es importante que hablemos."
+        },
+        {
+          "q": "I prefer that they eat here.",
+          "a": "Prefiero que coman aquí."
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

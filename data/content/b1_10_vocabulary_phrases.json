@@ -1,0 +1,1280 @@
+{
+  "meta": {
+    "level": "B1",
+    "section": "Vocabulary",
+    "number": 10,
+    "total_in_level": 10,
+    "title": "Vocabulary and Set Phrases",
+    "subtitle": "Work, education, environment, society, media, feelings, opinions, idioms and false friends",
+    "footer": "Spanish Learning Program · B1 · Vocabulary and set phrases",
+    "next": "Next: B2 · PDF 1"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "How to use these lists",
+      "bullets": [
+        "Nouns have their <b>article</b> (el / la). Learn them together: el medio ambiente, la ley.",
+        "Cover one column and test yourself in both directions. Then write sentences with the B1 grammar: subjunctive, conditional, passive and connectors.",
+        "All words are Spain Spanish. Brackets after a verb show a stem change: <i>pedir (i)</i> gives <i>pido</i>."
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "1. Work and careers"
+    },
+    {
+      "type": "verbpairs",
+      "title": "Work",
+      "items": [
+        [
+          "el trabajo",
+          "work, job"
+        ],
+        [
+          "el empleo",
+          "employment, job"
+        ],
+        [
+          "el empleado / la empleada",
+          "employee"
+        ],
+        [
+          "el jefe / la jefa",
+          "boss"
+        ],
+        [
+          "el compañero de trabajo",
+          "colleague"
+        ],
+        [
+          "la empresa",
+          "company"
+        ],
+        [
+          "la oficina",
+          "office"
+        ],
+        [
+          "la reunión",
+          "meeting"
+        ],
+        [
+          "el sueldo",
+          "salary"
+        ],
+        [
+          "el contrato",
+          "contract"
+        ],
+        [
+          "el currículum",
+          "CV"
+        ],
+        [
+          "la entrevista de trabajo",
+          "job interview"
+        ],
+        [
+          "el horario",
+          "working hours"
+        ],
+        [
+          "la jornada completa",
+          "full-time"
+        ],
+        [
+          "la jornada parcial",
+          "part-time"
+        ],
+        [
+          "el paro",
+          "unemployment"
+        ],
+        [
+          "el autónomo",
+          "self-employed person"
+        ],
+        [
+          "las prácticas",
+          "internship"
+        ],
+        [
+          "la experiencia",
+          "experience"
+        ],
+        [
+          "el puesto",
+          "position, post"
+        ],
+        [
+          "la huelga",
+          "strike"
+        ],
+        [
+          "la jubilación",
+          "retirement"
+        ],
+        [
+          "las vacaciones",
+          "holiday entitlement"
+        ],
+        [
+          "la baja",
+          "sick leave"
+        ]
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "Work verbs",
+      "items": [
+        [
+          "trabajar",
+          "to work"
+        ],
+        [
+          "contratar",
+          "to hire"
+        ],
+        [
+          "despedir (i)",
+          "to fire"
+        ],
+        [
+          "dimitir",
+          "to resign"
+        ],
+        [
+          "solicitar",
+          "to apply for"
+        ],
+        [
+          "ganar",
+          "to earn"
+        ],
+        [
+          "cobrar",
+          "to get paid"
+        ],
+        [
+          "jubilarse",
+          "to retire"
+        ],
+        [
+          "ascender (ie)",
+          "to be promoted"
+        ],
+        [
+          "dirigir",
+          "to manage, lead"
+        ],
+        [
+          "colaborar",
+          "to collaborate"
+        ],
+        [
+          "entregar",
+          "to hand in"
+        ],
+        [
+          "cumplir un plazo",
+          "to meet a deadline"
+        ],
+        [
+          "quedarse en paro",
+          "to become unemployed"
+        ],
+        [
+          "trabajar a distancia",
+          "to work remotely"
+        ],
+        [
+          "hacer horas extra",
+          "to work overtime"
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "2. Education and study"
+    },
+    {
+      "type": "verbpairs",
+      "title": "Education",
+      "items": [
+        [
+          "la universidad",
+          "university"
+        ],
+        [
+          "la facultad",
+          "faculty"
+        ],
+        [
+          "la carrera",
+          "degree course"
+        ],
+        [
+          "el grado",
+          "bachelor's degree"
+        ],
+        [
+          "el máster",
+          "master's degree"
+        ],
+        [
+          "la asignatura",
+          "subject"
+        ],
+        [
+          "el profesor / la profesora",
+          "teacher, lecturer"
+        ],
+        [
+          "el estudiante",
+          "student"
+        ],
+        [
+          "el examen",
+          "exam"
+        ],
+        [
+          "la nota",
+          "mark, grade"
+        ],
+        [
+          "el trabajo de fin de grado",
+          "bachelor's thesis"
+        ],
+        [
+          "la beca",
+          "scholarship"
+        ],
+        [
+          "la matrícula",
+          "enrolment, tuition fee"
+        ],
+        [
+          "el curso",
+          "course, academic year"
+        ],
+        [
+          "la clase",
+          "class"
+        ],
+        [
+          "los apuntes",
+          "notes"
+        ],
+        [
+          "la biblioteca",
+          "library"
+        ],
+        [
+          "el título",
+          "degree certificate"
+        ],
+        [
+          "el aula",
+          "classroom"
+        ],
+        [
+          "la conferencia",
+          "lecture"
+        ]
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "Study verbs",
+      "items": [
+        [
+          "estudiar",
+          "to study"
+        ],
+        [
+          "aprobar (ue)",
+          "to pass"
+        ],
+        [
+          "suspender",
+          "to fail"
+        ],
+        [
+          "matricularse",
+          "to enrol"
+        ],
+        [
+          "graduarse",
+          "to graduate"
+        ],
+        [
+          "repasar",
+          "to revise"
+        ],
+        [
+          "entender (ie)",
+          "to understand"
+        ],
+        [
+          "aprender",
+          "to learn"
+        ],
+        [
+          "explicar",
+          "to explain"
+        ],
+        [
+          "presentar",
+          "to present"
+        ],
+        [
+          "investigar",
+          "to research"
+        ],
+        [
+          "resumir",
+          "to summarize"
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "3. Environment and nature"
+    },
+    {
+      "type": "verbpairs",
+      "title": "Environment",
+      "items": [
+        [
+          "el medio ambiente",
+          "environment"
+        ],
+        [
+          "el cambio climático",
+          "climate change"
+        ],
+        [
+          "el calentamiento global",
+          "global warming"
+        ],
+        [
+          "la contaminación",
+          "pollution"
+        ],
+        [
+          "el reciclaje",
+          "recycling"
+        ],
+        [
+          "la basura",
+          "rubbish"
+        ],
+        [
+          "la energía renovable",
+          "renewable energy"
+        ],
+        [
+          "la energía solar",
+          "solar energy"
+        ],
+        [
+          "el petróleo",
+          "oil"
+        ],
+        [
+          "el bosque",
+          "forest"
+        ],
+        [
+          "el río",
+          "river"
+        ],
+        [
+          "el mar",
+          "sea"
+        ],
+        [
+          "la sequía",
+          "drought"
+        ],
+        [
+          "la inundación",
+          "flood"
+        ],
+        [
+          "el incendio",
+          "fire"
+        ],
+        [
+          "el terremoto",
+          "earthquake"
+        ],
+        [
+          "la especie",
+          "species"
+        ],
+        [
+          "el recurso",
+          "resource"
+        ],
+        [
+          "los residuos",
+          "waste"
+        ],
+        [
+          "el aire",
+          "air"
+        ]
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "Environment verbs",
+      "items": [
+        [
+          "contaminar",
+          "to pollute"
+        ],
+        [
+          "reciclar",
+          "to recycle"
+        ],
+        [
+          "proteger",
+          "to protect"
+        ],
+        [
+          "ahorrar",
+          "to save"
+        ],
+        [
+          "desperdiciar",
+          "to waste"
+        ],
+        [
+          "cuidar",
+          "to look after"
+        ],
+        [
+          "reducir",
+          "to reduce"
+        ],
+        [
+          "destruir",
+          "to destroy"
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "4. Society, politics and the media"
+    },
+    {
+      "type": "verbpairs",
+      "title": "Society",
+      "items": [
+        [
+          "la sociedad",
+          "society"
+        ],
+        [
+          "el gobierno",
+          "government"
+        ],
+        [
+          "el presidente",
+          "president"
+        ],
+        [
+          "las elecciones",
+          "elections"
+        ],
+        [
+          "el voto",
+          "vote"
+        ],
+        [
+          "el partido",
+          "political party"
+        ],
+        [
+          "la ley",
+          "law"
+        ],
+        [
+          "el derecho",
+          "right, law (subject)"
+        ],
+        [
+          "la libertad",
+          "freedom"
+        ],
+        [
+          "la igualdad",
+          "equality"
+        ],
+        [
+          "el impuesto",
+          "tax"
+        ],
+        [
+          "el ciudadano",
+          "citizen"
+        ],
+        [
+          "la inmigración",
+          "immigration"
+        ],
+        [
+          "la pobreza",
+          "poverty"
+        ],
+        [
+          "la desigualdad",
+          "inequality"
+        ],
+        [
+          "el ayuntamiento",
+          "town hall"
+        ]
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "Media",
+      "items": [
+        [
+          "las noticias",
+          "news"
+        ],
+        [
+          "el periódico",
+          "newspaper"
+        ],
+        [
+          "la revista",
+          "magazine"
+        ],
+        [
+          "el periodista",
+          "journalist"
+        ],
+        [
+          "el artículo",
+          "article"
+        ],
+        [
+          "el titular",
+          "headline"
+        ],
+        [
+          "la entrevista",
+          "interview"
+        ],
+        [
+          "la prensa",
+          "the press"
+        ],
+        [
+          "la red social",
+          "social network"
+        ],
+        [
+          "la publicidad",
+          "advertising"
+        ],
+        [
+          "el anuncio",
+          "advertisement"
+        ],
+        [
+          "el canal",
+          "channel"
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "5. Feelings, character and relationships"
+    },
+    {
+      "type": "verbpairs",
+      "title": "Feelings",
+      "items": [
+        [
+          "la alegría",
+          "joy"
+        ],
+        [
+          "la tristeza",
+          "sadness"
+        ],
+        [
+          "el miedo",
+          "fear"
+        ],
+        [
+          "la rabia",
+          "anger"
+        ],
+        [
+          "el enfado",
+          "annoyance"
+        ],
+        [
+          "los celos",
+          "jealousy"
+        ],
+        [
+          "la vergüenza",
+          "shame, embarrassment"
+        ],
+        [
+          "el orgullo",
+          "pride"
+        ],
+        [
+          "la esperanza",
+          "hope"
+        ],
+        [
+          "la preocupación",
+          "worry"
+        ],
+        [
+          "el estrés",
+          "stress"
+        ],
+        [
+          "la confianza",
+          "trust, confidence"
+        ]
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "Character",
+      "items": [
+        [
+          "amable",
+          "kind"
+        ],
+        [
+          "generoso",
+          "generous"
+        ],
+        [
+          "tímido",
+          "shy"
+        ],
+        [
+          "simpático",
+          "nice, likeable"
+        ],
+        [
+          "testarudo",
+          "stubborn"
+        ],
+        [
+          "perezoso",
+          "lazy"
+        ],
+        [
+          "trabajador",
+          "hard-working"
+        ],
+        [
+          "sincero",
+          "sincere"
+        ],
+        [
+          "egoísta",
+          "selfish"
+        ],
+        [
+          "paciente",
+          "patient"
+        ],
+        [
+          "nervioso",
+          "nervous"
+        ],
+        [
+          "responsable",
+          "responsible"
+        ]
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "Relationships",
+      "items": [
+        [
+          "el amigo íntimo",
+          "close friend"
+        ],
+        [
+          "la pareja",
+          "partner, couple"
+        ],
+        [
+          "el novio / la novia",
+          "boyfriend / girlfriend"
+        ],
+        [
+          "el matrimonio",
+          "marriage, married couple"
+        ],
+        [
+          "la boda",
+          "wedding"
+        ],
+        [
+          "el divorcio",
+          "divorce"
+        ],
+        [
+          "los suegros",
+          "parents-in-law"
+        ],
+        [
+          "el cuñado / la cuñada",
+          "brother / sister-in-law"
+        ],
+        [
+          "quedar con",
+          "to meet up with"
+        ],
+        [
+          "llevarse bien con",
+          "to get on well with"
+        ],
+        [
+          "discutir",
+          "to argue"
+        ],
+        [
+          "pelearse",
+          "to fight"
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "6. Opinion verbs and useful abstract words"
+    },
+    {
+      "type": "verbpairs",
+      "title": "Opinions",
+      "items": [
+        [
+          "opinar",
+          "to think, give an opinion"
+        ],
+        [
+          "creer",
+          "to believe, think"
+        ],
+        [
+          "pensar (ie)",
+          "to think"
+        ],
+        [
+          "suponer",
+          "to suppose"
+        ],
+        [
+          "dudar",
+          "to doubt"
+        ],
+        [
+          "estar convencido de",
+          "to be convinced of"
+        ],
+        [
+          "tener razón",
+          "to be right"
+        ],
+        [
+          "estar equivocado",
+          "to be wrong"
+        ],
+        [
+          "aceptar",
+          "to accept"
+        ],
+        [
+          "rechazar",
+          "to reject"
+        ],
+        [
+          "defender (ie)",
+          "to defend"
+        ],
+        [
+          "criticar",
+          "to criticize"
+        ]
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "Abstract words",
+      "items": [
+        [
+          "la ventaja",
+          "advantage"
+        ],
+        [
+          "la desventaja",
+          "disadvantage"
+        ],
+        [
+          "el problema",
+          "problem"
+        ],
+        [
+          "la solución",
+          "solution"
+        ],
+        [
+          "la razón",
+          "reason"
+        ],
+        [
+          "el motivo",
+          "motive, reason"
+        ],
+        [
+          "el resultado",
+          "result"
+        ],
+        [
+          "la consecuencia",
+          "consequence"
+        ],
+        [
+          "el objetivo",
+          "goal"
+        ],
+        [
+          "el esfuerzo",
+          "effort"
+        ],
+        [
+          "el riesgo",
+          "risk"
+        ],
+        [
+          "la oportunidad",
+          "opportunity"
+        ],
+        [
+          "el cambio",
+          "change"
+        ],
+        [
+          "la diferencia",
+          "difference"
+        ],
+        [
+          "el recuerdo",
+          "memory, souvenir"
+        ],
+        [
+          "el peligro",
+          "danger"
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "7. Set phrases and idioms"
+    },
+    {
+      "type": "h2",
+      "text": "Useful idioms"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        8.5,
+        8.5
+      ],
+      "head": [
+        "Spanish",
+        "English"
+      ],
+      "rows": [
+        [
+          "llover a cántaros",
+          "to rain cats and dogs"
+        ],
+        [
+          "estar en las nubes",
+          "to have your head in the clouds"
+        ],
+        [
+          "ser pan comido",
+          "to be a piece of cake"
+        ],
+        [
+          "costar un ojo de la cara",
+          "to cost an arm and a leg"
+        ],
+        [
+          "tomar el pelo a alguien",
+          "to pull someone's leg"
+        ],
+        [
+          "meter la pata",
+          "to put your foot in it"
+        ],
+        [
+          "no tener ni idea",
+          "to have no idea"
+        ],
+        [
+          "estar hecho polvo",
+          "to be exhausted"
+        ],
+        [
+          "dar igual",
+          "not to matter"
+        ],
+        [
+          "echar de menos",
+          "to miss"
+        ],
+        [
+          "tener ganas de + inf.",
+          "to feel like (doing)"
+        ],
+        [
+          "darse cuenta de",
+          "to realize"
+        ],
+        [
+          "hacer caso a",
+          "to pay attention to, obey"
+        ],
+        [
+          "tener en cuenta",
+          "to take into account"
+        ],
+        [
+          "valer la pena",
+          "to be worth it"
+        ],
+        [
+          "llevar a cabo",
+          "to carry out"
+        ],
+        [
+          "a lo mejor + indicative",
+          "maybe, perhaps"
+        ],
+        [
+          "de repente",
+          "suddenly"
+        ],
+        [
+          "por lo menos",
+          "at least"
+        ],
+        [
+          "sin duda",
+          "without doubt"
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "8. False friends (English and Dutch)"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.2,
+        6.4,
+        6.4
+      ],
+      "head": [
+        "Spanish",
+        "Does NOT mean",
+        "Actually means"
+      ],
+      "rows": [
+        [
+          "actual",
+          "actual",
+          "current, present"
+        ],
+        [
+          "actualmente",
+          "actually",
+          "currently"
+        ],
+        [
+          "embarazada",
+          "embarrassed",
+          "pregnant"
+        ],
+        [
+          "éxito",
+          "exit",
+          "success"
+        ],
+        [
+          "la carpeta",
+          "carpet",
+          "folder"
+        ],
+        [
+          "la librería",
+          "library",
+          "bookshop"
+        ],
+        [
+          "realizar",
+          "to realize (notice)",
+          "to carry out"
+        ],
+        [
+          "soportar",
+          "to support",
+          "to bear, tolerate"
+        ],
+        [
+          "asistir a",
+          "to assist",
+          "to attend"
+        ],
+        [
+          "la lectura",
+          "lecture",
+          "reading"
+        ],
+        [
+          "sensible",
+          "sensible",
+          "sensitive"
+        ],
+        [
+          "constipado",
+          "constipated",
+          "having a cold"
+        ],
+        [
+          "en realidad",
+          "in reality (only)",
+          "actually, in fact"
+        ],
+        [
+          "largo",
+          "large",
+          "long"
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "9. Spain versus Latin America"
+    },
+    {
+      "type": "table",
+      "latam_ok": true,
+      "style": "plain",
+      "widths": [
+        5.6,
+        5.6,
+        5.8
+      ],
+      "head": [
+        "Spain",
+        "Latin America",
+        "English"
+      ],
+      "rows": [
+        [
+          "el ordenador",
+          "la computadora",
+          "computer"
+        ],
+        [
+          "el móvil",
+          "el celular",
+          "mobile phone"
+        ],
+        [
+          "el coche",
+          "el carro / el auto",
+          "car"
+        ],
+        [
+          "conducir",
+          "manejar",
+          "to drive"
+        ],
+        [
+          "el zumo",
+          "el jugo",
+          "juice"
+        ],
+        [
+          "el piso",
+          "el apartamento",
+          "flat"
+        ],
+        [
+          "la patata",
+          "la papa",
+          "potato"
+        ],
+        [
+          "el autobús",
+          "el camión / la guagua",
+          "bus"
+        ],
+        [
+          "coger el tren",
+          "tomar el tren",
+          "to take the train"
+        ],
+        [
+          "vale",
+          "okay / dale",
+          "OK"
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "10. Self-check"
+    },
+    {
+      "type": "p",
+      "text": "Fill in the missing word. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Hint"
+      ],
+      "items": [
+        {
+          "q": "El ______ de mi trabajo es de 2000 euros al mes.",
+          "hint": "salary",
+          "a": "sueldo",
+          "full": "El sueldo de mi trabajo es de 2000 euros al mes."
+        },
+        {
+          "q": "Mañana tengo un ______ de matemáticas.",
+          "hint": "exam",
+          "a": "examen",
+          "full": "Mañana tengo un examen de matemáticas."
+        },
+        {
+          "q": "Hay que ______ el plástico para cuidar el medio ambiente.",
+          "hint": "to recycle",
+          "a": "reciclar",
+          "full": "Hay que reciclar el plástico para cuidar el medio ambiente."
+        },
+        {
+          "q": "Mi jefe me ______ ayer: ya no tengo trabajo.",
+          "hint": "to fire (preterite)",
+          "a": "despidió",
+          "full": "Mi jefe me despidió ayer: ya no tengo trabajo."
+        },
+        {
+          "q": "Estoy ______ polvo después del examen.",
+          "hint": "exhausted",
+          "a": "hecho",
+          "full": "Estoy hecho polvo después del examen."
+        },
+        {
+          "q": "Esta película ______ la pena.",
+          "hint": "to be worth it",
+          "a": "vale",
+          "full": "Esta película vale la pena."
+        },
+        {
+          "q": "Ella está ______ y espera un bebé.",
+          "hint": "pregnant (not embarrassed!)",
+          "a": "embarazada",
+          "full": "Ella está embarazada y espera un bebé."
+        },
+        {
+          "q": "Hoy ______ a cántaros.",
+          "hint": "to rain (3rd person)",
+          "a": "llueve",
+          "full": "Hoy llueve a cántaros."
+        },
+        {
+          "q": "Mi hermano es muy ______: nunca cambia de opinión.",
+          "hint": "stubborn",
+          "a": "testarudo",
+          "full": "Mi hermano es muy testarudo: nunca cambia de opinión."
+        },
+        {
+          "q": "Los jóvenes votaron en las ______.",
+          "hint": "elections",
+          "a": "elecciones",
+          "full": "Los jóvenes votaron en las elecciones."
+        },
+        {
+          "q": "Tengo que ______ el currículum antes del viernes.",
+          "hint": "to hand in",
+          "a": "entregar",
+          "full": "Tengo que entregar el currículum antes del viernes."
+        },
+        {
+          "q": "Estudio la ______ de ingeniería industrial.",
+          "hint": "degree course",
+          "a": "carrera",
+          "full": "Estudio la carrera de ingeniería industrial."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish:</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "I miss my friends.",
+          "a": "Echo de menos a mis amigos."
+        },
+        {
+          "q": "It does not matter.",
+          "a": "Da igual."
+        },
+        {
+          "q": "She is currently looking for a job.",
+          "a": "Actualmente busca trabajo."
+        },
+        {
+          "q": "It is worth it.",
+          "a": "Vale la pena."
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

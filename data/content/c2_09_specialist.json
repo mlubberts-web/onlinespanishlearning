@@ -1,0 +1,627 @@
+{
+  "meta": {
+    "level": "C2",
+    "section": "Vocabulary",
+    "number": 9,
+    "total_in_level": 10,
+    "title": "Specialist Vocabulary",
+    "subtitle": "law, medicine, technology, economy and engineering terms for professional Spanish",
+    "footer": "Spanish Learning Program · C2 · Vocabulary · Specialist terms",
+    "next": "Next: C2 · PDF 10 — Mastery phrases"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "discuss law, health, technology and economy in Spanish",
+        "read professional texts with less dictionary use",
+        "talk about engineering and logistics",
+        "avoid the typical false friends in technical language"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "1. Law and justice"
+    },
+    {
+      "type": "verbpairs",
+      "title": "Law",
+      "items": [
+        [
+          "la demanda",
+          "lawsuit"
+        ],
+        [
+          "el juicio",
+          "trial"
+        ],
+        [
+          "el tribunal",
+          "court"
+        ],
+        [
+          "la sentencia",
+          "ruling"
+        ],
+        [
+          "el juez / la jueza",
+          "judge"
+        ],
+        [
+          "el abogado",
+          "lawyer"
+        ],
+        [
+          "el testigo",
+          "witness"
+        ],
+        [
+          "la prueba",
+          "evidence"
+        ],
+        [
+          "el delito",
+          "crime"
+        ],
+        [
+          "la multa",
+          "fine"
+        ],
+        [
+          "la condena",
+          "sentence"
+        ],
+        [
+          "el recurso",
+          "appeal"
+        ],
+        [
+          "el acusado",
+          "defendant"
+        ],
+        [
+          "la fianza",
+          "bail"
+        ],
+        [
+          "el contrato",
+          "contract"
+        ],
+        [
+          "la cláusula",
+          "clause"
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "2. Medicine and health"
+    },
+    {
+      "type": "verbpairs",
+      "title": "Medicine",
+      "items": [
+        [
+          "la dolencia",
+          "ailment"
+        ],
+        [
+          "el diagnóstico",
+          "diagnosis"
+        ],
+        [
+          "el tratamiento",
+          "treatment"
+        ],
+        [
+          "la receta",
+          "prescription"
+        ],
+        [
+          "el síntoma",
+          "symptom"
+        ],
+        [
+          "la consulta",
+          "appointment, surgery"
+        ],
+        [
+          "las urgencias",
+          "A&E"
+        ],
+        [
+          "el ingreso",
+          "admission"
+        ],
+        [
+          "la cirugía",
+          "surgery"
+        ],
+        [
+          "el analgésico",
+          "painkiller"
+        ],
+        [
+          "la tensión",
+          "blood pressure"
+        ],
+        [
+          "la fiebre",
+          "fever"
+        ],
+        [
+          "la herida",
+          "wound"
+        ],
+        [
+          "la vacuna",
+          "vaccine"
+        ],
+        [
+          "el seguro",
+          "insurance"
+        ],
+        [
+          "la baja médica",
+          "sick leave"
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "3. Technology"
+    },
+    {
+      "type": "verbpairs",
+      "title": "Technology",
+      "items": [
+        [
+          "el algoritmo",
+          "algorithm"
+        ],
+        [
+          "la nube",
+          "the cloud"
+        ],
+        [
+          "la red",
+          "network"
+        ],
+        [
+          "el dato",
+          "data point"
+        ],
+        [
+          "el cortafuegos",
+          "firewall"
+        ],
+        [
+          "la contraseña",
+          "password"
+        ],
+        [
+          "el servidor",
+          "server"
+        ],
+        [
+          "la copia de seguridad",
+          "backup"
+        ],
+        [
+          "el código abierto",
+          "open source"
+        ],
+        [
+          "la aplicación",
+          "app"
+        ],
+        [
+          "el archivo",
+          "file"
+        ],
+        [
+          "descargar",
+          "to download"
+        ],
+        [
+          "la inteligencia artificial",
+          "artificial intelligence"
+        ],
+        [
+          "el aprendizaje automático",
+          "machine learning"
+        ],
+        [
+          "la ciberseguridad",
+          "cybersecurity"
+        ],
+        [
+          "la pantalla",
+          "screen"
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "4. Economy and finance"
+    },
+    {
+      "type": "verbpairs",
+      "title": "Economy",
+      "items": [
+        [
+          "el PIB",
+          "GDP"
+        ],
+        [
+          "la inflación",
+          "inflation"
+        ],
+        [
+          "los tipos de interés",
+          "interest rates"
+        ],
+        [
+          "la bolsa",
+          "stock market"
+        ],
+        [
+          "la acción",
+          "share"
+        ],
+        [
+          "el bono",
+          "bond"
+        ],
+        [
+          "el déficit",
+          "deficit"
+        ],
+        [
+          "la recesión",
+          "recession"
+        ],
+        [
+          "la hipoteca",
+          "mortgage"
+        ],
+        [
+          "el alquiler",
+          "rent"
+        ],
+        [
+          "la nómina",
+          "payslip"
+        ],
+        [
+          "el autónomo",
+          "freelancer"
+        ],
+        [
+          "la cotización",
+          "contribution"
+        ],
+        [
+          "el IVA",
+          "VAT"
+        ],
+        [
+          "la declaración de la renta",
+          "tax return"
+        ],
+        [
+          "el convenio",
+          "collective agreement"
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "5. Engineering and logistics"
+    },
+    {
+      "type": "verbpairs",
+      "title": "Engineering",
+      "items": [
+        [
+          "la cadena de suministro",
+          "supply chain"
+        ],
+        [
+          "el almacén",
+          "warehouse"
+        ],
+        [
+          "la pieza",
+          "part"
+        ],
+        [
+          "el plano",
+          "drawing"
+        ],
+        [
+          "el rodamiento",
+          "bearing"
+        ],
+        [
+          "el engranaje",
+          "gear"
+        ],
+        [
+          "la soldadura",
+          "weld"
+        ],
+        [
+          "la aleación",
+          "alloy"
+        ],
+        [
+          "el esfuerzo",
+          "stress (mechanical)"
+        ],
+        [
+          "la tolerancia",
+          "tolerance"
+        ],
+        [
+          "el mantenimiento",
+          "maintenance"
+        ],
+        [
+          "la fiabilidad",
+          "reliability"
+        ],
+        [
+          "el rendimiento",
+          "efficiency, yield"
+        ],
+        [
+          "el par",
+          "torque"
+        ],
+        [
+          "la fresadora",
+          "milling machine"
+        ],
+        [
+          "el torno",
+          "lathe"
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "6. Confusing pairs"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.2,
+        4.6,
+        4.4,
+        3.8
+      ],
+      "head": [
+        "Word",
+        "Meaning",
+        "Not to confuse with",
+        "Example"
+      ],
+      "rows": [
+        [
+          "la sentencia",
+          "court ruling",
+          "la frase (sentence)",
+          "El juez dictó sentencia."
+        ],
+        [
+          "la demanda",
+          "lawsuit, demand",
+          "la petición",
+          "Presentó una demanda."
+        ],
+        [
+          "la tensión",
+          "blood pressure, voltage",
+          "el esfuerzo (stress)",
+          "Tengo la tensión alta."
+        ],
+        [
+          "el rendimiento",
+          "performance, efficiency",
+          "la eficacia",
+          "El rendimiento del motor."
+        ],
+        [
+          "la carrera",
+          "degree, career, race",
+          "la profesión",
+          "Estudio una carrera."
+        ],
+        [
+          "el impuesto",
+          "tax",
+          "la tasa (fee, rate)",
+          "Pago impuestos."
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "7. Common mistakes"
+    },
+    {
+      "type": "mistakes",
+      "rows": [
+        [
+          "Pagué las taxes.",
+          "Pagué los impuestos.",
+          "taxes is English."
+        ],
+        [
+          "El juez dio una frase de cinco años.",
+          "El juez dictó una sentencia de cinco años.",
+          "sentencia = ruling."
+        ],
+        [
+          "Voy a hacer una fiebre.",
+          "Tengo fiebre.",
+          "tener fiebre."
+        ],
+        [
+          "La stress del material es alta.",
+          "El esfuerzo del material es alto.",
+          "esfuerzo = mechanical stress."
+        ],
+        [
+          "Tengo una constipación.",
+          "Estoy constipado. / Tengo un resfriado.",
+          "constipado = has a cold."
+        ],
+        [
+          "Soy autónomo y tengo un jefe fijo.",
+          "Soy autónomo y trabajo por cuenta propia.",
+          "autónomo = self-employed."
+        ],
+        [
+          "Hay que hacer el backup.",
+          "Hay que hacer la copia de seguridad.",
+          "Spanish equivalent."
+        ]
+      ],
+      "latam_ok": true
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "8. Self-check"
+    },
+    {
+      "type": "p",
+      "text": "Fill in the blank. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Hint"
+      ],
+      "items": [
+        {
+          "q": "El juez dictó ______.",
+          "hint": "ruling",
+          "a": "sentencia",
+          "full": "El juez dictó sentencia."
+        },
+        {
+          "q": "Necesito una ______ para este medicamento.",
+          "hint": "prescription",
+          "a": "receta",
+          "full": "Necesito una receta para este medicamento."
+        },
+        {
+          "q": "Pago el ______ del veintiuno por ciento en las facturas.",
+          "hint": "VAT",
+          "a": "IVA",
+          "full": "Pago el IVA del veintiuno por ciento en las facturas."
+        },
+        {
+          "q": "Mi ______ llega a final de mes.",
+          "hint": "payslip",
+          "a": "nómina",
+          "full": "Mi nómina llega a final de mes."
+        },
+        {
+          "q": "Hay que hacer una copia de ______.",
+          "hint": "safety",
+          "a": "seguridad",
+          "full": "Hay que hacer una copia de seguridad."
+        },
+        {
+          "q": "La ______ une las dos piezas.",
+          "hint": "weld",
+          "a": "soldadura",
+          "full": "La soldadura une las dos piezas."
+        },
+        {
+          "q": "El ______ transmite el movimiento entre dos ejes.",
+          "hint": "gear",
+          "a": "engranaje",
+          "full": "El engranaje transmite el movimiento entre dos ejes."
+        },
+        {
+          "q": "Mi hermano es ______ y no tiene jefe.",
+          "hint": "freelancer",
+          "a": "autónomo",
+          "full": "Mi hermano es autónomo y no tiene jefe."
+        },
+        {
+          "q": "El abogado presentó un ______.",
+          "hint": "appeal",
+          "a": "recurso",
+          "full": "El abogado presentó un recurso."
+        },
+        {
+          "q": "Los ______ de interés subieron.",
+          "hint": "rates",
+          "a": "tipos",
+          "full": "Los tipos de interés subieron."
+        },
+        {
+          "q": "El ______ ha bajado un tres por ciento.",
+          "hint": "GDP",
+          "a": "PIB",
+          "full": "El PIB ha bajado un tres por ciento."
+        },
+        {
+          "q": "La ______ de suministro tuvo retrasos.",
+          "hint": "chain",
+          "a": "cadena",
+          "full": "La cadena de suministro tuvo retrasos."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish (Spain):</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "The judge issued a ruling.",
+          "a": "El juez dictó sentencia."
+        },
+        {
+          "q": "I need a prescription.",
+          "a": "Necesito una receta."
+        },
+        {
+          "q": "The supply chain had delays.",
+          "a": "La cadena de suministro tuvo retrasos."
+        },
+        {
+          "q": "I pay my taxes every year.",
+          "a": "Pago mis impuestos cada año."
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

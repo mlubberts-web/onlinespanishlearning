@@ -1,0 +1,248 @@
+{
+  "meta": {
+    "level": "A1",
+    "section": "Verbs",
+    "number": 7,
+    "total_in_level": 9,
+    "title": "Reflexive Verbs and Gustar",
+    "subtitle": "Daily-routine verbs (me levanto), introducing yourself (me llamo) and saying what you like (me gusta)",
+    "footer": "Spanish Learning Program · A1 · Verbs · Reflexives and gustar",
+    "next": "Next: A1 · PDF 8 — Basic sentence structure"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "say your name and describe your daily routine with reflexive verbs",
+        "put the reflexive pronoun in the right place",
+        "say what you like and love with gustar and encantar",
+        "agree and disagree: a mí también, a mí tampoco"
+      ]
+    },
+
+    { "type": "h1", "text": "1. Reflexive verbs" },
+    {
+      "type": "p",
+      "text": "In a reflexive verb the action comes back to the person who does it. The infinitive ends in <b>-se</b>: <i>levantarse</i> (to get up), <i>llamarse</i> (to be called). Before the conjugated verb you add a <b>reflexive pronoun</b> that matches the subject."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [5.6, 3.4, 8.0],
+      "head": ["Person", "Pronoun", "Example"],
+      "rows": [
+        ["yo", "me", "Me levanto."],
+        ["tú", "te", "Te levantas."],
+        ["él / ella / usted", "se", "Se levanta."],
+        ["nosotros / nosotras", "nos", "Nos levantamos."],
+        ["vosotros / vosotras", "os", "Os levantáis."],
+        ["ellos / ellas / ustedes", "se", "Se levantan."]
+      ]
+    },
+    {
+      "type": "conj",
+      "verb": "llamarse",
+      "meaning": "to be called",
+      "label": "reflexive · regular -ar",
+      "forms": ["me llamo", "te llamas", "se llama", "nos llamamos", "os llamáis", "se llaman"],
+      "examples": [
+        ["Me llamo Ana.", "My name is Ana."],
+        ["¿Cómo te llamas?", "What is your name?"],
+        ["Mi hermano se llama Pablo.", "My brother is called Pablo."],
+        ["Nos llamamos igual.", "We have the same name."],
+        ["¿Cómo os llamáis?", "What are your (all) names?"],
+        ["Se llaman Luis y Marta.", "They are called Luis and Marta."]
+      ]
+    },
+    {
+      "type": "conj",
+      "verb": "levantarse",
+      "meaning": "to get up",
+      "label": "reflexive · regular -ar",
+      "forms": ["me levanto", "te levantas", "se levanta", "nos levantamos", "os levantáis", "se levantan"],
+      "examples": [
+        ["Me levanto a las siete.", "I get up at seven."],
+        ["¿A qué hora te levantas?", "What time do you get up?"],
+        ["Ella se levanta tarde.", "She gets up late."],
+        ["Nos levantamos temprano.", "We get up early."],
+        ["¿Os levantáis tarde los domingos?", "Do you (all) get up late on Sundays?"],
+        ["Se levantan a las ocho.", "They get up at eight."]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "Formal: ¿Cómo se llama usted?",
+      "text": "To ask a stranger or an older person their name, use <b>usted</b>: <i>¿Cómo se llama usted?</i> To introduce yourself, <i>Me llamo…</i> or <i>Soy…</i> both work."
+    },
+
+    { "type": "h1", "text": "2. Reflexive verbs that change their stem" },
+    {
+      "type": "p",
+      "text": "Many reflexive verbs are boot verbs (PDF 3): the stem changes in yo, tú, él and ellos but not in nosotros and vosotros."
+    },
+    {
+      "type": "conjgrid",
+      "kind": "boot",
+      "title": "despertarse, acostarse, vestirse",
+      "verbs": [
+        { "inf": "despertarse", "meaning": "to wake up", "forms": ["me desp*ie*rto", "te desp*ie*rtas", "se desp*ie*rta", "nos despertamos", "os despertáis", "se desp*ie*rtan"] },
+        { "inf": "acostarse", "meaning": "to go to bed", "forms": ["me ac*ue*sto", "te ac*ue*stas", "se ac*ue*sta", "nos acostamos", "os acostáis", "se ac*ue*stan"] },
+        { "inf": "vestirse", "meaning": "to get dressed", "forms": ["me v*i*sto", "te v*i*stes", "se v*i*ste", "nos vestimos", "os vestís", "se v*i*sten"] }
+      ]
+    },
+    {
+      "type": "conjgrid",
+      "kind": "boot",
+      "title": "sentarse, dormirse",
+      "verbs": [
+        { "inf": "sentarse", "meaning": "to sit down", "forms": ["me s*ie*nto", "te s*ie*ntas", "se s*ie*nta", "nos sentamos", "os sentáis", "se s*ie*ntan"] },
+        { "inf": "dormirse", "meaning": "to fall asleep", "forms": ["me d*ue*rmo", "te d*ue*rmes", "se d*ue*rme", "nos dormimos", "os dormís", "se d*ue*rmen"] }
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "Regular reflexive verbs for your daily routine",
+      "items": [
+        ["ducharse", "to take a shower"], ["lavarse", "to wash oneself"], ["peinarse", "to comb one's hair"],
+        ["afeitarse", "to shave"], ["maquillarse", "to put on make-up"], ["bañarse", "to take a bath"],
+        ["cepillarse los dientes", "to brush one's teeth"], ["ponerse", "to put on (clothes)"]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<i>Me despierto a las siete, me ducho, desayuno y salgo de casa a las ocho. Por la noche me acuesto a las once.</i> (I wake up at seven, take a shower, have breakfast and leave the house at eight. At night I go to bed at eleven.)"
+    },
+    {
+      "type": "callout",
+      "kind": "dutch",
+      "title": "Body parts and clothes: use el, la, los, las",
+      "text": "Dutch says <i>ik was mijn handen</i>. Spanish uses the article, not a possessive: <b>Me lavo las manos</b>, <b>Me pongo el abrigo</b>. The reflexive pronoun already shows whose hands they are."
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "Reflexive or not?",
+      "text": "Compare <i>lavo el coche</i> (I wash the car) with <i>me lavo</i> (I wash myself), and <i>acuesto al niño</i> (I put the child to bed) with <i>me acuesto</i> (I go to bed). Many verbs exist in both forms."
+    },
+
+    { "type": "h1", "text": "3. Gustar: saying what you like" },
+    {
+      "type": "p",
+      "text": "<b>Gustar</b> works backwards compared with English or Dutch. What you like is the <b>subject</b> and the person who likes it is the <b>indirect object</b>. <i>Me gusta el café</i> means <i>coffee is pleasing to me</i>. So the verb agrees with the <b>thing liked</b>: <b>gusta</b> for one thing or an infinitive, <b>gustan</b> for several things."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [4.0, 2.0, 5.4, 5.6],
+      "head": ["Who likes it", "Pronoun", "one thing / an activity", "several things"],
+      "rows": [
+        ["(a mí)", "me", "Me gusta el café. Me gusta bailar.", "Me gustan los gatos."],
+        ["(a ti)", "te", "Te gusta el café.", "Te gustan los gatos."],
+        ["(a él / ella / usted)", "le", "Le gusta el café.", "Le gustan los gatos."],
+        ["(a nosotros / nosotras)", "nos", "Nos gusta el café.", "Nos gustan los gatos."],
+        ["(a vosotros / vosotras)", "os", "Os gusta el café.", "Os gustan los gatos."],
+        ["(a ellos / ellas / ustedes)", "les", "Les gusta el café.", "Les gustan los gatos."]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<b>With a verb</b> use gusta (singular), also for several verbs: <i>Me gusta cantar y bailar.</i>",
+        "<b>A mí, a ti, a él…</b> are added for contrast or emphasis: <i>A mí me gusta el té, pero a ella le gusta el café.</i> Note <b>a mí</b> has an accent.",
+        "<b>Names and nouns</b> work the same way: <i>A Pedro le gusta el fútbol. A mis padres les gustan los viajes.</i>",
+        "<b>Degree:</b> <i>Me gusta mucho / bastante / un poco.</i> Negative: <i>No me gusta nada el frío.</i>"
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "dutch",
+      "title": "Think “is pleasing to me”",
+      "text": "Dutch <i>ik hou van katten</i> / <i>ik vind katten leuk</i> becomes <b>Me gustan los gatos</b>: literally “cats are pleasing to me”. The cats are the subject, so the verb is plural: <b>gustan</b>."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [5.6, 5.7, 5.7],
+      "head": ["Someone says…", "You agree…", "You disagree…"],
+      "rows": [
+        ["Me gusta el chocolate.", "A mí también.", "A mí no."],
+        ["No me gusta el pescado.", "A mí tampoco.", "A mí sí."]
+      ]
+    },
+
+    { "type": "h1", "text": "4. Verbs that work like gustar" },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [3.6, 3.6, 5.2, 4.6],
+      "head": ["Verb", "Meaning", "Example", "English"],
+      "rows": [
+        ["encantar", "to love", "Me encanta la música. Nos encantan los viajes.", "I love music. We love travelling."],
+        ["interesar", "to interest", "Me interesa la historia. Les interesan los coches.", "History interests me. Cars interest them."]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "To love a person: querer",
+      "text": "<b>Encantar</b> is for things and activities. For people use <b>querer</b>: <i>Quiero a mi familia. Te quiero.</i> (I love my family. I love you.)"
+    },
+
+    { "type": "h1", "text": "5. Common mistakes" },
+    {
+      "type": "mistakes",
+      "rows": [
+        ["Yo gusto el café.", "Me gusta el café.", "The thing liked is the subject. The person is me, te, le…"],
+        ["Me gusta los gatos.", "Me gustan los gatos.", "Plural thing liked, plural verb."],
+        ["Me gustan bailar.", "Me gusta bailar.", "An infinitive always takes the singular gusta."],
+        ["Me llamo es Ana.", "Me llamo Ana.", "Llamarse already means “to be called”. No extra es."],
+        ["Yo levanto a las siete.", "Me levanto a las siete.", "A reflexive verb always needs its pronoun."],
+        ["Me lavo mis manos.", "Me lavo las manos.", "Body parts take the article, not a possessive."],
+        ["A mi me gusta el té.", "A mí me gusta el té.", "After a preposition the pronoun is mí, with an accent."]
+      ]
+    },
+
+    { "type": "pagebreak" },
+    { "type": "h1", "text": "6. Self-check" },
+    {
+      "type": "p",
+      "text": "Complete each sentence. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "items": [
+        { "q": "Yo ______ a las siete.", "hint": "levantarse (yo)", "a": "me levanto", "full": "Yo me levanto a las siete." },
+        { "q": "¿Cómo ______ tú?", "hint": "llamarse", "a": "te llamas", "full": "¿Cómo te llamas tú?" },
+        { "q": "Ella ______ por la mañana.", "hint": "ducharse", "a": "se ducha", "full": "Ella se ducha por la mañana." },
+        { "q": "Nosotros ______ a las once.", "hint": "acostarse", "a": "nos acostamos", "full": "Nosotros nos acostamos a las once." },
+        { "q": "¿A qué hora ______ vosotros?", "hint": "despertarse", "a": "os despertáis", "full": "¿A qué hora os despertáis vosotros?" },
+        { "q": "Ellos ______ en el sofá.", "hint": "sentarse", "a": "se sientan", "full": "Ellos se sientan en el sofá." },
+        { "q": "Me ______ el chocolate.", "hint": "gustar", "a": "gusta", "full": "Me gusta el chocolate." },
+        { "q": "Me ______ los deportes.", "hint": "gustar", "a": "gustan", "full": "Me gustan los deportes." },
+        { "q": "A ella ______ gusta bailar.", "hint": "pronoun", "a": "le", "full": "A ella le gusta bailar." },
+        { "q": "A nosotros ______ encantan los viajes.", "hint": "pronoun", "a": "nos", "full": "A nosotros nos encantan los viajes." },
+        { "q": "A ti ______ gusta la música.", "hint": "pronoun", "a": "te", "full": "A ti te gusta la música." },
+        { "q": "No me gusta el pescado. — A mí ______.", "hint": "me neither", "a": "tampoco", "full": "No me gusta el pescado. — A mí tampoco." }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish:</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        { "q": "I wake up at eight.", "a": "Me despierto a las ocho." },
+        { "q": "She likes dogs.", "a": "Le gustan los perros." },
+        { "q": "We love music.", "a": "Nos encanta la música." },
+        { "q": "What is your name? (informal)", "a": "¿Cómo te llamas?" }
+      ]
+    },
+
+    { "type": "pagebreak" },
+    { "type": "answers" }
+  ]
+}

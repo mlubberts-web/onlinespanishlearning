@@ -1,0 +1,250 @@
+{
+  "meta": {
+    "level": "A1",
+    "section": "Verbs",
+    "number": 3,
+    "total_in_level": 9,
+    "title": "Irregular Verbs: Present Tense",
+    "subtitle": "The most important irregular verbs, sorted into families so you learn patterns, not lists",
+    "footer": "Spanish Learning Program · A1 · Verbs · Irregular present tense",
+    "next": "Next: A1 · PDF 4 — Ser, estar, hay and tener"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "recognise which family an irregular verb belongs to",
+        "conjugate the 30 most common irregular verbs in the present tense",
+        "use the “boot” rule for stem-changing verbs (e-ie, o-ue, e-i, u-ue)",
+        "choose between saber and conocer"
+      ]
+    },
+
+    { "type": "h1", "text": "1. Four families of irregular verbs" },
+    {
+      "type": "p",
+      "text": "Irregular verbs break the pattern from PDF 2, but they are not random. The endings are almost always the regular ones. What changes is the <b>stem</b> or the <b>yo form</b>. In the tables below, the irregular part is printed in <font color=\"#B8322A\"><b>red</b></font>."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [4.6, 7.2, 5.2],
+      "head": ["Family", "What happens", "Examples"],
+      "rows": [
+        ["Completely irregular", "most forms are unique and must be memorised", "ser, estar, ir, dar, ver"],
+        ["Irregular yo only", "only the yo form changes (-go, -zco, -oy, sé)", "hacer, poner, salir, traer, saber, conocer"],
+        ["Stem-changers (“boot verbs”)", "a vowel in the stem changes in yo, tú, él and ellos", "querer, poder, pedir, jugar"],
+        ["Both", "irregular yo and a stem change", "tener, venir, decir"]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "The boot rule for stem-changers"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [5.2, 4.0, 7.8],
+      "head": ["Person", "poder (o to ue)", "Stem"],
+      "rows": [
+        ["yo", "puedo", "changes"],
+        ["tú", "puedes", "changes"],
+        ["él / ella / usted", "puede", "changes"],
+        ["nosotros / nosotras", "podemos", "stays the same"],
+        ["vosotros / vosotras", "podéis", "stays the same"],
+        ["ellos / ellas / ustedes", "pueden", "changes"]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "Why it is called the boot",
+      "text": "Draw a line around the four changing forms (yo, tú, él, ellos) and you get the shape of a boot. <b>Nosotros and vosotros stay outside the boot</b> and keep the normal stem: podemos, podéis (never puedemos, puedéis)."
+    },
+
+    { "type": "h1", "text": "2. Completely irregular verbs" },
+    {
+      "type": "conjgrid",
+      "title": "ser, estar, ir, dar, ver",
+      "verbs": [
+        { "inf": "ser", "meaning": "to be", "forms": ["*soy*", "*eres*", "*es*", "*somos*", "*sois*", "*son*"] },
+        { "inf": "estar", "meaning": "to be", "forms": ["est*oy*", "est*ás*", "est*á*", "estamos", "est*áis*", "est*án*"] },
+        { "inf": "ir", "meaning": "to go", "forms": ["*voy*", "*vas*", "*va*", "*vamos*", "*vais*", "*van*"] },
+        { "inf": "dar", "meaning": "to give", "forms": ["d*oy*", "das", "da", "damos", "dais", "dan"] },
+        { "inf": "ver", "meaning": "to see, to watch", "forms": ["*veo*", "ves", "ve", "vemos", "veis", "ven"] }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Ser</b> and <b>estar</b> both mean “to be” and get a full PDF of their own (PDF 4). <b>Ir</b> (to go) takes <b>a</b> before a place: <i>Voy a Madrid.</i> Remember <b>a + el = al</b>: <i>Voy al cine.</i>"
+    },
+
+    { "type": "h1", "text": "3. Verbs with an irregular yo form" },
+    {
+      "type": "conjgrid",
+      "title": "Only yo changes: hacer, poner, salir, traer, saber",
+      "verbs": [
+        { "inf": "hacer", "meaning": "to do, to make", "forms": ["ha*g*o", "haces", "hace", "hacemos", "hacéis", "hacen"] },
+        { "inf": "poner", "meaning": "to put, to set", "forms": ["pon*g*o", "pones", "pone", "ponemos", "ponéis", "ponen"] },
+        { "inf": "salir", "meaning": "to leave, to go out", "forms": ["sal*g*o", "sales", "sale", "salimos", "salís", "salen"] },
+        { "inf": "traer", "meaning": "to bring", "forms": ["tra*ig*o", "traes", "trae", "traemos", "traéis", "traen"] },
+        { "inf": "saber", "meaning": "to know", "forms": ["*sé*", "sabes", "sabe", "sabemos", "sabéis", "saben"] }
+      ]
+    },
+    {
+      "type": "conjgrid",
+      "title": "Irregular yo plus other changes: tener, venir, decir, conocer, oír",
+      "verbs": [
+        { "inf": "tener", "meaning": "to have", "forms": ["ten*g*o", "t*ie*nes", "t*ie*ne", "tenemos", "tenéis", "t*ie*nen"] },
+        { "inf": "venir", "meaning": "to come", "forms": ["ven*g*o", "v*ie*nes", "v*ie*ne", "venimos", "venís", "v*ie*nen"] },
+        { "inf": "decir", "meaning": "to say, to tell", "forms": ["d*ig*o", "d*i*ces", "d*i*ce", "decimos", "decís", "d*i*cen"] },
+        { "inf": "conocer", "meaning": "to know (a person or place)", "forms": ["cono*zc*o", "conoces", "conoce", "conocemos", "conocéis", "conocen"] },
+        { "inf": "oír", "meaning": "to hear", "forms": ["o*ig*o", "o*y*es", "o*y*e", "oímos", "oís", "o*y*en"] }
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "More verbs that follow the same patterns",
+      "items": [
+        ["caer", "to fall (caigo)"], ["parecer", "to seem (parezco)"], ["traducir", "to translate (traduzco)"],
+        ["conducir", "to drive (conduzco)"], ["ofrecer", "to offer (ofrezco)"], ["agradecer", "to thank (agradezco)"]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "dutch",
+      "title": "Saber or conocer? Think weten or kennen",
+      "text": "<b>saber</b> = weten: facts, information and skills (<i>Sé la respuesta. Sé nadar.</i>). <b>conocer</b> = kennen: people, places and things you are familiar with (<i>Conozco a Marta. Conozco Madrid.</i>). Also: <b>poder</b> = kunnen and <b>querer</b> = willen."
+    },
+
+    { "type": "h1", "text": "4. Stem-changing verbs" },
+    {
+      "type": "conjgrid",
+      "kind": "boot",
+      "title": "e changes to ie",
+      "verbs": [
+        { "inf": "querer", "meaning": "to want, to love", "forms": ["qu*ie*ro", "qu*ie*res", "qu*ie*re", "queremos", "queréis", "qu*ie*ren"] },
+        { "inf": "pensar", "meaning": "to think", "forms": ["p*ie*nso", "p*ie*nsas", "p*ie*nsa", "pensamos", "pensáis", "p*ie*nsan"] },
+        { "inf": "empezar", "meaning": "to begin", "forms": ["emp*ie*zo", "emp*ie*zas", "emp*ie*za", "empezamos", "empezáis", "emp*ie*zan"] },
+        { "inf": "preferir", "meaning": "to prefer", "forms": ["pref*ie*ro", "pref*ie*res", "pref*ie*re", "preferimos", "preferís", "pref*ie*ren"] },
+        { "inf": "entender", "meaning": "to understand", "forms": ["ent*ie*ndo", "ent*ie*ndes", "ent*ie*nde", "entendemos", "entendéis", "ent*ie*nden"] }
+      ]
+    },
+    {
+      "type": "conjgrid",
+      "kind": "boot",
+      "title": "o changes to ue",
+      "verbs": [
+        { "inf": "poder", "meaning": "to be able to, can", "forms": ["p*ue*do", "p*ue*des", "p*ue*de", "podemos", "podéis", "p*ue*den"] },
+        { "inf": "volver", "meaning": "to return", "forms": ["v*ue*lvo", "v*ue*lves", "v*ue*lve", "volvemos", "volvéis", "v*ue*lven"] },
+        { "inf": "dormir", "meaning": "to sleep", "forms": ["d*ue*rmo", "d*ue*rmes", "d*ue*rme", "dormimos", "dormís", "d*ue*rmen"] },
+        { "inf": "encontrar", "meaning": "to find, to meet", "forms": ["enc*ue*ntro", "enc*ue*ntras", "enc*ue*ntra", "encontramos", "encontráis", "enc*ue*ntran"] },
+        { "inf": "almorzar", "meaning": "to have lunch", "forms": ["alm*ue*rzo", "alm*ue*rzas", "alm*ue*rza", "almorzamos", "almorzáis", "alm*ue*rzan"] }
+      ]
+    },
+    {
+      "type": "conjgrid",
+      "kind": "boot",
+      "title": "e changes to i, and u changes to ue",
+      "verbs": [
+        { "inf": "pedir", "meaning": "to ask for, to order", "forms": ["p*i*do", "p*i*des", "p*i*de", "pedimos", "pedís", "p*i*den"] },
+        { "inf": "repetir", "meaning": "to repeat", "forms": ["rep*i*to", "rep*i*tes", "rep*i*te", "repetimos", "repetís", "rep*i*ten"] },
+        { "inf": "seguir", "meaning": "to follow, to continue", "forms": ["s*i*go", "s*i*gues", "s*i*gue", "seguimos", "seguís", "s*i*guen"] },
+        { "inf": "servir", "meaning": "to serve", "forms": ["s*i*rvo", "s*i*rves", "s*i*rve", "servimos", "servís", "s*i*rven"] },
+        { "inf": "jugar", "meaning": "to play (u to ue)", "forms": ["j*ue*go", "j*ue*gas", "j*ue*ga", "jugamos", "jugáis", "j*ue*gan"] }
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "More stem-changers to learn",
+      "items": [
+        ["cerrar", "to close (cierro)"], ["perder", "to lose, to miss (pierdo)"], ["sentir", "to feel (siento)"], ["recordar", "to remember (recuerdo)"],
+        ["costar", "to cost (cuesta)"], ["mostrar", "to show (muestro)"], ["contar", "to count, to tell (cuento)"], ["llover", "to rain (llueve)"]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "Jugar is special",
+      "text": "<b>Jugar</b> is the only verb where u changes to ue. In Spain you play a sport with <b>jugar al</b>: <i>Jugamos al fútbol.</i> You play an instrument with <b>tocar</b>: <i>Toco la guitarra.</i>"
+    },
+
+    { "type": "h1", "text": "5. The verbs in action" },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [8.8, 8.2],
+      "head": ["Example", "English"],
+      "rows": [
+        ["¿Qué quieres beber?", "What do you want to drink?"],
+        ["No puedo venir hoy.", "I can't come today."],
+        ["Hago los deberes por la tarde.", "I do my homework in the afternoon."],
+        ["Salimos de casa a las ocho.", "We leave the house at eight."],
+        ["¿Sabes dónde está la estación?", "Do you know where the station is?"],
+        ["Conozco a tu hermana.", "I know your sister."],
+        ["Duermo siete horas.", "I sleep seven hours."],
+        ["Mi madre vuelve del trabajo a las seis.", "My mother comes back from work at six."],
+        ["Pedimos dos cafés.", "We order two coffees."],
+        ["Jugamos al fútbol los sábados.", "We play football on Saturdays."],
+        ["Prefiero el té.", "I prefer tea."],
+        ["Vienen a las nueve.", "They come at nine."]
+      ]
+    },
+
+    { "type": "h1", "text": "6. Common mistakes" },
+    {
+      "type": "mistakes",
+      "rows": [
+        ["Yo sabo la respuesta.", "Sé la respuesta.", "Saber is irregular in the yo form: sé."],
+        ["Conozo a Marta.", "Conozco a Marta.", "Verbs in -cer after a vowel take -zco in the yo form."],
+        ["Nosotros puedemos ir.", "Podemos ir.", "Nosotros and vosotros stay outside the boot and keep the original stem."],
+        ["Vosotros quieréis cenar.", "Vosotros queréis cenar.", "Same rule: queréis, not quieréis."],
+        ["Yo teno hambre.", "Tengo hambre.", "Tener has an irregular yo form: tengo."],
+        ["Yo conozco la respuesta.", "Sé la respuesta.", "Conocer is for people and places. Facts use saber."],
+        ["Yo dormo ocho horas.", "Duermo ocho horas.", "Dormir changes o to ue in the yo form."],
+        ["Vamos a el cine.", "Vamos al cine.", "a + el always becomes al."]
+      ]
+    },
+
+    { "type": "h1", "text": "7. Self-check" },
+    {
+      "type": "p",
+      "text": "Complete each sentence with the correct present-tense form. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "items": [
+        { "q": "Yo ______ a casa a las seis.", "hint": "volver (yo)", "a": "vuelvo", "full": "Yo vuelvo a casa a las seis." },
+        { "q": "¿Qué ______ hacer hoy?", "hint": "querer (tú)", "a": "quieres", "full": "¿Qué quieres hacer hoy?" },
+        { "q": "Ella ______ la verdad.", "hint": "decir", "a": "dice", "full": "Ella dice la verdad." },
+        { "q": "Nosotros ______ al cine.", "hint": "ir", "a": "vamos", "full": "Nosotros vamos al cine." },
+        { "q": "¿______ ayudarme?", "hint": "poder (usted)", "a": "Puede", "full": "¿Puede ayudarme?" },
+        { "q": "Yo no ______ la respuesta.", "hint": "saber (yo)", "a": "sé", "full": "Yo no sé la respuesta." },
+        { "q": "Ellos ______ de casa a las ocho.", "hint": "salir", "a": "salen", "full": "Ellos salen de casa a las ocho." },
+        { "q": "¿Cuántas horas ______ tú?", "hint": "dormir", "a": "duermes", "full": "¿Cuántas horas duermes tú?" },
+        { "q": "Vosotros ______ al fútbol.", "hint": "jugar", "a": "jugáis", "full": "Vosotros jugáis al fútbol." },
+        { "q": "Yo ______ la tele por la noche.", "hint": "ver (yo)", "a": "veo", "full": "Yo veo la tele por la noche." },
+        { "q": "Yo ______ a tu hermano.", "hint": "conocer (yo)", "a": "conozco", "full": "Yo conozco a tu hermano." },
+        { "q": "Él ______ un café.", "hint": "pedir", "a": "pide", "full": "Él pide un café." }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish:</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        { "q": "I am going to the market.", "a": "Voy al mercado." },
+        { "q": "They want to eat now.", "a": "Quieren comer ahora." },
+        { "q": "We can't come today.", "a": "No podemos venir hoy." },
+        { "q": "I do my homework at five.", "a": "Hago los deberes a las cinco." }
+      ]
+    },
+
+    { "type": "pagebreak" },
+    { "type": "answers" }
+  ]
+}

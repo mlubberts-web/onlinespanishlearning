@@ -1,0 +1,910 @@
+{
+  "meta": {
+    "level": "A2",
+    "section": "Verbs",
+    "number": 1,
+    "total_in_level": 10,
+    "title": "Preterite Tense: Regular Verbs",
+    "subtitle": "Finished actions in the past: endings, spelling changes and the -ir stem change in the third person",
+    "footer": "Spanish Learning Program · A2 · Verbs · Preterite (regular)",
+    "next": "Next: A2 · PDF 2 — Preterite: irregular verbs"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "say what you did, in all six persons, with any regular -ar, -er and -ir verb",
+        "recognise when to use the preterite and which time words go with it",
+        "handle the spelling changes (busqué, llegué, empecé) and the verbs with y (leyó, creyeron)",
+        "conjugate the -ir stem-changing verbs in the past (durmió, pidieron)"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "1. What the preterite does"
+    },
+    {
+      "type": "p",
+      "text": "The preterite (<i>pretérito indefinido</i>) describes an action that is <b>finished</b>: it happened at a specific moment, it happened a certain number of times, or it is one step in a story. Think of it as a camera snapshot of a completed event."
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<b>A single finished event:</b> <i>Ayer compré un libro.</i> (Yesterday I bought a book.)",
+        "<b>A period that is over:</b> <i>Viví en Granada tres años.</i> (I lived in Granada for three years.)",
+        "<b>A chain of events:</b> <i>Llegué, abrí la puerta y encendí la luz.</i>"
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "dutch",
+      "title": "One tense, two Dutch tenses",
+      "bullets": [
+        "Dutch uses both <i>ik werkte</i> and <i>ik heb gewerkt</i> for finished events. For a finished event with a past time word, Spanish uses the preterite: <b>Gisteren heb ik gewerkt = Ayer trabajé.</b>",
+        "The Spanish <i>he trabajado</i> is not the same as <i>ik heb gewerkt</i>. It is used for a different kind of past (PDF 5)."
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "spain",
+      "title": "Spain vs Latin America",
+      "text": "In Spain, <b>hoy</b>, <b>esta mañana</b>, <b>esta semana</b> and <b>este año</b> normally take the present perfect (PDF 5): <i>Hoy he comido tarde.</i> In Latin America the preterite is often used there instead: <i>Hoy comí tarde.</i> With <b>ayer</b>, <b>anoche</b> and other finished periods, both areas use the preterite."
+    },
+    {
+      "type": "h1",
+      "text": "2. Time words that signal the preterite"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.6,
+        4.2,
+        8.2
+      ],
+      "head": [
+        "Spanish",
+        "English",
+        "Example"
+      ],
+      "rows": [
+        [
+          "ayer",
+          "yesterday",
+          "Ayer trabajé en casa."
+        ],
+        [
+          "anteayer",
+          "the day before yesterday",
+          "Anteayer hablé con Marta."
+        ],
+        [
+          "anoche",
+          "last night",
+          "Anoche cené tarde."
+        ],
+        [
+          "la semana pasada",
+          "last week",
+          "La semana pasada viajamos a Bilbao."
+        ],
+        [
+          "el año pasado",
+          "last year",
+          "El año pasado empecé un curso."
+        ],
+        [
+          "hace dos días",
+          "two days ago",
+          "Hace dos días llamé al médico."
+        ],
+        [
+          "en 2019",
+          "in 2019",
+          "En 2019 terminó la carrera."
+        ],
+        [
+          "de repente",
+          "suddenly",
+          "De repente se apagó la luz."
+        ],
+        [
+          "una vez / dos veces",
+          "once / twice",
+          "Visité Toledo dos veces."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "dutch",
+      "title": "hace = geleden",
+      "text": "<b>hace</b> + time goes <b>in front</b>: <i>hace dos días</i> = twee dagen geleden. Dutch puts <i>geleden</i> at the end."
+    },
+    {
+      "type": "h1",
+      "text": "3. The endings"
+    },
+    {
+      "type": "p",
+      "text": "Take off -ar, -er or -ir and add the ending. In the preterite <b>-er and -ir verbs share exactly the same endings</b>. Compare this with the present tense, where they differ."
+    },
+    {
+      "type": "table",
+      "style": "endings",
+      "widths": [
+        5.0,
+        4.0,
+        4.0,
+        4.0
+      ],
+      "head": [
+        "Person",
+        "-ar  (hablar)",
+        "-er  (comer)",
+        "-ir  (vivir)"
+      ],
+      "rows": [
+        [
+          "yo",
+          "-é",
+          "-í",
+          "-í"
+        ],
+        [
+          "tú",
+          "-aste",
+          "-iste",
+          "-iste"
+        ],
+        [
+          "él / ella / usted",
+          "-ó",
+          "-ió",
+          "-ió"
+        ],
+        [
+          "nosotros / nosotras",
+          "-amos",
+          "-imos",
+          "-imos"
+        ],
+        [
+          "vosotros / vosotras",
+          "-asteis",
+          "-isteis",
+          "-isteis"
+        ],
+        [
+          "ellos / ellas / ustedes",
+          "-aron",
+          "-ieron",
+          "-ieron"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "warn",
+      "title": "The accent is part of the meaning",
+      "bullets": [
+        "<b>hablo</b> (I speak) but <b>habló</b> (he spoke). <b>hablé</b> (I spoke). Without the accent the sentence changes tense or person.",
+        "The tú form ends in <b>-ste</b>, never <i>-stes</i>: <b>hablaste</b>, <b>comiste</b>. Only vosotros has the final s: <b>hablasteis</b>.",
+        "<b>nosotros -ar and -ir</b> look the same in present and preterite (<i>hablamos</i>, <i>vivimos</i>); the time word decides: <i>Ahora hablamos. Ayer hablamos.</i> The -er verb differs: <i>comemos</i> / <i>comimos</i>."
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "4. Full conjugations"
+    },
+    {
+      "type": "conj",
+      "tense": "preterite",
+      "verb": "hablar",
+      "meaning": "to speak, to talk",
+      "group": "-ar",
+      "stem": "habl",
+      "endings": [
+        "é",
+        "aste",
+        "ó",
+        "amos",
+        "asteis",
+        "aron"
+      ],
+      "examples": [
+        [
+          "Ayer hablé con mi jefe.",
+          "Yesterday I spoke with my boss."
+        ],
+        [
+          "¿Hablaste con Ana anoche?",
+          "Did you speak with Ana last night?"
+        ],
+        [
+          "Ella habló durante una hora.",
+          "She spoke for an hour."
+        ],
+        [
+          "Hablamos por teléfono el lunes.",
+          "We spoke on the phone on Monday."
+        ],
+        [
+          "¿Hablasteis con el profesor?",
+          "Did you (all) speak with the teacher?"
+        ],
+        [
+          "Mis padres hablaron con el director.",
+          "My parents spoke with the headteacher."
+        ]
+      ]
+    },
+    {
+      "type": "conj",
+      "tense": "preterite",
+      "verb": "comer",
+      "meaning": "to eat",
+      "group": "-er",
+      "stem": "com",
+      "endings": [
+        "í",
+        "iste",
+        "ió",
+        "imos",
+        "isteis",
+        "ieron"
+      ],
+      "examples": [
+        [
+          "Ayer comí paella en un bar.",
+          "Yesterday I ate paella in a bar."
+        ],
+        [
+          "¿Qué comiste ayer?",
+          "What did you eat yesterday?"
+        ],
+        [
+          "Marta comió en casa de sus abuelos.",
+          "Marta ate at her grandparents' house."
+        ],
+        [
+          "Comimos tortilla de patatas.",
+          "We ate Spanish omelette."
+        ],
+        [
+          "¿Comisteis en el restaurante?",
+          "Did you (all) eat at the restaurant?"
+        ],
+        [
+          "Los niños comieron muy poco.",
+          "The children ate very little."
+        ]
+      ]
+    },
+    {
+      "type": "conj",
+      "tense": "preterite",
+      "verb": "vivir",
+      "meaning": "to live",
+      "group": "-ir",
+      "stem": "viv",
+      "endings": [
+        "í",
+        "iste",
+        "ió",
+        "imos",
+        "isteis",
+        "ieron"
+      ],
+      "examples": [
+        [
+          "Viví en Alemania dos años.",
+          "I lived in Germany for two years."
+        ],
+        [
+          "¿Dónde viviste de niño?",
+          "Where did you live as a child?"
+        ],
+        [
+          "Mi abuelo vivió en Valencia.",
+          "My grandfather lived in Valencia."
+        ],
+        [
+          "Vivimos en un piso pequeño.",
+          "We lived in a small flat."
+        ],
+        [
+          "¿Vivisteis en Madrid?",
+          "Did you (all) live in Madrid?"
+        ],
+        [
+          "Mis tíos vivieron en Cuba.",
+          "My aunt and uncle lived in Cuba."
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "5. Spelling changes in the yo form"
+    },
+    {
+      "type": "p",
+      "text": "Only the <b>yo</b> form of -car, -gar and -zar verbs changes, so that the sound stays the same (see the c/g rules in A1 PDF 1). All other persons are completely regular."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        3.2,
+        3.6,
+        10.2
+      ],
+      "head": [
+        "Ending",
+        "Yo form",
+        "Examples"
+      ],
+      "rows": [
+        [
+          "-car",
+          "-qué",
+          "buscar: busqué · tocar: toqué · sacar: saqué · explicar: expliqué · practicar: practiqué"
+        ],
+        [
+          "-gar",
+          "-gué",
+          "llegar: llegué · pagar: pagué · jugar: jugué · apagar: apagué"
+        ],
+        [
+          "-zar",
+          "-cé",
+          "empezar: empecé · comenzar: comencé · almorzar: almorcé · cruzar: crucé"
+        ]
+      ]
+    },
+    {
+      "type": "conjgrid",
+      "tense": "preterite",
+      "title": "Full forms (only the yo form is different)",
+      "verbs": [
+        {
+          "inf": "buscar",
+          "meaning": "to look for",
+          "forms": [
+            "bus*qué*",
+            "buscaste",
+            "buscó",
+            "buscamos",
+            "buscasteis",
+            "buscaron"
+          ]
+        },
+        {
+          "inf": "llegar",
+          "meaning": "to arrive",
+          "forms": [
+            "lle*gué*",
+            "llegaste",
+            "llegó",
+            "llegamos",
+            "llegasteis",
+            "llegaron"
+          ]
+        },
+        {
+          "inf": "empezar",
+          "meaning": "to begin",
+          "forms": [
+            "empe*cé*",
+            "empezaste",
+            "empezó",
+            "empezamos",
+            "empezasteis",
+            "empezaron"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "6. Verbs with a vowel before the ending"
+    },
+    {
+      "type": "p",
+      "text": "When an unstressed <b>i</b> would sit between two vowels, it turns into <b>y</b> in the él and ellos forms: <i>leyó, leyeron</i>. In the other forms the <b>í</b> keeps its accent."
+    },
+    {
+      "type": "conjgrid",
+      "tense": "preterite",
+      "verbs": [
+        {
+          "inf": "leer",
+          "meaning": "to read",
+          "forms": [
+            "leí",
+            "leíste",
+            "le*y*ó",
+            "leímos",
+            "leísteis",
+            "le*y*eron"
+          ]
+        },
+        {
+          "inf": "creer",
+          "meaning": "to believe",
+          "forms": [
+            "creí",
+            "creíste",
+            "cre*y*ó",
+            "creímos",
+            "creísteis",
+            "cre*y*eron"
+          ]
+        },
+        {
+          "inf": "oír",
+          "meaning": "to hear",
+          "forms": [
+            "oí",
+            "oíste",
+            "o*y*ó",
+            "oímos",
+            "oísteis",
+            "o*y*eron"
+          ]
+        },
+        {
+          "inf": "caer",
+          "meaning": "to fall",
+          "forms": [
+            "caí",
+            "caíste",
+            "ca*y*ó",
+            "caímos",
+            "caísteis",
+            "ca*y*eron"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "7. -ir verbs that change in the third person"
+    },
+    {
+      "type": "p",
+      "text": "Stem-changing <b>-ir</b> verbs (the ones with e/ie, e/i or o/ue in the present) also change in the preterite, but <b>only in the él/ella/usted and ellos/ellas/ustedes forms</b>: o becomes u and e becomes i."
+    },
+    {
+      "type": "conjgrid",
+      "tense": "preterite",
+      "verbs": [
+        {
+          "inf": "dormir",
+          "meaning": "to sleep",
+          "forms": [
+            "dormí",
+            "dormiste",
+            "d*u*rmió",
+            "dormimos",
+            "dormisteis",
+            "d*u*rmieron"
+          ]
+        },
+        {
+          "inf": "pedir",
+          "meaning": "to ask for, order",
+          "forms": [
+            "pedí",
+            "pediste",
+            "p*i*dió",
+            "pedimos",
+            "pedisteis",
+            "p*i*dieron"
+          ]
+        },
+        {
+          "inf": "preferir",
+          "meaning": "to prefer",
+          "forms": [
+            "preferí",
+            "preferiste",
+            "pref*i*rió",
+            "preferimos",
+            "preferisteis",
+            "pref*i*rieron"
+          ]
+        },
+        {
+          "inf": "seguir",
+          "meaning": "to follow",
+          "forms": [
+            "seguí",
+            "seguiste",
+            "s*i*guió",
+            "seguimos",
+            "seguisteis",
+            "s*i*guieron"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Same pattern:</b> <i>sentir</i> (sintió, sintieron), <i>repetir</i> (repitió, repitieron), <i>servir</i> (sirvió, sirvieron), <i>morir</i> (murió, murieron), <i>mentir</i> (mintió, mintieron), <i>vestirse</i> (se vistió, se vistieron), <i>divertirse</i> (se divirtió, se divirtieron), <i>competir</i> (compitió, compitieron)."
+    },
+    {
+      "type": "callout",
+      "kind": "warn",
+      "title": "-ar and -er verbs do not stem-change in the preterite",
+      "text": "Verbs like <i>pensar</i>, <i>volver</i>, <i>empezar</i> and <i>encontrar</i> are completely regular in the preterite: <b>pensé, pensaste, pensó</b>; <b>volví, volviste, volvió</b>. The stem change belongs to the present tense only (A1 PDF 3)."
+    },
+    {
+      "type": "h1",
+      "text": "8. Regular verbs to practise"
+    },
+    {
+      "type": "verbpairs",
+      "title": "-ar verbs",
+      "items": [
+        [
+          "trabajar",
+          "to work"
+        ],
+        [
+          "estudiar",
+          "to study"
+        ],
+        [
+          "comprar",
+          "to buy"
+        ],
+        [
+          "viajar",
+          "to travel"
+        ],
+        [
+          "cenar",
+          "to have dinner"
+        ],
+        [
+          "cocinar",
+          "to cook"
+        ],
+        [
+          "limpiar",
+          "to clean"
+        ],
+        [
+          "llamar",
+          "to call"
+        ],
+        [
+          "mirar",
+          "to look at"
+        ],
+        [
+          "escuchar",
+          "to listen"
+        ],
+        [
+          "bailar",
+          "to dance"
+        ],
+        [
+          "cantar",
+          "to sing"
+        ],
+        [
+          "caminar",
+          "to walk"
+        ],
+        [
+          "esperar",
+          "to wait, hope"
+        ],
+        [
+          "necesitar",
+          "to need"
+        ],
+        [
+          "visitar",
+          "to visit"
+        ],
+        [
+          "terminar",
+          "to finish"
+        ],
+        [
+          "ayudar",
+          "to help"
+        ],
+        [
+          "ganar",
+          "to win, earn"
+        ],
+        [
+          "pasear",
+          "to go for a walk"
+        ]
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "-er verbs",
+      "items": [
+        [
+          "comer",
+          "to eat"
+        ],
+        [
+          "beber",
+          "to drink"
+        ],
+        [
+          "aprender",
+          "to learn"
+        ],
+        [
+          "correr",
+          "to run"
+        ],
+        [
+          "comprender",
+          "to understand"
+        ],
+        [
+          "vender",
+          "to sell"
+        ],
+        [
+          "romper",
+          "to break"
+        ],
+        [
+          "responder",
+          "to answer"
+        ],
+        [
+          "meter",
+          "to put in"
+        ],
+        [
+          "temer",
+          "to fear"
+        ]
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "-ir verbs",
+      "items": [
+        [
+          "vivir",
+          "to live"
+        ],
+        [
+          "escribir",
+          "to write"
+        ],
+        [
+          "abrir",
+          "to open"
+        ],
+        [
+          "subir",
+          "to go up"
+        ],
+        [
+          "recibir",
+          "to receive"
+        ],
+        [
+          "decidir",
+          "to decide"
+        ],
+        [
+          "descubrir",
+          "to discover"
+        ],
+        [
+          "compartir",
+          "to share"
+        ],
+        [
+          "asistir",
+          "to attend"
+        ],
+        [
+          "permitir",
+          "to allow"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "Not in this PDF",
+      "text": "Some of the most common verbs (<b>ser, ir, hacer, tener, estar, ver, dar</b> and more) have their own irregular preterite forms. They are in the next PDF."
+    },
+    {
+      "type": "h1",
+      "text": "9. Common mistakes"
+    },
+    {
+      "type": "mistakes",
+      "rows": [
+        [
+          "Ayer hablo con Ana.",
+          "Ayer hablé con Ana.",
+          "A finished action in the past needs the preterite, not the present."
+        ],
+        [
+          "Ayer he trabajado mucho.",
+          "Ayer trabajé mucho.",
+          "With ayer, anoche and other finished periods use the preterite. The present perfect is for today (PDF 5)."
+        ],
+        [
+          "Él hablo con su jefe.",
+          "Él habló con su jefe.",
+          "The accent separates hablo (I speak) from habló (he spoke)."
+        ],
+        [
+          "Tú comistes pizza.",
+          "Tú comiste pizza.",
+          "The tú form never ends in -stes. Only vosotros ends in -steis."
+        ],
+        [
+          "Yo buscé las llaves.",
+          "Yo busqué las llaves.",
+          "-car verbs change c to qu in the yo form to keep the k sound."
+        ],
+        [
+          "Llegé tarde.",
+          "Llegué tarde.",
+          "-gar verbs change g to gu in the yo form to keep the hard g sound."
+        ],
+        [
+          "Él leió el libro.",
+          "Él leyó el libro.",
+          "Between two vowels the i becomes y: leyó, leyeron."
+        ],
+        [
+          "Ellos dormieron mal.",
+          "Ellos durmieron mal.",
+          "Stem-changing -ir verbs change o to u in the third person."
+        ],
+        [
+          "Yo vuelví a casa.",
+          "Yo volví a casa.",
+          "-er verbs do not stem-change in the preterite."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "10. Self-check"
+    },
+    {
+      "type": "p",
+      "text": "Fill in the preterite of the verb in brackets. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Verb"
+      ],
+      "items": [
+        {
+          "q": "Ayer yo ______ en casa.",
+          "hint": "trabajar (yo)",
+          "a": "trabajé",
+          "full": "Ayer yo trabajé en casa."
+        },
+        {
+          "q": "Ana ______ paella el sábado.",
+          "hint": "comer (ella)",
+          "a": "comió",
+          "full": "Ana comió paella el sábado."
+        },
+        {
+          "q": "Nosotros ______ en Sevilla en 2019.",
+          "hint": "vivir (nosotros)",
+          "a": "vivimos",
+          "full": "Nosotros vivimos en Sevilla en 2019."
+        },
+        {
+          "q": "¿Vosotros ______ la radio anoche?",
+          "hint": "escuchar (vosotros)",
+          "a": "escuchasteis",
+          "full": "¿Vosotros escuchasteis la radio anoche?"
+        },
+        {
+          "q": "Ellos ______ agua después del partido.",
+          "hint": "beber (ellos)",
+          "a": "bebieron",
+          "full": "Ellos bebieron agua después del partido."
+        },
+        {
+          "q": "Yo ______ las llaves por toda la casa.",
+          "hint": "buscar (yo)",
+          "a": "busqué",
+          "full": "Yo busqué las llaves por toda la casa."
+        },
+        {
+          "q": "Tú ______ tarde a la reunión.",
+          "hint": "llegar (tú)",
+          "a": "llegaste",
+          "full": "Tú llegaste tarde a la reunión."
+        },
+        {
+          "q": "Yo ______ el curso en septiembre.",
+          "hint": "empezar (yo)",
+          "a": "empecé",
+          "full": "Yo empecé el curso en septiembre."
+        },
+        {
+          "q": "Él ______ un libro entero en un día.",
+          "hint": "leer (él)",
+          "a": "leyó",
+          "full": "Él leyó un libro entero en un día."
+        },
+        {
+          "q": "Mis hermanas ______ hasta las diez.",
+          "hint": "dormir (ellas)",
+          "a": "durmieron",
+          "full": "Mis hermanas durmieron hasta las diez."
+        },
+        {
+          "q": "Yo ______ una cerveza.",
+          "hint": "pedir (yo)",
+          "a": "pedí",
+          "full": "Yo pedí una cerveza."
+        },
+        {
+          "q": "Mis padres ______ quedarse en casa.",
+          "hint": "preferir (ellos)",
+          "a": "prefirieron",
+          "full": "Mis padres prefirieron quedarse en casa."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish:</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "I called my mother yesterday.",
+          "a": "Ayer llamé a mi madre."
+        },
+        {
+          "q": "We had dinner at nine.",
+          "a": "Cenamos a las nueve."
+        },
+        {
+          "q": "They lived in Madrid for two years.",
+          "a": "Vivieron en Madrid dos años."
+        },
+        {
+          "q": "Did you (all) read the email?",
+          "a": "¿Leísteis el correo electrónico?"
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

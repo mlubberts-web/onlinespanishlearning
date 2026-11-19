@@ -1,0 +1,1199 @@
+{
+  "meta": {
+    "level": "B2",
+    "section": "Vocabulary",
+    "number": 10,
+    "total_in_level": 10,
+    "title": "Vocabulary and Set Phrases",
+    "subtitle": "Health, technology, economy, law and politics, arts and science, communication verbs, idioms and confusing words",
+    "footer": "Spanish Learning Program · B2 · Vocabulary and set phrases",
+    "next": "Next: C1 · PDF 1"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "How to use these lists",
+      "bullets": [
+        "Nouns have their <b>article</b> (el / la). Learn them together: el ordenador, la inversión.",
+        "Cover one column and test yourself in both directions. Then use the words in sentences with the B2 grammar: sequence of tenses, periphrases and connectors.",
+        "All words are Spain Spanish. Brackets after a verb show a stem change: <i>competir (i)</i> gives <i>compito</i>."
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "1. Health and medicine"
+    },
+    {
+      "type": "verbpairs",
+      "title": "Health",
+      "items": [
+        [
+          "el médico / la médica",
+          "doctor"
+        ],
+        [
+          "el paciente",
+          "patient"
+        ],
+        [
+          "el enfermero / la enfermera",
+          "nurse"
+        ],
+        [
+          "el hospital",
+          "hospital"
+        ],
+        [
+          "la consulta",
+          "doctor's office, appointment"
+        ],
+        [
+          "la receta",
+          "prescription"
+        ],
+        [
+          "la medicina",
+          "medicine (drug, science)"
+        ],
+        [
+          "la pastilla",
+          "pill"
+        ],
+        [
+          "la vacuna",
+          "vaccine"
+        ],
+        [
+          "el síntoma",
+          "symptom"
+        ],
+        [
+          "la fiebre",
+          "fever"
+        ],
+        [
+          "la tos",
+          "cough"
+        ],
+        [
+          "el dolor",
+          "pain"
+        ],
+        [
+          "la herida",
+          "wound"
+        ],
+        [
+          "la alergia",
+          "allergy"
+        ],
+        [
+          "el resfriado",
+          "cold"
+        ],
+        [
+          "la gripe",
+          "flu"
+        ],
+        [
+          "la lesión",
+          "injury"
+        ],
+        [
+          "la cirugía",
+          "surgery"
+        ],
+        [
+          "la urgencia",
+          "emergency"
+        ],
+        [
+          "la seguridad social",
+          "national health insurance"
+        ],
+        [
+          "el análisis de sangre",
+          "blood test"
+        ],
+        [
+          "la dieta",
+          "diet"
+        ],
+        [
+          "el estrés",
+          "stress"
+        ]
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "Health verbs",
+      "items": [
+        [
+          "curar",
+          "to cure"
+        ],
+        [
+          "recuperarse",
+          "to recover"
+        ],
+        [
+          "operar",
+          "to operate"
+        ],
+        [
+          "recetar",
+          "to prescribe"
+        ],
+        [
+          "vacunar",
+          "to vaccinate"
+        ],
+        [
+          "sufrir de",
+          "to suffer from"
+        ],
+        [
+          "estar sano",
+          "to be healthy"
+        ],
+        [
+          "encontrarse mal",
+          "to feel unwell"
+        ],
+        [
+          "marearse",
+          "to feel dizzy"
+        ],
+        [
+          "desmayarse",
+          "to faint"
+        ],
+        [
+          "torcerse (ue)",
+          "to sprain"
+        ],
+        [
+          "tener buena pinta",
+          "to look good"
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "2. Technology and the internet"
+    },
+    {
+      "type": "verbpairs",
+      "title": "Technology",
+      "items": [
+        [
+          "el ordenador",
+          "computer"
+        ],
+        [
+          "el portátil",
+          "laptop"
+        ],
+        [
+          "el móvil",
+          "mobile phone"
+        ],
+        [
+          "la pantalla",
+          "screen"
+        ],
+        [
+          "el teclado",
+          "keyboard"
+        ],
+        [
+          "el ratón",
+          "mouse"
+        ],
+        [
+          "el cargador",
+          "charger"
+        ],
+        [
+          "la batería",
+          "battery"
+        ],
+        [
+          "la aplicación",
+          "app"
+        ],
+        [
+          "el programa",
+          "program"
+        ],
+        [
+          "el archivo",
+          "file"
+        ],
+        [
+          "la contraseña",
+          "password"
+        ],
+        [
+          "la red",
+          "network"
+        ],
+        [
+          "el wifi",
+          "wifi"
+        ],
+        [
+          "el correo electrónico",
+          "email"
+        ],
+        [
+          "el mensaje",
+          "message"
+        ],
+        [
+          "la nube",
+          "cloud"
+        ],
+        [
+          "el sitio web",
+          "website"
+        ],
+        [
+          "el enlace",
+          "link"
+        ],
+        [
+          "el buscador",
+          "search engine"
+        ],
+        [
+          "la inteligencia artificial",
+          "artificial intelligence"
+        ],
+        [
+          "los datos",
+          "data"
+        ],
+        [
+          "la privacidad",
+          "privacy"
+        ],
+        [
+          "el ciberataque",
+          "cyber attack"
+        ]
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "Technology verbs",
+      "items": [
+        [
+          "descargar",
+          "to download"
+        ],
+        [
+          "subir",
+          "to upload"
+        ],
+        [
+          "instalar",
+          "to install"
+        ],
+        [
+          "actualizar",
+          "to update"
+        ],
+        [
+          "guardar",
+          "to save"
+        ],
+        [
+          "borrar",
+          "to delete"
+        ],
+        [
+          "iniciar sesión",
+          "to log in"
+        ],
+        [
+          "cerrar sesión",
+          "to log out"
+        ],
+        [
+          "conectarse",
+          "to connect"
+        ],
+        [
+          "navegar",
+          "to browse"
+        ],
+        [
+          "compartir",
+          "to share"
+        ],
+        [
+          "reiniciar",
+          "to restart"
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "3. Economy and finance"
+    },
+    {
+      "type": "verbpairs",
+      "title": "Economy",
+      "items": [
+        [
+          "la economía",
+          "economy"
+        ],
+        [
+          "la empresa",
+          "company"
+        ],
+        [
+          "el mercado",
+          "market"
+        ],
+        [
+          "la inversión",
+          "investment"
+        ],
+        [
+          "el inversor",
+          "investor"
+        ],
+        [
+          "la bolsa",
+          "stock market"
+        ],
+        [
+          "la acción",
+          "share"
+        ],
+        [
+          "el beneficio",
+          "profit"
+        ],
+        [
+          "la pérdida",
+          "loss"
+        ],
+        [
+          "la deuda",
+          "debt"
+        ],
+        [
+          "el préstamo",
+          "loan"
+        ],
+        [
+          "la hipoteca",
+          "mortgage"
+        ],
+        [
+          "el interés",
+          "interest"
+        ],
+        [
+          "la inflación",
+          "inflation"
+        ],
+        [
+          "el presupuesto",
+          "budget"
+        ],
+        [
+          "el ahorro",
+          "savings"
+        ],
+        [
+          "la crisis",
+          "crisis"
+        ],
+        [
+          "el crecimiento",
+          "growth"
+        ],
+        [
+          "la factura",
+          "invoice, bill"
+        ],
+        [
+          "el gasto",
+          "expense"
+        ],
+        [
+          "el ingreso",
+          "income"
+        ],
+        [
+          "la cuenta bancaria",
+          "bank account"
+        ],
+        [
+          "el impuesto",
+          "tax"
+        ],
+        [
+          "la subida / la bajada",
+          "rise / fall"
+        ]
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "Economy verbs",
+      "items": [
+        [
+          "invertir (ie)",
+          "to invest"
+        ],
+        [
+          "ahorrar",
+          "to save"
+        ],
+        [
+          "endeudarse",
+          "to get into debt"
+        ],
+        [
+          "prestar",
+          "to lend"
+        ],
+        [
+          "pedir prestado",
+          "to borrow"
+        ],
+        [
+          "aumentar",
+          "to increase"
+        ],
+        [
+          "disminuir",
+          "to decrease"
+        ],
+        [
+          "crecer",
+          "to grow"
+        ],
+        [
+          "quebrar (ie)",
+          "to go bankrupt"
+        ],
+        [
+          "fundar",
+          "to found"
+        ],
+        [
+          "competir (i)",
+          "to compete"
+        ],
+        [
+          "exportar / importar",
+          "to export / import"
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "4. Law, crime and politics"
+    },
+    {
+      "type": "verbpairs",
+      "title": "Law and politics",
+      "items": [
+        [
+          "la ley",
+          "law"
+        ],
+        [
+          "el juez / la jueza",
+          "judge"
+        ],
+        [
+          "el abogado / la abogada",
+          "lawyer"
+        ],
+        [
+          "el juicio",
+          "trial"
+        ],
+        [
+          "el tribunal",
+          "court"
+        ],
+        [
+          "la sentencia",
+          "verdict, sentence"
+        ],
+        [
+          "la multa",
+          "fine"
+        ],
+        [
+          "el delito",
+          "crime, offence"
+        ],
+        [
+          "el ladrón",
+          "thief"
+        ],
+        [
+          "el robo",
+          "theft"
+        ],
+        [
+          "la policía",
+          "police"
+        ],
+        [
+          "la cárcel",
+          "prison"
+        ],
+        [
+          "el testigo",
+          "witness"
+        ],
+        [
+          "la prueba",
+          "evidence, test"
+        ],
+        [
+          "el derecho",
+          "right, law"
+        ],
+        [
+          "la constitución",
+          "constitution"
+        ],
+        [
+          "el parlamento",
+          "parliament"
+        ],
+        [
+          "el ministro",
+          "minister"
+        ],
+        [
+          "la campaña",
+          "campaign"
+        ],
+        [
+          "la manifestación",
+          "demonstration"
+        ]
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "Law and politics verbs",
+      "items": [
+        [
+          "votar",
+          "to vote"
+        ],
+        [
+          "gobernar (ie)",
+          "to govern"
+        ],
+        [
+          "aprobar (ue)",
+          "to pass (a law)"
+        ],
+        [
+          "prohibir",
+          "to forbid"
+        ],
+        [
+          "denunciar",
+          "to report (a crime)"
+        ],
+        [
+          "acusar",
+          "to accuse"
+        ],
+        [
+          "condenar",
+          "to sentence"
+        ],
+        [
+          "robar",
+          "to steal"
+        ],
+        [
+          "detener",
+          "to arrest"
+        ],
+        [
+          "declarar",
+          "to testify, declare"
+        ],
+        [
+          "firmar",
+          "to sign"
+        ],
+        [
+          "reclamar",
+          "to claim"
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "5. Arts, culture and science"
+    },
+    {
+      "type": "verbpairs",
+      "title": "Arts and culture",
+      "items": [
+        [
+          "el arte",
+          "art"
+        ],
+        [
+          "la exposición",
+          "exhibition"
+        ],
+        [
+          "el museo",
+          "museum"
+        ],
+        [
+          "la obra",
+          "work, play"
+        ],
+        [
+          "el escritor",
+          "writer"
+        ],
+        [
+          "la novela",
+          "novel"
+        ],
+        [
+          "el cuento",
+          "short story"
+        ],
+        [
+          "el poema",
+          "poem"
+        ],
+        [
+          "el pintor",
+          "painter"
+        ],
+        [
+          "el cuadro",
+          "painting"
+        ],
+        [
+          "la escultura",
+          "sculpture"
+        ],
+        [
+          "el estreno",
+          "premiere"
+        ],
+        [
+          "el guion",
+          "script"
+        ],
+        [
+          "el director",
+          "director"
+        ],
+        [
+          "el espectáculo",
+          "show"
+        ],
+        [
+          "el festival",
+          "festival"
+        ]
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "Science",
+      "items": [
+        [
+          "la ciencia",
+          "science"
+        ],
+        [
+          "el científico",
+          "scientist"
+        ],
+        [
+          "la investigación",
+          "research"
+        ],
+        [
+          "el experimento",
+          "experiment"
+        ],
+        [
+          "la teoría",
+          "theory"
+        ],
+        [
+          "el descubrimiento",
+          "discovery"
+        ],
+        [
+          "el avance",
+          "advance"
+        ],
+        [
+          "la prueba",
+          "test, evidence"
+        ],
+        [
+          "la hipótesis",
+          "hypothesis"
+        ],
+        [
+          "la fórmula",
+          "formula"
+        ],
+        [
+          "el laboratorio",
+          "laboratory"
+        ],
+        [
+          "la energía",
+          "energy"
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "6. Verbs of communication and thinking"
+    },
+    {
+      "type": "verbpairs",
+      "title": "Communication",
+      "items": [
+        [
+          "afirmar",
+          "to state, claim"
+        ],
+        [
+          "negar (ie)",
+          "to deny"
+        ],
+        [
+          "advertir (ie)",
+          "to warn"
+        ],
+        [
+          "aconsejar",
+          "to advise"
+        ],
+        [
+          "sugerir (ie)",
+          "to suggest"
+        ],
+        [
+          "prometer",
+          "to promise"
+        ],
+        [
+          "anunciar",
+          "to announce"
+        ],
+        [
+          "comentar",
+          "to comment"
+        ],
+        [
+          "añadir",
+          "to add"
+        ],
+        [
+          "recalcar",
+          "to emphasise"
+        ],
+        [
+          "admitir",
+          "to admit"
+        ],
+        [
+          "insistir",
+          "to insist"
+        ],
+        [
+          "rechazar",
+          "to reject"
+        ],
+        [
+          "quejarse",
+          "to complain"
+        ],
+        [
+          "discutir",
+          "to argue, discuss"
+        ],
+        [
+          "convencer",
+          "to convince"
+        ]
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "Thinking",
+      "items": [
+        [
+          "considerar",
+          "to consider"
+        ],
+        [
+          "suponer",
+          "to suppose"
+        ],
+        [
+          "deducir",
+          "to deduce"
+        ],
+        [
+          "imaginar",
+          "to imagine"
+        ],
+        [
+          "recordar (ue)",
+          "to remember"
+        ],
+        [
+          "olvidar",
+          "to forget"
+        ],
+        [
+          "reflexionar",
+          "to reflect"
+        ],
+        [
+          "analizar",
+          "to analyse"
+        ],
+        [
+          "comparar",
+          "to compare"
+        ],
+        [
+          "decidir",
+          "to decide"
+        ],
+        [
+          "dudar",
+          "to doubt"
+        ],
+        [
+          "sospechar",
+          "to suspect"
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "7. Idioms and expressions"
+    },
+    {
+      "type": "h2",
+      "text": "Idioms"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        8.5,
+        8.5
+      ],
+      "head": [
+        "Spanish",
+        "English"
+      ],
+      "rows": [
+        [
+          "tirar la toalla",
+          "to throw in the towel"
+        ],
+        [
+          "dar en el clavo",
+          "to hit the nail on the head"
+        ],
+        [
+          "ponerse las pilas",
+          "to get one's act together"
+        ],
+        [
+          "estar al tanto",
+          "to be up to date"
+        ],
+        [
+          "no pegar ojo",
+          "not to sleep a wink"
+        ],
+        [
+          "ser uña y carne",
+          "to be inseparable"
+        ],
+        [
+          "hacer la vista gorda",
+          "to turn a blind eye"
+        ],
+        [
+          "ir al grano",
+          "to get to the point"
+        ],
+        [
+          "no tener pelos en la lengua",
+          "to speak one's mind"
+        ],
+        [
+          "hablar por los codos",
+          "to talk non-stop"
+        ],
+        [
+          "tirar la casa por la ventana",
+          "to spare no expense"
+        ],
+        [
+          "echar una mano",
+          "to lend a hand"
+        ],
+        [
+          "dar la cara",
+          "to face the consequences"
+        ],
+        [
+          "poner los pelos de punta",
+          "to make one's hair stand on end"
+        ],
+        [
+          "estar en las últimas",
+          "to be on one's last legs"
+        ],
+        [
+          "a ciegas",
+          "blindly"
+        ],
+        [
+          "a pesar de todo",
+          "in spite of everything"
+        ],
+        [
+          "sin ir más lejos",
+          "to give a simple example"
+        ],
+        [
+          "con los pelos de punta",
+          "scared stiff"
+        ],
+        [
+          "cueste lo que cueste",
+          "whatever it costs"
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "8. Confusing words"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.4,
+        6.0,
+        6.6
+      ],
+      "head": [
+        "Word",
+        "Means",
+        "Do not confuse with"
+      ],
+      "rows": [
+        [
+          "ahora / en seguida",
+          "now / at once",
+          "ahora mismo = right now"
+        ],
+        [
+          "pedir / preguntar",
+          "to ask for / to ask a question",
+          "Le pedí dinero. Le pregunté la hora."
+        ],
+        [
+          "saber / conocer",
+          "to know (fact) / to know (person, place)",
+          "Sé la respuesta. Conozco Madrid."
+        ],
+        [
+          "llevar / traer",
+          "to take / to bring",
+          "Llévalo allí. Tráelo aquí."
+        ],
+        [
+          "ir / venir",
+          "to go / to come",
+          "Voy allí. Vengo aquí."
+        ],
+        [
+          "quedar / quedarse",
+          "to meet / to stay",
+          "Quedamos a las ocho. Me quedo en casa."
+        ],
+        [
+          "hacer / dejar",
+          "to make / to let",
+          "Me hizo reír. Me dejó entrar."
+        ],
+        [
+          "tiempo / vez / rato",
+          "time (duration) / occasion / while",
+          "Tengo tiempo. Una vez. Un rato."
+        ],
+        [
+          "sentir / sentirse",
+          "to feel (sth) / to feel (state)",
+          "Siento frío. Me siento bien."
+        ],
+        [
+          "pensar / creer",
+          "to think / to believe",
+          "Pienso en ti. Creo que sí."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "9. Self-check"
+    },
+    {
+      "type": "p",
+      "text": "Fill in the missing word. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Hint"
+      ],
+      "items": [
+        {
+          "q": "El médico me dio una ______ para la farmacia.",
+          "hint": "prescription",
+          "a": "receta",
+          "full": "El médico me dio una receta para la farmacia."
+        },
+        {
+          "q": "Tengo que ______ la aplicación antes de usarla.",
+          "hint": "to install",
+          "a": "instalar",
+          "full": "Tengo que instalar la aplicación antes de usarla."
+        },
+        {
+          "q": "Han subido los ______ de la hipoteca.",
+          "hint": "interest",
+          "a": "intereses",
+          "full": "Han subido los intereses de la hipoteca."
+        },
+        {
+          "q": "El ______ condenó al ladrón a dos años.",
+          "hint": "judge",
+          "a": "juez",
+          "full": "El juez condenó al ladrón a dos años."
+        },
+        {
+          "q": "Anoche no pegué ______.",
+          "hint": "wink (idiom)",
+          "a": "ojo",
+          "full": "Anoche no pegué ojo."
+        },
+        {
+          "q": "Ana y Luis son ______ y carne.",
+          "hint": "inseparable",
+          "a": "uña",
+          "full": "Ana y Luis son uña y carne."
+        },
+        {
+          "q": "Voy a ir ______ grano: no hay dinero.",
+          "hint": "to the point",
+          "a": "al",
+          "full": "Voy a ir al grano: no hay dinero."
+        },
+        {
+          "q": "Él ______ haberlo visto.",
+          "hint": "to deny (preterite)",
+          "a": "negó",
+          "full": "Él negó haberlo visto."
+        },
+        {
+          "q": "Quedamos ______ las ocho.",
+          "hint": "preposition",
+          "a": "a",
+          "full": "Quedamos a las ocho."
+        },
+        {
+          "q": "______ Madrid muy bien.",
+          "hint": "conocer, yo",
+          "a": "Conozco",
+          "full": "Conozco Madrid muy bien."
+        },
+        {
+          "q": "Mi empresa ______ en 2010.",
+          "hint": "to found, passive-se, preterite",
+          "a": "se fundó",
+          "full": "Mi empresa se fundó en 2010."
+        },
+        {
+          "q": "Hay que ______ el archivo antes de cerrar.",
+          "hint": "to save",
+          "a": "guardar",
+          "full": "Hay que guardar el archivo antes de cerrar."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish:</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "I have been ill for three days.",
+          "a": "Llevo tres días enfermo."
+        },
+        {
+          "q": "Whatever it costs, I will do it.",
+          "a": "Cueste lo que cueste, lo haré."
+        },
+        {
+          "q": "He admitted that he had made a mistake.",
+          "a": "Admitió que se había equivocado."
+        },
+        {
+          "q": "Let's get to the point.",
+          "a": "Vayamos al grano."
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

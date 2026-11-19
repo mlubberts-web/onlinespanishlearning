@@ -1,0 +1,806 @@
+{
+  "meta": {
+    "level": "A2",
+    "section": "Verbs",
+    "number": 6,
+    "total_in_level": 10,
+    "title": "Future and Ongoing Actions",
+    "subtitle": "Ir a + infinitive, estar + gerund, acabar de, volver a and other verb phrases",
+    "footer": "Spanish Learning Program · A2 · Verbs · Future and ongoing actions",
+    "next": "Next: A2 · PDF 7 — The imperative (basic)"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "talk about plans and the near future with ir a + infinitive",
+        "say what is happening right now with estar + gerund",
+        "say that something has just happened (acabar de) or happens again (volver a)",
+        "use llevar, seguir, empezar a and dejar de to describe how long and how things develop"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "1. Plans and the near future: ir a + infinitive"
+    },
+    {
+      "type": "p",
+      "text": "Conjugate <b>ir</b> in the present tense, add <b>a</b>, then the <b>infinitive</b>: <i>voy a estudiar</i> (I am going to study). Use it for plans, intentions and predictions you can see coming."
+    },
+    {
+      "type": "conj",
+      "tense": "present",
+      "verb": "ir",
+      "meaning": "to go (+ a + infinitive)",
+      "label": "ir a + infinitive",
+      "forms": [
+        "*voy*",
+        "*vas*",
+        "*va*",
+        "*vamos*",
+        "*vais*",
+        "*van*"
+      ],
+      "examples": [
+        [
+          "Voy a estudiar esta noche.",
+          "I am going to study tonight."
+        ],
+        [
+          "¿Vas a venir a la fiesta?",
+          "Are you going to come to the party?"
+        ],
+        [
+          "Ella va a viajar a Perú.",
+          "She is going to travel to Peru."
+        ],
+        [
+          "Vamos a cenar fuera.",
+          "We are going to eat out."
+        ],
+        [
+          "¿Vais a comprar un coche?",
+          "Are you (all) going to buy a car?"
+        ],
+        [
+          "Mis padres van a vender la casa.",
+          "My parents are going to sell the house."
+        ]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<b>Negative:</b> <i>No voy a ir.</i> (I am not going to go.)",
+        "<b>Predictions:</b> <i>Va a llover.</i> (It is going to rain.) <i>Va a ser difícil.</i>",
+        "<b>Suggestion:</b> <i>¡Vamos a comer!</i> means \"let's eat\" as well as \"we are going to eat\".",
+        "<b>The present tense also works</b> for fixed plans: <i>Mañana trabajo.</i> <i>El sábado voy a Madrid.</i>"
+      ]
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.4,
+        5.8,
+        5.8
+      ],
+      "head": [
+        "Future time words",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "mañana, pasado mañana",
+          "Mañana voy a descansar.",
+          "Tomorrow I am going to rest."
+        ],
+        [
+          "esta noche, luego, más tarde",
+          "Luego vamos a llamarte.",
+          "Later we are going to call you."
+        ],
+        [
+          "la semana que viene",
+          "La semana que viene van a venir.",
+          "Next week they are going to come."
+        ],
+        [
+          "el próximo año / mes / verano",
+          "El próximo año voy a estudiar francés.",
+          "Next year I am going to study French."
+        ],
+        [
+          "dentro de dos días",
+          "Voy a llegar dentro de dos días.",
+          "I will arrive in two days."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "dutch",
+      "title": "Almost the same as Dutch",
+      "bullets": [
+        "<i>Ik ga studeren</i> = <b>voy a estudiar</b>. Do not forget the <b>a</b>.",
+        "<i>over twee dagen</i> (future) = <b>dentro de dos días</b>. <i>en dos días</i> means \"within the course of two days\" and is a different idea."
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "2. Actions in progress: estar + gerund"
+    },
+    {
+      "type": "p",
+      "text": "Use <b>estar</b> in the present + the <b>gerund</b> (<i>gerundio</i>) for something happening <b>right now</b> or in this period: <i>Estoy cocinando.</i> (I am cooking.)"
+    },
+    {
+      "type": "p",
+      "text": "Regular gerunds: <b>-ar</b> verbs take <b>-ando</b>, <b>-er</b> and <b>-ir</b> verbs take <b>-iendo</b>. The gerund never changes for gender or number."
+    },
+    {
+      "type": "verbpairs",
+      "title": "Regular gerunds",
+      "check": "gerund",
+      "items": [
+        [
+          "hablar",
+          "hablando"
+        ],
+        [
+          "trabajar",
+          "trabajando"
+        ],
+        [
+          "estudiar",
+          "estudiando"
+        ],
+        [
+          "comprar",
+          "comprando"
+        ],
+        [
+          "comer",
+          "comiendo"
+        ],
+        [
+          "beber",
+          "bebiendo"
+        ],
+        [
+          "vivir",
+          "viviendo"
+        ],
+        [
+          "escribir",
+          "escribiendo"
+        ],
+        [
+          "salir",
+          "saliendo"
+        ],
+        [
+          "hacer",
+          "haciendo"
+        ],
+        [
+          "tener",
+          "teniendo"
+        ],
+        [
+          "poner",
+          "poniendo"
+        ]
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "Gerunds with y (i between vowels)",
+      "check": "gerund",
+      "items": [
+        [
+          "leer",
+          "leyendo"
+        ],
+        [
+          "oír",
+          "oyendo"
+        ],
+        [
+          "traer",
+          "trayendo"
+        ],
+        [
+          "caer",
+          "cayendo"
+        ],
+        [
+          "construir",
+          "construyendo"
+        ],
+        [
+          "ir",
+          "yendo"
+        ]
+      ]
+    },
+    {
+      "type": "verbpairs",
+      "title": "Stem-changing -ir verbs: o to u, e to i",
+      "check": "gerund",
+      "items": [
+        [
+          "dormir",
+          "durmiendo"
+        ],
+        [
+          "morir",
+          "muriendo"
+        ],
+        [
+          "pedir",
+          "pidiendo"
+        ],
+        [
+          "repetir",
+          "repitiendo"
+        ],
+        [
+          "seguir",
+          "siguiendo"
+        ],
+        [
+          "sentir",
+          "sintiendo"
+        ],
+        [
+          "servir",
+          "sirviendo"
+        ],
+        [
+          "decir",
+          "diciendo"
+        ],
+        [
+          "venir",
+          "viniendo"
+        ],
+        [
+          "poder",
+          "pudiendo"
+        ],
+        [
+          "preferir",
+          "prefiriendo"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "Only -ir verbs change in the gerund",
+      "text": "<i>pensar</i> gives <b>pensando</b> and <i>volver</i> gives <b>volviendo</b> (no change), but <i>dormir</i> gives <b>durmiendo</b> and <i>pedir</i> gives <b>pidiendo</b>."
+    },
+    {
+      "type": "conj",
+      "tense": "present continuous",
+      "verb": "hablar",
+      "meaning": "to speak",
+      "forms": [
+        "estoy *hablando*",
+        "estás *hablando*",
+        "está *hablando*",
+        "estamos *hablando*",
+        "estáis *hablando*",
+        "están *hablando*"
+      ],
+      "examples": [
+        [
+          "Estoy hablando con mi madre.",
+          "I am talking to my mother."
+        ],
+        [
+          "¿Estás hablando con Ana?",
+          "Are you talking to Ana?"
+        ],
+        [
+          "Ella está hablando por teléfono.",
+          "She is talking on the phone."
+        ],
+        [
+          "Estamos hablando de trabajo.",
+          "We are talking about work."
+        ],
+        [
+          "¿Estáis hablando de mí?",
+          "Are you (all) talking about me?"
+        ],
+        [
+          "Mis padres están hablando con el vecino.",
+          "My parents are talking to the neighbour."
+        ]
+      ],
+      "label": "regular gerund"
+    },
+    {
+      "type": "conj",
+      "tense": "present continuous",
+      "verb": "comer",
+      "meaning": "to eat",
+      "forms": [
+        "estoy *comiendo*",
+        "estás *comiendo*",
+        "está *comiendo*",
+        "estamos *comiendo*",
+        "estáis *comiendo*",
+        "están *comiendo*"
+      ],
+      "examples": [
+        [
+          "Estoy comiendo ahora.",
+          "I am eating now."
+        ],
+        [
+          "¿Estás comiendo fuera?",
+          "Are you eating out?"
+        ],
+        [
+          "Marta está comiendo en la cocina.",
+          "Marta is eating in the kitchen."
+        ],
+        [
+          "Estamos comiendo paella.",
+          "We are eating paella."
+        ],
+        [
+          "¿Estáis comiendo ya?",
+          "Are you (all) eating already?"
+        ],
+        [
+          "Los niños están comiendo.",
+          "The children are eating."
+        ]
+      ],
+      "label": "regular gerund"
+    },
+    {
+      "type": "conj",
+      "tense": "present continuous",
+      "verb": "dormir",
+      "meaning": "to sleep",
+      "forms": [
+        "estoy *durmiendo*",
+        "estás *durmiendo*",
+        "está *durmiendo*",
+        "estamos *durmiendo*",
+        "estáis *durmiendo*",
+        "están *durmiendo*"
+      ],
+      "examples": [
+        [
+          "Estoy durmiendo la siesta.",
+          "I am taking a nap."
+        ],
+        [
+          "¿Estás durmiendo?",
+          "Are you sleeping?"
+        ],
+        [
+          "El bebé está durmiendo.",
+          "The baby is sleeping."
+        ],
+        [
+          "Estamos durmiendo en un hotel.",
+          "We are sleeping in a hotel."
+        ],
+        [
+          "¿Estáis durmiendo todavía?",
+          "Are you (all) still sleeping?"
+        ],
+        [
+          "Mis hijos están durmiendo.",
+          "My children are sleeping."
+        ]
+      ],
+      "label": "irregular gerund"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.8,
+        6.6,
+        5.6
+      ],
+      "head": [
+        "Use",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "Right now",
+          "Ahora mismo estoy estudiando.",
+          "Right now I am studying."
+        ],
+        [
+          "This period",
+          "Este año estoy viviendo en Madrid.",
+          "This year I am living in Madrid."
+        ],
+        [
+          "Past scene (imperfect)",
+          "Estaba leyendo cuando llegaste.",
+          "I was reading when you arrived."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "dutch",
+      "title": "Dutch aan het",
+      "text": "<i>Ik ben aan het koken</i> = <b>Estoy cocinando</b>. For habits, Spanish uses the plain present (<i>Cocino todos los días</i>), just like Dutch. The gerund is for the action in progress."
+    },
+    {
+      "type": "callout",
+      "kind": "warn",
+      "title": "Pronouns with the gerund",
+      "text": "Reflexive and object pronouns go <b>in front of estar</b> or <b>attached to the gerund</b> (and then the gerund gets an accent): <b>Me estoy duchando</b> = <b>Estoy duchándome</b>. Never between: <i>Estoy me duchando</i>."
+    },
+    {
+      "type": "h1",
+      "text": "3. Just done, doing again, how long"
+    },
+    {
+      "type": "p",
+      "text": "<b>acabar de + infinitive</b> = to have just done something:"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.2,
+        4.6,
+        7.2
+      ],
+      "head": [
+        "Person",
+        "Form",
+        "Example"
+      ],
+      "rows": [
+        [
+          "yo",
+          "acabo de",
+          "Acabo de llegar a casa."
+        ],
+        [
+          "tú",
+          "acabas de",
+          "¿Acabas de despertarte?"
+        ],
+        [
+          "él / ella / usted",
+          "acaba de",
+          "Ana acaba de salir."
+        ],
+        [
+          "nosotros / nosotras",
+          "acabamos de",
+          "Acabamos de comer."
+        ],
+        [
+          "vosotros / vosotras",
+          "acabáis de",
+          "¿Acabáis de volver?"
+        ],
+        [
+          "ellos / ellas / ustedes",
+          "acaban de",
+          "Mis padres acaban de llamar."
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>volver a + infinitive</b> = to do something again (volver has the stem change o to ue in the present):"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.2,
+        4.6,
+        7.2
+      ],
+      "head": [
+        "Person",
+        "Form",
+        "Example"
+      ],
+      "rows": [
+        [
+          "yo",
+          "vuelvo a",
+          "Vuelvo a intentarlo."
+        ],
+        [
+          "tú",
+          "vuelves a",
+          "¿Vuelves a llamar mañana?"
+        ],
+        [
+          "él / ella / usted",
+          "vuelve a",
+          "Ella vuelve a trabajar el lunes."
+        ],
+        [
+          "nosotros / nosotras",
+          "volvemos a",
+          "Volvemos a vernos pronto."
+        ],
+        [
+          "vosotros / vosotras",
+          "volvéis a",
+          "¿Volvéis a cenar aquí?"
+        ],
+        [
+          "ellos / ellas / ustedes",
+          "vuelven a",
+          "Vuelven a hacer lo mismo."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.8,
+        6.6,
+        5.6
+      ],
+      "head": [
+        "Structure",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "acabar de + infinitive",
+          "Acabo de comer.",
+          "I have just eaten."
+        ],
+        [
+          "acababa de + infinitive",
+          "Acababa de salir cuando llamaste.",
+          "I had just left when you called."
+        ],
+        [
+          "volver a + infinitive",
+          "Volví a intentarlo.",
+          "I tried again."
+        ],
+        [
+          "llevar + time + gerund",
+          "Llevo dos años estudiando español.",
+          "I have been studying Spanish for two years."
+        ],
+        [
+          "seguir + gerund",
+          "Sigo viviendo en Madrid.",
+          "I still live in Madrid."
+        ],
+        [
+          "empezar a + infinitive",
+          "Empecé a estudiar español hace un año.",
+          "I started to study Spanish a year ago."
+        ],
+        [
+          "ponerse a + infinitive",
+          "Se puso a llover de repente.",
+          "It suddenly started to rain."
+        ],
+        [
+          "dejar de + infinitive",
+          "Dejé de fumar en 2020.",
+          "I stopped smoking in 2020."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "dutch",
+      "title": "Dutch net and weer, plus two more",
+      "bullets": [
+        "<i>net</i> (just) = <b>acabar de</b>: <i>Ik ben net aangekomen</i> = <b>Acabo de llegar</b>.",
+        "<i>weer</i> (again) = <b>volver a</b>. <i>Ik ben al twee jaar aan het studeren</i> = <b>Llevo dos años estudiando</b>.",
+        "Also: <b>terminar de</b> + infinitive (<i>Terminé de trabajar a las seis</i>) and <b>aprender a</b> + infinitive (<i>Aprendí a nadar de niño</i>)."
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "4. Common mistakes"
+    },
+    {
+      "type": "mistakes",
+      "rows": [
+        [
+          "Voy estudiar mañana.",
+          "Voy a estudiar mañana.",
+          "ir needs the a before the infinitive."
+        ],
+        [
+          "Estoy estudio ahora.",
+          "Estoy estudiando ahora.",
+          "Use the gerund after estar, not the present."
+        ],
+        [
+          "Estoy comendo.",
+          "Estoy comiendo.",
+          "-er verbs: -iendo."
+        ],
+        [
+          "Estoy leiendo.",
+          "Estoy leyendo.",
+          "Between vowels the i becomes y."
+        ],
+        [
+          "Estoy dormiendo.",
+          "Estoy durmiendo.",
+          "-ir verbs change o to u in the gerund."
+        ],
+        [
+          "Estoy me duchando.",
+          "Me estoy duchando.",
+          "Pronoun before estar or attached to the gerund (duchándome)."
+        ],
+        [
+          "Acabo llegar.",
+          "Acabo de llegar.",
+          "acabar needs de."
+        ],
+        [
+          "Vuelvo hacerlo.",
+          "Vuelvo a hacerlo.",
+          "volver needs a for \"again\"."
+        ],
+        [
+          "Llevo dos años a estudiar español.",
+          "Llevo dos años estudiando español.",
+          "llevar + time uses the gerund."
+        ],
+        [
+          "Mañana estoy trabajando.",
+          "Mañana trabajo. / Mañana voy a trabajar.",
+          "Estar + gerund describes what is going on now. For plans use the present or ir a."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "5. Self-check"
+    },
+    {
+      "type": "p",
+      "text": "Complete each sentence with the correct form. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Verb"
+      ],
+      "items": [
+        {
+          "q": "Mañana ______ visitar a mis abuelos.",
+          "hint": "ir a (yo)",
+          "a": "voy a",
+          "full": "Mañana voy a visitar a mis abuelos."
+        },
+        {
+          "q": "¿______ venir a la fiesta?",
+          "hint": "ir a (tú)",
+          "a": "Vas a",
+          "full": "¿Vas a venir a la fiesta?"
+        },
+        {
+          "q": "Nosotros ______ cenar fuera esta noche.",
+          "hint": "ir a (nosotros)",
+          "a": "vamos a",
+          "full": "Nosotros vamos a cenar fuera esta noche."
+        },
+        {
+          "q": "Mis padres ______ comprar un piso.",
+          "hint": "ir a (ellos)",
+          "a": "van a",
+          "full": "Mis padres van a comprar un piso."
+        },
+        {
+          "q": "Ahora mismo yo ______ la cena.",
+          "hint": "preparar (yo, estar + gerund)",
+          "a": "estoy preparando",
+          "full": "Ahora mismo yo estoy preparando la cena."
+        },
+        {
+          "q": "¿Qué ______ ahora?",
+          "hint": "hacer (tú, estar + gerund)",
+          "a": "estás haciendo",
+          "full": "¿Qué estás haciendo ahora?"
+        },
+        {
+          "q": "Los niños ______ en el jardín.",
+          "hint": "jugar (ellos, estar + gerund)",
+          "a": "están jugando",
+          "full": "Los niños están jugando en el jardín."
+        },
+        {
+          "q": "Ella ______ una carta.",
+          "hint": "escribir (ella, estar + gerund)",
+          "a": "está escribiendo",
+          "full": "Ella está escribiendo una carta."
+        },
+        {
+          "q": "El bebé ______ ahora.",
+          "hint": "dormir (él, estar + gerund)",
+          "a": "está durmiendo",
+          "full": "El bebé está durmiendo ahora."
+        },
+        {
+          "q": "Yo ______ llegar a casa.",
+          "hint": "acabar de (yo)",
+          "a": "acabo de",
+          "full": "Yo acabo de llegar a casa."
+        },
+        {
+          "q": "Ella ______ llamar a su madre.",
+          "hint": "volver a (ella)",
+          "a": "vuelve a",
+          "full": "Ella vuelve a llamar a su madre."
+        },
+        {
+          "q": "______ dos años estudiando español.",
+          "hint": "llevar (yo)",
+          "a": "Llevo",
+          "full": "Llevo dos años estudiando español."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish:</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "I am going to travel next summer.",
+          "a": "Voy a viajar el próximo verano."
+        },
+        {
+          "q": "She is reading a book.",
+          "a": "Está leyendo un libro."
+        },
+        {
+          "q": "We have just arrived.",
+          "a": "Acabamos de llegar."
+        },
+        {
+          "q": "They are working again.",
+          "a": "Vuelven a trabajar."
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

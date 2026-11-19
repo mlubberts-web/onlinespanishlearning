@@ -1,0 +1,568 @@
+{
+  "meta": {
+    "level": "C1",
+    "section": "Grammar",
+    "number": 4,
+    "total_in_level": 10,
+    "title": "se, Passive and Nominalisation",
+    "subtitle": "the values of se, passive reflexive vs impersonal, formal passive, nominalisation and light-verb collocations",
+    "footer": "Spanish Learning Program · C1 · Grammar · se, passive, nominalisation",
+    "next": "Next: C1 · PDF 5 — Relative clauses and comparison"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "recognise and use the main values of se",
+        "choose between passive with ser, se passive and impersonal se (and agreement)",
+        "nominalise: turn verbs into nouns for a formal register",
+        "use light-verb collocations (llevar a cabo, dar lugar a, hacer hincapié en)"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "1. The values of se"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.2,
+        6.4,
+        6.4
+      ],
+      "head": [
+        "Value",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "Reflexive",
+          "Juan se lava.",
+          "Juan washes himself."
+        ],
+        [
+          "Reciprocal",
+          "Se abrazaron.",
+          "They hugged each other."
+        ],
+        [
+          "Pronominal verb",
+          "Se arrepiente. Se queja.",
+          "He regrets. He complains."
+        ],
+        [
+          "Passive reflexive",
+          "Se venden pisos.",
+          "Flats are sold."
+        ],
+        [
+          "Impersonal",
+          "Se vive bien aquí.",
+          "One lives well here."
+        ],
+        [
+          "Accidental",
+          "Se me cayó el vaso.",
+          "I dropped the glass."
+        ],
+        [
+          "Replaces le / les",
+          "Se lo di.",
+          "I gave it to him."
+        ],
+        [
+          "Intensive (ethical dative)",
+          "Se comió todo. Se leyó el libro.",
+          "He ate it all up. He read the whole book."
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "2. Passive reflexive vs impersonal se"
+    },
+    {
+      "type": "p",
+      "text": "With a <b>thing</b> as the real subject, the verb agrees with it. With a <b>person as direct object</b>, the personal <b>a</b> appears and the verb stays <b>singular</b> (impersonal)."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.6,
+        5.6,
+        5.8
+      ],
+      "head": [
+        "Passive reflexive (agrees)",
+        "Impersonal se + a (singular)",
+        "Note"
+      ],
+      "rows": [
+        [
+          "Se buscan secretarios.",
+          "Se busca a los secretarios.",
+          "indefinite vs specific"
+        ],
+        [
+          "Se ven casas desde aquí.",
+          "Se ve a los niños jugar.",
+          "thing vs person"
+        ],
+        [
+          "Se necesitan voluntarios.",
+          "Se necesita a Pedro.",
+          "indefinite vs specific person"
+        ],
+        [
+          "Se oyen ruidos.",
+          "Se oye a los vecinos.",
+          "thing vs person"
+        ],
+        [
+          "Se venden coches.",
+          "Se detuvo a los sospechosos.",
+          "thing vs person"
+        ]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<b>Se + infinitive or subordinate clause</b>: <i>Se prohíbe fumar. Se dice que va a llover. Se cree que ha muerto.</i> (always singular)",
+        "<b>Se + verb + que</b> for reports: <i>Se espera que ... / Se calcula que ... / Se estima que ... / Se prevé que ...</i>",
+        "<b>Estructura de uno</b>: <i>Uno nunca sabe.</i> <i>Una no puede hacerlo todo.</i>"
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "warn",
+      "title": "Avoid ambiguity",
+      "text": "<b>Se lava a los niños</b> can read as reflexive or impersonal. Write <i>Los niños se lavan</i> (they wash themselves) or <i>Se lava a los niños</i> (someone washes the children). Use the passive with ser for clarity when needed."
+    },
+    {
+      "type": "h1",
+      "text": "3. Passive voice in formal writing"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.0,
+        6.2,
+        5.8
+      ],
+      "head": [
+        "Structure",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "ser + participle + por",
+          "La ley fue aprobada por el Congreso.",
+          "The law was passed by Congress."
+        ],
+        [
+          "se + verb (no agent)",
+          "Se aprobó la ley.",
+          "The law was passed."
+        ],
+        [
+          "estar + participle (result)",
+          "La ley está aprobada.",
+          "The law is passed."
+        ],
+        [
+          "quedar + participle",
+          "Quedó aprobada la ley.",
+          "The law was left approved."
+        ],
+        [
+          "resultar + participle",
+          "Resultaron heridas tres personas.",
+          "Three people were injured."
+        ],
+        [
+          "verse + participle",
+          "Se vio obligado a dimitir.",
+          "He was forced to resign."
+        ],
+        [
+          "llevarse a cabo (se)",
+          "Se llevó a cabo la reunión.",
+          "The meeting was held."
+        ],
+        [
+          "es de + inf.",
+          "Es de esperar que mejore.",
+          "It is to be expected that it improves."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "Agent or no agent?",
+      "text": "If you name the doer, use <b>ser + participle + por</b>. If the doer is unknown or unimportant, use <b>se</b>. Both avoid saying \"someone\"."
+    },
+    {
+      "type": "h1",
+      "text": "4. Nominalisation"
+    },
+    {
+      "type": "p",
+      "text": "Formal writing prefers <b>nouns</b> to verb clauses. Convert verbs into nouns to make sentences compact and impersonal."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        6.4,
+        6.4,
+        4.2
+      ],
+      "head": [
+        "Verb clause (spoken)",
+        "Noun phrase (written)",
+        "Suffix"
+      ],
+      "rows": [
+        [
+          "Cuando se aprobó la ley, ...",
+          "Tras la aprobación de la ley, ...",
+          "-ción"
+        ],
+        [
+          "Porque subieron los precios, ...",
+          "Debido a la subida de los precios, ...",
+          "-ida"
+        ],
+        [
+          "Si se aplica esta medida, ...",
+          "De aplicarse esta medida / Con la aplicación de ...",
+          "-ción"
+        ],
+        [
+          "Al crecer la economía, ...",
+          "Con el crecimiento de la economía, ...",
+          "-miento"
+        ],
+        [
+          "Aunque aumenten las ventas, ...",
+          "A pesar del aumento de las ventas, ...",
+          "-o"
+        ],
+        [
+          "Después de que se firmó el acuerdo, ...",
+          "Tras la firma del acuerdo, ...",
+          "-a"
+        ],
+        [
+          "Para que mejore la situación, ...",
+          "Para la mejora de la situación, ...",
+          "-a"
+        ],
+        [
+          "Que se pueda ahorrar es importante.",
+          "El ahorro es importante. / La posibilidad de ahorrar ...",
+          "-o"
+        ]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<b>Useful frames:</b> <i>el hecho de que, la posibilidad de que, la necesidad de, la existencia de, la ausencia de, la falta de, la tendencia a, la capacidad de</i>.",
+        "<b>Too many nouns</b> can sound heavy. Mix nominal and verbal style in your own writing."
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "5. Light-verb collocations"
+    },
+    {
+      "type": "verbpairs",
+      "title": "Verb + noun",
+      "items": [
+        [
+          "llevar a cabo",
+          "to carry out"
+        ],
+        [
+          "tener lugar",
+          "to take place"
+        ],
+        [
+          "dar lugar a",
+          "to give rise to"
+        ],
+        [
+          "hacer hincapié en",
+          "to emphasise"
+        ],
+        [
+          "poner en marcha",
+          "to launch"
+        ],
+        [
+          "hacer frente a",
+          "to face, confront"
+        ],
+        [
+          "tomar una decisión",
+          "to make a decision"
+        ],
+        [
+          "prestar atención",
+          "to pay attention"
+        ],
+        [
+          "hacer uso de",
+          "to make use of"
+        ],
+        [
+          "tener en cuenta",
+          "to take into account"
+        ],
+        [
+          "poner de manifiesto",
+          "to reveal, highlight"
+        ],
+        [
+          "sacar conclusiones",
+          "to draw conclusions"
+        ],
+        [
+          "llegar a un acuerdo",
+          "to reach an agreement"
+        ],
+        [
+          "ejercer influencia",
+          "to exert influence"
+        ],
+        [
+          "plantear un problema",
+          "to raise a problem"
+        ],
+        [
+          "realizar un estudio",
+          "to carry out a study"
+        ],
+        [
+          "formular una pregunta",
+          "to pose a question"
+        ],
+        [
+          "emitir un juicio",
+          "to pass judgement"
+        ],
+        [
+          "asumir un riesgo",
+          "to take a risk"
+        ],
+        [
+          "dar un paso",
+          "to take a step"
+        ],
+        [
+          "cumplir un requisito",
+          "to meet a requirement"
+        ],
+        [
+          "alcanzar un objetivo",
+          "to reach a goal"
+        ],
+        [
+          "contraer una deuda",
+          "to incur a debt"
+        ],
+        [
+          "hacer balance",
+          "to take stock"
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "6. Common mistakes"
+    },
+    {
+      "type": "mistakes",
+      "rows": [
+        [
+          "Se vende pisos.",
+          "Se venden pisos.",
+          "plural thing: plural verb."
+        ],
+        [
+          "Se buscan a los secretarios.",
+          "Se busca a los secretarios.",
+          "personal a: singular."
+        ],
+        [
+          "Se habla muchas lenguas.",
+          "Se hablan muchas lenguas.",
+          "plural thing: plural verb."
+        ],
+        [
+          "Fue construido por se los romanos.",
+          "Fue construido por los romanos.",
+          "ser + por, never se + por."
+        ],
+        [
+          "La reunión fue llevada a cabo.",
+          "La reunión se llevó a cabo.",
+          "natural with se."
+        ],
+        [
+          "Hacer un decisión.",
+          "Tomar una decisión.",
+          "collocation: tomar, feminine."
+        ],
+        [
+          "Poner atención a.",
+          "Prestar atención a.",
+          "collocation: prestar."
+        ],
+        [
+          "Dar hincapié.",
+          "Hacer hincapié.",
+          "collocation: hacer."
+        ],
+        [
+          "Le lo di.",
+          "Se lo di.",
+          "le + lo becomes se lo."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "7. Self-check"
+    },
+    {
+      "type": "p",
+      "text": "Fill in the correct form. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Hint"
+      ],
+      "items": [
+        {
+          "q": "Se ______ pisos en el centro.",
+          "hint": "vender: present",
+          "a": "venden",
+          "full": "Se venden pisos en el centro."
+        },
+        {
+          "q": "Se ______ a los sospechosos.",
+          "hint": "detener: preterite, impersonal",
+          "a": "detuvo",
+          "full": "Se detuvo a los sospechosos."
+        },
+        {
+          "q": "La ley fue aprobada ______ el Congreso.",
+          "hint": "agent",
+          "a": "por",
+          "full": "La ley fue aprobada por el Congreso."
+        },
+        {
+          "q": "Se ______ que va a llover.",
+          "hint": "decir: present",
+          "a": "dice",
+          "full": "Se dice que va a llover."
+        },
+        {
+          "q": "Tras la ______ de la ley, subieron los precios.",
+          "hint": "aprobar: noun",
+          "a": "aprobación",
+          "full": "Tras la aprobación de la ley, subieron los precios."
+        },
+        {
+          "q": "Debido a la ______ de los precios, bajó el consumo.",
+          "hint": "subir: noun",
+          "a": "subida",
+          "full": "Debido a la subida de los precios, bajó el consumo."
+        },
+        {
+          "q": "El congreso ______ lugar en Madrid.",
+          "hint": "tener: preterite, él",
+          "a": "tuvo",
+          "full": "El congreso tuvo lugar en Madrid."
+        },
+        {
+          "q": "Hay que ______ en cuenta los costes.",
+          "hint": "tener: infinitive",
+          "a": "tener",
+          "full": "Hay que tener en cuenta los costes."
+        },
+        {
+          "q": "Se ______ a cabo la reunión.",
+          "hint": "llevar: preterite",
+          "a": "llevó",
+          "full": "Se llevó a cabo la reunión."
+        },
+        {
+          "q": "La ministra hizo ______ en la igualdad.",
+          "hint": "emphasis",
+          "a": "hincapié",
+          "full": "La ministra hizo hincapié en la igualdad."
+        },
+        {
+          "q": "Se ______ comido todo.",
+          "hint": "intensive se + verb, él, perfect",
+          "a": "ha",
+          "full": "Se ha comido todo."
+        },
+        {
+          "q": "Resultaron ______ tres personas.",
+          "hint": "herir: participle, feminine plural",
+          "a": "heridas",
+          "full": "Resultaron heridas tres personas."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish:</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "Flats for sale.",
+          "a": "Se venden pisos."
+        },
+        {
+          "q": "The meeting took place on Monday.",
+          "a": "La reunión tuvo lugar el lunes."
+        },
+        {
+          "q": "We must take the risks into account.",
+          "a": "Hay que tener en cuenta los riesgos."
+        },
+        {
+          "q": "It is estimated that prices will rise.",
+          "a": "Se estima que los precios subirán."
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

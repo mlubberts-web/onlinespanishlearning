@@ -1,0 +1,547 @@
+{
+  "meta": {
+    "level": "B2",
+    "section": "Grammar",
+    "number": 2,
+    "total_in_level": 10,
+    "title": "Pluperfect Subjunctive and Complex Conditionals",
+    "subtitle": "hubiera + participle, third and mixed conditionals, regret, and alternatives to si",
+    "footer": "Spanish Learning Program · B2 · Grammar · Pluperfect subjunctive and conditionals",
+    "next": "Next: B2 · PDF 3 — Advanced subjunctive"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "form the pluperfect subjunctive (hubiera + participle)",
+        "make third conditionals (Si hubiera sabido, habría venido) and mixed conditionals",
+        "express regret and missed chances (Ojalá hubiera ..., Me habría gustado que ...)",
+        "use alternatives to si: de + infinitive, como + subjunctive, a no ser que, salvo que"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "1. Forms: pluperfect subjunctive"
+    },
+    {
+      "type": "p",
+      "text": "<b>hubiera</b> (or <b>hubiese</b>) + <b>past participle</b>. The participle never changes."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        3.4,
+        3.4,
+        3.4,
+        3.4,
+        3.4
+      ],
+      "head": [
+        "",
+        "hablar",
+        "comer",
+        "vivir",
+        "hacer"
+      ],
+      "rows": [
+        [
+          "yo",
+          "hubiera hablado",
+          "hubiera comido",
+          "hubiera vivido",
+          "hubiera hecho"
+        ],
+        [
+          "tú",
+          "hubieras hablado",
+          "hubieras comido",
+          "hubieras vivido",
+          "hubieras hecho"
+        ],
+        [
+          "él / ella / usted",
+          "hubiera hablado",
+          "hubiera comido",
+          "hubiera vivido",
+          "hubiera hecho"
+        ],
+        [
+          "nosotros",
+          "hubiéramos hablado",
+          "hubiéramos comido",
+          "hubiéramos vivido",
+          "hubiéramos hecho"
+        ],
+        [
+          "vosotros",
+          "hubierais hablado",
+          "hubierais comido",
+          "hubierais vivido",
+          "hubierais hecho"
+        ],
+        [
+          "ellos / ellas / ustedes",
+          "hubieran hablado",
+          "hubieran comido",
+          "hubieran vivido",
+          "hubieran hecho"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Irregular participles you need: <b>hecho, dicho, visto, puesto, escrito, vuelto, abierto, roto, muerto, cubierto, resuelto, descubierto</b>. Second form: <i>hubiese hablado, hubieses hablado ...</i> (identical in use)."
+    },
+    {
+      "type": "h1",
+      "text": "2. Third conditional: the impossible past"
+    },
+    {
+      "type": "p",
+      "text": "For something that did <b>not</b> happen in the past, and its imagined result: <b>si + pluperfect subjunctive</b>, <b>conditional perfect</b> (habría + participle)."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        6.4,
+        6.4,
+        4.2
+      ],
+      "head": [
+        "Spanish",
+        "English",
+        "Fact"
+      ],
+      "rows": [
+        [
+          "Si hubiera estudiado, habría aprobado.",
+          "If I had studied, I would have passed.",
+          "I did not study."
+        ],
+        [
+          "Si hubieras venido, te lo habría contado.",
+          "If you had come, I would have told you.",
+          "You did not come."
+        ],
+        [
+          "Si no hubiera llovido, habríamos salido.",
+          "If it had not rained, we would have gone out.",
+          "It rained."
+        ],
+        [
+          "Si me lo hubieran dicho, lo habría sabido.",
+          "If they had told me, I would have known.",
+          "Nobody told me."
+        ],
+        [
+          "¿Qué habrías hecho si hubieras ganado?",
+          "What would you have done if you had won?",
+          "You did not win."
+        ]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "In the result clause, <b>hubiera + participle</b> is often used instead of <i>habría</i>: <i>Si hubiera estudiado, hubiera aprobado.</i> This is common in speech and correct, but <i>habría</i> is the safe choice for exams.",
+        "Never use <i>habría</i> in the <b>si</b> clause: not <i>Si habría estudiado ...</i>."
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "3. Mixed conditionals"
+    },
+    {
+      "type": "p",
+      "text": "Mix a <b>past condition</b> with a <b>present result</b>, or a present condition with a past result."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        7.4,
+        5.4,
+        4.2
+      ],
+      "head": [
+        "Spanish",
+        "English",
+        "Pattern"
+      ],
+      "rows": [
+        [
+          "Si hubiera estudiado medicina, ahora sería médico.",
+          "If I had studied medicine, I would be a doctor now.",
+          "past condition, present result"
+        ],
+        [
+          "Si hubiéramos ahorrado, ahora tendríamos casa.",
+          "If we had saved, we would have a house now.",
+          "past condition, present result"
+        ],
+        [
+          "Si fuera más valiente, te lo habría dicho.",
+          "If I were braver, I would have told you.",
+          "present trait, past result"
+        ],
+        [
+          "Si hablara mejor inglés, me habrían contratado.",
+          "If I spoke better English, they would have hired me.",
+          "present trait, past result"
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "4. Regret and missed chances"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        6.2,
+        6.4,
+        4.4
+      ],
+      "head": [
+        "Spanish",
+        "English",
+        "Structure"
+      ],
+      "rows": [
+        [
+          "Ojalá hubiera venido.",
+          "If only he had come.",
+          "ojalá + pluperfect"
+        ],
+        [
+          "Ojalá no hubiera dicho eso.",
+          "I wish I had not said that.",
+          "ojalá + pluperfect"
+        ],
+        [
+          "Me habría gustado que vinieras.",
+          "I would have liked you to come.",
+          "habría + imperf. subj."
+        ],
+        [
+          "Me habría gustado que hubieras venido.",
+          "I would have liked you to have come.",
+          "habría + pluperfect"
+        ],
+        [
+          "Habría sido mejor que te quedaras.",
+          "It would have been better if you had stayed.",
+          "habría + imperf. subj."
+        ],
+        [
+          "Si lo hubiera sabido...",
+          "If I had known...",
+          "unfinished clause"
+        ],
+        [
+          "¡Quién lo hubiera dicho!",
+          "Who would have said it!",
+          "idiom of surprise"
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "5. Pluperfect subjunctive in other clauses"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        6.4,
+        6.4,
+        4.2
+      ],
+      "head": [
+        "Spanish",
+        "English",
+        "Trigger"
+      ],
+      "rows": [
+        [
+          "No creía que hubiera llegado.",
+          "I did not think he had arrived.",
+          "doubt, past before past"
+        ],
+        [
+          "Me alegré de que hubieras venido.",
+          "I was glad you had come.",
+          "emotion"
+        ],
+        [
+          "Aunque hubiera llovido, habríamos ido.",
+          "Even if it had rained, we would have gone.",
+          "concession"
+        ],
+        [
+          "Lo hizo como si nunca hubiera pasado.",
+          "He did it as if it had never happened.",
+          "como si"
+        ],
+        [
+          "No había nadie que lo hubiera visto.",
+          "There was nobody who had seen it.",
+          "non-existent"
+        ],
+        [
+          "Esperaba que hubieran terminado.",
+          "I hoped they had finished.",
+          "expectation"
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "6. Other ways to make conditions"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.4,
+        6.2,
+        5.4
+      ],
+      "head": [
+        "Structure",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "de + infinitive",
+          "De haberlo sabido, habría venido.",
+          "Had I known, I would have come."
+        ],
+        [
+          "de + infinitive (present)",
+          "De querer ir, avísame.",
+          "If you want to go, tell me."
+        ],
+        [
+          "como + subjunctive (threat)",
+          "Como no estudies, suspenderás.",
+          "If you do not study, you will fail."
+        ],
+        [
+          "gerund",
+          "Estudiando, aprobarás.",
+          "By studying, you will pass."
+        ],
+        [
+          "a no ser que + subj.",
+          "Iré a no ser que llueva.",
+          "I will go unless it rains."
+        ],
+        [
+          "salvo que + subj.",
+          "Saldremos salvo que nieve.",
+          "We will go out unless it snows."
+        ],
+        [
+          "siempre y cuando + subj.",
+          "Te ayudo siempre y cuando lo pidas.",
+          "I will help provided you ask."
+        ],
+        [
+          "en caso de que + subj.",
+          "En caso de que llueva, llévate un paraguas.",
+          "In case it rains, take an umbrella."
+        ],
+        [
+          "por si + indicative",
+          "Llévate un paraguas por si llueve.",
+          "Take an umbrella in case it rains."
+        ],
+        [
+          "con tal de que + subj.",
+          "Lo hago con tal de que me ayudes.",
+          "I will do it as long as you help me."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "como + subjunctive",
+      "text": "<b>Como no vengas, me enfadaré</b> is a threat or warning (if you do not come ...). It is not the causal <i>como</i> of B1 (<i>Como llovía, nos quedamos</i>), which takes the indicative."
+    },
+    {
+      "type": "h1",
+      "text": "7. Common mistakes"
+    },
+    {
+      "type": "mistakes",
+      "rows": [
+        [
+          "Si habría sabido, habría venido.",
+          "Si hubiera sabido, habría venido.",
+          "No conditional in the si clause."
+        ],
+        [
+          "Si hubiera sabido, vendría.",
+          "Si hubiera sabido, habría venido.",
+          "Past result: conditional perfect."
+        ],
+        [
+          "Si había estudiado, habría aprobado.",
+          "Si hubiera estudiado, habría aprobado.",
+          "Unreal past: pluperfect subjunctive."
+        ],
+        [
+          "Si hubiera estudiado medicina, ahora fuera médico.",
+          "Si hubiera estudiado medicina, ahora sería médico.",
+          "Present result: conditional."
+        ],
+        [
+          "Ojalá hubiera viniera.",
+          "Ojalá hubiera venido.",
+          "hubiera + participle."
+        ],
+        [
+          "Si hubiera habido sabido...",
+          "Si hubiera sabido...",
+          "Never add a second haber."
+        ],
+        [
+          "Ojalá habría venido.",
+          "Ojalá hubiera venido.",
+          "ojalá takes the subjunctive."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "8. Self-check"
+    },
+    {
+      "type": "p",
+      "text": "Fill in the correct form (hubiera + participle or habría + participle). Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Hint"
+      ],
+      "items": [
+        {
+          "q": "Si ______, habría aprobado.",
+          "hint": "estudiar, yo: hubiera + participle",
+          "a": "hubiera estudiado",
+          "full": "Si hubiera estudiado, habría aprobado."
+        },
+        {
+          "q": "Si hubieras venido, te lo ______.",
+          "hint": "contar, yo: habría + participle",
+          "a": "habría contado",
+          "full": "Si hubieras venido, te lo habría contado."
+        },
+        {
+          "q": "Si no ______, habríamos salido.",
+          "hint": "llover: hubiera + participle",
+          "a": "hubiera llovido",
+          "full": "Si no hubiera llovido, habríamos salido."
+        },
+        {
+          "q": "Ojalá ______.",
+          "hint": "venir, él: regret",
+          "a": "hubiera venido",
+          "full": "Ojalá hubiera venido."
+        },
+        {
+          "q": "Si hubiera estudiado medicina, ahora ______ médico.",
+          "hint": "ser (conditional, yo)",
+          "a": "sería",
+          "full": "Si hubiera estudiado medicina, ahora sería médico."
+        },
+        {
+          "q": "Me ______ gustado que vinieras.",
+          "hint": "haber (conditional)",
+          "a": "habría",
+          "full": "Me habría gustado que vinieras."
+        },
+        {
+          "q": "De ______ sabido, habría venido.",
+          "hint": "haber",
+          "a": "haberlo",
+          "full": "De haberlo sabido, habría venido."
+        },
+        {
+          "q": "No creía que ______.",
+          "hint": "llegar, él: pluperfect subj.",
+          "a": "hubiera llegado",
+          "full": "No creía que hubiera llegado."
+        },
+        {
+          "q": "Si lo ______, lo habría sabido.",
+          "hint": "decir, ellos: hubieran + participle",
+          "a": "hubieran dicho",
+          "full": "Si lo hubieran dicho, lo habría sabido."
+        },
+        {
+          "q": "Como no ______, suspenderás.",
+          "hint": "estudiar, tú: present subjunctive",
+          "a": "estudies",
+          "full": "Como no estudies, suspenderás."
+        },
+        {
+          "q": "Iré ______ que llueva.",
+          "hint": "unless (3 words: a no ser)",
+          "a": "a no ser",
+          "full": "Iré a no ser que llueva."
+        },
+        {
+          "q": "Llévate un paraguas ______ si llueve.",
+          "hint": "in case",
+          "a": "por",
+          "full": "Llévate un paraguas por si llueve."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish:</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "If I had known, I would have come.",
+          "a": "Si hubiera sabido, habría venido."
+        },
+        {
+          "q": "If only I had said nothing.",
+          "a": "Ojalá no hubiera dicho nada."
+        },
+        {
+          "q": "If I had studied, I would be a doctor now.",
+          "a": "Si hubiera estudiado, ahora sería médico."
+        },
+        {
+          "q": "I will go unless it rains.",
+          "a": "Iré a no ser que llueva."
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

@@ -1,0 +1,616 @@
+{
+  "meta": {
+    "level": "B2",
+    "section": "Grammar",
+    "number": 4,
+    "total_in_level": 10,
+    "title": "Verb Periphrases",
+    "subtitle": "auxiliary + infinitive, gerund or participle: volver a, soler, llevar + gerund, deber de, tener + participle and more",
+    "footer": "Spanish Learning Program · B2 · Grammar · Verb periphrases",
+    "next": "Next: B2 · PDF 5 — Infinitive, gerund and participle constructions"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "use verb periphrases with an infinitive (volver a, acabar de, dejar de, soler, ponerse a)",
+        "use periphrases with a gerund (seguir, llevar, ir, andar, venir + gerund)",
+        "use periphrases with a participle (tener, llevar, dar por + participle)",
+        "choose between deber, deber de, tener que and haber que"
+      ]
+    },
+    {
+      "type": "p",
+      "text": "A <b>periphrasis</b> is a conjugated auxiliary verb plus an infinitive, gerund or participle. Only the first verb is conjugated; the second stays fixed. Pronouns can go before the auxiliary or after the infinitive / gerund: <i>Lo voy a hacer / Voy a hacerlo.</i>"
+    },
+    {
+      "type": "h1",
+      "text": "1. With an infinitive"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.4,
+        4.4,
+        4.2,
+        4.0
+      ],
+      "head": [
+        "Periphrasis",
+        "Meaning",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "ir a + inf.",
+          "near future",
+          "Voy a salir.",
+          "I am going to go out."
+        ],
+        [
+          "acabar de + inf.",
+          "just did",
+          "Acabo de llegar.",
+          "I have just arrived."
+        ],
+        [
+          "volver a + inf.",
+          "do again",
+          "Volvió a llamar.",
+          "He called again."
+        ],
+        [
+          "soler + inf.",
+          "usually",
+          "Suelo madrugar.",
+          "I usually get up early."
+        ],
+        [
+          "empezar / comenzar a + inf.",
+          "begin to",
+          "Empezó a llover.",
+          "It began to rain."
+        ],
+        [
+          "ponerse a + inf.",
+          "start suddenly",
+          "Se puso a llorar.",
+          "She started crying."
+        ],
+        [
+          "echarse a + inf.",
+          "burst out",
+          "Se echó a reír.",
+          "He burst out laughing."
+        ],
+        [
+          "romper a + inf.",
+          "burst out",
+          "Rompió a llorar.",
+          "She burst into tears."
+        ],
+        [
+          "dejar de + inf.",
+          "stop",
+          "Dejé de fumar.",
+          "I stopped smoking."
+        ],
+        [
+          "terminar / acabar de + inf.",
+          "finish doing",
+          "Terminó de cenar.",
+          "He finished dinner."
+        ],
+        [
+          "estar a punto de + inf.",
+          "about to",
+          "Está a punto de salir.",
+          "She is about to leave."
+        ],
+        [
+          "llegar a + inf.",
+          "reach the point of",
+          "Llegó a ser director.",
+          "He became director."
+        ],
+        [
+          "pasar a + inf.",
+          "proceed to",
+          "Pasó a explicar.",
+          "He went on to explain."
+        ],
+        [
+          "tratar de + inf.",
+          "try to",
+          "Trato de dormir.",
+          "I try to sleep."
+        ],
+        [
+          "venir a + inf.",
+          "amount to, approx.",
+          "Viene a costar 50 euros.",
+          "It comes to about 50 euros."
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Obligation and probability"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.6,
+        4.6,
+        4.2,
+        3.6
+      ],
+      "head": [
+        "Periphrasis",
+        "Meaning",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "tener que + inf.",
+          "strong personal obligation",
+          "Tengo que estudiar.",
+          "I have to study."
+        ],
+        [
+          "haber que + inf.",
+          "general obligation (impersonal)",
+          "Hay que estudiar.",
+          "One has to study."
+        ],
+        [
+          "deber + inf.",
+          "moral duty",
+          "Debes llamar a tu madre.",
+          "You should call your mother."
+        ],
+        [
+          "deber de + inf.",
+          "probability",
+          "Debe de estar en casa.",
+          "He must be at home."
+        ],
+        [
+          "haber de + inf.",
+          "formal obligation",
+          "He de reconocer que...",
+          "I must admit that..."
+        ],
+        [
+          "poder + inf.",
+          "ability, possibility",
+          "Puede llover.",
+          "It may rain."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "warn",
+      "title": "deber vs deber de",
+      "text": "<b>Debe estudiar</b> = he must study (duty). <b>Debe de estar estudiando</b> = he is probably studying (guess). In everyday Spanish many speakers use <i>deber</i> for both, but written Spanish and exams keep the distinction. <b>Hay que</b> has no subject; there is no \"hay que yo\"."
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "2. With a gerund"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.4,
+        4.4,
+        4.2,
+        4.0
+      ],
+      "head": [
+        "Periphrasis",
+        "Meaning",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "estar + gerund",
+          "in progress",
+          "Estoy leyendo.",
+          "I am reading."
+        ],
+        [
+          "seguir + gerund",
+          "continue",
+          "Sigo trabajando.",
+          "I am still working."
+        ],
+        [
+          "continuar + gerund",
+          "continue",
+          "Continúa lloviendo.",
+          "It keeps raining."
+        ],
+        [
+          "llevar + time + gerund",
+          "for how long",
+          "Llevo dos años estudiando.",
+          "I have been studying for two years."
+        ],
+        [
+          "ir + gerund",
+          "gradual progress",
+          "Voy mejorando.",
+          "I am getting better."
+        ],
+        [
+          "andar + gerund",
+          "going around doing",
+          "Anda buscando trabajo.",
+          "He is looking for work."
+        ],
+        [
+          "venir + gerund",
+          "has been doing",
+          "Vengo diciéndolo hace años.",
+          "I have been saying it for years."
+        ],
+        [
+          "acabar + gerund",
+          "end up doing",
+          "Acabó vendiendo la casa.",
+          "He ended up selling the house."
+        ],
+        [
+          "quedarse + gerund",
+          "remain doing",
+          "Se quedó mirando.",
+          "He stayed looking."
+        ],
+        [
+          "pasarse + time + gerund",
+          "spend time doing",
+          "Se pasó la tarde leyendo.",
+          "He spent the afternoon reading."
+        ]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "<b>Seguir sin + infinitive</b> (still not): <i>Sigo sin entenderlo.</i> (I still do not understand it.)",
+        "<b>Llevar sin + infinitive</b> (not for a period): <i>Llevo dos días sin dormir.</i> (I have not slept for two days.)",
+        "<b>No dejar de + infinitive</b> (keep doing): <i>No deja de llover.</i> (It keeps on raining.)"
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "dutch",
+      "title": "Llevo dos años estudiando",
+      "text": "Dutch uses <i>ik studeer al twee jaar</i> (present) or <i>ik ben al twee jaar aan het studeren</i>. Spanish has this specific structure: <b>llevar + time + gerund</b>. <i>Estudio desde hace dos años</i> is also correct (see B1 PDFs)."
+    },
+    {
+      "type": "h1",
+      "text": "3. With a participle"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.6,
+        4.2,
+        4.2,
+        4.0
+      ],
+      "head": [
+        "Periphrasis",
+        "Meaning",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "tener + participle",
+          "possess the result",
+          "Tengo escritas tres cartas.",
+          "I have three letters written."
+        ],
+        [
+          "llevar + participle",
+          "have done so far",
+          "Llevo leídas cien páginas.",
+          "I have read a hundred pages so far."
+        ],
+        [
+          "dejar + participle",
+          "leave in a state",
+          "Dejó la puerta abierta.",
+          "He left the door open."
+        ],
+        [
+          "dar por + participle",
+          "consider",
+          "Lo dieron por perdido.",
+          "They gave it up for lost."
+        ],
+        [
+          "estar + participle",
+          "state",
+          "Está cansado.",
+          "He is tired."
+        ],
+        [
+          "ir + participle",
+          "in a state (position)",
+          "Va vestido de negro.",
+          "He is dressed in black."
+        ],
+        [
+          "quedar + participle",
+          "end up in a state",
+          "Quedó sorprendido.",
+          "He was left surprised."
+        ]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "In <b>tener / llevar / dejar + participle</b> the participle <b>agrees</b> with the object: <i>Tengo escritas tres cartas. Dejó cerradas las ventanas.</i>"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "4. Other useful structures"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.6,
+        5.6,
+        5.8
+      ],
+      "head": [
+        "Structure",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "quedar en + inf.",
+          "Quedamos en vernos a las ocho.",
+          "We agreed to meet at eight."
+        ],
+        [
+          "acordarse de + inf.",
+          "Me acordé de llamarte.",
+          "I remembered to call you."
+        ],
+        [
+          "limitarse a + inf.",
+          "Se limitó a escuchar.",
+          "He just listened."
+        ],
+        [
+          "tardar en + inf.",
+          "Tardó en responder.",
+          "He took a while to answer."
+        ],
+        [
+          "insistir en + inf.",
+          "Insiste en pagar.",
+          "He insists on paying."
+        ],
+        [
+          "no tener más remedio que + inf.",
+          "No tengo más remedio que irme.",
+          "I have no choice but to leave."
+        ],
+        [
+          "no poder menos de + inf.",
+          "No pude menos de reír.",
+          "I could not help laughing."
+        ],
+        [
+          "hacer + inf. (causative)",
+          "Me hizo reír.",
+          "He made me laugh."
+        ],
+        [
+          "dejar + inf. (permission)",
+          "Me dejó entrar.",
+          "He let me in."
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "5. Common mistakes"
+    },
+    {
+      "type": "mistakes",
+      "rows": [
+        [
+          "Estudio dos años.",
+          "Llevo dos años estudiando.",
+          "Duration: llevar + gerund."
+        ],
+        [
+          "Acabo llegar.",
+          "Acabo de llegar.",
+          "acabar de + infinitive."
+        ],
+        [
+          "Vuelvo llamar.",
+          "Vuelvo a llamar.",
+          "volver a + infinitive."
+        ],
+        [
+          "Debe estar en casa (probability).",
+          "Debe de estar en casa.",
+          "Probability: deber de."
+        ],
+        [
+          "Hay que yo estudiar.",
+          "Tengo que estudiar.",
+          "hay que is impersonal."
+        ],
+        [
+          "Sigo no entendiendo.",
+          "Sigo sin entenderlo.",
+          "seguir sin + infinitive."
+        ],
+        [
+          "Tengo escrito tres cartas.",
+          "Tengo escritas tres cartas.",
+          "Participle agrees with the object."
+        ],
+        [
+          "Dejé fumando.",
+          "Dejé de fumar.",
+          "dejar de + infinitive."
+        ],
+        [
+          "Estoy yendo a salir.",
+          "Voy a salir.",
+          "ir a is not used in the progressive."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "6. Self-check"
+    },
+    {
+      "type": "p",
+      "text": "Fill in the missing words. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Hint"
+      ],
+      "items": [
+        {
+          "q": "Acabo ______ llegar.",
+          "hint": "preposition",
+          "a": "de",
+          "full": "Acabo de llegar."
+        },
+        {
+          "q": "Ayer ______ a llamar.",
+          "hint": "volver: él, preterite",
+          "a": "volvió",
+          "full": "Ayer volvió a llamar."
+        },
+        {
+          "q": "______ madrugar.",
+          "hint": "soler: yo, present",
+          "a": "Suelo",
+          "full": "Suelo madrugar."
+        },
+        {
+          "q": "______ dos años estudiando español.",
+          "hint": "llevar: yo, present",
+          "a": "Llevo",
+          "full": "Llevo dos años estudiando español."
+        },
+        {
+          "q": "Ella ______ de estar en casa.",
+          "hint": "deber: probability",
+          "a": "debe",
+          "full": "Ella debe de estar en casa."
+        },
+        {
+          "q": "______ que estudiar para aprobar.",
+          "hint": "impersonal obligation: haber",
+          "a": "Hay",
+          "full": "Hay que estudiar para aprobar."
+        },
+        {
+          "q": "Sigo ______ entenderlo.",
+          "hint": "not + inf.",
+          "a": "sin",
+          "full": "Sigo sin entenderlo."
+        },
+        {
+          "q": "Se ______ a llorar.",
+          "hint": "ponerse: ella, preterite",
+          "a": "puso",
+          "full": "Se puso a llorar."
+        },
+        {
+          "q": "Tengo ______ tres cartas.",
+          "hint": "escribir: participle (agrees)",
+          "a": "escritas",
+          "full": "Tengo escritas tres cartas."
+        },
+        {
+          "q": "Dejó la puerta ______.",
+          "hint": "abrir: participle",
+          "a": "abierta",
+          "full": "Dejó la puerta abierta."
+        },
+        {
+          "q": "Acabó ______ la casa.",
+          "hint": "vender: gerund",
+          "a": "vendiendo",
+          "full": "Acabó vendiendo la casa."
+        },
+        {
+          "q": "Quedamos ______ vernos a las ocho.",
+          "hint": "preposition",
+          "a": "en",
+          "full": "Quedamos en vernos a las ocho."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish:</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "I have been studying Spanish for two years.",
+          "a": "Llevo dos años estudiando español."
+        },
+        {
+          "q": "He started crying.",
+          "a": "Se puso a llorar."
+        },
+        {
+          "q": "She must be at home.",
+          "a": "Debe de estar en casa."
+        },
+        {
+          "q": "I still do not understand it.",
+          "a": "Sigo sin entenderlo."
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

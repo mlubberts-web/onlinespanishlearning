@@ -1,0 +1,541 @@
+{
+  "meta": {
+    "level": "B2",
+    "section": "Grammar",
+    "number": 5,
+    "total_in_level": 10,
+    "title": "Infinitive, Gerund and Participle Constructions",
+    "subtitle": "al + inf., sin + inf., perfect infinitive, gerund uses, absolute participle clauses",
+    "footer": "Spanish Learning Program · B2 · Grammar · Infinitive, gerund, participle",
+    "next": "Next: B2 · PDF 6 — Prepositions and verb + preposition"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "use the infinitive after prepositions (al + inf., sin + inf., por + inf., de + inf.)",
+        "use the simple and perfect gerund for time, cause, manner and condition",
+        "use absolute participle clauses (Terminada la reunión, ...)",
+        "avoid the common gerund errors (the \"boiling water\" gerund)"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "1. The infinitive"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.6,
+        6.2,
+        6.2
+      ],
+      "head": [
+        "Structure",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "al + inf. (when)",
+          "Al llegar, llamé a Ana.",
+          "On arriving, I called Ana."
+        ],
+        [
+          "al + inf. (cause)",
+          "Al ser domingo, está cerrado.",
+          "As it is Sunday, it is closed."
+        ],
+        [
+          "sin + inf.",
+          "Salió sin decir nada.",
+          "He left without saying anything."
+        ],
+        [
+          "por + inf. (cause)",
+          "Lo despidieron por llegar tarde.",
+          "They fired him for arriving late."
+        ],
+        [
+          "por + inf. (not yet)",
+          "La carta está por escribir.",
+          "The letter is yet to be written."
+        ],
+        [
+          "para + inf.",
+          "Estudio para aprobar.",
+          "I study to pass."
+        ],
+        [
+          "de + inf. (condition)",
+          "De llover, nos quedamos.",
+          "If it rains, we stay."
+        ],
+        [
+          "a + inf. (condition)",
+          "A decir verdad, no me gusta.",
+          "To tell the truth, I do not like it."
+        ],
+        [
+          "después de / antes de + inf.",
+          "Antes de salir, cierra la puerta.",
+          "Before leaving, close the door."
+        ],
+        [
+          "hasta + inf.",
+          "Trabaja hasta caer rendido.",
+          "He works until he drops."
+        ],
+        [
+          "infinitive as subject",
+          "Fumar es malo.",
+          "Smoking is bad."
+        ],
+        [
+          "el + inf. (noun)",
+          "El fumar es malo. / El comer bien es sano.",
+          "Smoking is bad. / Eating well is healthy."
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Perfect infinitive</b> (haber + participle) shows an action <b>before</b> the main verb: <i>Dice haber llegado tarde.</i> (He says he arrived late.) <i>Después de haber comido, salimos.</i> <i>Me alegro de haberte conocido.</i>"
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "Same subject: infinitive",
+      "text": "When both verbs share a subject, use the infinitive: <i>Quiero salir.</i> / <i>Me alegro de verte.</i> With different subjects use <b>que + subjunctive</b>: <i>Quiero que salgas. / Me alegro de que vengas.</i>"
+    },
+    {
+      "type": "h1",
+      "text": "2. The gerund"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.6,
+        6.2,
+        6.2
+      ],
+      "head": [
+        "Use",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "Simultaneous action",
+          "Entró cantando.",
+          "He came in singing."
+        ],
+        [
+          "Manner",
+          "Aprendió español viendo series.",
+          "He learnt Spanish by watching series."
+        ],
+        [
+          "Cause",
+          "Siendo así, no puedo ir.",
+          "That being so, I cannot go."
+        ],
+        [
+          "Condition",
+          "Estudiando, aprobarás.",
+          "If you study, you will pass."
+        ],
+        [
+          "Concession",
+          "Aun siendo caro, lo compré.",
+          "Even though it was expensive, I bought it."
+        ],
+        [
+          "Time (sequence)",
+          "Vio el accidente volviendo a casa.",
+          "He saw the accident on the way home."
+        ],
+        [
+          "Perfect gerund",
+          "Habiendo terminado, se fue.",
+          "Having finished, he left."
+        ],
+        [
+          "Position",
+          "Lo vi cruzando la calle.",
+          "I saw him crossing the street."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "warn",
+      "title": "Gerund restrictions",
+      "bullets": [
+        "The gerund describes the <b>action</b> of the verb. To identify or describe a noun, use a relative clause: <i>Conozco a la chica que vive allí</i>, not <i>la chica viviendo allí</i>.",
+        "Not for a following action as in English (\"he left, closing the door\") unless simultaneous: <i>Salió y cerró la puerta</i>.",
+        "Not as an adjective: <i>agua hirviendo</i> is fixed; otherwise use a relative clause or adjective: <i>una caja que contiene ...</i>, not <i>una caja conteniendo ...</i>."
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "Pronouns attach to the gerund: <i>mirándolo, diciéndomelo</i> (accent on the stressed vowel).",
+        "Irregular gerunds: <i>diciendo, durmiendo, pidiendo, sintiendo, leyendo, oyendo, viniendo, yendo</i>."
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "3. Absolute participle clauses"
+    },
+    {
+      "type": "p",
+      "text": "A past participle can open a sentence and mean \"after / once ...\". The participle <b>agrees with the noun</b> that follows."
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        6.0,
+        6.0,
+        5.0
+      ],
+      "head": [
+        "Spanish",
+        "English",
+        "Pattern"
+      ],
+      "rows": [
+        [
+          "Terminada la reunión, salimos.",
+          "Once the meeting was over, we left.",
+          "participle + noun"
+        ],
+        [
+          "Hecho esto, nos fuimos.",
+          "That done, we left.",
+          "participle + pronoun"
+        ],
+        [
+          "Dicho esto, cerró la puerta.",
+          "Having said this, he closed the door.",
+          "set phrase"
+        ],
+        [
+          "Una vez terminado el trabajo, descansó.",
+          "Once the work was finished, he rested.",
+          "una vez + participle"
+        ],
+        [
+          "Cerradas las tiendas, volvimos.",
+          "With the shops closed, we returned.",
+          "agrees: feminine plural"
+        ],
+        [
+          "Visto lo visto, me voy.",
+          "Given what I have seen, I am leaving.",
+          "set phrase"
+        ],
+        [
+          "Acabado el curso, viajó.",
+          "When the course ended, he travelled.",
+          "participle + noun"
+        ],
+        [
+          "Pasadas las diez, cierran.",
+          "After ten o'clock, they close.",
+          "pasado / pasadas"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Participles as adjectives and nouns"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.6,
+        5.6,
+        5.8
+      ],
+      "head": [
+        "Participle",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "cansado",
+          "Estoy cansado.",
+          "tired"
+        ],
+        [
+          "cerrado",
+          "La puerta cerrada.",
+          "closed"
+        ],
+        [
+          "el herido",
+          "El herido está grave.",
+          "the injured man"
+        ],
+        [
+          "la comida",
+          "La comida está lista.",
+          "the meal (food)"
+        ],
+        [
+          "lo hecho",
+          "Lo hecho, hecho está.",
+          "what is done is done"
+        ],
+        [
+          "el desempleado",
+          "El desempleado busca trabajo.",
+          "the unemployed person"
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "4. Infinitive, gerund or que-clause?"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.0,
+        6.0,
+        6.0
+      ],
+      "head": [
+        "Situation",
+        "Use",
+        "Example"
+      ],
+      "rows": [
+        [
+          "Same subject, purpose",
+          "para + inf.",
+          "Estudio para aprobar."
+        ],
+        [
+          "Different subject, purpose",
+          "para que + subj.",
+          "Te lo explico para que lo entiendas."
+        ],
+        [
+          "Same subject, time",
+          "al / antes de + inf.",
+          "Al salir, apagó la luz."
+        ],
+        [
+          "Different subject, time",
+          "cuando / antes de que + verb",
+          "Cuando salí, llovía."
+        ],
+        [
+          "Same subject, feeling",
+          "de + inf.",
+          "Me alegro de verte."
+        ],
+        [
+          "Different subject, feeling",
+          "de que + subj.",
+          "Me alegro de que vengas."
+        ],
+        [
+          "Manner / means",
+          "gerund",
+          "Aprendió trabajando."
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "5. Common mistakes"
+    },
+    {
+      "type": "mistakes",
+      "rows": [
+        [
+          "Al llegando, llamé.",
+          "Al llegar, llamé.",
+          "al + infinitive, never gerund."
+        ],
+        [
+          "Salió sin diciendo nada.",
+          "Salió sin decir nada.",
+          "sin + infinitive."
+        ],
+        [
+          "Estoy cansada de trabajando.",
+          "Estoy cansada de trabajar.",
+          "Preposition + infinitive."
+        ],
+        [
+          "Una caja conteniendo libros.",
+          "Una caja que contiene libros.",
+          "Gerund cannot modify a noun."
+        ],
+        [
+          "Terminado las clases, salimos.",
+          "Terminadas las clases, salimos.",
+          "Participle agrees with the noun."
+        ],
+        [
+          "Después de llegando, comió.",
+          "Después de llegar, comió.",
+          "After a preposition: infinitive."
+        ],
+        [
+          "Me alegro de que verte.",
+          "Me alegro de verte.",
+          "Same subject: infinitive."
+        ],
+        [
+          "Quiero que yo salga.",
+          "Quiero salir.",
+          "Same subject: infinitive."
+        ],
+        [
+          "Se sentó, abriendo el libro.",
+          "Se sentó y abrió el libro.",
+          "Following actions need a second verb."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "6. Self-check"
+    },
+    {
+      "type": "p",
+      "text": "Fill in the correct form. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Hint"
+      ],
+      "items": [
+        {
+          "q": "Al ______, llamé a Ana.",
+          "hint": "llegar: infinitive",
+          "a": "llegar",
+          "full": "Al llegar, llamé a Ana."
+        },
+        {
+          "q": "Salió sin ______ nada.",
+          "hint": "decir: infinitive",
+          "a": "decir",
+          "full": "Salió sin decir nada."
+        },
+        {
+          "q": "______ la reunión, salimos.",
+          "hint": "terminar: participle, feminine",
+          "a": "Terminada",
+          "full": "Terminada la reunión, salimos."
+        },
+        {
+          "q": "______, aprobarás el examen.",
+          "hint": "estudiar: gerund",
+          "a": "Estudiando",
+          "full": "Estudiando, aprobarás el examen."
+        },
+        {
+          "q": "Dice ______ llegado tarde.",
+          "hint": "perfect infinitive: auxiliary",
+          "a": "haber",
+          "full": "Dice haber llegado tarde."
+        },
+        {
+          "q": "Me alegro de ______ conocido.",
+          "hint": "haber + te: perfect infinitive",
+          "a": "haberte",
+          "full": "Me alegro de haberte conocido."
+        },
+        {
+          "q": "Una vez ______ el trabajo, descansó.",
+          "hint": "terminar: participle, masculine",
+          "a": "terminado",
+          "full": "Una vez terminado el trabajo, descansó."
+        },
+        {
+          "q": "Lo vi ______ la calle.",
+          "hint": "cruzar: gerund",
+          "a": "cruzando",
+          "full": "Lo vi cruzando la calle."
+        },
+        {
+          "q": "Se fue ______ despedirse.",
+          "hint": "without",
+          "a": "sin",
+          "full": "Se fue sin despedirse."
+        },
+        {
+          "q": "Antes de ______, cierra la puerta.",
+          "hint": "salir: infinitive",
+          "a": "salir",
+          "full": "Antes de salir, cierra la puerta."
+        },
+        {
+          "q": "Me alegro de que ______.",
+          "hint": "venir: tú, subjunctive",
+          "a": "vengas",
+          "full": "Me alegro de que vengas."
+        },
+        {
+          "q": "Aprendió español ______ series.",
+          "hint": "ver: gerund",
+          "a": "viendo",
+          "full": "Aprendió español viendo series."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish:</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "On arriving, I called Ana.",
+          "a": "Al llegar, llamé a Ana."
+        },
+        {
+          "q": "He left without saying anything.",
+          "a": "Salió sin decir nada."
+        },
+        {
+          "q": "Once the work was finished, he rested.",
+          "a": "Una vez terminado el trabajo, descansó."
+        },
+        {
+          "q": "He learnt Spanish by watching series.",
+          "a": "Aprendió español viendo series."
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

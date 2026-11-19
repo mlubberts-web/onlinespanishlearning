@@ -1,0 +1,556 @@
+{
+  "meta": {
+    "level": "C1",
+    "section": "Grammar",
+    "number": 3,
+    "total_in_level": 10,
+    "title": "Advanced Connectors and Discourse",
+    "subtitle": "adding, contrasting, cause and consequence, organising and reformulating, and structuring an opinion essay",
+    "footer": "Spanish Learning Program · C1 · Grammar · Connectors and discourse",
+    "next": "Next: C1 · PDF 4 — se, passive and nominalisation"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "structure an argument with advanced connectors (ahora bien, no obstante, de ahí que)",
+        "introduce, qualify and reformulate ideas (es decir, o sea, a saber, dicho de otro modo)",
+        "show concession, consequence, condition and opposition in formal Spanish",
+        "write a clear, well-organised opinion essay"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "1. Adding and reinforcing"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.0,
+        6.2,
+        5.8
+      ],
+      "head": [
+        "Connector",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "asimismo / igualmente",
+          "Asimismo, cabe destacar el papel de la prensa.",
+          "Likewise, the role of the press deserves mention."
+        ],
+        [
+          "además / es más",
+          "Es caro; es más, no funciona.",
+          "It is expensive; what is more, it does not work."
+        ],
+        [
+          "incluso / hasta",
+          "Incluso los expertos dudan.",
+          "Even the experts doubt."
+        ],
+        [
+          "por añadidura",
+          "Por añadidura, la oferta caducó.",
+          "On top of that, the offer expired."
+        ],
+        [
+          "a su vez",
+          "Esto, a su vez, genera empleo.",
+          "This in turn creates jobs."
+        ],
+        [
+          "de igual modo / del mismo modo",
+          "Del mismo modo, hay que ahorrar.",
+          "In the same way, we must save."
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "2. Contrast and concession"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.0,
+        6.2,
+        5.8
+      ],
+      "head": [
+        "Connector",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "sin embargo / no obstante",
+          "Es caro; no obstante, lo compraré.",
+          "It is expensive; nevertheless I will buy it."
+        ],
+        [
+          "ahora bien",
+          "Ahora bien, el plan tiene riesgos.",
+          "That said, the plan has risks."
+        ],
+        [
+          "con todo / aun así",
+          "Con todo, mereció la pena.",
+          "All the same, it was worth it."
+        ],
+        [
+          "en cambio / por el contrario",
+          "Él trabaja; ella, en cambio, descansa.",
+          "He works; she, by contrast, rests."
+        ],
+        [
+          "si bien + indicative",
+          "Si bien es útil, es caro.",
+          "While it is useful, it is expensive."
+        ],
+        [
+          "aunque / a pesar de que",
+          "Aunque llueva, saldremos.",
+          "Even if it rains, we will go out."
+        ],
+        [
+          "pese a que / a pesar de + noun",
+          "Pese a la crisis, creció.",
+          "Despite the crisis, it grew."
+        ],
+        [
+          "por más que / por mucho que",
+          "Por más que insistas, no cederé.",
+          "However much you insist, I will not give in."
+        ],
+        [
+          "mientras que",
+          "Unos aplauden, mientras que otros critican.",
+          "Some applaud, whereas others criticise."
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "3. Cause and consequence"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.0,
+        6.2,
+        5.8
+      ],
+      "head": [
+        "Connector",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "puesto que / dado que / ya que",
+          "Dado que no hay datos, no decidimos.",
+          "Given that there are no data, we do not decide."
+        ],
+        [
+          "debido a / a causa de / por culpa de",
+          "Por culpa de la lluvia, no vino.",
+          "Because of the rain (blame), he did not come."
+        ],
+        [
+          "gracias a",
+          "Gracias a ti, lo logré.",
+          "Thanks to you, I managed."
+        ],
+        [
+          "en vista de que",
+          "En vista de que no vienes, me voy.",
+          "Since you are not coming, I am leaving."
+        ],
+        [
+          "por consiguiente / por tanto",
+          "Por consiguiente, se cancela.",
+          "Consequently, it is cancelled."
+        ],
+        [
+          "así pues / de ahí que + subj.",
+          "De ahí que sea necesario actuar.",
+          "Hence it is necessary to act."
+        ],
+        [
+          "en consecuencia",
+          "En consecuencia, se tomaron medidas.",
+          "As a result, measures were taken."
+        ],
+        [
+          "de modo que / así que",
+          "Llovía, así que nos quedamos.",
+          "It was raining, so we stayed."
+        ],
+        [
+          "tan ... que / tanto ... que",
+          "Era tan tarde que no había metro.",
+          "It was so late there was no metro."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "4. Condition, purpose and time"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.0,
+        6.2,
+        5.8
+      ],
+      "head": [
+        "Connector",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "siempre que / siempre y cuando + subj.",
+          "Iré siempre y cuando me inviten.",
+          "I will go provided I am invited."
+        ],
+        [
+          "a menos que / salvo que + subj.",
+          "Salvo que nieve, abrimos.",
+          "Unless it snows, we open."
+        ],
+        [
+          "en caso de que + subj.",
+          "En caso de que falle, avísame.",
+          "In case it fails, tell me."
+        ],
+        [
+          "con vistas a / con el fin de",
+          "Con el fin de ahorrar, apagó la luz.",
+          "In order to save, he turned off the light."
+        ],
+        [
+          "a fin de que / para que + subj.",
+          "A fin de que lo entiendan, lo repito.",
+          "So that they understand, I repeat it."
+        ],
+        [
+          "a medida que / conforme",
+          "Conforme pasan los años, cambia.",
+          "As the years pass, it changes."
+        ],
+        [
+          "en cuanto / apenas / nada más + inf.",
+          "Nada más llegar, llamó.",
+          "As soon as he arrived, he called."
+        ],
+        [
+          "mientras tanto / entretanto",
+          "Entretanto, esperamos.",
+          "Meanwhile, we wait."
+        ],
+        [
+          "hasta que / una vez que",
+          "Una vez que termine, te aviso.",
+          "Once I finish, I will tell you."
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "5. Organising and reformulating"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.6,
+        12.4
+      ],
+      "head": [
+        "Function",
+        "Phrases"
+      ],
+      "rows": [
+        [
+          "Introduce topic",
+          "En cuanto a ... / Respecto a ... / Con respecto a ... / Por lo que se refiere a ... / A propósito de ..."
+        ],
+        [
+          "Order",
+          "En primer lugar, ... / En segundo lugar, ... / Por último, ... / Para empezar, ... / Para concluir, ..."
+        ],
+        [
+          "Add an example",
+          "Por ejemplo, ... / A modo de ejemplo, ... / Sin ir más lejos, ... / Tal es el caso de ..."
+        ],
+        [
+          "Reformulate",
+          "Es decir, ... / O sea, ... / Dicho de otro modo, ... / En otras palabras, ... / A saber, ..."
+        ],
+        [
+          "Emphasise",
+          "Cabe destacar que ... / Conviene subrayar que ... / Hay que tener en cuenta que ... / De hecho, ..."
+        ],
+        [
+          "Summarise",
+          "En resumen, ... / En suma, ... / En definitiva, ... / En conclusión, ... / En síntesis, ..."
+        ],
+        [
+          "Give opinion",
+          "En mi opinión, ... / Desde mi punto de vista, ... / A mi juicio, ... / Considero que ... / Soy de la opinión de que ..."
+        ],
+        [
+          "Concede and counter",
+          "Es cierto que ..., pero ... / Si bien es verdad que ..., no lo es menos que ..."
+        ],
+        [
+          "Hedge",
+          "Parece que ... / Según parece ... / Al parecer ... / Tiende a ... / Podría decirse que ..."
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "No lo es menos que",
+      "text": "<b>Si bien es cierto que ..., no es menos cierto que ...</b> (While it is true that ..., it is no less true that ...) is a classic C1 formula for a balanced argument: <i>Si bien es cierto que la tecnología facilita la vida, no es menos cierto que genera dependencia.</i>"
+    },
+    {
+      "type": "h1",
+      "text": "6. Structure of an opinion essay"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        3.6,
+        13.4
+      ],
+      "head": [
+        "Part",
+        "Content and language"
+      ],
+      "rows": [
+        [
+          "Introduction",
+          "Present the topic, state your thesis. <i>En la actualidad, cada vez más personas ... En este ensayo defenderé que ...</i>"
+        ],
+        [
+          "Argument 1",
+          "En primer lugar, ... Un claro ejemplo de ello es ... Por consiguiente, ..."
+        ],
+        [
+          "Argument 2",
+          "Asimismo, ... Además, cabe destacar ... Esto, a su vez, ..."
+        ],
+        [
+          "Counter-argument",
+          "Ahora bien, algunos sostienen que ... Si bien es cierto que ..., no lo es menos que ..."
+        ],
+        [
+          "Conclusion",
+          "En definitiva, ... Por todo lo expuesto, ... Así pues, considero que ..."
+        ]
+      ]
+    },
+    {
+      "type": "bullets",
+      "items": [
+        "One idea per paragraph. Start with a clear topic sentence.",
+        "Vary connectors: do not repeat <i>además</i> or <i>pero</i> three times.",
+        "Use <b>impersonal</b> forms for a formal tone: <i>Se considera que ... Cabe señalar que ... Resulta evidente que ...</i>"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "7. Common mistakes"
+    },
+    {
+      "type": "mistakes",
+      "rows": [
+        [
+          "A pesar que llueve, salgo.",
+          "A pesar de que llueve, salgo.",
+          "a pesar DE que."
+        ],
+        [
+          "Debido que no vino, ...",
+          "Debido a que no vino, ...",
+          "debido A que."
+        ],
+        [
+          "Sin embargo, pero es caro.",
+          "Sin embargo, es caro.",
+          "do not add pero."
+        ],
+        [
+          "Por consiguiente que se cancela.",
+          "Por consiguiente, se cancela.",
+          "comma, no que."
+        ],
+        [
+          "De ahí que es necesario.",
+          "De ahí que sea necesario.",
+          "de ahí que: subjunctive."
+        ],
+        [
+          "Siempre y cuando vienes, ...",
+          "Siempre y cuando vengas, ...",
+          "condition: subjunctive."
+        ],
+        [
+          "Con respecto de la educación, ...",
+          "Con respecto a la educación, ...",
+          "con respecto A."
+        ],
+        [
+          "A pesar de la lluvia que cayó, salimos.",
+          "A pesar de la lluvia, salimos.",
+          "do not add extra relative."
+        ],
+        [
+          "Y por eso sin embargo ...",
+          "Por eso, ...",
+          "do not stack connectors."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "8. Self-check"
+    },
+    {
+      "type": "p",
+      "text": "Fill in the missing connector or form. Answers are on the last page."
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Hint"
+      ],
+      "items": [
+        {
+          "q": "Es caro; ______, lo compraré.",
+          "hint": "nevertheless",
+          "a": "no obstante",
+          "full": "Es caro; no obstante, lo compraré."
+        },
+        {
+          "q": "______ bien, el plan tiene riesgos.",
+          "hint": "that said",
+          "a": "Ahora",
+          "full": "Ahora bien, el plan tiene riesgos."
+        },
+        {
+          "q": "______ que no hay datos, no decidimos.",
+          "hint": "given",
+          "a": "Dado",
+          "full": "Dado que no hay datos, no decidimos."
+        },
+        {
+          "q": "______ que sea necesario actuar.",
+          "hint": "hence (2 words)",
+          "a": "De ahí",
+          "full": "De ahí que sea necesario actuar."
+        },
+        {
+          "q": "Salvo ______, abrimos.",
+          "hint": "nevar: unless + subjunctive",
+          "a": "que nieve",
+          "full": "Salvo que nieve, abrimos."
+        },
+        {
+          "q": "______ cierto que ayuda, no es menos cierto que cuesta.",
+          "hint": "while it is",
+          "a": "Si bien es",
+          "full": "Si bien es cierto que ayuda, no es menos cierto que cuesta."
+        },
+        {
+          "q": "______ a la crisis, la empresa creció.",
+          "hint": "despite",
+          "a": "Pese",
+          "full": "Pese a la crisis, la empresa creció."
+        },
+        {
+          "q": "______ llegar, llamó a su madre.",
+          "hint": "as soon as",
+          "a": "Nada más",
+          "full": "Nada más llegar, llamó a su madre."
+        },
+        {
+          "q": "______ destacar que el plan funciona.",
+          "hint": "it is worth noting",
+          "a": "Cabe",
+          "full": "Cabe destacar que el plan funciona."
+        },
+        {
+          "q": "______, no hay otra solución.",
+          "hint": "in short",
+          "a": "En definitiva",
+          "full": "En definitiva, no hay otra solución."
+        },
+        {
+          "q": "Iré siempre y ______ me inviten.",
+          "hint": "provided",
+          "a": "cuando",
+          "full": "Iré siempre y cuando me inviten."
+        },
+        {
+          "q": "______ a la educación, hay mucho por hacer.",
+          "hint": "regarding",
+          "a": "En cuanto",
+          "full": "En cuanto a la educación, hay mucho por hacer."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish:</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "That said, the plan has risks.",
+          "a": "Ahora bien, el plan tiene riesgos."
+        },
+        {
+          "q": "Hence it is necessary to act.",
+          "a": "De ahí que sea necesario actuar."
+        },
+        {
+          "q": "Despite the crisis, the company grew.",
+          "a": "A pesar de la crisis, la empresa creció."
+        },
+        {
+          "q": "In short, there is no other solution.",
+          "a": "En definitiva, no hay otra solución."
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}

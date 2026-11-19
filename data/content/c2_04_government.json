@@ -1,0 +1,499 @@
+{
+  "meta": {
+    "level": "C2",
+    "section": "Grammar",
+    "number": 4,
+    "total_in_level": 10,
+    "title": "Dequeísmo, Queísmo and Verb Government",
+    "subtitle": "which verbs take de, en, a or con before que, conjunctions with de, and personal a",
+    "footer": "Spanish Learning Program · C2 · Grammar · Verb government",
+    "next": "Next: C2 · PDF 5 — Rhetoric and figures of speech"
+  },
+  "blocks": [
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "After this PDF you can",
+      "bullets": [
+        "tell at once whether a verb needs de, en, a or con before que",
+        "avoid dequeísmo (extra de) and queísmo (missing de)",
+        "use personal a correctly, including the borderline cases",
+        "use the question test to check any doubtful sentence"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "1. The problem"
+    },
+    {
+      "type": "p",
+      "text": "<b>Dequeísmo</b> = adding <i>de</i> where it is not allowed (*Pienso de que...). <b>Queísmo</b> = dropping <i>de</i> where it is required (*Me alegro que...). Both are common in speech; at C2 you must get them right."
+    },
+    {
+      "type": "callout",
+      "kind": "tip",
+      "title": "The question test",
+      "bullets": [
+        "Turn the sentence into a question about the clause.",
+        "If the question needs the preposition (<i>¿De qué te das cuenta?</i>), keep de: <i>Me doy cuenta de que...</i>",
+        "If the question works without it (<i>¿Qué piensas?</i>), drop de: <i>Pienso que...</i>"
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "2. Verbs that need a preposition before que"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        4.0,
+        3.2,
+        5.6,
+        4.2
+      ],
+      "head": [
+        "Verb",
+        "Preposition",
+        "Example",
+        "English"
+      ],
+      "rows": [
+        [
+          "darse cuenta",
+          "de",
+          "Me di cuenta de que mentía.",
+          "I realised he lied."
+        ],
+        [
+          "acordarse",
+          "de",
+          "Me acuerdo de que llamó.",
+          "I remember he called."
+        ],
+        [
+          "alegrarse",
+          "de",
+          "Me alegro de que vengas.",
+          "I am glad you come."
+        ],
+        [
+          "estar seguro",
+          "de",
+          "Estoy seguro de que ganará.",
+          "I am sure he will win."
+        ],
+        [
+          "quejarse",
+          "de",
+          "Se queja de que hay ruido.",
+          "He complains there is noise."
+        ],
+        [
+          "enterarse",
+          "de",
+          "Me enteré de que se casa.",
+          "I found out he is marrying."
+        ],
+        [
+          "insistir",
+          "en",
+          "Insisto en que vengas.",
+          "I insist you come."
+        ],
+        [
+          "confiar",
+          "en",
+          "Confío en que apruebes.",
+          "I trust you will pass."
+        ],
+        [
+          "consistir",
+          "en",
+          "Consiste en que todos ganan.",
+          "It consists of everyone winning."
+        ],
+        [
+          "fijarse",
+          "en",
+          "Fíjate en que no hay luz.",
+          "Note that there is no light."
+        ],
+        [
+          "contar",
+          "con",
+          "Cuento con que me ayudes.",
+          "I count on you helping me."
+        ],
+        [
+          "convencer",
+          "de",
+          "Lo convencí de que viniera.",
+          "I convinced him to come."
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "3. Verbs that take que directly"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        3.6,
+        5.8,
+        3.6,
+        4.0
+      ],
+      "head": [
+        "Verb",
+        "Example",
+        "Mood",
+        "English"
+      ],
+      "rows": [
+        [
+          "decir",
+          "Dice que vendrá tarde.",
+          "indicative",
+          "He says he will be late."
+        ],
+        [
+          "pensar / creer",
+          "Creo que tienes razón.",
+          "indicative",
+          "I think you are right."
+        ],
+        [
+          "opinar",
+          "Opino que es un error.",
+          "indicative",
+          "I think it is a mistake."
+        ],
+        [
+          "parecer",
+          "Parece que va a llover.",
+          "indicative",
+          "It seems it will rain."
+        ],
+        [
+          "temer",
+          "Temo que sea tarde.",
+          "subjunctive",
+          "I fear it may be late."
+        ],
+        [
+          "esperar",
+          "Espero que vengas.",
+          "subjunctive",
+          "I hope you come."
+        ],
+        [
+          "suponer",
+          "Supongo que sí.",
+          "indicative",
+          "I suppose so."
+        ],
+        [
+          "afirmar",
+          "Afirma que lo vio.",
+          "indicative",
+          "He claims he saw it."
+        ],
+        [
+          "querer",
+          "Quiero que me ayudes.",
+          "subjunctive",
+          "I want you to help me."
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "4. Conjunctions with and without de"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.0,
+        6.4,
+        5.6
+      ],
+      "head": [
+        "Conjunction",
+        "Example",
+        "Note"
+      ],
+      "rows": [
+        [
+          "antes de que",
+          "Llámame antes de que salgas.",
+          "de required"
+        ],
+        [
+          "después de que",
+          "Hablamos después de que cenes.",
+          "de required"
+        ],
+        [
+          "a pesar de que",
+          "A pesar de que llovía, salimos.",
+          "de required"
+        ],
+        [
+          "en caso de que",
+          "En caso de que llueva, no salimos.",
+          "de required"
+        ],
+        [
+          "con tal de que",
+          "Voy con tal de que vengas.",
+          "de required"
+        ],
+        [
+          "ya que / puesto que",
+          "Ya que estás aquí, ayuda.",
+          "no de"
+        ],
+        [
+          "es posible que",
+          "Es posible que llegue tarde.",
+          "no de"
+        ],
+        [
+          "es hora de que",
+          "Es hora de que te vayas.",
+          "de required"
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "5. Personal a"
+    },
+    {
+      "type": "table",
+      "style": "plain",
+      "widths": [
+        5.4,
+        5.8,
+        5.8
+      ],
+      "head": [
+        "Rule",
+        "Example",
+        "Note"
+      ],
+      "rows": [
+        [
+          "known specific person",
+          "Vi a mi hermano.",
+          "a required"
+        ],
+        [
+          "thing",
+          "Vi el coche.",
+          "no a"
+        ],
+        [
+          "unknown person (any)",
+          "Busco un médico que hable inglés.",
+          "no a; subjunctive"
+        ],
+        [
+          "known person",
+          "Busco a un médico que conozco.",
+          "a; indicative"
+        ],
+        [
+          "pet / loved animal",
+          "Quiero mucho a mi perro.",
+          "a with beloved animals"
+        ],
+        [
+          "quantifiers",
+          "No vi a nadie. / Conozco a muchos.",
+          "a with nadie, alguien, muchos"
+        ],
+        [
+          "tener",
+          "Tengo dos hermanos.",
+          "no a after tener"
+        ]
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "h1",
+      "text": "6. Common mistakes"
+    },
+    {
+      "type": "mistakes",
+      "rows": [
+        [
+          "Pienso de que tienes razón.",
+          "Pienso que tienes razón.",
+          "dequeísmo: pensar takes que."
+        ],
+        [
+          "Creo de que vendrá.",
+          "Creo que vendrá.",
+          "dequeísmo."
+        ],
+        [
+          "Me di cuenta que mentía.",
+          "Me di cuenta de que mentía.",
+          "queísmo: darse cuenta de que."
+        ],
+        [
+          "Me alegro que estés aquí.",
+          "Me alegro de que estés aquí.",
+          "queísmo."
+        ],
+        [
+          "Insisto que vengas.",
+          "Insisto en que vengas.",
+          "insistir en que."
+        ],
+        [
+          "Antes que llegues, limpio.",
+          "Antes de que llegues, limpio.",
+          "antes de que."
+        ],
+        [
+          "Vi mi hermano.",
+          "Vi a mi hermano.",
+          "personal a."
+        ],
+        [
+          "Dijo de que vendría.",
+          "Dijo que vendría.",
+          "decir: no de."
+        ]
+      ]
+    },
+    {
+      "type": "h1",
+      "text": "7. Self-check"
+    },
+    {
+      "type": "exercises",
+      "titles": [
+        "Sentence",
+        "Hint"
+      ],
+      "items": [
+        {
+          "q": "Me di cuenta ______ que estaba equivocado.",
+          "hint": "preposition",
+          "a": "de",
+          "full": "Me di cuenta de que estaba equivocado."
+        },
+        {
+          "q": "Pienso ______ tienes razón.",
+          "hint": "conjunction",
+          "a": "que",
+          "full": "Pienso que tienes razón."
+        },
+        {
+          "q": "Insisto ______ que vengas.",
+          "hint": "preposition",
+          "a": "en",
+          "full": "Insisto en que vengas."
+        },
+        {
+          "q": "Confío ______ que apruebes.",
+          "hint": "preposition",
+          "a": "en",
+          "full": "Confío en que apruebes."
+        },
+        {
+          "q": "Me alegro ______ que estés aquí.",
+          "hint": "preposition",
+          "a": "de",
+          "full": "Me alegro de que estés aquí."
+        },
+        {
+          "q": "Creo ______ vendrá mañana.",
+          "hint": "conjunction",
+          "a": "que",
+          "full": "Creo que vendrá mañana."
+        },
+        {
+          "q": "Estoy seguro ______ que ganará.",
+          "hint": "preposition",
+          "a": "de",
+          "full": "Estoy seguro de que ganará."
+        },
+        {
+          "q": "Antes ______ que llegues, limpio.",
+          "hint": "preposition",
+          "a": "de",
+          "full": "Antes de que llegues, limpio."
+        },
+        {
+          "q": "Busco ______ mi hermano.",
+          "hint": "personal a",
+          "a": "a",
+          "full": "Busco a mi hermano."
+        },
+        {
+          "q": "Cuento ______ que me ayudes.",
+          "hint": "preposition",
+          "a": "con",
+          "full": "Cuento con que me ayudes."
+        },
+        {
+          "q": "Me quejo ______ que no hay luz.",
+          "hint": "preposition",
+          "a": "de",
+          "full": "Me quejo de que no hay luz."
+        },
+        {
+          "q": "Dice ______ vendrá tarde.",
+          "hint": "conjunction",
+          "a": "que",
+          "full": "Dice que vendrá tarde."
+        }
+      ]
+    },
+    {
+      "type": "p",
+      "text": "<b>Translate into Spanish (Spain):</b>"
+    },
+    {
+      "type": "translations",
+      "items": [
+        {
+          "q": "I realised that I was wrong.",
+          "a": "Me di cuenta de que estaba equivocado."
+        },
+        {
+          "q": "I think that you are right.",
+          "a": "Creo que tienes razón."
+        },
+        {
+          "q": "I insist that you come.",
+          "a": "Insisto en que vengas."
+        },
+        {
+          "q": "I am looking for my brother.",
+          "a": "Busco a mi hermano."
+        }
+      ]
+    },
+    {
+      "type": "pagebreak"
+    },
+    {
+      "type": "answers"
+    }
+  ]
+}
