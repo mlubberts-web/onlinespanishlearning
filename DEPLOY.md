@@ -11,7 +11,9 @@ changes: without the secrets below, the app keeps using those files and doesn't 
 
 ## 1. The database (Supabase)
 
-1. Make an account at [supabase.com](https://supabase.com) and click **New project**. Any name and
+1. Make an account at [supabase.com](https://supabase.com). A new account first asks you to create
+   an **organization** (the folder your projects live in): any name, type **Personal**, plan
+   **Free**. Then click **New project** inside it. Any name and
    database password will do (you won't need that password again). As the region, pick one in the
    US East, close to Streamlit's servers, so saving is quick.
 2. When the project is ready, open **SQL Editor** in the left menu, paste this and click **Run**:
