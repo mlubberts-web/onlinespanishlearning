@@ -42,7 +42,12 @@ def _address(database):
 
 
 def _headers(database):
-    return {"apikey": database["key"]}
+    headers = {"apikey": database["key"]}
+    # The older "service_role" key (it starts with eyJ) must also be sent as a login token;
+    # the newer sb_secret_ keys need only the apikey header.
+    if database["key"].startswith("eyJ"):
+        headers["Authorization"] = "Bearer " + database["key"]
+    return headers
 
 
 def load(path, empty):

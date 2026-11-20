@@ -35,9 +35,14 @@ changes: without the secrets below, the app keeps using those files and doesn't 
    While creating the project, keep **Enable Data API** ticked; the other two boxes under
    "Data access" can stay as they are.
 
-3. Open **Project Settings**, then **API Keys**. Copy the **secret key** (it starts with
-   `sb_secret_`). Under **Data API** (or on the project's home page) copy the **Project URL** too,
-   which looks like `https://abcdefgh.supabase.co`.
+3. Open **Project Settings** (the gear at the bottom left), then **API Keys**. Copy the
+   **secret key** (it starts with `sb_secret_`; click the eye or copy icon to see it). If the page
+   only offers **Create new API keys**, click that first. The older **service_role** key on the
+   "Legacy" tab works too.
+
+   The **Project URL** looks like `https://abcdefgh.supabase.co`. You can find it with the
+   **Connect** button at the top of the project, or build it yourself: the browser's address bar
+   shows `supabase.com/dashboard/project/abcdefgh`, and `abcdefgh` is the part you need.
 
 Keep the secret key to yourself: whoever has it can read and change all results.
 
