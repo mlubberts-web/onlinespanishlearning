@@ -27,7 +27,13 @@ changes: without the secrets below, the app keeps using those files and doesn't 
    );
    -- Nobody can read the table from a browser; only the app's server can, with the secret key.
    alter table saves enable row level security;
+   -- Give the secret key access to this table (needed when "Grant API access to new tables
+   -- automatically" was left off while creating the project).
+   grant select, insert, update, delete on table saves to service_role;
    ```
+
+   While creating the project, keep **Enable Data API** ticked; the other two boxes under
+   "Data access" can stay as they are.
 
 3. Open **Project Settings**, then **API Keys**. Copy the **secret key** (it starts with
    `sb_secret_`). Under **Data API** (or on the project's home page) copy the **Project URL** too,
