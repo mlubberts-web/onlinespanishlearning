@@ -50,6 +50,22 @@ def _headers(database):
     return headers
 
 
+def request(database, method, table, params=None, body=None, prefer=None):
+    """One request to a table of the online database, for accounts.py. Returns the reply, or raises
+    StorageError with the database's reason. database needs 'url' and 'key'."""
+    headers = _headers(database)
+    if prefer:
+        headers["Prefer"] = prefer
+    try:
+        reply = requests.request(method, f"{database['url'].rstrip('/')}/rest/v1/{table}",
+                                 params=params, json=body, headers=headers, timeout=TIMEOUT)
+    except requests.RequestException as error:
+        raise StorageError(f"no connection ({type(error).__name__})") from error
+    if not reply.ok and reply.status_code != 409:  # 409 = already exists: the caller handles that
+        raise StorageError(f"{reply.status_code}: {reply.text[:300]}")
+    return reply
+
+
 def load(path, empty):
     """The saved data of path (for example .../practice.json), or empty when there is none yet."""
     database = _database()
@@ -113,3 +129,10 @@ def save(path, data):
 def _remember(owner, name, text):
     with _lock:
         _last_saved[(owner, name)] = text
+
+
+def forget(owner):
+    """Forgets what was saved last for this person (after their account was removed)."""
+    with _lock:
+        for saved in [k for k in _last_saved if k[0] == owner]:
+            del _last_saved[saved]

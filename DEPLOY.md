@@ -30,6 +30,17 @@ changes: without the secrets below, the app keeps using those files and doesn't 
    -- Give the secret key access to this table (needed when "Grant API access to new tables
    -- automatically" was left off while creating the project).
    grant select, insert, update, delete on table saves to service_role;
+
+   -- The accounts people make themselves with the invite code. Only a scrambled version of each
+   -- password (a hash) is kept, never the password itself.
+   create table accounts (
+     name text primary key,         -- the name they log in with
+     password_hash text not null,
+     timezone text not null,        -- for example Europe/Madrid
+     created date not null default current_date
+   );
+   alter table accounts enable row level security;
+   grant select, insert, update, delete on table accounts to service_role;
    ```
 
    While creating the project, keep **Enable Data API** ticked; the other two boxes under
@@ -70,29 +81,39 @@ The code has to be in a GitHub repository. Your own results and the secrets are 
    url = "https://abcdefgh.supabase.co"
    key = "sb_secret_..."
 
+   [signup]
+   code = "an invite code you make up"
+
    [users.menno]
    password = "think of a long password"
    timezone = "Europe/Amsterdam"
-
-   [users.ana]
-   password = "another long password"
-   timezone = "Europe/Madrid"
+   admin = true
    ```
 
-   Each `[users.<name>]` part is one person, who logs in with that name (in small letters, no
-   spaces) and password. The time zone decides when a new day starts for that person; find yours
-   in the "TZ identifier" column of
-   [this list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones).
+   - `[signup]`: with this invite code, people make their own account on the login screen. Send
+     it only to people you want in. Leave the part out to switch making accounts off. Changing
+     the code doesn't affect accounts that were already made.
+   - `[users.<name>]`: your own login, with that name (in small letters, no spaces) and password.
+     `admin = true` gives you the **👥 Accounts** part in the sidebar. You can add more people
+     this way too, without an invite code.
+   - The time zone decides when a new day starts for that person; find yours in the
+     "TZ identifier" column of
+     [this list](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones).
 4. Click **Deploy**. The first start takes a few minutes.
 
-To add a person or change a password later: in Streamlit Community Cloud, open the app's
-**Settings**, then **Secrets**.
+To change the secrets later: in Streamlit Community Cloud, open the app's **Settings**, then
+**Secrets**, and click **Save**. The app restarts by itself.
 
 ## 4. Using it
 
 - Open the app's address and log in. The address then gets a `?login=...` part: bookmark that
   page, and next time the app logs you in by itself. Don't share the bookmark; it works like a
   password. Changing the password makes old bookmarks stop working.
+- **Inviting someone:** send them the app's address and the invite code. On the login screen they
+  click **Create an account** and choose a name, a password and their time zone.
+- **👥 Accounts** (only for admins, in the sidebar): the accounts people made, with **Set new
+  password** for someone who forgot theirs, and **Remove account**, which also deletes all their
+  results. Accounts written in the secrets are changed in the secrets instead.
 - **Your results from your own computer:** in the sidebar, open **💾 Your data**, choose
   `progress.json`, `practice.json` and `study_log.json` from the app folder, and click
   **Replace my results**. Then keep using the online version, because the two don't stay in step.

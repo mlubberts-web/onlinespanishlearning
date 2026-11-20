@@ -246,6 +246,7 @@ def sidebar():
         else:
             st.caption("Progress is saved in progress.json, practice.json and study_log.json next to app.py.")
         your_data()
+        login.admin_part()  # only for admins: the accounts people made
 
 
 # ---------- your data: a backup to download, and putting one back ----------

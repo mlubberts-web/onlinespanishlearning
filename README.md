@@ -142,7 +142,8 @@ sidebar to download a backup.
 ### Online
 
 The app can also run as a website, so people without Python can use it on any computer, Mac
-included. Each person logs in and has their own results, saved in a free online database.
+included. Each person logs in and has their own results, saved in a free online database. People
+you send an invite code to can make their own account.
 [DEPLOY.md](DEPLOY.md) explains how to set it up.
 
 ## How the code is organised
@@ -161,7 +162,8 @@ included. Each person logs in and has their own results, saved in a free online 
 | `study_log.py` | Counts your study time per day, the dates you finished things, the daily lists and your mock exam scores |
 | `ui.py` | Small pieces shared between the screens |
 | `storage.py` | Saves your results: in files on your own computer, or in the online database |
-| `login.py` | The login of the online version |
+| `login.py` | The login of the online version, making an account, and the admin part |
+| `accounts.py` | The accounts people make themselves, with their passwords stored as hashes |
 | `clock.py` | Today's date in each person's own time zone |
 | `build_catalog.py` | Rebuilds `data/catalog.json`, only needed after adding PDFs |
 | `test_practice.py` | Checks all questions and rules |
