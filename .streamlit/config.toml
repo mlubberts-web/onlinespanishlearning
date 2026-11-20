@@ -1,6 +1,8 @@
 [server]
 enableStaticServing = true
-headless = false
+# true: never ask questions or open a browser (needed online). start.bat switches it off on your
+# own computer, so the browser still opens there.
+headless = true
 
 [browser]
 gatherUsageStats = false

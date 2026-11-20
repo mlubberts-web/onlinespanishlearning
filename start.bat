@@ -9,5 +9,6 @@ if not exist .venv (
 ) else (
     call .venv\Scripts\activate.bat
 )
-streamlit run app.py
+rem headless false: open the browser by itself (the settings file has true for the online version)
+streamlit run app.py --server.headless false
 pause
