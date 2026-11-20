@@ -64,10 +64,12 @@ def load(path, empty):
         reply = requests.get(_address(database), headers=_headers(database), timeout=TIMEOUT,
                              params={"select": "data", "owner": f"eq.{database['owner']}",
                                      "name": f"eq.{path.stem}"})
-        reply.raise_for_status()
     except requests.RequestException as error:
         # Never carry on with empty results here: the next save would overwrite the real ones.
-        raise StorageError(str(error)) from error
+        raise StorageError(f"no connection ({type(error).__name__})") from error
+    if not reply.ok:
+        # Supabase's own explanation, such as a wrong key or a missing table (never the key itself)
+        raise StorageError(f"{reply.status_code}: {reply.text[:300]}")
     rows = reply.json()
     if not rows:
         return empty  # this person hasn't saved anything in this file yet

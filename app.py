@@ -151,9 +151,9 @@ try:
         st.session_state.progress = load_progress()
     practice.practice_data()
     log_data()
-except storage.StorageError:
+except storage.StorageError as problem:
     st.error("The online database can't be reached right now, so your results can't be loaded. "
-             "Reload the page in a minute.")
+             f"Reload the page in a minute.\n\nWhat the database said: {problem}")
     st.stop()
 st.session_state.setdefault("view", "home")
 st.session_state.setdefault("level", None)
